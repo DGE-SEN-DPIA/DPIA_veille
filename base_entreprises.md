@@ -22,12 +22,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM)
-- Dernière MAJ : —
-- Financement : —
+- Dernière MAJ : 14/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]
 - Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service annoncée pour fin juin 2026 (à confirmer, possiblement présentée à VivaTech 17-20/06/2026).
+- Orientations stratégiques : Trajectoire de « champion souverain » européen ; montée en puissance de Mistral Compute (intégration verticale algorithmes → infrastructure).
+- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; communication à VivaTech 2026.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : —
@@ -38,12 +38,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## H Company (France, agents IA)
-- Dernière MAJ : —
+- Dernière MAJ : 14/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Produits / modèles : Début juin 2026 — lancement de trois agents : Surfer H (poids ouverts sur Hugging Face/Amazon Marketplace, propulsé par le modèle visuel-langage propriétaire Holo-1, 92,2 % de succès sur le benchmark WebVoyager, coûts jusqu'à 5,5x inférieurs aux concurrents américains), Runner H (bêta publique, automatisation d'applications comme Gmail/Docs/Notion/Slack), Tester H (bêta privée, QA automatisée).
+- Contrats & partenariats : 04-05/06/2026 — a rejoint la « Nemotron Coalition » de Nvidia (coalition internationale de labos pour modèles de fondation open source de nouvelle génération), annoncé lors du GTC Taipei, avec accès à du calcul mutualisé. [H Company/Maddyness UK, 05/06/2026]
+- Orientations stratégiques : Positionnement agentique « computer use », en concurrence frontale avec Anthropic/OpenAI sur l'automatisation web/bureau.
+- À surveiller : Adoption de Surfer H en open weight ; retombées concrètes de la coalition Nemotron pour l'accès au calcul.
 
 ## Neuralk-AI (France, IA pour données tabulaires — domaine à confirmer)
 - Dernière MAJ : —
@@ -110,12 +110,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Wandercraft (France, robotique — exosquelettes / robots humanoïdes)
-- Dernière MAJ : —
+- Dernière MAJ : 14/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
+- Produits / modèles : Robot humanoïde « Calvin » (1,70 m), visant l'autonomie complète sans supervision humaine « dans quelques semaines » selon le co-fondateur Jean-Louis Constanza.
+- Contrats & partenariats : Avec Renault — Calvin testé depuis février 2026 sur le site de Douai (manutention de pneus de 25 kg, capacité de 7-8 chariots de 24 pneus en 1h30) ; présentation presse le 08/06/2026. Objectif : 10 robots opérationnels à Douai fin 2026, et déploiement de 350 unités dans les usines Renault d'ici 2027 (mise en service complète été 2026). [Usine Nouvelle/Journal Auto, 08/06/2026]
 - Orientations stratégiques : —
-- À surveiller : —
+- À surveiller : Passage effectif à l'autonomie sans supervision ; extension à d'autres sites Renault ; cas d'usage IA industrielle/IA physique emblématique du partenariat startup-grand groupe.
 
 ## Jimini AI (France, IA juridique — droit des affaires)
 - Dernière MAJ : —
@@ -142,12 +142,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Owkin (France, IA pour la santé / biotech)
-- Dernière MAJ : —
+- Dernière MAJ : 14/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
+- Produits / modèles : Plateforme « AI Scientist » K Pro.
+- Contrats & partenariats : 05/06/2026 — extension pluriannuelle du partenariat avec Sanofi (initié en 2021), incluant une licence de 5 ans pour K Pro, pour le co-développement d'agents IA de nouvelle génération en biopharma. [BusinessWire/owkin.com, 05/06/2026]
 - Orientations stratégiques : —
-- À surveiller : —
+- À surveiller : Détails financiers et calendrier de déploiement de l'accord Sanofi élargi.
 
 ## Bioptimus (France, modèles de fondation pour la biologie)
 - Dernière MAJ : —
@@ -210,20 +210,20 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Scaleway (France, cloud)
-- Dernière MAJ : —
+- Dernière MAJ : 14/06/2026
 - Financement : —
 - Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Contrats & partenariats : Membre du consortium AION (avec Ardian, Capgemini, EDF, Orange, Bull, iliad…) candidat à une AI Gigafactory européenne en France [annonce datée du 21/05/2026 selon EDF, antérieure à la fenêtre, à recroiser].
+- Orientations stratégiques : 01/06/2026 — hausse tarifaire moyenne de +25 % (jusqu'à +300 % sur certaines instances comme STARDUST) sur 78 lignes tarifaires (instances, stockage, bare metal Iridium/Dedibox), justifiée par la hausse des coûts matériels (RAM, stockage) et la pression sur les adresses IPv4. [channelnews.fr/silicon.fr, 01/06/2026]
+- À surveiller : Impact de la hausse tarifaire sur la compétitivité face aux hyperscalers ; suite du consortium AION.
 
 ## Outscale (France, cloud — groupe Dassault Systèmes)
-- Dernière MAJ : —
+- Dernière MAJ : 14/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Produits / modèles : 09/06/2026, lors d'OUTSCALE Experiences 2026 (CNIT Paris La Défense) : lancement d'« AI Factories by OUTSCALE » (industrialisation de l'IA en environnement souverain), d'OUTSCALE Kubernetes as a Service (visant la qualification SecNumCloud 3.2), d'OUTSCALE Managed Databases (avec NuoDB) et d'un émulateur quantique sur le Marketplace.
+- Contrats & partenariats : Partenariat avec PariSanté Campus et le 3DEXPERIENCE Lab de Dassault Systèmes pour l'accompagnement de startups healthtech. [3ds.com/newsroom, blog.outscale.com, 09/06/2026]
+- Orientations stratégiques : Renforcement de l'offre cloud souverain IA face à Microsoft Azure/AWS/Google Cloud.
+- À surveiller : Calendrier effectif de qualification SecNumCloud 3.2 pour OUTSCALE Kubernetes as a Service.
 
 ## Cloud Temple (France, cloud souverain)
 - Dernière MAJ : —
@@ -266,20 +266,20 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # Monde — Grands labos & acteurs majeurs
 
 ## OpenAI (États-Unis, modèles de fondation)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Dernière MAJ : 14/06/2026
+- Financement : 08/06/2026 — dépôt confidentiel d'un formulaire S-1 auprès de la SEC en vue d'une IPO, visant une valorisation proche de 1 000 Md$ (contre 852 Md$ lors de la dernière levée privée), Goldman Sachs et Morgan Stanley mandatés ; aucun calendrier de cotation arrêté. [openai.com/CNBC/Fortune, 08-09/06/2026]
+- Produits / modèles : Depuis le 01/06/2026, GPT-5.5, GPT-5.4 et Codex sont en disponibilité générale sur Amazon Bedrock, au tarif first-party OpenAI sans surcoût. [AWS blog, 01/06/2026]
+- Contrats & partenariats : Stargate — démarrage le 01/06/2026 de la construction du campus « The Barn » (Saline, Michigan, 1 GW, 1,65 M m²), avec Oracle/Related Digital/Blackstone/Walbridge (16 Md$ construction + 40 Md$ équipement compute Oracle), mise en service début 2028. Ouverture/mise en avant d'un bureau à Madrid le 11/06/2026 (présentée par l'Espagne comme validation de sa stratégie régulatoire).
+- Orientations stratégiques : Course à l'IPO avec Anthropic (dépôts S-1 à une semaine d'écart) ; expansion européenne (Espagne).
+- À surveiller : Calendrier IPO ; implantations européennes additionnelles.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
+- Dernière MAJ : 14/06/2026
+- Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
+- Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : 12/06/2026 (17h21 ET) — le gouvernement américain (Commerce, secrétaire Lutnick) a adressé à Anthropic une directive de contrôle export invoquant la sécurité nationale, exigeant la suspension de l'accès de tout ressortissant étranger (y compris salariés étrangers d'Anthropic) à Fable 5 et Mythos 5. Anthropic a désactivé l'accès pour tous les utilisateurs dans le monde par conformité, tout en contestant la décision (qui, selon elle, bloquerait tout déploiement de modèle frontière dans l'industrie si généralisée). Motif invoqué : méthode de « jailbreak » de Fable 5 (lecture de code et correction de failles), jugée mineure et déjà documentée. [anthropic.com/news/fable-mythos-access, CNN, CNBC, 12-13/06/2026]
+- À surveiller : Rétablissement de l'accès (annoncé comme imminent, détails attendus dans les 24h) ; réactions officielles européennes invoquant l'argument de souveraineté ; lien éventuel avec le débat CADA/AI Office.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : —
@@ -330,12 +330,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## NVIDIA (États-Unis, semi-conducteurs / GPU)
-- Dernière MAJ : —
+- Dernière MAJ : 14/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Produits / modèles : 02/06/2026 — publication de « Cosmos 3 : Omnimodal World Models for Physical AI » (arXiv:2606.02800), poursuivant la lignée Cosmos de world models multimodaux pour la robotique et les véhicules autonomes.
+- Contrats & partenariats : 07/06/2026 — partenariats « AI factories souveraines » en Corée du Sud : NAVER (datacenter Gak Sejong, démarrage 55 MW vers l'échelle GW, plateforme NVIDIA DSX) et SK Telecom (AI Cloud à l'échelle du GW sur DSX, première AI factory opérationnelle en 2027). [NVIDIA Newsroom/Korea Herald, 07/06/2026]. 04-05/06/2026 — lancement de la « Nemotron Coalition » (modèles de fondation open source) lors du GTC Taipei, avec H Company (France) parmi les premiers membres.
+- Orientations stratégiques : Diffusion de la plateforme DSX comme modèle reproductible pour des « AI factories souveraines » nationales.
+- À surveiller : Réplication du modèle coréen (NAVER/SK Telecom) en Europe/France ; rôle de la Nemotron Coalition pour les acteurs français.
 
 ---
 
@@ -366,13 +366,35 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Labos chinois (à préciser : DeepSeek, Alibaba/Qwen, Zhipu AI, Moonshot AI, ByteDance…)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
+- Dernière MAJ : 14/06/2026
+- Financement : Moonshot AI (Kimi) — chercherait à lever 1-2 Md$ visant une valorisation de 30 Md$ (semaine du 08/06/2026), soit +50 % par rapport au tour de mai 2026 (20 Md$, 3e tour en 6 mois) ; ARR > 200 M$ en avril 2026. [Japan Times, 08/06/2026] [2 sources]
+- Produits / modèles : Alibaba — lancement de Qwen3.7-Plus le 02/06/2026, agent multimodal (perception d'écran, contrôle GUI, génération de code) via la plateforme Bailian/Model Studio ; démonstration d'une application développée de façon autonome en 11h (>10 000 lignes de code, >1000 appels d'agent). [MarkTechPost, 02/06/2026]
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : Confirmation de l'afflux massif de capitaux vers les labos chinois et de la montée en puissance des agents autonomes open/semi-open.
+- À surveiller : DeepSeek, ByteDance, Zhipu AI — aucune annonce de premier plan datée dans la fenêtre du 01-14/06/2026, à rebalayer.
 
 ---
 
-<!-- Nouveaux entrants détectés : créer ici une nouvelle section au format ci-dessus dès la première mention. -->
+# Investisseurs & infrastructures étrangers en France
+
+## SoftBank (Japon, investisseur/infrastructures IA)
+- Dernière MAJ : 14/06/2026
+- Financement : Annonce fin mai/début juin 2026 (Élysée, Macron-Masayoshi Son), mise en avant au sommet « L'IA avec NOUS » de Lille (12/06/2026) : investissement de 75 Md€ pour développer 5 GW de capacité datacenter IA en France, dont 45 Md€ et 3,1 GW pour les Hauts-de-France d'ici 2031 (sites de Loon-Plage/Dunkerque, Bosquel, Bouchain). [TechCrunch 30/05/2026, Usine Digitale 12/06/2026]
+- Produits / modèles : —
+- Contrats & partenariats : Partenariat avec Schneider Electric pour l'infrastructure électrique des sites.
+- Orientations stratégiques : S'inscrit dans les ~93 Md€ d'engagements d'investissements étrangers annoncés par Macron (« Choose France »).
+- À surveiller : Contenu industriel/valeur ajoutée souveraine réelle de ces capex ; calendrier de mise en œuvre par site.
+
+---
+
+# Nouveaux entrants détectés
+
+## Probabl (France, spin-off Inria — outillage open source pour le machine learning)
+- Dernière MAJ : 14/06/2026
+- Financement : Levée seed de 13 M€ co-menée par Serena et Capital Fund Management (CFM), avec participation de Mozilla Ventures et du programme French Tech Souveraineté (Bpifrance/France 2030), portant le total levé à 18,5 M€ — présenté comme un record européen pour une entreprise de Commercial Open Source Software (COSS). [FrenchWeb — date précise de clôture dans la fenêtre 01-14/06/2026 non confirmée, à vérifier] [1 source]
+- Produits / modèles : Opère scikit-learn, bibliothèque de machine learning open source la plus utilisée au monde (>2,5 milliards de téléchargements).
+- Contrats & partenariats : —
+- Orientations stratégiques : Industrialisation du machine learning open source issu de la recherche publique (Inria, créée en 2023).
+- À surveiller : Date précise de clôture de la levée ; trajectoire commerciale de scikit-learn industrialisé.
+
+<!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
