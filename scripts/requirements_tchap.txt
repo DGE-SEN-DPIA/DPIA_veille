@@ -1,1 +1,5 @@
-simplematrixbotlib[e2e]>=2.11.0
+# Dépendance système requise (hors pip) pour python-olm (chiffrement E2E) :
+#   apt-get install -y libolm-dev
+simplematrixbotlib>=2.11.0
+matrix-nio[e2e]~=0.25
+cffi>=2.0
