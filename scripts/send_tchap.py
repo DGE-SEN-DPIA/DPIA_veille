@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Envoie un message dans un salon Tchap via l'API Matrix.
+Envoie un message dans un salon Tchap chiffré via l'API Matrix.
 Usage : python scripts/send_tchap.py "Message à envoyer"
 Credentials lus depuis les variables d'environnement :
   TCHAP_HOMESERVER, TCHAP_USERNAME, TCHAP_PASSWORD, TCHAP_ROOM_ID
+Le dossier crypto_store/ doit exister dans le repo (persistance des clés E2E).
 """
 import asyncio
 import os
@@ -16,8 +17,21 @@ async def send_once(message: str):
     password   = os.environ["TCHAP_PASSWORD"]
     room_id    = os.environ["TCHAP_ROOM_ID"]
 
+    # Chemin relatif au repo — doit être persistant entre les runs
+    store_path = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        "crypto_store"
+    )
+    os.makedirs(store_path, exist_ok=True)
+
+    # Configuration avec chiffrement activé
+    config = botlib.Config()
+    config.encryption_enabled        = True
+    config.ignore_unverified_devices = True   # accepte tous les appareils du salon
+    config.store_path                = store_path
+
     creds = botlib.Creds(homeserver, username, password)
-    bot   = botlib.Bot(creds)
+    bot   = botlib.Bot(creds, config)
 
     sent = False
 

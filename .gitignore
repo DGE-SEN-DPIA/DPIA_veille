@@ -1,0 +1,3 @@
+# Tchap E2E crypto store
+crypto_store/*.db
+crypto_store/*.json
