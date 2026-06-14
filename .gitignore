@@ -1,3 +1,6 @@
 # Tchap E2E crypto store
-crypto_store/*.db
-crypto_store/*.json
+crypto_store/*
+!crypto_store/.gitkeep
+
+# Tchap bot session (contains encrypted access token)
+session.txt
