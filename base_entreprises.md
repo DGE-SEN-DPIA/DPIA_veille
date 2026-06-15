@@ -22,12 +22,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM)
-- Dernière MAJ : 14/06/2026
-- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]
+- Dernière MAJ : 15/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15/06/2026 — statu quo : toujours « stade précoce » selon Bloomberg, aucun montant final, investisseur ou clôture annoncés.
 - Produits / modèles : —
 - Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service annoncée pour fin juin 2026 (à confirmer, possiblement présentée à VivaTech 17-20/06/2026).
 - Orientations stratégiques : Trajectoire de « champion souverain » européen ; montée en puissance de Mistral Compute (intégration verticale algorithmes → infrastructure).
-- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; communication à VivaTech 2026.
+- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; intervention attendue d'Arthur Mensch à VivaTech 2026 (17-20/06).
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : —
@@ -93,13 +93,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : —
 - À surveiller : —
 
-## Genesis (France, domaine à confirmer)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
+## Genesis AI (France/US, robotique — world models pour la manipulation physique)
+- Dernière MAJ : 15/06/2026 [info capitalisée le 15/06, fait du 06-07/05/2026, hors fenêtre de la note du jour]
+- Financement : Seed de 105 M$ (Eclipse, Khosla Ventures, Bpifrance, HSG, Eric Schmidt, Xavier Niel…), annoncé début mai 2026.
+- Produits / modèles : GENE-26.5 — modèle robotique pour manipulation physique de niveau humain (main robotique dextre), dévoilé début mai 2026.
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : Fondée par Théophile Gervet (ex-Mistral AI) et Zhou Xian (Carnegie Mellon) ; double siège Paris/Silicon Valley.
+- À surveiller : Nouvelles annonces produit/partenariats industriels ; positionnement IA physique français.
 
 ## Gobano Robotics (France, robotique)
 - Dernière MAJ : —
@@ -142,12 +142,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Owkin (France, IA pour la santé / biotech)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 15/06/2026
 - Financement : —
 - Produits / modèles : Plateforme « AI Scientist » K Pro.
 - Contrats & partenariats : 05/06/2026 — extension pluriannuelle du partenariat avec Sanofi (initié en 2021), incluant une licence de 5 ans pour K Pro, pour le co-développement d'agents IA de nouvelle génération en biopharma. [BusinessWire/owkin.com, 05/06/2026]
-- Orientations stratégiques : —
-- À surveiller : Détails financiers et calendrier de déploiement de l'accord Sanofi élargi.
+- Orientations stratégiques : Spin-off Waiv (diagnostics IA), financement de 33 M$ annoncé [date précise non confirmée, capitalisé le 15/06/2026, à recroiser].
+- À surveiller : Détails financiers et calendrier de déploiement de l'accord Sanofi élargi ; trajectoire de Waiv.
 
 ## Bioptimus (France, modèles de fondation pour la biologie)
 - Dernière MAJ : —
@@ -202,12 +202,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Cloud souverain
 
 ## OVHcloud (France, cloud souverain)
-- Dernière MAJ : —
+- Dernière MAJ : 15/06/2026
 - Financement : —
 - Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Contrats & partenariats : 11/06/2026 — OVH Groupe entre en négociations exclusives pour racheter Gladia, startup française de transcription/intelligence audio (speech-to-text), qui dessert >300 000 développeurs et 2 000 clients entreprise dans >100 langues. Montant non communiqué. Deuxième acquisition d'OVH dans cette logique d'intégration verticale de briques IA. [OVH Groupe/GlobeNewswire, Maddyness, 11-12/06/2026]
+- Orientations stratégiques : Renforcement de l'offre IA générative/agentique souveraine de l'AI Lab (OVHai).
+- À surveiller : Montant et calendrier de clôture du rachat de Gladia ; stratégie « build vs. buy » pour les briques IA souveraines (voix, vision).
 
 ## Scaleway (France, cloud)
 - Dernière MAJ : 14/06/2026
@@ -274,12 +274,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Calendrier IPO ; implantations européennes additionnelles.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 15/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : —
 - Orientations stratégiques : 12/06/2026 (17h21 ET) — le gouvernement américain (Commerce, secrétaire Lutnick) a adressé à Anthropic une directive de contrôle export invoquant la sécurité nationale, exigeant la suspension de l'accès de tout ressortissant étranger (y compris salariés étrangers d'Anthropic) à Fable 5 et Mythos 5. Anthropic a désactivé l'accès pour tous les utilisateurs dans le monde par conformité, tout en contestant la décision (qui, selon elle, bloquerait tout déploiement de modèle frontière dans l'industrie si généralisée). Motif invoqué : méthode de « jailbreak » de Fable 5 (lecture de code et correction de failles), jugée mineure et déjà documentée. [anthropic.com/news/fable-mythos-access, CNN, CNBC, 12-13/06/2026]
-- À surveiller : Rétablissement de l'accès (annoncé comme imminent, détails attendus dans les 24h) ; réactions officielles européennes invoquant l'argument de souveraineté ; lien éventuel avec le débat CADA/AI Office.
+  15/06/2026 — accès toujours suspendu (dernière communication officielle datée du 12/06, non mise à jour). Anthropic a envoyé des cadres dirigeants à Washington pour négocier le rétablissement. Selon Fortune (14/06) et le conseiller de la Maison Blanche David Sacks, c'est un signalement d'Amazon (PDG Andy Jassy en contact avec l'administration) qui a déclenché la directive, après refus de Dario Amodei de corriger le jailbreak ou de retirer le modèle ; Anthropic n'aurait eu que 90 minutes pour agir. Soupçons d'accès au modèle Mythos par un groupe lié à la Chine (risque de distillation) également évoqués. La Commission européenne a réagi le 14/06 (porte-parole Thomas Regnier) : les mesures de rétorsion US « ne doivent pas être discriminatoires », et l'épisode « illustre une fois de plus pourquoi l'Europe doit renforcer sa souveraineté technologique ». [Fortune, Euronews, Digit.in, 14/06/2026]
+- À surveiller : Date de rétablissement effectif de l'accès ; lien explicite éventuel entre cet épisode et le calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : —
@@ -298,12 +299,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## xAI (États-Unis, modèles de fondation)
-- Dernière MAJ : —
+- Dernière MAJ : 15/06/2026 [info capitalisée le 15/06, fait du 05/06/2026, hors fenêtre de la note du jour]
 - Financement : —
 - Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (rampe réduite jusqu'en septembre 2026, plein tarif d'octobre 2026 à juin 2029, soit ~32 Md$ au total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI (absorbé par SpaceX via fusion actions-pour-actions début 2026). [TechCrunch/CNBC, 05/06/2026]
+- Orientations stratégiques : Illustre la pénurie de capacité de calcul même chez les hyperscalers les mieux dotés.
+- À surveiller : Suite de l'intégration xAI/SpaceX ; usage effectif de cette capacité de calcul.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : —
@@ -366,12 +367,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Labos chinois (à préciser : DeepSeek, Alibaba/Qwen, Zhipu AI, Moonshot AI, ByteDance…)
-- Dernière MAJ : 14/06/2026
-- Financement : Moonshot AI (Kimi) — chercherait à lever 1-2 Md$ visant une valorisation de 30 Md$ (semaine du 08/06/2026), soit +50 % par rapport au tour de mai 2026 (20 Md$, 3e tour en 6 mois) ; ARR > 200 M$ en avril 2026. [Japan Times, 08/06/2026] [2 sources]
+- Dernière MAJ : 15/06/2026
+- Financement : Moonshot AI (Kimi) — chercherait à lever 1-2 Md$ visant une valorisation de 30 Md$ (semaine du 08/06/2026), soit +50 % par rapport au tour de mai 2026 (20 Md$, 3e tour en 6 mois) ; ARR > 200 M$ en avril 2026, doublé en ~6 semaines. [Bloomberg/TechNode, 08/06/2026] [2 sources]. 15/06/2026 — statu quo, round toujours non clôturé.
 - Produits / modèles : Alibaba — lancement de Qwen3.7-Plus le 02/06/2026, agent multimodal (perception d'écran, contrôle GUI, génération de code) via la plateforme Bailian/Model Studio ; démonstration d'une application développée de façon autonome en 11h (>10 000 lignes de code, >1000 appels d'agent). [MarkTechPost, 02/06/2026]
 - Contrats & partenariats : —
 - Orientations stratégiques : Confirmation de l'afflux massif de capitaux vers les labos chinois et de la montée en puissance des agents autonomes open/semi-open.
-- À surveiller : DeepSeek, ByteDance, Zhipu AI — aucune annonce de premier plan datée dans la fenêtre du 01-14/06/2026, à rebalayer.
+- À surveiller : DeepSeek, ByteDance, Zhipu AI — aucune annonce de premier plan datée dans la fenêtre du 01-15/06/2026, à rebalayer.
 
 ---
 
