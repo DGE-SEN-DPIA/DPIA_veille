@@ -9,7 +9,9 @@ Le dossier crypto_store/ doit exister dans le repo (persistance des clés E2E).
 import asyncio
 import os
 import sys
+import cryptography
 import simplematrixbotlib as botlib
+from nio.rooms import MatrixRoom
 
 async def send_once(message: str):
     homeserver = os.environ["TCHAP_HOMESERVER"]
@@ -33,17 +35,29 @@ async def send_once(message: str):
     creds = botlib.Creds(homeserver, username, password)
     bot   = botlib.Bot(creds, config)
 
-    sent = False
+    # On évite bot.main() : sa boucle sync_forever() ne se termine jamais.
+    # On reproduit juste le strict nécessaire pour envoyer un message chiffré.
+    try:
+        creds.session_read_file()
+    except cryptography.fernet.InvalidToken:
+        os.remove(creds._session_stored_file)
+        creds.session_read_file()
 
-    @bot.listener.on_startup
-    async def on_ready(room_id_arg):
-        nonlocal sent
-        if not sent:
-            sent = True
-            await bot.api.send_text_message(room_id, message)
-            await bot.api.async_client.close()
+    await bot.api.login()
+    client = bot.api.async_client
 
-    await bot.main()
+    # Sync minimal (incrémental) pour initialiser l'état olm/device du compte.
+    await client.sync(timeout=30000, full_state=False)
+    creds.session_write_file()
+
+    # Un sync incrémental ne renvoie pas forcément l'état du salon visé s'il
+    # n'y a pas eu d'activité récente. On l'enregistre manuellement comme
+    # salon chiffré : room_send se chargera de récupérer membres et clés.
+    if room_id not in client.rooms:
+        client.rooms[room_id] = MatrixRoom(room_id, client.user_id, encrypted=True)
+
+    await bot.api.send_text_message(room_id, message)
+    await client.close()
 
 if __name__ == "__main__":
     message = sys.argv[1] if len(sys.argv) > 1 else "(message vide)"

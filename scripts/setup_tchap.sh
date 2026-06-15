@@ -6,4 +6,7 @@ apt-get update
 apt-get install -y libolm-dev
 
 # Dépendances Python du script send_tchap.py
-pip install -r "$(dirname "$0")/requirements_tchap.txt"
+# SETUPTOOLS_USE_DISTUTILS=stdlib contourne un échec de build de la roue
+# "atomicwrites" (dépendance de matrix-nio[e2e]) avec les setuptools récents
+# (AttributeError: install_layout).
+SETUPTOOLS_USE_DISTUTILS=stdlib pip install -r "$(dirname "$0")/requirements_tchap.txt"
