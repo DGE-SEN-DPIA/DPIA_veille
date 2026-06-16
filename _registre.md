@@ -32,4 +32,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 15/06/2026 | PRIVÉE-FR | Mistral | statu quo levée ~3 Md€ (stade précoce), rendez-vous attendu à VivaTech | [SUITE]
 15/06/2026 | PRIVÉE-MONDE | Moonshot AI | statu quo levée 1-2 Md$ visant ~30 Md$ de valorisation, non clôturée | [SUITE]
 15/06/2026 | PUBLIQUE-EU | CADA | toujours bloqué entre États membres, critique de la CCIA | [SUITE]
+16/06/2026 | PRIVÉE-MONDE | Anthropic | équipe Washington identifiée (Carlini, Graham, Orr, Brown, Heck) face à Lutnick/Cairncross, aucun accord au 15/06 | [SUITE]
+16/06/2026 | PRIVÉE-MONDE | OpenAI | Partner Network mondial $150M, 300K certif fin 2026, Accenture/Bain/BCG/McKinsey/PwC, lancé 14/06/2026 | [NOUVEAU]
+16/06/2026 | PRIVÉE-MONDE | Moonshot AI / Kimi | K2.7 Code HighSpeed annoncé 15/06 (1T params, 180-260 tok/s) ; CORRECTIF : tour $2Md à $20Md clôturé mai 2026 (distinct du 3e tour à $30Md cherché) | [SUITE]
+16/06/2026 | PUBLIQUE-EU | Commission européenne / AI Office | Code de conduite marquage contenu IA publié 10/06 (voluntary, icônes EU, mécanismes watermarking/métadonnées, AI Act août 2026) | [NOUVEAU]
+16/06/2026 | PRIVÉE-FR | Dataiku | Cobuild agent IA annoncé 11/06 (GA 18/06) — build-to-govern enterprise AI sans code | [NOUVEAU]
+16/06/2026 | NOUVEL-ENTRANT | NP Company / NPCo (France) | pre-seed 6M€ Partech, backed par co-fondateurs Mistral, simulation physique IA aéro/défense/énergie, 02/06/2026 | [NOUVEAU]
+16/06/2026 | NOUVEL-ENTRANT | Physicl (France) | spin-off Nfinite, données 3D pour IA physique/robotique, sortie stealth GTC mars 2026, VivaTech 2026 | [NOUVEAU]
+16/06/2026 | PUBLIQUE-INT | Colorado | SB 26-189 signé 14/05/2026 : AI Act révisé retardé au 1er janv 2027, périmètre ADMT réduit, pivot délibéré du modèle EU | [NOUVEAU]
 

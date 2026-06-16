@@ -22,12 +22,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM)
-- Dernière MAJ : 15/06/2026
-- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15/06/2026 — statu quo : toujours « stade précoce » selon Bloomberg, aucun montant final, investisseur ou clôture annoncés.
+- Dernière MAJ : 16/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 16/06/2026 — statu quo : toujours « stade précoce » selon Bloomberg, aucun montant final, investisseur ou clôture annoncés.
 - Produits / modèles : —
 - Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service annoncée pour fin juin 2026 (à confirmer, possiblement présentée à VivaTech 17-20/06/2026).
-- Orientations stratégiques : Trajectoire de « champion souverain » européen ; montée en puissance de Mistral Compute (intégration verticale algorithmes → infrastructure).
-- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; intervention attendue d'Arthur Mensch à VivaTech 2026 (17-20/06).
+  19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche) : startup fondée en 2024 spécialisée en « Physics AI » pour la simulation industrielle (LEMs — large engineering models pour la dynamique des fluides, déformation structurelle, turbulences). Secteurs : automobile, aéronautique, énergie, semi-conducteurs. Plus de 30 chercheurs et ingénieurs intégrés aux équipes Science et Applied AI de Mistral en mai 2026 ; ouverture d'un bureau à Linz (Autriche). Montant non divulgué (une source estimait >300 M€, non confirmé). Deuxième acquisition après Koyeb (cloud serverless, février 2026). [Mistral AI/Channel News/AI Insider, 19-26/05/2026]
+- Orientations stratégiques : Trajectoire de « champion souverain » européen ; montée en puissance de Mistral Compute (intégration verticale algorithmes → infrastructure) ; pivot vers l'IA industrielle (surrogate models, simulation physique) via acquisitions (Emmi AI) et investissements dans l'écosystème (co-fondateurs ont investi dans NPCo, 02/06/2026).
+- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; session Arthur Mensch à VivaTech 2026 (17/06) ; intégration commerciale d'Emmi AI ; suite du positionnement IA industrielle.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : —
@@ -182,12 +183,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Dataiku (France/US, plateforme data science & MLOps)
-- Dernière MAJ : —
+- Dernière MAJ : 16/06/2026
 - Financement : —
-- Produits / modèles : —
+- Produits / modèles : **Cobuild** — agent IA de construction de projets ML/IA en entreprise. Annoncé le 11/06/2026, disponibilité générale (GA) le 18/06/2026. Génère des pipelines, modèles ML, agents et applications production à partir d'instructions en langage naturel, avec gouvernance et revue humaine intégrées dans le Flow Dataiku. Supporte Snowflake Cortex, OpenAI, Anthropic, Bedrock, Gemini, Foundry, Databricks. [BusinessWire/Dataiku, 11/06/2026]
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : Pivot vers « Platform for AI Success » (mars 2026) — orchestration de l'IA agentique en entreprise, avec gouvernance comme différenciateur face à l'hyperautomatisation non contrôlée.
+- À surveiller : Adoption de Cobuild par les clients enterprise ; impact sur la concurrence avec Microsoft Fabric/Copilot Studio côté plateformes ML.
 
 ## Prisme.ai (France, plateforme d'IA générative en entreprise)
 - Dernière MAJ : —
@@ -266,21 +267,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # Monde — Grands labos & acteurs majeurs
 
 ## OpenAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 16/06/2026
 - Financement : 08/06/2026 — dépôt confidentiel d'un formulaire S-1 auprès de la SEC en vue d'une IPO, visant une valorisation proche de 1 000 Md$ (contre 852 Md$ lors de la dernière levée privée), Goldman Sachs et Morgan Stanley mandatés ; aucun calendrier de cotation arrêté. [openai.com/CNBC/Fortune, 08-09/06/2026]
 - Produits / modèles : Depuis le 01/06/2026, GPT-5.5, GPT-5.4 et Codex sont en disponibilité générale sur Amazon Bedrock, au tarif first-party OpenAI sans surcoût. [AWS blog, 01/06/2026]
 - Contrats & partenariats : Stargate — démarrage le 01/06/2026 de la construction du campus « The Barn » (Saline, Michigan, 1 GW, 1,65 M m²), avec Oracle/Related Digital/Blackstone/Walbridge (16 Md$ construction + 40 Md$ équipement compute Oracle), mise en service début 2028. Ouverture/mise en avant d'un bureau à Madrid le 11/06/2026 (présentée par l'Espagne comme validation de sa stratégie régulatoire).
-- Orientations stratégiques : Course à l'IPO avec Anthropic (dépôts S-1 à une semaine d'écart) ; expansion européenne (Espagne).
-- À surveiller : Calendrier IPO ; implantations européennes additionnelles.
+  11/06/2026 — Acquisition d'Ona (ex-Gitpod) : infrastructure cloud sécurisée pour agents IA persistants, destinée à renforcer Codex pour les workflows enterprise longue durée. Termes non divulgués. [CNBC/InfoWorld, 11/06/2026]
+  14/06/2026 — **Lancement de l'OpenAI Partner Network** : premier programme mondial de partenaires, 150 M$ investis, système 3 niveaux (Select/Advanced/Elite), objectif 300 000 consultants certifiés fin 2026. Partners fondateurs : Accenture, Bain, BCG, McKinsey, PwC. [openai.com/Dataconomy, 14/06/2026]
+- Orientations stratégiques : Course à l'IPO avec Anthropic (dépôts S-1 à une semaine d'écart) ; expansion européenne (Espagne) ; pivot vers la bataille des intégrateurs en entreprise via le Partner Network.
+- À surveiller : Calendrier IPO ; implantations européennes additionnelles ; quelles ESN/cabinets français/européens rejoignent le Partner Network.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 15/06/2026
+- Dernière MAJ : 16/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : —
 - Orientations stratégiques : 12/06/2026 (17h21 ET) — le gouvernement américain (Commerce, secrétaire Lutnick) a adressé à Anthropic une directive de contrôle export invoquant la sécurité nationale, exigeant la suspension de l'accès de tout ressortissant étranger (y compris salariés étrangers d'Anthropic) à Fable 5 et Mythos 5. Anthropic a désactivé l'accès pour tous les utilisateurs dans le monde par conformité, tout en contestant la décision (qui, selon elle, bloquerait tout déploiement de modèle frontière dans l'industrie si généralisée). Motif invoqué : méthode de « jailbreak » de Fable 5 (lecture de code et correction de failles), jugée mineure et déjà documentée. [anthropic.com/news/fable-mythos-access, CNN, CNBC, 12-13/06/2026]
   15/06/2026 — accès toujours suspendu (dernière communication officielle datée du 12/06, non mise à jour). Anthropic a envoyé des cadres dirigeants à Washington pour négocier le rétablissement. Selon Fortune (14/06) et le conseiller de la Maison Blanche David Sacks, c'est un signalement d'Amazon (PDG Andy Jassy en contact avec l'administration) qui a déclenché la directive, après refus de Dario Amodei de corriger le jailbreak ou de retirer le modèle ; Anthropic n'aurait eu que 90 minutes pour agir. Soupçons d'accès au modèle Mythos par un groupe lié à la Chine (risque de distillation) également évoqués. La Commission européenne a réagi le 14/06 (porte-parole Thomas Regnier) : les mesures de rétorsion US « ne doivent pas être discriminatoires », et l'épisode « illustre une fois de plus pourquoi l'Europe doit renforcer sa souveraineté technologique ». [Fortune, Euronews, Digit.in, 14/06/2026]
-- À surveiller : Date de rétablissement effectif de l'accès ; lien explicite éventuel entre cet épisode et le calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude.
+  16/06/2026 — Délégation Washington identifiée (WSJ 14/06, CNBC/UPI 15/06) : Nicholas Carlini (sécurité modèles), Logan Graham (évaluation risques), Dave Orr (safeguards), Tom Brown (co-fondateur, chief compute officer), Sarah Heck (public policy) ; rencontres avec Howard Lutnick (Commerce) et Sean Cairncross (directeur national cybersécurité). Au 15/06 : aucun accord, aucune date de rétablissement.
+- À surveiller : Date de rétablissement effectif de l'accès ; solution technique éventuelle (patch, API restreinte, modèle purgé) ; lien explicite éventuel entre cet épisode et le calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : —
@@ -367,12 +371,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Labos chinois (à préciser : DeepSeek, Alibaba/Qwen, Zhipu AI, Moonshot AI, ByteDance…)
-- Dernière MAJ : 15/06/2026
-- Financement : Moonshot AI (Kimi) — chercherait à lever 1-2 Md$ visant une valorisation de 30 Md$ (semaine du 08/06/2026), soit +50 % par rapport au tour de mai 2026 (20 Md$, 3e tour en 6 mois) ; ARR > 200 M$ en avril 2026, doublé en ~6 semaines. [Bloomberg/TechNode, 08/06/2026] [2 sources]. 15/06/2026 — statu quo, round toujours non clôturé.
-- Produits / modèles : Alibaba — lancement de Qwen3.7-Plus le 02/06/2026, agent multimodal (perception d'écran, contrôle GUI, génération de code) via la plateforme Bailian/Model Studio ; démonstration d'une application développée de façon autonome en 11h (>10 000 lignes de code, >1000 appels d'agent). [MarkTechPost, 02/06/2026]
+- Dernière MAJ : 16/06/2026
+- Financement : Moonshot AI (Kimi) — **CORRECTIF** : tour de 2 Md$ à une valorisation de 20 Md$ **clôturé en mai 2026** (lead : Long-Z Investments/Meituan, avec Tsinghua Capital, China Mobile, CPE Yuanfeng ; ARR > 200 M$ en avril 2026). [AI Insider, 08/05/2026]. Distinct du 3e tour cherché à 30 Md$ de valorisation signalé par Bloomberg (08/06/2026) — ce 3e tour reste au stade précoce au 16/06.
+- Produits / modèles : Alibaba — Qwen3.7-Plus lancé le 02/06/2026, agent multimodal (perception écran, contrôle GUI, génération de code). [MarkTechPost, 02/06/2026]. DeepSeek V4 (V4-Pro 1,6T params + V4-Flash 284B) — preview lancé le 24/04/2026, stable au 08/06/2026. Moonshot AI / Kimi — K2.7-Code lancé le 12/06/2026 (1T params, open source MIT modifié) ; HighSpeed mode annoncé le 15/06/2026 (180-260 tok/s, ×6 vs standard). [TechTimes/DevOps.com, 15/06/2026]
 - Contrats & partenariats : —
-- Orientations stratégiques : Confirmation de l'afflux massif de capitaux vers les labos chinois et de la montée en puissance des agents autonomes open/semi-open.
-- À surveiller : DeepSeek, ByteDance, Zhipu AI — aucune annonce de premier plan datée dans la fenêtre du 01-15/06/2026, à rebalayer.
+- Orientations stratégiques : Afflux massif de capitaux ; course à la vitesse d'inférence dans les modèles de code open source (Kimi K2.7 HighSpeed) ; DeepSeek dominant en adoption enterprise US.
+- À surveiller : Clôture éventuelle du 3e tour Moonshot AI ($30 Md valorisation) ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
 
 ---
 
@@ -397,5 +401,29 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : —
 - Orientations stratégiques : Industrialisation du machine learning open source issu de la recherche publique (Inria, créée en 2023).
 - À surveiller : Date précise de clôture de la levée ; trajectoire commerciale de scikit-learn industrialisé.
+
+## NP Company / NPCo (France, simulation physique IA — industrie lourde)
+- Dernière MAJ : 16/06/2026
+- Financement : Pre-seed de 6 M€ clôturé le 02/06/2026. Lead : Partech. Angels : Guillaume Lample + Cédric O (co-fondateurs Mistral AI), Florian Douetteau (fondateur Dataiku), Vincent Luciani (fondateur/CEO Artefact) ; family office Peugeot. [Partech/Tech.eu/TechFundingNews, 02/06/2026] [2 sources]
+- Produits / modèles : Simulateurs physiques AI-native basés sur des transformers pré-entraînés sur des données de physique industrielle. Résultats en secondes vs. jours/semaines pour la simulation classique. Speedup démontré : ×1 000 sur benchmarks aérospatiale, trajectoire annoncée ×50 000 sur simulations full-assembly.
+- Contrats & partenariats : —
+- Orientations stratégiques : Fondée en 2025 par Emmanuel Menier (CEO) et Matthieu Nastorg (CTO), chercheurs INRIA/Paris-Saclay. Secteurs : aérospatiale, défense, énergie, automobile, électronique, data centers. Positionnée comme alternative FR à Emmi AI (rachetée par Mistral AI en mai 2026). Investissement des co-fondateurs Mistral dans NPCo quelques jours après l'acquisition Emmi AI = stratégie d'écosystème autour des surrogate models.
+- À surveiller : Développement produit (outils de design automatisé, simulateurs temps réel) ; nouveaux contrats industriels ; levée série A.
+
+## Physicl (France, données 3D pour IA physique et robotique)
+- Dernière MAJ : 16/06/2026
+- Financement : Non communiqué.
+- Produits / modèles : Données de training 3D simulation-ready pour robots, world models et IA incarnée : assets 3D, environnements physiquement précis, augmentation de données physique. Intégration NVIDIA Omniverse/Isaac Lab et Amazon Deadline Cloud/API Gateway.
+- Contrats & partenariats : Partenariats AWS et NVIDIA (Startup Village VivaTech 2026). Équipe issue de Nfinite (spécialiste du 3D numérique et des jumeaux numériques, partenaire Getty Images sur les datasets IA-ready).
+- Orientations stratégiques : Sortie de stealth au NVIDIA GTC San Jose (mars 2026). Première démonstration publique à VivaTech 2026 (17-20/06). Positionnement sur la chaîne de valeur de l'IA physique : couche data infrastructure.
+- À surveiller : Levée de fonds ; clients robotique/IA incarnée ; intégration dans les pipelines de training des acteurs robotique FR (Genesis AI, Wandercraft, Gobano Robotics).
+
+## Emmi AI (Autriche/France, simulation physique IA — rachetée par Mistral AI)
+- Dernière MAJ : 16/06/2026 [capitalisée suite à découverte lors du scan du 16/06]
+- Financement : Acquisition par Mistral AI le 19/05/2026. Montant non divulgué (estimation >300 M€, [1 source]).
+- Produits / modèles : Large Engineering Models (LEMs) pour simulation physique temps réel : dynamique des fluides, déformation structurelle, turbulences.
+- Contrats & partenariats : Acquise par Mistral AI (annonce 19/05/2026). 30+ chercheurs intégrés aux équipes Science et Applied AI de Mistral.
+- Orientations stratégiques : Fondée en 2024 à Vienne (Linz comme nouveau siège Mistral après acquisition). Secteurs ciblés : automobile, aéronautique, énergie, semi-conducteurs. Deuxième acquisition de Mistral après Koyeb (cloud serverless, février 2026).
+- À surveiller : Intégration dans l'offre Mistral pour l'industrie ; résultats commerciaux (contrats avec grands groupes industriels européens).
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
