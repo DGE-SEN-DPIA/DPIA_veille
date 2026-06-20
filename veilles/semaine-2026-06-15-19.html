@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille IA &amp; Souveraineté — Semaine du 15–19 juin 2026</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:      #0d0f18;
+    --bg2:     #151825;
+    --bg3:     #1e2235;
+    --border:  #2a2f4a;
+    --text:    #dde1f5;
+    --dim:     #7880a8;
+    --blue:    #5b8df5;
+    --green:   #34c98a;
+    --orange:  #f59e0b;
+    --red:     #e05555;
+    --purple:  #a78bfa;
+    --teal:    #22d3ee;
+    --yellow:  #fbbf24;
+    --pink:    #f472b6;
+  }
+
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 13.5px;
+    line-height: 1.65;
+  }
+
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ─── HEADER ─── */
+  .site-header {
+    background: linear-gradient(135deg, #0d1b4f 0%, #0f1117 60%);
+    border-bottom: 1px solid var(--border);
+    padding: 28px 40px 24px;
+  }
+  .site-header .eyebrow {
+    font-size: 10px; letter-spacing: .15em; text-transform: uppercase;
+    color: var(--blue); margin-bottom: 6px;
+  }
+  .site-header h1 {
+    font-size: 24px; font-weight: 700; letter-spacing: -.02em;
+    color: #fff; margin-bottom: 4px;
+  }
+  .site-header .subtitle {
+    color: var(--dim); font-size: 12.5px;
+  }
+  .site-header .meta-row {
+    margin-top: 14px; display: flex; gap: 20px; flex-wrap: wrap;
+  }
+  .meta-pill {
+    background: rgba(91,141,245,.12); border: 1px solid rgba(91,141,245,.3);
+    border-radius: 20px; padding: 3px 12px; font-size: 11.5px; color: var(--blue);
+  }
+
+  /* ─── KPI BAR ─── */
+  .kpi-bar {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(160px,1fr));
+    gap: 1px; background: var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .kpi {
+    background: var(--bg2); padding: 18px 24px;
+    text-align: center;
+  }
+  .kpi .val { font-size: 28px; font-weight: 700; letter-spacing: -.03em; }
+  .kpi .lbl { font-size: 10.5px; color: var(--dim); text-transform: uppercase; letter-spacing: .08em; margin-top: 2px; }
+  .kpi.blue  .val { color: var(--blue); }
+  .kpi.green .val { color: var(--green); }
+  .kpi.orange .val { color: var(--orange); }
+  .kpi.red   .val { color: var(--red); }
+  .kpi.purple .val { color: var(--purple); }
+
+  /* ─── LAYOUT ─── */
+  .page { max-width: 1280px; margin: 0 auto; padding: 32px 32px 64px; }
+
+  /* section titles */
+  .section-title {
+    font-size: 11px; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--dim);
+    display: flex; align-items: center; gap: 10px;
+    margin: 40px 0 18px;
+  }
+  .section-title::before {
+    content: ''; flex: 1; height: 1px; background: var(--border);
+  }
+  .section-title::after {
+    content: ''; flex: 1; height: 1px; background: var(--border);
+  }
+  .section-title .ico { font-size: 16px; line-height: 1; }
+
+  /* ─── ALERT CARDS (⚡) ─── */
+  .alert-stack { display: flex; flex-direction: column; gap: 14px; }
+  .alert-card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 12px; padding: 22px 26px;
+    border-left: 4px solid var(--orange);
+    position: relative; overflow: hidden;
+  }
+  .alert-card.red   { border-left-color: var(--red); }
+  .alert-card.blue  { border-left-color: var(--blue); }
+  .alert-card.green { border-left-color: var(--green); }
+  .alert-card .badge-row { display: flex; gap: 8px; align-items: center; margin-bottom: 10px; flex-wrap: wrap; }
+  .badge {
+    font-size: 10px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase;
+    padding: 2px 9px; border-radius: 20px;
+  }
+  .badge.orange { background: rgba(245,158,11,.15); color: var(--orange); border: 1px solid rgba(245,158,11,.35); }
+  .badge.red    { background: rgba(224,85,85,.15);  color: var(--red);    border: 1px solid rgba(224,85,85,.35); }
+  .badge.blue   { background: rgba(91,141,245,.15); color: var(--blue);   border: 1px solid rgba(91,141,245,.35); }
+  .badge.green  { background: rgba(52,201,138,.15); color: var(--green);  border: 1px solid rgba(52,201,138,.35); }
+  .badge.purple { background: rgba(167,139,250,.15);color: var(--purple); border: 1px solid rgba(167,139,250,.35); }
+  .badge.teal   { background: rgba(34,211,238,.15); color: var(--teal);   border: 1px solid rgba(34,211,238,.35); }
+  .badge.dim    { background: rgba(120,128,168,.15); color: var(--dim);   border: 1px solid rgba(120,128,168,.35); }
+  .badge.yellow { background: rgba(251,191,36,.15); color: var(--yellow); border: 1px solid rgba(251,191,36,.35); }
+  .badge.pink   { background: rgba(244,114,182,.15);color: var(--pink);   border: 1px solid rgba(244,114,182,.35);}
+  .alert-card h3 { font-size: 15.5px; font-weight: 600; color: #fff; margin-bottom: 8px; }
+  .alert-card p  { color: var(--dim); font-size: 13px; }
+  .alert-card .src { margin-top: 12px; font-size: 11px; color: var(--dim); font-style: italic; }
+  .importance {
+    margin-left: auto; font-size: 10px; font-weight: 700; letter-spacing: .05em;
+    padding: 3px 9px; border-radius: 20px;
+    background: rgba(245,158,11,.2); color: var(--orange); border: 1px solid rgba(245,158,11,.4);
+  }
+  .importance.i2 { background: rgba(91,141,245,.2); color: var(--blue); border-color: rgba(91,141,245,.4); }
+  .importance.i1 { background: rgba(120,128,168,.15); color: var(--dim); border-color: rgba(120,128,168,.35); }
+
+  /* ─── CARD GRID ─── */
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px,1fr));
+    gap: 14px;
+  }
+  .card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 12px; padding: 18px 20px;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .card .badge-row { display: flex; gap: 6px; flex-wrap: wrap; }
+  .card h4 { font-size: 14px; font-weight: 600; color: #fff; line-height: 1.4; }
+  .card p  { font-size: 12.5px; color: var(--dim); flex: 1; }
+  .card .src { font-size: 11px; color: var(--dim); font-style: italic; border-top: 1px solid var(--border); padding-top: 8px; }
+
+  /* ─── VIVATECH FOCUS ─── */
+  .viva-banner {
+    background: linear-gradient(120deg, #1a1040 0%, #0e2050 60%, #0f1525 100%);
+    border: 1px solid rgba(91,141,245,.3);
+    border-radius: 14px; padding: 24px 28px; margin-bottom: 16px;
+  }
+  .viva-banner .label { font-size: 10px; text-transform: uppercase; letter-spacing: .12em; color: var(--teal); margin-bottom: 6px; }
+  .viva-banner h3 { font-size: 17px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+  .viva-banner .dates { font-size: 11.5px; color: var(--dim); margin-bottom: 16px; }
+  .viva-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px,1fr)); gap: 10px; }
+  .viva-item {
+    background: rgba(255,255,255,.04); border: 1px solid rgba(255,255,255,.08);
+    border-radius: 9px; padding: 14px 16px;
+  }
+  .viva-item .day { font-size: 10px; color: var(--teal); text-transform: uppercase; letter-spacing: .08em; margin-bottom: 4px; }
+  .viva-item h5 { font-size: 13px; font-weight: 600; color: #fff; margin-bottom: 4px; line-height: 1.35; }
+  .viva-item p  { font-size: 12px; color: var(--dim); }
+
+  /* ─── LEVÉES TABLE ─── */
+  .funding-table { width: 100%; border-collapse: collapse; }
+  .funding-table th {
+    background: var(--bg3); color: var(--dim); font-size: 10.5px;
+    text-transform: uppercase; letter-spacing: .08em; font-weight: 600;
+    padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border);
+  }
+  .funding-table td {
+    padding: 11px 14px; border-bottom: 1px solid var(--border);
+    font-size: 13px; vertical-align: top;
+  }
+  .funding-table tr:last-child td { border-bottom: none; }
+  .funding-table tr:hover td { background: rgba(255,255,255,.025); }
+  .amount { font-weight: 700; font-size: 14px; }
+  .amount.big { color: var(--orange); }
+  .amount.mid { color: var(--blue); }
+  .amount.sm  { color: var(--green); }
+  .status-pill {
+    display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 8px;
+    border-radius: 12px; text-transform: uppercase; letter-spacing: .05em;
+  }
+  .status-pill.open   { background: rgba(245,158,11,.15); color: var(--orange); }
+  .status-pill.closed { background: rgba(52,201,138,.15);  color: var(--green); }
+  .status-pill.ipo    { background: rgba(167,139,250,.15); color: var(--purple); }
+
+  /* ─── TIMELINE (suivis) ─── */
+  .timeline { display: flex; flex-direction: column; gap: 0; }
+  .tl-item { display: grid; grid-template-columns: 100px 1fr; gap: 16px; align-items: start; }
+  .tl-item + .tl-item { margin-top: 12px; }
+  .tl-date {
+    text-align: right; padding-top: 2px;
+    font-size: 11px; color: var(--dim); font-weight: 600; line-height: 1.4;
+  }
+  .tl-body {
+    border-left: 2px solid var(--border); padding-left: 18px; padding-bottom: 4px;
+    position: relative;
+  }
+  .tl-body::before {
+    content: ''; position: absolute; left: -5px; top: 7px;
+    width: 8px; height: 8px; border-radius: 50%; background: var(--border);
+  }
+  .tl-body.active::before { background: var(--orange); }
+  .tl-body.resolved::before { background: var(--green); }
+  .tl-body h5 { font-size: 13px; font-weight: 600; color: #fff; margin-bottom: 3px; }
+  .tl-body p  { font-size: 12px; color: var(--dim); }
+
+  /* ─── NOUVEAUX ENTRANTS ─── */
+  .entrants-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px,1fr)); gap: 12px; }
+  .entrant-card {
+    background: linear-gradient(135deg, var(--bg2) 0%, rgba(52,201,138,.05) 100%);
+    border: 1px solid rgba(52,201,138,.2);
+    border-radius: 12px; padding: 18px 20px;
+  }
+  .entrant-card .new-badge {
+    display: inline-block; background: rgba(52,201,138,.15); color: var(--green);
+    border: 1px solid rgba(52,201,138,.3); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .1em; text-transform: uppercase; padding: 2px 9px;
+    border-radius: 20px; margin-bottom: 10px;
+  }
+  .entrant-card h4 { font-size: 14.5px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+  .entrant-card .meta { font-size: 11px; color: var(--teal); margin-bottom: 8px; }
+  .entrant-card p  { font-size: 12.5px; color: var(--dim); }
+
+  /* ─── RECHERCHE ─── */
+  .papers { display: flex; flex-direction: column; gap: 10px; }
+  .paper {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 10px; padding: 14px 18px;
+    display: grid; grid-template-columns: auto 1fr; gap: 14px; align-items: start;
+  }
+  .paper-icon { font-size: 22px; line-height: 1; }
+  .paper h5 { font-size: 13px; font-weight: 600; color: #fff; margin-bottom: 3px; }
+  .paper p  { font-size: 12px; color: var(--dim); }
+  .arxiv-id { font-size: 10.5px; color: var(--purple); font-family: monospace; margin-top: 4px; }
+
+  /* ─── URGENCE BLOC ─── */
+  .urgence-bloc {
+    background: rgba(224,85,85,.08); border: 1px solid rgba(224,85,85,.3);
+    border-radius: 10px; padding: 14px 18px; margin-bottom: 16px;
+    display: flex; gap: 12px; align-items: flex-start;
+  }
+  .urgence-bloc .ico { font-size: 18px; flex-shrink: 0; margin-top: 1px; }
+  .urgence-bloc h5 { color: var(--red); font-size: 12.5px; font-weight: 700; margin-bottom: 3px; }
+  .urgence-bloc p  { font-size: 12px; color: var(--dim); }
+
+  /* ─── FOOTER ─── */
+  footer {
+    background: var(--bg2); border-top: 1px solid var(--border);
+    padding: 20px 40px; font-size: 11.5px; color: var(--dim);
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+  }
+
+  /* ─── UTILS ─── */
+  .txt-red    { color: var(--red); }
+  .txt-green  { color: var(--green); }
+  .txt-orange { color: var(--orange); }
+  .txt-blue   { color: var(--blue); }
+  .txt-purple { color: var(--purple); }
+  strong { color: #fff; font-weight: 600; }
+
+  @media (max-width: 640px) {
+    .site-header { padding: 20px; }
+    .page { padding: 20px 16px 48px; }
+    .kpi .val { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══ HEADER ═══ -->
+<header class="site-header">
+  <div class="eyebrow">DGE-SEN-DPIA · Veille IA &amp; Souveraineté</div>
+  <h1>Semaine du 15–19 juin 2026</h1>
+  <div class="subtitle">IA industrielle · Souveraineté · VivaTech 2026 · Crise Anthropic · Régulation européenne</div>
+  <div class="meta-row">
+    <span class="meta-pill">5 notes de veille</span>
+    <span class="meta-pill">~200 sources consultées</span>
+    <span class="meta-pill">~140 requêtes</span>
+    <span class="meta-pill">Généré le 19/06/2026</span>
+  </div>
+</header>
+
+<!-- ═══ KPI BAR ═══ -->
+<div class="kpi-bar">
+  <div class="kpi orange">
+    <div class="val">7+</div>
+    <div class="lbl">Jours suspension Anthropic</div>
+  </div>
+  <div class="kpi blue">
+    <div class="val">655 M€</div>
+    <div class="lbl">France 2030 IA (Lecornu)</div>
+  </div>
+  <div class="kpi green">
+    <div class="val">1 M</div>
+    <div class="lbl">Agents publics sur Mistral</div>
+  </div>
+  <div class="kpi orange">
+    <div class="val">12 Md$</div>
+    <div class="lbl">Prometheus série B</div>
+  </div>
+  <div class="kpi purple">
+    <div class="val">23/06</div>
+    <div class="lbl">Deadline consultation AI Act</div>
+  </div>
+</div>
+
+<!-- ═══ CONTENT ═══ -->
+<div class="page">
+
+  <!-- URGENCE -->
+  <div class="urgence-bloc">
+    <div class="ico">⏰</div>
+    <div>
+      <h5>Action requise avant le 23 juin</h5>
+      <p>La Commission européenne ferme sa consultation publique sur la classification des systèmes IA à haut risque (Annexe III, AI Act) le <strong>23 juin 2026</strong>. Les contributions de la CNIL, DGCCRF et des administrations françaises peuvent encore être soumises.</p>
+    </div>
+  </div>
+
+  <!-- ═══ À RETENIR ═══ -->
+  <div class="section-title"><span class="ico">⚡</span> À retenir absolument</div>
+
+  <div class="alert-stack">
+
+    <div class="alert-card">
+      <div class="badge-row">
+        <span class="badge blue">Sphère publique · France</span>
+        <span class="badge green">Nouveau · 16/06</span>
+        <span class="importance">Importance ★★★</span>
+      </div>
+      <h3>655 M€ France 2030 + Mistral déployé à 1 million d'agents de l'État</h3>
+      <p>Le 16 juin, veille de VivaTech, le PM Lecornu annonce <strong>655 M€ supplémentaires via France 2030</strong> pour l'IA (infrastructure, calcul, recherche, filières). Mesure phare : <strong>"L'Assistant"</strong>, agent conversationnel fondé sur Mistral AI, est généralisé à l'ensemble des fonctionnaires (~1 M agents) pour un coût de 700 000 €, après pilote DINUM de 10 000 agents en octobre 2025. Choix assumé de Mistral face à Palantir. Premier déploiement LLM souverain à cette échelle en Europe.</p>
+      <div class="src">Sources : IT Social, Journal du Net, France 24, info.gouv.fr — 16/06/2026</div>
+    </div>
+
+    <div class="alert-card red">
+      <div class="badge-row">
+        <span class="badge red">Sphère privée · USA</span>
+        <span class="badge dim">Suite · depuis le 12/06</span>
+        <span class="importance">Importance ★★★</span>
+      </div>
+      <h3>Anthropic Fable 5/Mythos 5 : suspension toujours active au 19/06 (J+7)</h3>
+      <p>La directive Lutnick (Commerce US, 12/06) suspend mondialement l'accès à Fable 5 et Mythos 5. Les négociations Anthropic–administration Trump sont confirmées (Globe and Mail, 17/06) ; Chris Ciauri (MD International) se déclare « très confiant pour les prochains jours ». Seul jalon officiel : vérification d'identité à partir du <strong>8 juillet</strong> (suspension minimum 26 jours). Kalshi : 57 % de probabilité de rétablissement en juillet. Les modèles comme Claude Opus 4.8 restent disponibles.</p>
+      <p style="margin-top:8px"><strong class="txt-red">Argument mobilisable :</strong> cet épisode illustre concrètement le risque d'extraterritorialité américaine pour tout opérateur dépendant d'un fournisseur soumis au droit US — argument direct dans le débat CADA et préférence européenne.</p>
+      <div class="src">Sources : Globe and Mail 17/06 · Korea JoongAng Daily 17/06 · Kalshi 16/06 · Bloomberg 16/06 · Anthropic statement 12/06</div>
+    </div>
+
+    <div class="alert-card blue">
+      <div class="badge-row">
+        <span class="badge blue">Infrastructure · VivaTech</span>
+        <span class="badge green">Nouveau · 17/06</span>
+        <span class="importance">Importance ★★★</span>
+      </div>
+      <h3>Foxconn + Bull (Eviden) + NVIDIA : premier rack IA de niveau mondial assemblé en France (Angers)</h3>
+      <p>Le 17 juin à VivaTech, <strong>Foxconn, Bull et NVIDIA</strong> formalisent un partenariat industriel : les racks <strong>Vera Rubin NVL72</strong> (successeur H100/H200) seront fabriqués dans les usines Foxconn (République tchèque) puis <strong>assemblés et validés à Angers</strong> (usine Bull). Foxconn présente simultanément ses premiers robots humanoïdes en Europe sur un stack physique fermé (simulation → entraînement Isaac GR00T → production robot). Bull retrouve un rôle de production hardware stratégique.</p>
+      <div class="src">Source : PRNewswire / Hon Hai, 17/06/2026 · TechTimes, 17/06/2026</div>
+    </div>
+
+  </div>
+
+  <!-- ═══ VIVATECH FOCUS ═══ -->
+  <div class="section-title"><span class="ico">🎪</span> VivaTech 2026 · 17–20 juin · Paris Porte de Versailles</div>
+
+  <div class="viva-banner">
+    <div class="label">10e édition · thème "IA : Impact, Not Illusion" · 15 000 startups · 180 000 visiteurs</div>
+    <h3>Les temps forts de la semaine</h3>
+    <div class="dates">17–20 juin 2026 · Paris Expo Porte de Versailles · Allemagne : pays de l'année</div>
+    <div class="viva-grid">
+      <div class="viva-item">
+        <div class="day">J1 · 17 juin</div>
+        <h5>Jeff Bezos (Prometheus) &amp; Yann LeCun (AMI Labs) en plénière</h5>
+        <p>Bezos présente Prometheus ($12 Md, IA pour l'ingénierie physique). Foxconn/Bull/NVIDIA annoncent le partenariat rack Vera Rubin à Angers.</p>
+      </div>
+      <div class="viva-item">
+        <div class="day">J2 · 18 juin</div>
+        <h5>Modi-Macron : la "troisième voie IA" franco-indienne</h5>
+        <p>L'Inde, partenaire IA officiel de VivaTech 2026, présente le cadre MANAV de gouvernance IA. Modi &amp; Macron visitent le pavillon indien — premier cadre du Sud global exposé sur une scène européenne de référence.</p>
+      </div>
+      <div class="viva-item">
+        <div class="day">17–20 juin</div>
+        <h5>Startup Village AWS/NVIDIA : 7 startups européennes (5 françaises)</h5>
+        <p>Neuralk AI (Seldon, analytique prédictive), Gradium (voix ultra-basse latence, spin-off Kyutai, 70 M$), pyannoteAI (diarization CNRS, 1 Md+ DL HF), Physicl (données 3D pour robots)…</p>
+      </div>
+      <div class="viva-item">
+        <div class="day">17–18 juin</div>
+        <h5>Prisme.ai : 3 nouveaux clients stratégiques</h5>
+        <p>ArianeGroup (espace), Pierre Fabre (pharmacie), ODDO BHF (banque) — annoncés en présence de la ministre du Numérique et de son homologue allemand.</p>
+      </div>
+      <div class="viva-item">
+        <div class="day">15 juin</div>
+        <h5>AMI Labs &amp; H Company intègrent le Next40</h5>
+        <p>AMI Labs (world models, Yann LeCun, 890 M€ mars 2026) et H Company (IA agentique, Holo3) entrent dans le Next40 French Tech 2026.</p>
+      </div>
+      <div class="viva-item">
+        <div class="day">Note de cadrage</div>
+        <h5>⚠️ Confusion 2025/2026 à éviter</h5>
+        <p>La session tripartite Macron + Jensen Huang + Arthur Mensch date de VivaTech <strong>2025</strong> (11/06/2025, Dôme de Paris). La présence de Huang à VivaTech 2026 était au programme mais non confirmée indépendamment au 19/06.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ IA INDUSTRIELLE ═══ -->
+  <div class="section-title"><span class="ico">🏭</span> IA industrielle &amp; physique — thème de la semaine</div>
+
+  <div class="card-grid">
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge orange">Monde · IA industrielle</span>
+        <span class="badge green">Nouveau · 11/06</span>
+      </div>
+      <h4>Prometheus (Bezos + Bajaj) : 12 Md$ pour l'"artificial general engineer"</h4>
+      <p>Série B le 11/06/2026 portant la valorisation à <strong>41 Md$</strong> (18 Md$ total levé). Investisseurs : JPMorgan, BlackRock, Goldman Sachs, DST Global, Arch Venture. L'entreprise construit une IA traitant le pipeline "design-to-manufacturing" en bout en bout pour des produits physiques complexes (moteurs à réaction, molécules pharmaceutiques, pièces aéro). Concurrent direct de Mistral Industrial Engineering et d'Ansys AI.</p>
+      <div class="src">TechCrunch · Axios · GeekWire · CNBC — 11/06/2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge blue">France · Mistral</span>
+        <span class="badge dim">Non capturé avant · 28/05</span>
+      </div>
+      <h4>Mistral for Industrial Engineering : Airbus, BMW, EDF, CMA CGM</h4>
+      <p>Annoncé lors de la 1re conférence annuelle Mistral (28/05). Surrogate models (réseaux neuronaux remplaçant simulateurs physiques : aéro, thermo, fluides) — speedup de ×1 000 vs simulateurs classiques. Clients de lancement : <strong>Airbus</strong> (contrat 5 ans, défense/espace), <strong>BMW</strong> (crash physics-aware), <strong>EDF</strong>, <strong>CMA CGM</strong>. Cœur tech : acquisition Emmi AI (Vienne, 19/05). Mistral se définit comme "full-stack AI company".</p>
+      <div class="src">The Next Web · Sifted · Bloomberg · CNBC — 28/05/2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge purple">Robotique · monde</span>
+        <span class="badge green">Nouveau · 17/06</span>
+      </div>
+      <h4>Genesis AI lance Eno, premier humanoïde généraliste propulsé par un foundation model</h4>
+      <p>Robot humanoïde généraliste lancé le 17/06 par Genesis AI (Paris/Silicon Valley). Propulsé par <strong>GENE</strong> (dextérité + agentic AI + tâche autonome). Design minimaliste à roues + bras anthropomorphes. Déploiements fin 2026 : manufacturing, logistique, laboratoires. Seed : 105 M$ (Khosla Ventures, Bpifrance, Eric Schmidt, Xavier Niel). Fondateurs : Théophile Gervet (ex-Mistral) + Zhou Xian (Carnegie Mellon).</p>
+      <div class="src">PRNewswire · Robotics and Automation News — 17/06/2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge blue">France · Infrastructure</span>
+        <span class="badge dim">En cours</span>
+      </div>
+      <h4>Mistral datacenter Bruyères-le-Châtel : "going live" fin juin 2026</h4>
+      <p><strong>13 800 GPU NVIDIA GB300 · 44 MW · opéré par Eclairion</strong>. Financé par 830 M$ de dette (mars 2026 · 7 banques dont Bpifrance, BNP, Crédit Agricole). Ouverture attendue fin Q2 2026. Confirmation officielle Eclairion/Mistral encore attendue. 1re brique de la roadmap 200 MW en Europe d'ici fin 2027.</p>
+      <div class="src">AI Chat Daily (1 source) · DataCenter Dynamics · Maddyness — mars 2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge green">France · Nouveau entrant · 2/06</span>
+      </div>
+      <h4>NP Company (NPCo) : surrogate models, co-fondateurs Mistral investisseurs</h4>
+      <p>Fondée par des chercheurs INRIA/Paris-Saclay. Pre-seed <strong>6 M€</strong> (Partech lead), avec Guillaume Lample + Cédric O (co-fondateurs Mistral), Florian Douetteau (Dataiku), peugeot FO. Simulateurs physiques IA-native (aéro, énergie, défense, auto) — speedup annoncé ×50 000. Signal : les cofondateurs Mistral investissent dans un concurrent de surrogate models quelques jours après l'acquisition d'Emmi AI — stratégie d'écosystème FR/EU.</p>
+      <div class="src">Partech · Tech.eu · TechFundingNews — 02/06/2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge purple">Recherche · multi-agents</span>
+        <span class="badge green">Nouveau · 11/06</span>
+      </div>
+      <h4>Google DeepMind + Schmidt Sciences : 10 M$ pour la sécurité des systèmes multi-agents</h4>
+      <p>Appel à financement de recherche mondial (10 M$) avec Schmidt Sciences, Cooperative AI Foundation et ARIA (UK). Focus : risques de sécurité liés à l'interaction de millions d'agents IA hétérogènes (communication, négociation, transactions autonomes). <strong>Deadline candidatures : 8 août 2026.</strong> Premier appel mondial ciblé sur ce risque émergent — pertinent pour le Bureau de l'IA européen.</p>
+      <div class="src">deepmind.google · MIT Technology Review — 11/06/2026</div>
+    </div>
+
+  </div>
+
+  <!-- ═══ RÉGULATION ═══ -->
+  <div class="section-title"><span class="ico">🏛️</span> Régulation &amp; politiques publiques</div>
+
+  <div class="card-grid">
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge red">⏰ Urgent · EU</span>
+        <span class="badge dim">Deadline 23/06</span>
+      </div>
+      <h4>AI Act · Consultation publique classification systèmes à haut risque</h4>
+      <p>La Commission européenne ferme sa consultation sur les lignes directrices de classification des systèmes IA à haut risque (Annexe III) le <strong>23 juin 2026</strong>. Digital Omnibus (accord provisoire 7/05) : obligations Annexe III reportées du 2/08/2026 au <strong>2 décembre 2027</strong> ; systèmes IA dans produits réglementés (Annexe I) → 2 août 2028.</p>
+      <div class="src">Conseil de l'UE · artificialintelligenceact.eu — mai-juin 2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge blue">France · AI Act</span>
+        <span class="badge dim">Échéance 2/08/2026</span>
+      </div>
+      <h4>AI Act applicable en France le 2 août 2026 · CNIL autorité pilote</h4>
+      <p>La loi DDADUE (Sénat, 17/02/2026) désigne la <strong>CNIL comme autorité nationale pilote</strong>, assistée de 15 autorités sectorielles (DGCCRF, Arcom, ANSSI, ACPR, AMF, ANSM, HAS). Obligation de sandbox réglementaire IA opérationnel au 2/08 — aucun texte français confirmé à ce stade. Délai : <strong>44 jours.</strong></p>
+      <div class="src">regulatoryai.eu · donneespersonnelles.fr — juin 2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge orange">UE · Marquage IA</span>
+        <span class="badge green">Nouveau · 10/06</span>
+      </div>
+      <h4>Code de conduite UE sur le marquage des contenus générés par IA</h4>
+      <p>L'AI Office publie le 10/06 un code de conduite <em>volontaire</em> sur l'étiquetage des contenus IA. Deux mécanismes : <strong>métadonnées signées numériquement</strong> + <strong>watermarking imperceptible</strong>. Icônes EU téléchargeables libres de droits. Prépare les obligations AI Act applicables au 2 août 2026 (transparence deepfakes et chatbots).</p>
+      <div class="src">Commission européenne · IPTC · AI Weekly — 10/06/2026</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge teal">Monde · USA</span>
+        <span class="badge dim">Fait 14/05 · non capturé</span>
+      </div>
+      <h4>Colorado SB 26-189 : premier AI Act étatique US retardé et allégé</h4>
+      <p>Signé le 14/05/2026. Périmètre recentré sur l'ADMT (<em>automated decision-making technology</em>), entrée en vigueur reportée au <strong>1er janvier 2027</strong> sous pression de la Maison Blanche qui écarte explicitement le modèle réglementaire européen. Signal structurant : la régulation IA sub-fédérale US diverge délibérément de l'AI Act.</p>
+      <div class="src">Norton Rose Fulbright · Lawfuel — mai 2026 [1 source]</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge blue">EU · CADA</span>
+        <span class="badge dim">En cours · bloqué</span>
+      </div>
+      <h4>CADA (Cloud &amp; AI Development Act) : toujours bloqué au Conseil</h4>
+      <p>Aucune avancée dans la fenêtre 15-19/06. La ligne de fracture reste les niveaux 3 et 4 du cadre de souveraineté cloud pour les fournisseurs non-UE. La crise Anthropic alimente les arguments souverainistes mais n'a pas débloqué les négociations. La CCIA (lobby cloud américain) maintient sa critique de "discrimination".</p>
+      <div class="src">Suivi en cours · digital-strategy.ec.europa.eu</div>
+    </div>
+
+    <div class="card">
+      <div class="badge-row">
+        <span class="badge orange">Monde · OpenAI</span>
+        <span class="badge dim">Fait 8/06</span>
+      </div>
+      <h4>OpenAI S-1 confidentiel déposé · IPO visée septembre 2026</h4>
+      <p>Dépôt confidentiel S-1 à la SEC le 8/06. Banques chefs de file : Goldman Sachs, Morgan Stanley. Valorisation cible : <strong>730–850 Md$</strong> (jusqu'à ~1 T$ selon certains analystes). CA annualisé >20 Md$ fin 2025. Introduction en bourse ciblée sur le Nasdaq en septembre 2026. Anthropic aurait déposé son propre S-1 le 26/05/2026.</p>
+      <div class="src">CNBC · Fortune — 8/06/2026</div>
+    </div>
+
+  </div>
+
+  <!-- ═══ LEVÉES ═══ -->
+  <div class="section-title"><span class="ico">💶</span> Levées &amp; investissements de la semaine</div>
+
+  <div style="overflow-x:auto; background:var(--bg2); border:1px solid var(--border); border-radius:12px;">
+    <table class="funding-table">
+      <thead>
+        <tr>
+          <th>Entreprise</th>
+          <th>Montant</th>
+          <th>Tour / opération</th>
+          <th>Investisseurs principaux</th>
+          <th>Date</th>
+          <th>Statut</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Prometheus</strong><br><span style="color:var(--dim);font-size:11px">USA · IA industrielle (Bezos/Bajaj)</span></td>
+          <td><span class="amount big">12 Md$</span><br><span style="color:var(--dim);font-size:11px">~41 Md$ valorisation</span></td>
+          <td>Série B</td>
+          <td>JPMorgan, BlackRock, Goldman Sachs, DST Global, Arch Venture</td>
+          <td>11/06/2026</td>
+          <td><span class="status-pill closed">Clôturé</span></td>
+        </tr>
+        <tr>
+          <td><strong>Mistral AI</strong><br><span style="color:var(--dim);font-size:11px">France · LLM souverain</span></td>
+          <td><span class="amount mid">~3 Md€</span><br><span style="color:var(--dim);font-size:11px">~20 Md€ valorisation visée</span></td>
+          <td>Post-série C en discussion</td>
+          <td>Non précisés</td>
+          <td>Info 12/06 · statu quo 19/06</td>
+          <td><span class="status-pill open">En discussion</span></td>
+        </tr>
+        <tr>
+          <td><strong>OpenAI</strong><br><span style="color:var(--dim);font-size:11px">USA · modèles frontière</span></td>
+          <td><span class="amount big">~800 Md$</span><br><span style="color:var(--dim);font-size:11px">valorisation IPO visée</span></td>
+          <td>IPO · S-1 confidentiel</td>
+          <td>Goldman Sachs, Morgan Stanley, JPMorgan</td>
+          <td>8/06/2026</td>
+          <td><span class="status-pill ipo">IPO en préparation</span></td>
+        </tr>
+        <tr>
+          <td><strong>Moonshot AI (Kimi)</strong><br><span style="color:var(--dim);font-size:11px">Chine · LLM code</span></td>
+          <td><span class="amount mid">2 Md$</span><br><span style="color:var(--dim);font-size:11px">20 Md$ valorisation</span></td>
+          <td>Tour ✔ clôturé (mai 2026)</td>
+          <td>Long-Z/Meituan, China Mobile, Tsinghua Capital, CPE Yuanfeng</td>
+          <td>Clôture mai 2026</td>
+          <td><span class="status-pill closed">Clôturé</span></td>
+        </tr>
+        <tr>
+          <td><strong>NP Company (NPCo)</strong><br><span style="color:var(--dim);font-size:11px">France · simulation physique IA</span></td>
+          <td><span class="amount sm">6 M€</span></td>
+          <td>Pre-seed</td>
+          <td>Partech (lead), Peugeot FO, Guillaume Lample, Cédric O, Douetteau, Luciani</td>
+          <td>02/06/2026</td>
+          <td><span class="status-pill closed">Clôturé</span></td>
+        </tr>
+        <tr>
+          <td><strong>OVHcloud → Gladia</strong><br><span style="color:var(--dim);font-size:11px">France · acquisition IA vocale</span></td>
+          <td><span style="color:var(--dim)">Non communiqué</span></td>
+          <td>Négociations exclusives d'acquisition</td>
+          <td>OVH Groupe (acquéreur)</td>
+          <td>11/06/2026</td>
+          <td><span class="status-pill open">Closing attendu</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ═══ NOUVEAUX ENTRANTS ═══ -->
+  <div class="section-title"><span class="ico">🌱</span> Nouveaux entrants détectés cette semaine</div>
+
+  <div class="entrants-grid">
+
+    <div class="entrant-card">
+      <div class="new-badge">Nouveau · jamais capturé</div>
+      <h4>NP Company (NPCo)</h4>
+      <div class="meta">France · Simulation physique IA · Créée 2025</div>
+      <p>Simulateurs physiques IA-native (transformers sur physique industrielle) pour aérospatiale, défense, énergie, automobile. Speedup ×1 000 à ×50 000 vs simulateurs classiques. Pre-seed 6 M€ co-investi par les cofondateurs de Mistral AI.</p>
+    </div>
+
+    <div class="entrant-card">
+      <div class="new-badge">Nouveau · jamais capturé</div>
+      <h4>Physicl</h4>
+      <div class="meta">France · Données 3D pour IA physique &amp; robotique · Créée 2026</div>
+      <p>Spin-off de Nfinite. Génère assets 3D simulation-ready et données d'entraînement pour robots, world models et IA incarnée. Travaille sur NVIDIA Omniverse/Isaac Lab et Amazon Deadline Cloud. Présente au Startup Village AWS/NVIDIA VivaTech 2026.</p>
+    </div>
+
+    <div class="entrant-card">
+      <div class="new-badge">Nouveau · jamais capturé</div>
+      <h4>pyannoteAI</h4>
+      <div class="meta">France · Intelligence du locuteur · Fondée 2024 (12 ans CNRS)</div>
+      <p>Diarization speaker streaming temps réel. Plus de <strong>1 milliard de téléchargements</strong> sur Hugging Face. Premier modèle streaming diarization de qualité production commerciale. Présente au Startup Village AWS/NVIDIA VivaTech 2026.</p>
+    </div>
+
+  </div>
+
+  <!-- ═══ RECHERCHE ACADÉMIQUE ═══ -->
+  <div class="section-title"><span class="ico">🎓</span> Recherche académique — papiers marquants de la semaine</div>
+
+  <div class="papers">
+
+    <div class="paper">
+      <div class="paper-icon">🤖</div>
+      <div>
+        <h5>"Robots Need More than VLA and World Models"</h5>
+        <p>Stanford / ETH Zurich / IIT / TU Darmstadt. Papier de position très discuté depuis le 12/06 : le vrai goulot d'étranglement de la robotique généraliste n'est pas le scaling des policies VLA mais l'absence d'interfaces manquantes (données, embodiment, world-model, récompense) pour transformer des données comportementales brutes en supervision exploitable.</p>
+        <div class="arxiv-id">arXiv:2606.06556</div>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-icon">🔐</div>
+      <div>
+        <h5>"Targeting World Models to Compromise Robot Learning Pipelines"</h5>
+        <p>Northeastern / UMass Amherst. Preprint CoRL 2026. Premier papier à démontrer que les world models utilisés pour générer des données d'entraînement robotique sont un vecteur d'empoisonnement furtif des pipelines de robot learning.</p>
+        <div class="arxiv-id">arXiv:2606.09499</div>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-icon">🦾</div>
+      <div>
+        <h5>VLA-JEPA intégré dans LeRobot (Hugging Face)</h5>
+        <p>Premier world model porté sur la bibliothèque open source LeRobot, permettant du fine-tuning robotique temps réel avec seulement 13 exemples et de l'inférence sur GPU bas coût. Relayé mi-juin 2026.</p>
+        <div class="arxiv-id">github.com/huggingface/lerobot</div>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-icon">🏆</div>
+      <div>
+        <h5>D4RT — Best Paper CVPR 2026 (Google DeepMind / UCL / Oxford)</h5>
+        <p>Reconstruction dynamique de scènes 4D via une interface de requête unique remplaçant le pipeline multi-modèles classique (profondeur, flux optique, pose caméra). 18 à 300 fois plus rapide que l'état de l'art. Prix annoncé autour du 10-12/06/2026.</p>
+        <div class="arxiv-id">arXiv:2512.08924</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ═══ SUIVIS ═══ -->
+  <div class="section-title"><span class="ico">🔄</span> Feuilletons en cours</div>
+
+  <div class="timeline">
+
+    <div class="tl-item">
+      <div class="tl-date">Depuis<br>12/06</div>
+      <div class="tl-body active">
+        <h5><span class="txt-red">Anthropic Fable 5/Mythos 5</span> — suspension mondiale</h5>
+        <p>Négociations Anthropic-Trump confirmées au 19/06. Seul jalon officiel : vérification d'identité dès le 8 juillet (suspension min. 26 j). Kalshi : 57 % de probabilité de rétablissement en juillet. <strong>À surveiller :</strong> conditions techniques imposées, impact sur déploiements EU.</p>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-date">Depuis<br>11/06</div>
+      <div class="tl-body active">
+        <h5>OVHcloud / Gladia — acquisition en négociations exclusives</h5>
+        <p>Closing soumis aux conditions suspensives habituelles. Montant non communiqué. Surveiller l'annonce officielle et les éventuelles conditions CSSF/autorités de concurrence.</p>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-date">Depuis<br>12/06</div>
+      <div class="tl-body active">
+        <h5>Mistral AI levée ~3 Md€ — statu quo au 19/06</h5>
+        <p>Toujours au "stade précoce" (Bloomberg). VivaTech n'a pas produit d'annonce de closing. Prochaine fenêtre probable : fin juin / début juillet.</p>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-date">Fin<br>juin 2026</div>
+      <div class="tl-body active">
+        <h5>Mistral datacenter Bruyères-le-Châtel — ouverture imminente</h5>
+        <p>"Going live" selon AI Chat Daily (1 source). Confirmation officielle Eclairion/Mistral attendue. 13 800 GPU GB300, 44 MW, financement $830 M.</p>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-date">Deadline<br>23/06</div>
+      <div class="tl-body active">
+        <h5>AI Act · consultation classification haute-risque — 4 jours</h5>
+        <p>Fermeture le 23 juin. Contributions CNIL, DGCCRF, administrations françaises encore possibles. Report Annexe III → décembre 2027 acquis mais classification reste enjeu.</p>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-date">2/08/2026</div>
+      <div class="tl-body active">
+        <h5>AI Act France — applicable dans 44 jours</h5>
+        <p>CNIL autorité pilote (loi DDADUE 17/02/2026). Sandbox réglementaire à constituer. Arbitrage institutionnel CNIL/sectoriels toujours ouvert.</p>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-date">En cours</div>
+      <div class="tl-body">
+        <h5>CADA — toujours bloqué au Conseil de l'UE</h5>
+        <p>Ligne de fracture : niveaux 3-4 du cadre souveraineté cloud pour fournisseurs non-UE. Crise Anthropic alimente les arguments souverainistes mais n'a pas débloqué les négociations.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ═══ ANGLES MORTS ═══ -->
+  <div class="section-title"><span class="ico">🔭</span> Angles morts &amp; watchlist sans activité cette semaine</div>
+
+  <div style="background:var(--bg2); border:1px solid var(--border); border-radius:12px; padding:18px 22px;">
+    <p style="color:var(--dim); font-size:12.5px; line-height:1.8;">
+      Aucune annonce datée 15-19/06 identifiée pour :
+      <strong>Photoroom · Hugging Face · Kyutai · Jimini AI · Doctrine · Pruna AI · Owkin · Bioptimus · Aqemia · Dust · Delos · Dataiku</strong> (hors Cobuild GA 18/06) <strong>· Wandercraft · Gobano Robotics · Pleias</strong> ·
+      Semi-conducteurs FR/EU (<strong>Soitec · STMicroelectronics · Scintil Photonics · VSORA · SiPearl · Arago</strong>) ·
+      Pays : <strong>Pays-Bas · Norvège · Suède · Finlande · Espagne</strong> (hors VivaTech) ·
+      IA industrielle non-Mistral (<strong>jumeaux numériques · intégration filières PME/ETI</strong>).
+    </p>
+  </div>
+
+</div><!-- /page -->
+
+<!-- ═══ FOOTER ═══ -->
+<footer>
+  <div>Veille IA &amp; Souveraineté · DGE-SEN-DPIA · Semaine 15–19 juin 2026</div>
+  <div>Notes sources : veilles/2026-06-15.md · 06-16.md · 06-17.md · 06-18.md · 06-19.md</div>
+</footer>
+
+</body>
+</html>
