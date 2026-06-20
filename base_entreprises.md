@@ -29,7 +29,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche) : startup fondée en 2024 spécialisée en « Physics AI » pour la simulation industrielle (LEMs — large engineering models pour la dynamique des fluides, déformation structurelle, turbulences). Plus de 30 chercheurs intégrés aux équipes Science et Applied AI de Mistral. Montant non divulgué. [Mistral AI/Channel News/AI Insider, 19-26/05/2026]
   28/05/2026 — **Clients de lancement Industrial Engineering** : Airbus (contrat 5 ans, programmes défense/espace/hélicoptères), BMW (simulation de crash physics-aware), EDF, CMA CGM. [The Next Web/Sifted/Bloomberg/Euronews, 28/05/2026]
 - Orientations stratégiques : Trajectoire de « champion souverain » européen ; pivot de « AI company software » vers « cloud company » (Arthur Mensch) ; principal fournisseur de modèles du secteur public français (L'Assistant + Ameli assistant santé annoncé 16/06) ; positionnement IA industrielle physique souveraine (concurrent Ansys AI, Siemens AI, Prometheus) ; co-fondateurs ont investi dans NPCo (02/06/2026) autour des surrogate models.
-- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; ouverture effective du datacenter Bruyères-le-Châtel ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Mistral for Industrial Engineering.
+- À surveiller : Issue et investisseurs de la levée ~3 Md€ (statu quo au 19/06, pas d'annonce à VivaTech) ; ouverture effective du datacenter Bruyères-le-Châtel (attendue fin juin 2026, "going live" selon AI Chat Daily — confirmation officielle Eclairion/Mistral attendue) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Mistral for Industrial Engineering.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -48,12 +48,21 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Adoption de Surfer H en open weight ; retombées concrètes de la coalition Nemotron pour l'accès au calcul ; levée de fonds.
 
 ## Neuralk-AI (France, IA industrielle / prédictif)
-- Dernière MAJ : 18/06/2026
-- Financement : —
-- Produits / modèles : Agent prédictif pour projets machine learning (usages industriels).
-- Contrats & partenariats : —
+- Dernière MAJ : 19/06/2026
+- Financement : inclus dans les ~150 M$ cumulés des 7 startups AWS/NVIDIA Startup Village VivaTech (montant propre non isolé).
+- Produits / modèles : **Seldon** — modèle fondation tabulaire enterprise pour l'analytique prédictive ; fondée 2023. Agent prédictif pour projets machine learning (usages industriels).
+- Contrats & partenariats : Sélectionnée **Startup Village AWS/NVIDIA VivaTech 2026** (17-20/06/2026).
 - Orientations stratégiques : **Nuit de la Data et de l'IA 2026 — médaille de bronze** pour son agent prédictif ML. [Républik IT, 2026]
-- À surveiller : Levée de fonds ; clients industriels ; précision du domaine (manufacturing, maintenance prédictive ?).
+- À surveiller : Levée de fonds standalone ; clients industriels ; précision du domaine (manufacturing, maintenance prédictive ?).
+
+## pyannoteAI (France, intelligence du locuteur) — NOUVEAU ENTRANT
+- Dernière MAJ : 19/06/2026
+- Financement : non public (~20 M€ en préparation selon presse).
+- Produits / modèles : Diarization speaker streaming en temps réel (identification qui parle, quand, comment) ; premier modèle streaming diarization de qualité production commerciale. >1 milliard de téléchargements sur Hugging Face.
+- Fondée : 2024 (issue de 12 ans de recherche CNRS).
+- Contrats & partenariats : AWS (infrastructure). Sélectionnée **Startup Village AWS/NVIDIA VivaTech 2026** (17-20/06/2026). Démos live diarization temps réel sur audio réel.
+- Orientations stratégiques : Cible agents vocaux, transcription, industries réglementées.
+- À surveiller : Levée de fonds annoncée ; déploiements enterprise.
 
 ## Pleias (France, LLM open source / données ouvertes)
 - Dernière MAJ : —
@@ -87,13 +96,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : —
 - À surveiller : —
 
-## Gradium (France, domaine à confirmer)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+## Gradium (France, IA vocale — spin-off Kyutai)
+- Dernière MAJ : 19/06/2026
+- Financement : 70 M$ (≈60 M€) seed — décembre 2025 ; investisseurs : FirstMark Capital, Eurazeo, DST Global Partners, Eric Schmidt, Xavier Niel (Iliad), Rodolphe Saadé (CMA CGM), Korelya Capital, Amplify Partners.
+- Produits / modèles : Modèles audio ultra-basse latence pour agents vocaux (API en bêta prévue début 2026) ; inférence sur AWS G7e (NVIDIA RTX PRO 6000).
+- Contrats & partenariats : AWS (infrastructure inference principale). Présence Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06/2026).
+- Orientations stratégiques : Concurrencer les acteurs US de la voice tech (ElevenLabs, etc.) ; cible agents conversationnels et industries réglementées. Fondateurs : Neil Zeghidour (CEO), Alexandre Défossez (CSO), Olivier Teboul (CTO), Laurent Mazaré (CCO).
+- À surveiller : Lancement officiel API ; premiers clients enterprise ; prochaine levée.
 
 ## Genesis AI (France/US, robotique — world models pour la manipulation physique)
 - Dernière MAJ : 18/06/2026
@@ -289,15 +298,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 14/06/2026 : négociations cadres Anthropic à Washington ; Commission européenne (Regnier) demande mesures non discriminatoires. [Fortune/Euronews, 14/06/2026]
   - 16/06/2026 (J+4) : Délégation Washington identifiée : Nicholas Carlini, Logan Graham, Dave Orr, Tom Brown (co-fondateur, chief compute officer), Sarah Heck ; rencontres avec Lutnick et Sean Cairncross. Seul jalon officiel confirmé = vérification d'identité à partir du 8 juillet → suspension minimum 26 jours. Marchés prédictifs (Kalshi) : ~57 % probabilité rétablissement en juillet. [WSJ/CNBC/Kalshi, 14-16/06/2026]
   - 17/06/2026 (J+5) : Bloomberg titre « Anthropic's Mythos and Fable Models Trigger Policy Reversal by White House » — reconsidération de la position de l'administration, sans accord signé. [Bloomberg Newsletter, 16/06/2026]
-- À surveiller : Date de rétablissement effectif ; nature exacte de la « policy reversal » Bloomberg ; lien explicite entre cet épisode et calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude ; IPO (S-1 public estimé août, cotation estimée sept. 2026).
+  - 17-19/06/2026 (J+5 à J+7) : Globe and Mail (17/06) confirme des négociations actives entre Anthropic et des responsables Trump. Chris Ciauri (MD International) lors d'une conférence de presse : "We are very confident that in the coming days, the models will become available again." Pas de restauration d'accès au 19/06. [Globe and Mail 17/06 ; Korea JoongAng Daily 17/06/2026]
+- À surveiller : Date de rétablissement effectif ; conditions imposées par l'administration (vérification d'identité, restrictions géographiques) ; lien explicite entre cet épisode et calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude ; IPO (S-1 public estimé août, cotation estimée sept. 2026).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Dernière MAJ : 19/06/2026
+- Financement : filiale de Google (Alphabet)
+- Produits / modèles : Gemini 2.x (frontière), Gemma (open-weights), AlphaCode, AlphaFold, D4RT (Best Paper CVPR 2026, reconstruction dynamique 4D 18-300× plus rapide que l'état de l'art).
+- Contrats & partenariats : 19/06/2026 — **Appel à financement 10 M$ pour la sécurité multi-agents** : co-lancé avec Schmidt Sciences, la Cooperative AI Foundation et l'ARIA (UK) ; focus sur les risques de sécurité liés à l'interaction de millions d'agents IA hétérogènes (communication, négociation, transactions entre systèmes issus d'acteurs différents) ; deadline candidatures 8/08/2026, awardees attendus automne 2026. [deepmind.google, MIT Technology Review, 11/06/2026]
+- Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique.
+- À surveiller : Résultats de l'appel 10 M$ (awardées automne 2026) ; annonces Gemini 2.x ; travaux agents autonomes.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
 - Dernière MAJ : —

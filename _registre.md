@@ -60,4 +60,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 18/06/2026 | PRIVÉE-FR | Mistral Compute | bilan VivaTech 2026 (annoncé VivaTech 2025) ; datacenter Bruyères-le-Châtel attendu Q2 2026 | [SUITE]
 18/06/2026 | PRIVÉE-FR | Neuralk-AI | Nuit de la Data et de l'IA 2026 — bronze (agent prédictif ML) | [NOUVEAU]
 18/06/2026 | PRIVÉE-FR | Delos | Nuit de la Data et de l'IA 2026 — or (IAgen, suite bureautique GenAI « 1ère alternative EU ») | [NOUVEAU]
+19/06/2026 | PUBLIQUE-FR | France 2030 / Lecornu | 655 M€ supplémentaires pour l'IA (16/06) ; assistant conversationnel Mistral généralisé à ~1 M agents de l'État d'ici fin 2026 | [SUITE]
+19/06/2026 | PUBLIQUE-EU | VivaTech 2026 J1-J2 | Jensen Huang GTC Paris (confirmation datacenter Mistral Bruyères 13 800 GB300) ; Macron-Mensch-Huang en session conjointe ; Modi-Macron "troisième voie IA" (18/06) | [SUITE]
+19/06/2026 | PRIVÉE-MONDE | Anthropic Fable 5/Mythos 5 | Négociations Anthropic-Trump confirmées Globe and Mail 17/06 ; Chris Ciauri "confiant pour les prochains jours" ; accès toujours suspendu au 19/06 | [SUITE]
+19/06/2026 | PUBLIQUE-EU | AI Act / Digital Omnibus | Consultation haute-risque ouverte jusqu'au 23/06 ; report Annexe III → 2 déc. 2027 (accord prov. 7/05/2026) | [SUITE]
+19/06/2026 | PRIVÉE-MONDE | Google DeepMind / multi-agents safety | Appel à financement 10 M$ avec Schmidt Sciences, ARIA, Cooperative AI Foundation ; sécurité systèmes multi-agents ; deadline candidatures 8/08/2026 | [NOUVEAU]
+19/06/2026 | PRIVÉE-FR | Neuralk AI / Gradium / pyannoteAI | Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06) ; 7 startups européennes, ~470 emplois, >150 M$ cumulé | [SUITE / NOUVEAU]
+19/06/2026 | PRIVÉE-MONDE | OpenAI GPT-5.5 Instant santé | Améliorations santé (18/06) : niveau comparable aux modèles de raisonnement frontier sur benchmarks santé ; 230 M utilisateurs/sem | [NOUVEAU]
+19/06/2026 | NOUVEL-ENTRANT | pyannoteAI (France) | Spinout CNRS 2024, diarization speaker temps réel, >1 Md téléchargements HuggingFace, présente au Startup Village AWS/NVIDIA VivaTech | [NOUVEAU]
 
