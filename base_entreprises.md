@@ -22,13 +22,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM)
-- Dernière MAJ : 16/06/2026
-- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 16/06/2026 — statu quo : toujours « stade précoce » selon Bloomberg, aucun montant final, investisseur ou clôture annoncés.
-- Produits / modèles : —
-- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service annoncée pour fin juin 2026 (à confirmer, possiblement présentée à VivaTech 17-20/06/2026).
-  19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche) : startup fondée en 2024 spécialisée en « Physics AI » pour la simulation industrielle (LEMs — large engineering models pour la dynamique des fluides, déformation structurelle, turbulences). Secteurs : automobile, aéronautique, énergie, semi-conducteurs. Plus de 30 chercheurs et ingénieurs intégrés aux équipes Science et Applied AI de Mistral en mai 2026 ; ouverture d'un bureau à Linz (Autriche). Montant non divulgué (une source estimait >300 M€, non confirmé). Deuxième acquisition après Koyeb (cloud serverless, février 2026). [Mistral AI/Channel News/AI Insider, 19-26/05/2026]
-- Orientations stratégiques : Trajectoire de « champion souverain » européen ; montée en puissance de Mistral Compute (intégration verticale algorithmes → infrastructure) ; pivot vers l'IA industrielle (surrogate models, simulation physique) via acquisitions (Emmi AI) et investissements dans l'écosystème (co-fondateurs ont investi dans NPCo, 02/06/2026).
-- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; session Arthur Mensch à VivaTech 2026 (17/06) ; intégration commerciale d'Emmi AI ; suite du positionnement IA industrielle.
+- Dernière MAJ : 17/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 17/06/2026 — statu quo : toujours « stade précoce », aucun montant final, investisseur ou clôture annoncés.
+- Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : plateforme de surrogate modeling (réseaux de neurones répliquant en temps réel des simulateurs physiques — aérodynamique, thermodynamique, fluides, déformation des matériaux) présentée lors de la première conférence annuelle Mistral à Paris. Technologie centrale issue de l'acquisition Emmi AI. Arthur Mensch annonce par ailleurs l'exploration de la conception de puces propres. [The Next Web, Sifted, Bloomberg, CNBC, Euronews, 28/05/2026]
+- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service attendue fin juin 2026.
+  19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche) : startup fondée en 2024 spécialisée en « Physics AI » pour la simulation industrielle (LEMs — large engineering models pour la dynamique des fluides, déformation structurelle, turbulences). Plus de 30 chercheurs intégrés aux équipes Science et Applied AI de Mistral. Montant non divulgué. [Mistral AI/Channel News/AI Insider, 19-26/05/2026]
+  28/05/2026 — **Clients de lancement Industrial Engineering** : Airbus (contrat 5 ans, programmes défense/espace/hélicoptères), BMW (simulation de crash physics-aware), EDF, CMA CGM. [The Next Web/Sifted/Bloomberg/Euronews, 28/05/2026]
+- Orientations stratégiques : Pivot « full-stack AI company » ; ambition d'exploration de puces propres ; positionnement IA industrielle physique souveraine (concurrent Ansys AI, Siemens AI, Prometheus) ; co-fondateurs ont investi dans NPCo (02/06/2026) autour des surrogate models.
+- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; opérationnalité datacenter Bruyères fin juin ; annonces Arthur Mensch à VivaTech (semaine du 17/06) ; résultats commerciaux Mistral for Industrial Engineering.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : —
@@ -188,7 +189,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Produits / modèles : **Cobuild** — agent IA de construction de projets ML/IA en entreprise. Annoncé le 11/06/2026, disponibilité générale (GA) le 18/06/2026. Génère des pipelines, modèles ML, agents et applications production à partir d'instructions en langage naturel, avec gouvernance et revue humaine intégrées dans le Flow Dataiku. Supporte Snowflake Cortex, OpenAI, Anthropic, Bedrock, Gemini, Foundry, Databricks. [BusinessWire/Dataiku, 11/06/2026]
 - Contrats & partenariats : —
 - Orientations stratégiques : Pivot vers « Platform for AI Success » (mars 2026) — orchestration de l'IA agentique en entreprise, avec gouvernance comme différenciateur face à l'hyperautomatisation non contrôlée.
-- À surveiller : Adoption de Cobuild par les clients enterprise ; impact sur la concurrence avec Microsoft Fabric/Copilot Studio côté plateformes ML.
+- À surveiller : Adoption de Cobuild en GA (18/06/2026) ; impact sur la concurrence avec Microsoft Fabric/Copilot Studio côté plateformes ML.
 
 ## Prisme.ai (France, plateforme d'IA générative en entreprise)
 - Dernière MAJ : —
@@ -284,7 +285,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : 12/06/2026 (17h21 ET) — le gouvernement américain (Commerce, secrétaire Lutnick) a adressé à Anthropic une directive de contrôle export invoquant la sécurité nationale, exigeant la suspension de l'accès de tout ressortissant étranger (y compris salariés étrangers d'Anthropic) à Fable 5 et Mythos 5. Anthropic a désactivé l'accès pour tous les utilisateurs dans le monde par conformité, tout en contestant la décision (qui, selon elle, bloquerait tout déploiement de modèle frontière dans l'industrie si généralisée). Motif invoqué : méthode de « jailbreak » de Fable 5 (lecture de code et correction de failles), jugée mineure et déjà documentée. [anthropic.com/news/fable-mythos-access, CNN, CNBC, 12-13/06/2026]
   15/06/2026 — accès toujours suspendu (dernière communication officielle datée du 12/06, non mise à jour). Anthropic a envoyé des cadres dirigeants à Washington pour négocier le rétablissement. Selon Fortune (14/06) et le conseiller de la Maison Blanche David Sacks, c'est un signalement d'Amazon (PDG Andy Jassy en contact avec l'administration) qui a déclenché la directive, après refus de Dario Amodei de corriger le jailbreak ou de retirer le modèle ; Anthropic n'aurait eu que 90 minutes pour agir. Soupçons d'accès au modèle Mythos par un groupe lié à la Chine (risque de distillation) également évoqués. La Commission européenne a réagi le 14/06 (porte-parole Thomas Regnier) : les mesures de rétorsion US « ne doivent pas être discriminatoires », et l'épisode « illustre une fois de plus pourquoi l'Europe doit renforcer sa souveraineté technologique ». [Fortune, Euronews, Digit.in, 14/06/2026]
   16/06/2026 — Délégation Washington identifiée (WSJ 14/06, CNBC/UPI 15/06) : Nicholas Carlini (sécurité modèles), Logan Graham (évaluation risques), Dave Orr (safeguards), Tom Brown (co-fondateur, chief compute officer), Sarah Heck (public policy) ; rencontres avec Howard Lutnick (Commerce) et Sean Cairncross (directeur national cybersécurité). Au 15/06 : aucun accord, aucune date de rétablissement.
-- À surveiller : Date de rétablissement effectif de l'accès ; solution technique éventuelle (patch, API restreinte, modèle purgé) ; lien explicite éventuel entre cet épisode et le calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude.
+  17/06/2026 — Accès toujours suspendu (J+5). Nouvelles réunions à Washington le 16/06. Bloomberg (16/06) titre « Anthropic's Mythos and Fable Models Trigger Policy Reversal by White House » — formulation indiquant une reconsidération de la position de l'administration, sans accord signé ni date de rétablissement annoncée. [Bloomberg Newsletter, 16/06/2026 ; Axios « They screwed us », 15/06/2026 ; CNBC, 15/06/2026]
+- Dernière MAJ : 17/06/2026
+- À surveiller : Date de rétablissement effectif de l'accès ; nature exacte de la « policy reversal » Bloomberg (accord technique, restriction US-only, vérification d'identité ?) ; lien explicite éventuel entre cet épisode et le calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : —
@@ -425,5 +428,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : Acquise par Mistral AI (annonce 19/05/2026). 30+ chercheurs intégrés aux équipes Science et Applied AI de Mistral.
 - Orientations stratégiques : Fondée en 2024 à Vienne (Linz comme nouveau siège Mistral après acquisition). Secteurs ciblés : automobile, aéronautique, énergie, semi-conducteurs. Deuxième acquisition de Mistral après Koyeb (cloud serverless, février 2026).
 - À surveiller : Intégration dans l'offre Mistral pour l'industrie ; résultats commerciaux (contrats avec grands groupes industriels européens).
+
+## Prometheus (États-Unis, IA industrielle physique)
+- Dernière MAJ : 17/06/2026
+- Financement : Seed/Série A ~6,2 Md$ (fin 2025) ; Série B 12 Md$ (11/06/2026) — valorisation 41 Md$, financement total >18 Md$. Investisseurs Série B : JPMorgan, BlackRock, Goldman Sachs, DST Global, Arch Venture Partners.
+- Produits / modèles : « Artificial general engineer » — IA couvrant le pipeline complet conception→fabrication de produits physiques complexes (moteurs à réaction, molécules pharmaceutiques, pièces aéronautiques). Non un LLM conversationnel : centré sur la simulation physique et la génération automatisée de designs industriels.
+- Contrats & partenariats : —
+- Orientations stratégiques : Co-fondée fin 2025 par Jeff Bezos (co-CEO, fondateur Amazon et Blue Origin) et Vik Bajaj (co-CEO, chercheur Stanford). Bezos présente Prometheus sur la grande scène de VivaTech Paris le 17/06/2026. Concurrent direct de Mistral for Industrial Engineering, Siemens AI, Ansys AI et des jumeaux numériques.
+- À surveiller : Premiers clients industriels européens annoncés ; partenariats cloud/NVIDIA ; positionnement vis-à-vis de la réglementation IA industrielle UE.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->

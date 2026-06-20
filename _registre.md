@@ -40,4 +40,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 16/06/2026 | NOUVEL-ENTRANT | NP Company / NPCo (France) | pre-seed 6M€ Partech, backed par co-fondateurs Mistral, simulation physique IA aéro/défense/énergie, 02/06/2026 | [NOUVEAU]
 16/06/2026 | NOUVEL-ENTRANT | Physicl (France) | spin-off Nfinite, données 3D pour IA physique/robotique, sortie stealth GTC mars 2026, VivaTech 2026 | [NOUVEAU]
 16/06/2026 | PUBLIQUE-INT | Colorado | SB 26-189 signé 14/05/2026 : AI Act révisé retardé au 1er janv 2027, périmètre ADMT réduit, pivot délibéré du modèle EU | [NOUVEAU]
+17/06/2026 | PRIVÉE-MONDE | Anthropic | accès suspendu J+5 ; réunions Washington 16/06 ; Bloomberg 16/06 « policy reversal » évoquée sans accord signé | [SUITE]
+17/06/2026 | PRIVÉE-MONDE | Prometheus (Bezos / Bajaj) | Série B 12 Md$ à 41 Md$ val. (11/06) — « artificial general engineer » physique (moteurs, médicaments, pièces industrielles) ; Bezos sur scène VivaTech 17/06 | [NOUVEAU]
+17/06/2026 | PRIVÉE-FR | Mistral / Industrial Engineering | lancement 28/05 : surrogate models Airbus (5 ans, défense/espace), BMW, EDF, CMA CGM ; non capturé avant 17/06 | [NOUVEAU]
+17/06/2026 | PUBLIQUE-EU | VivaTech 2026 / NVIDIA GTC Paris | J1 17/06 : Jensen Huang keynote AI factories / IA souveraine / physique Europe ; Bezos (Prometheus) grande scène | [NOUVEAU]
+17/06/2026 | PUBLIQUE-INT | Inde-France / Bharat Innovates | Modi-Macron Nice 14/06 ; Modi à VivaTech 18/06 avec cadre MANAV (gouvernance IA) ; Inde partenaire IA officiel VivaTech | [NOUVEAU]
+17/06/2026 | PUBLIQUE-FR | France / AI Act | applicable intégralement 2/08/2026 ; CNIL autorité pilote (loi DDADUE 17/02/2026) ; sandbox réglementaire obligatoire d'ici l'échéance | [SUITE]
+17/06/2026 | PRIVÉE-FR | Dataiku / Cobuild | GA confirmée le 18/06/2026 | [SUITE]
+17/06/2026 | NOUVEL-ENTRANT | Physicl (France) | démonstration au Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06) | [SUITE]
 
