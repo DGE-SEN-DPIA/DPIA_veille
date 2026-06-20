@@ -22,36 +22,36 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM)
-- Dernière MAJ : 15/06/2026
-- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15/06/2026 — statu quo : toujours « stade précoce » selon Bloomberg, aucun montant final, investisseur ou clôture annoncés.
-- Produits / modèles : —
-- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service annoncée pour fin juin 2026 (à confirmer, possiblement présentée à VivaTech 17-20/06/2026).
-- Orientations stratégiques : Trajectoire de « champion souverain » européen ; montée en puissance de Mistral Compute (intégration verticale algorithmes → infrastructure).
-- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; mise en service effective du datacenter de l'Essonne ; intervention attendue d'Arthur Mensch à VivaTech 2026 (17-20/06).
+- Dernière MAJ : 18/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15-18/06/2026 — statu quo : aucune clôture ni investisseur annoncés.
+- Produits / modèles : **"L'Assistant"** — agent conversationnel généraliste (non classifié) alimenté par les modèles Mistral ; déployé à l'ensemble des agents de l'État français (~1 million) depuis le 16/06/2026, après pilote de 10 000 agents (DINUM, oct. 2025). Coût de la généralisation : 700 000 €. [France 24, 16/06/2026]
+- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service attendue fin Q2 2026. **Mistral Compute** (annoncé VivaTech juin 2025 : 18 000 GPU Grace Blackwell Superchip GB200, 40 MW Essonne) : bilan opérationnel présenté à VivaTech 2026 par Arthur Mensch. Partenaires early adopters : BNP Paribas, Orange, SNCF, Thales, Kyutai, Veolia, Schneider Electric.
+- Orientations stratégiques : Trajectoire de « champion souverain » européen ; pivot de « AI company software » vers « cloud company » (Arthur Mensch) ; principal fournisseur de modèles du secteur public français (L'Assistant + Ameli assistant santé annoncé 16/06).
+- À surveiller : Issue et investisseurs de la levée ~3 Md€ ; ouverture effective du datacenter Bruyères-le-Châtel ; extension de L'Assistant aux collectivités territoriales.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
+- Dernière MAJ : 18/06/2026
+- Financement : Seed/Série A — ~890 M€ (env. 1,03 Md$), mars 2026 ; investisseurs : Cathay Innovation, Hiro Capital (confirmés Bloomberg janv. 2026), parmi d'autres.
+- Produits / modèles : World models — IA visant à comprendre et modéliser les principes physiques du monde réel (causalité, dynamique des objets) ; repositionnement par rapport aux LLM "tokens" au profit de représentations continues de l'environnement.
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : Fondée par Yann LeCun (ex-VP AI Meta, lauréat Turing) et associés ; siège Paris ; focus embodied AI et IA physique. Entrée au **Next40 French Tech promotion 2026** (annoncé 15/06/2026). Keynote à VivaTech 2026 (Yann LeCun).
+- À surveiller : Premiers modèles ou démos publiques ; partenariats industriels (robotique, automobile) ; positionnement vs AMI Labs / Genesis AI sur le segment world models.
 
 ## H Company (France, agents IA)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 18/06/2026
 - Financement : —
 - Produits / modèles : Début juin 2026 — lancement de trois agents : Surfer H (poids ouverts sur Hugging Face/Amazon Marketplace, propulsé par le modèle visuel-langage propriétaire Holo-1, 92,2 % de succès sur le benchmark WebVoyager, coûts jusqu'à 5,5x inférieurs aux concurrents américains), Runner H (bêta publique, automatisation d'applications comme Gmail/Docs/Notion/Slack), Tester H (bêta privée, QA automatisée).
 - Contrats & partenariats : 04-05/06/2026 — a rejoint la « Nemotron Coalition » de Nvidia (coalition internationale de labos pour modèles de fondation open source de nouvelle génération), annoncé lors du GTC Taipei, avec accès à du calcul mutualisé. [H Company/Maddyness UK, 05/06/2026]
-- Orientations stratégiques : Positionnement agentique « computer use », en concurrence frontale avec Anthropic/OpenAI sur l'automatisation web/bureau.
-- À surveiller : Adoption de Surfer H en open weight ; retombées concrètes de la coalition Nemotron pour l'accès au calcul.
+- Orientations stratégiques : Positionnement agentique « computer use », en concurrence frontale avec Anthropic/OpenAI sur l'automatisation web/bureau. **Entrée au Next40 French Tech promotion 2026** (annoncé 15/06/2026). [Maddyness, 15/06/2026]
+- À surveiller : Adoption de Surfer H en open weight ; retombées concrètes de la coalition Nemotron pour l'accès au calcul ; levée de fonds.
 
-## Neuralk-AI (France, IA pour données tabulaires — domaine à confirmer)
-- Dernière MAJ : —
+## Neuralk-AI (France, IA industrielle / prédictif)
+- Dernière MAJ : 18/06/2026
 - Financement : —
-- Produits / modèles : —
+- Produits / modèles : Agent prédictif pour projets machine learning (usages industriels).
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : **Nuit de la Data et de l'IA 2026 — médaille de bronze** pour son agent prédictif ML. [Républik IT, 2026]
+- À surveiller : Levée de fonds ; clients industriels ; précision du domaine (manufacturing, maintenance prédictive ?).
 
 ## Pleias (France, LLM open source / données ouvertes)
 - Dernière MAJ : —
@@ -94,12 +94,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Genesis AI (France/US, robotique — world models pour la manipulation physique)
-- Dernière MAJ : 15/06/2026 [info capitalisée le 15/06, fait du 06-07/05/2026, hors fenêtre de la note du jour]
+- Dernière MAJ : 18/06/2026
 - Financement : Seed de 105 M$ (Eclipse, Khosla Ventures, Bpifrance, HSG, Eric Schmidt, Xavier Niel…), annoncé début mai 2026.
-- Produits / modèles : GENE-26.5 — modèle robotique pour manipulation physique de niveau humain (main robotique dextre), dévoilé début mai 2026.
+- Produits / modèles :
+  - GENE-26.5 — modèle robotique pour manipulation physique de niveau humain (main robotique dextre), dévoilé début mai 2026.
+  - **Eno** — premier robot humanoïde généraliste, lancé le 17/06/2026 ; propulsé par le foundation model GENE (dextérité + agentic AI + tâche autonome) ; design minimaliste : base à roues + bras anthropomorphes dextres, hauteur ajustable. [PRNewswire/Robotics and Automation News, 17/06/2026]
 - Contrats & partenariats : —
-- Orientations stratégiques : Fondée par Théophile Gervet (ex-Mistral AI) et Zhou Xian (Carnegie Mellon) ; double siège Paris/Silicon Valley.
-- À surveiller : Nouvelles annonces produit/partenariats industriels ; positionnement IA physique français.
+- Orientations stratégiques : Fondée par Théophile Gervet (ex-Mistral AI) et Zhou Xian (Carnegie Mellon) ; double siège Paris/Silicon Valley. Déploiements Eno prévus fin 2026 : manufacturing, logistique, laboratoires ; puis hôtels/hôpitaux ; puis usage domestique.
+- À surveiller : Premières commandes industrielles ; partenariats ; prochaine levée.
 
 ## Gobano Robotics (France, robotique)
 - Dernière MAJ : —
@@ -173,13 +175,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : —
 - À surveiller : —
 
-## Delos (France, domaine à confirmer)
-- Dernière MAJ : —
+## Delos (France, bureautique GenAI souveraine)
+- Dernière MAJ : 18/06/2026
 - Financement : —
-- Produits / modèles : —
+- Produits / modèles : **IAgen** — suite bureautique GenAI, présentée comme la « première alternative européenne AI native » aux solutions américaines (Microsoft 365 Copilot, Google Workspace AI).
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : **Nuit de la Data et de l'IA 2026 — médaille d'or** (IAgen). [Républik IT, 2026]
+- À surveiller : Levée de fonds ; déploiements enterprise ; positionnement SecNumCloud / marchés publics.
 
 ## Dataiku (France/US, plateforme data science & MLOps)
 - Dernière MAJ : —
@@ -189,13 +191,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : —
 - À surveiller : —
 
-## Prisme.ai (France, plateforme d'IA générative en entreprise)
-- Dernière MAJ : —
+## Prisme.ai (France, IA agentique souveraine pour l'entreprise)
+- Dernière MAJ : 18/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Produits / modèles : **SelfAI** — plateforme d'IA agentique souveraine pour l'entreprise.
+- Contrats & partenariats : **VivaTech 17-18/06/2026** — annonce de trois nouveaux clients : ArianeGroup (espace/défense), Pierre Fabre (pharmacie), ODDO BHF (banque), en présence de la ministre du Numérique et de son homologue allemand. [La Revue du Digital, 18/06/2026]
+- Orientations stratégiques : Positionnement IA agentique souveraine, en concurrence avec Dust, Delos, solutions américaines. Nuit de la Data et de l'IA 2026 — argent (SelfAI).
+- À surveiller : Extension sectorielle (défense, industrie) ; levée de fonds.
 
 ---
 
@@ -274,13 +276,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Calendrier IPO ; implantations européennes additionnelles.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 15/06/2026
+- Dernière MAJ : 18/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
-- Contrats & partenariats : —
-- Orientations stratégiques : 12/06/2026 (17h21 ET) — le gouvernement américain (Commerce, secrétaire Lutnick) a adressé à Anthropic une directive de contrôle export invoquant la sécurité nationale, exigeant la suspension de l'accès de tout ressortissant étranger (y compris salariés étrangers d'Anthropic) à Fable 5 et Mythos 5. Anthropic a désactivé l'accès pour tous les utilisateurs dans le monde par conformité, tout en contestant la décision (qui, selon elle, bloquerait tout déploiement de modèle frontière dans l'industrie si généralisée). Motif invoqué : méthode de « jailbreak » de Fable 5 (lecture de code et correction de failles), jugée mineure et déjà documentée. [anthropic.com/news/fable-mythos-access, CNN, CNBC, 12-13/06/2026]
-  15/06/2026 — accès toujours suspendu (dernière communication officielle datée du 12/06, non mise à jour). Anthropic a envoyé des cadres dirigeants à Washington pour négocier le rétablissement. Selon Fortune (14/06) et le conseiller de la Maison Blanche David Sacks, c'est un signalement d'Amazon (PDG Andy Jassy en contact avec l'administration) qui a déclenché la directive, après refus de Dario Amodei de corriger le jailbreak ou de retirer le modèle ; Anthropic n'aurait eu que 90 minutes pour agir. Soupçons d'accès au modèle Mythos par un groupe lié à la Chine (risque de distillation) également évoqués. La Commission européenne a réagi le 14/06 (porte-parole Thomas Regnier) : les mesures de rétorsion US « ne doivent pas être discriminatoires », et l'épisode « illustre une fois de plus pourquoi l'Europe doit renforcer sa souveraineté technologique ». [Fortune, Euronews, Digit.in, 14/06/2026]
-- À surveiller : Date de rétablissement effectif de l'accès ; lien explicite éventuel entre cet épisode et le calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude.
+- Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
+- Orientations stratégiques : **Suspension Fable 5/Mythos 5** — chronologie complète :
+  - 12/06/2026 (17h21 ET) : directive Lutnick (Commerce US, contrôle export, sécurité nationale) ; suspension mondiale ; 90 min de préavis ; déclenchée par signalement Amazon/Andy Jassy (jailbreak Fable 5) ; soupçons distillation par groupe lié Chine. [CNN/CNBC, 12-13/06/2026]
+  - 14/06/2026 : négociations cadres Anthropic à Washington ; Commission européenne (Regnier) demande mesures non discriminatoires. [Fortune/Euronews, 14/06/2026]
+  - 16/06/2026 (J+4) : accès toujours suspendu ; seul jalon officiel confirmé = vérification d'identité à partir du 8 juillet → suspension minimum 26 jours. Marchés prédictifs (Kalshi) : ~57 % probabilité rétablissement en juillet. [Kalshi, 16/06/2026]
+- À surveiller : Date de rétablissement effectif ; lien explicite entre cet épisode et calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude ; IPO (S-1 public estimé août, cotation estimée sept. 2026).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : —
@@ -331,12 +335,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## NVIDIA (États-Unis, semi-conducteurs / GPU)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 18/06/2026
 - Financement : —
-- Produits / modèles : 02/06/2026 — publication de « Cosmos 3 : Omnimodal World Models for Physical AI » (arXiv:2606.02800), poursuivant la lignée Cosmos de world models multimodaux pour la robotique et les véhicules autonomes.
-- Contrats & partenariats : 07/06/2026 — partenariats « AI factories souveraines » en Corée du Sud : NAVER (datacenter Gak Sejong, démarrage 55 MW vers l'échelle GW, plateforme NVIDIA DSX) et SK Telecom (AI Cloud à l'échelle du GW sur DSX, première AI factory opérationnelle en 2027). [NVIDIA Newsroom/Korea Herald, 07/06/2026]. 04-05/06/2026 — lancement de la « Nemotron Coalition » (modèles de fondation open source) lors du GTC Taipei, avec H Company (France) parmi les premiers membres.
+- Produits / modèles : 02/06/2026 — publication de « Cosmos 3 : Omnimodal World Models for Physical AI » (arXiv:2606.02800), poursuivant la lignée Cosmos de world models multimodaux pour la robotique et les véhicules autonomes. **Vera Rubin NVL72** — rack-scale AI supercomputer (successor H100/H200/B200, architecture Grace Blackwell ultra-scale).
+- Contrats & partenariats :
+  - 07/06/2026 — partenariats « AI factories souveraines » en Corée du Sud : NAVER (datacenter Gak Sejong, démarrage 55 MW → GW, plateforme DSX) et SK Telecom (AI Cloud GW sur DSX, 1ère AI factory opérationnelle 2027). [NVIDIA Newsroom/Korea Herald, 07/06/2026]
+  - 04-05/06/2026 — lancement de la « Nemotron Coalition » (modèles de fondation open source) lors du GTC Taipei, avec H Company (France) parmi les premiers membres.
+  - **17/06/2026, VivaTech** — partenariat Foxconn + Bull (Angers) + NVIDIA : composants Vera Rubin NVL72 fabriqués en République tchèque, assemblés et validés à l'usine Bull d'Angers (France). Premier rack IA de niveau mondial assemblé sur sol français. [PRNewswire/Hon Hai, 17/06/2026]
+  - Europe (depuis VivaTech 2025) : Mistral Compute (18 000 GB200, Essonne), Nebius/Nscale UK (14 000 Blackwell), Allemagne (10 000 Blackwell) = >3 000 exaflops souverains. Bilan de déploiement présenté à VivaTech 2026 (GTC Paris keynote Jensen Huang, 17-20/06/2026).
 - Orientations stratégiques : Diffusion de la plateforme DSX comme modèle reproductible pour des « AI factories souveraines » nationales.
-- À surveiller : Réplication du modèle coréen (NAVER/SK Telecom) en Europe/France ; rôle de la Nemotron Coalition pour les acteurs français.
+- À surveiller : Déploiement effectif des 20+ AI factories européennes ; montée en puissance ENPIRE (AI agents + hardware robotics).
 
 ---
 
@@ -373,6 +381,29 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : —
 - Orientations stratégiques : Confirmation de l'afflux massif de capitaux vers les labos chinois et de la montée en puissance des agents autonomes open/semi-open.
 - À surveiller : DeepSeek, ByteDance, Zhipu AI — aucune annonce de premier plan datée dans la fenêtre du 01-15/06/2026, à rebalayer.
+
+## Foxconn / Hon Hai Technology Group (Taïwan, hardware industriel + IA physique)
+- Dernière MAJ : 18/06/2026
+- Financement : —
+- Produits / modèles : Robots humanoïdes industriels (stack fermé : simulation → NVIDIA Isaac GR00T → production).
+- Contrats & partenariats : **17/06/2026, VivaTech** — accord avec Bull (Atos/Eviden, Angers) et NVIDIA : composants Vera Rubin NVL72 fabriqués dans les usines Foxconn (République tchèque), assemblés et validés à l'usine Bull d'Angers. Première production de rack IA de niveau mondial sur sol français (manufacturier européen). [PRNewswire/Hon Hai, 17/06/2026 ; TechTimes, 17/06/2026]
+- Orientations stratégiques : Débuts européens à VivaTech 2026 ; IA physique et AI factories comme nouveau périmètre d'activité.
+- À surveiller : Extension du partenariat Bull/Angers ; commandes européennes de Vera Rubin.
+
+## Bull / Eviden (France, services IT & hardware — groupe Atos)
+- Dernière MAJ : 18/06/2026
+- Financement : —
+- Produits / modèles : —
+- Contrats & partenariats : **17/06/2026, VivaTech** — usine Bull d'Angers choisie pour l'assemblage et la validation des racks NVIDIA Vera Rubin NVL72 (composants Foxconn/CZ). Membre du consortium AION (AI Gigafactory, avec Scaleway, Ardian, Capgemini, EDF, Orange, iliad…). [PRNewswire/Hon Hai, 17/06/2026]
+- Orientations stratégiques : Retour dans la chaîne de valeur hardware IA souveraine européenne.
+- À surveiller : Capacité de montée en puissance de l'usine d'Angers ; part souveraine de la production Vera Rubin.
+
+## Gladia (France, IA vocale — en cours d'acquisition par OVH Groupe)
+- Dernière MAJ : 18/06/2026
+- Financement : En cours d'acquisition par OVH Groupe (négociations exclusives annoncées 11/06/2026 ; montant non divulgué).
+- Produits / modèles : Transcription speech-to-text temps réel + batch, 100+ langues ; audio intelligence.
+- Contrats & partenariats : 300 000 développeurs, 2 000 clients enterprise (HeyGen, Livestorm, Leexi, Recall.ai…). Sera intégré à l'AI Lab OVHai post-acquisition.
+- À surveiller : Clôture de l'acquisition ; montant ; intégration dans OVHai (brique vocale souveraine).
 
 ---
 
