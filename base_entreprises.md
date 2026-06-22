@@ -21,15 +21,17 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 # France — Écosystème IA
 
-## Mistral (France, modèles de fondation / LLM)
-- Dernière MAJ : 18/06/2026
-- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15-18/06/2026 — statu quo : toujours « stade précoce », aucune clôture ni investisseur annoncés.
-- Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : plateforme de surrogate modeling (réseaux de neurones répliquant en temps réel des simulateurs physiques — aérodynamique, thermodynamique, fluides, déformation des matériaux) présentée lors de la première conférence annuelle Mistral à Paris. Technologie centrale issue de l'acquisition Emmi AI. Arthur Mensch annonce par ailleurs l'exploration de la conception de puces propres. [The Next Web, Sifted, Bloomberg, CNBC, Euronews, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel généraliste (non classifié) alimenté par les modèles Mistral ; déployé à l'ensemble des agents de l'État français (~1 million) depuis le 16/06/2026, après pilote de 10 000 agents (DINUM, oct. 2025). Coût de la généralisation : 700 000 €. [France 24, 16/06/2026]
-- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300), financé par 830 M$ (722 M€) de dette levée fin mars 2026 auprès de sept banques européennes, opéré par Eclairion ; mise en service attendue fin Q2 2026. **Mistral Compute** (annoncé VivaTech juin 2025 : 18 000 GPU Grace Blackwell Superchip GB200, 40 MW Essonne) : bilan opérationnel présenté à VivaTech 2026 par Arthur Mensch. Partenaires early adopters : BNP Paribas, Orange, SNCF, Thales, Kyutai, Veolia, Schneider Electric.
-  19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche) : startup fondée en 2024 spécialisée en « Physics AI » pour la simulation industrielle (LEMs — large engineering models pour la dynamique des fluides, déformation structurelle, turbulences). Plus de 30 chercheurs intégrés aux équipes Science et Applied AI de Mistral. Montant non divulgué. [Mistral AI/Channel News/AI Insider, 19-26/05/2026]
-  28/05/2026 — **Clients de lancement Industrial Engineering** : Airbus (contrat 5 ans, programmes défense/espace/hélicoptères), BMW (simulation de crash physics-aware), EDF, CMA CGM. [The Next Web/Sifted/Bloomberg/Euronews, 28/05/2026]
-- Orientations stratégiques : Trajectoire de « champion souverain » européen ; pivot de « AI company software » vers « cloud company » (Arthur Mensch) ; principal fournisseur de modèles du secteur public français (L'Assistant + Ameli assistant santé annoncé 16/06) ; positionnement IA industrielle physique souveraine (concurrent Ansys AI, Siemens AI, Prometheus) ; co-fondateurs ont investi dans NPCo (02/06/2026) autour des surrogate models.
-- À surveiller : Issue et investisseurs de la levée ~3 Md€ (statu quo au 19/06, pas d'annonce à VivaTech) ; ouverture effective du datacenter Bruyères-le-Châtel (attendue fin juin 2026, "going live" selon AI Chat Daily [1 source] — confirmation officielle Eclairion/Mistral non encore publiée) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Mistral for Industrial Engineering. Note : la session Macron + Jensen Huang + Arthur Mensch était à VivaTech 2025 (11/06/2025) — ne pas attribuer à VivaTech 2026.
+## Mistral (France, modèles de fondation / LLM / cloud souverain)
+- Dernière MAJ : 22/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15-22/06/2026 — statu quo : toujours « stade précoce », aucune clôture ni investisseur annoncés.
+  19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
+- Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
+- Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300 selon DCD mars 2026 / 18 000 GB200 selon VentureBeat 19/06 — discordance à confirmer), financé par 830 M$ (722 M€) de dette (Bpifrance, BNP, CA-CIB, HSBC, La Banque Postale, MUFG, Natixis), opéré par Eclairion. **OPÉRATIONNEL** avec clients enterprise (confirmé à VivaTech, 19/06/2026). Partenaires early adopters : BNP Paribas, Orange, SNCF, Thales, Kyutai, Veolia, Schneider Electric.
+  19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche), Physics AI pour simulation industrielle, >30 chercheurs intégrés. [Mistral AI/Channel News, 19-26/05/2026]
+  28/05/2026 — **Clients Industrial Engineering** : Airbus (5 ans, défense/espace), BMW (crash simulation), EDF, CMA CGM.
+  10/06/2026 — **Mistral / Digital Realty** : 10 MW de cluster IA sur datacenter Digital Realty Paris. [DCD, 28/05/2026]
+- Orientations stratégiques : Pivot « cloud full-stack company » (Mensch, VivaTech 19/06) ; concurrent direct des hyperscalers US pour les marchés publics et industriels EU ; trajectoire 200 MW en Europe d'ici 2027 (France + Suède) ; positionnement IA industrielle physique souveraine. Arthur Mensch explore également la conception de puces propres [CNBC, 28/05].
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -155,12 +157,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Owkin (France, IA pour la santé / biotech)
-- Dernière MAJ : 15/06/2026
-- Financement : —
-- Produits / modèles : Plateforme « AI Scientist » K Pro.
-- Contrats & partenariats : 05/06/2026 — extension pluriannuelle du partenariat avec Sanofi (initié en 2021), incluant une licence de 5 ans pour K Pro, pour le co-développement d'agents IA de nouvelle génération en biopharma. [BusinessWire/owkin.com, 05/06/2026]
-- Orientations stratégiques : Spin-off Waiv (diagnostics IA), financement de 33 M$ annoncé [date précise non confirmée, capitalisé le 15/06/2026, à recroiser].
-- À surveiller : Détails financiers et calendrier de déploiement de l'accord Sanofi élargi ; trajectoire de Waiv.
+- Dernière MAJ : 22/06/2026
+- Financement : 12/03/2026 — Spin-off Waiv (ex-Owkin Dx, diagnostics IA) : 33 M$ de financement annoncé. [BusinessWire, 12/03/2026]
+- Produits / modèles : Plateforme « AI Scientist » K Pro — agents IA pour la biopharma (identification de cibles, décisions de développement de médicaments, pipelines scientifiques autonomes).
+- Contrats & partenariats :
+  05/06/2026 — **Collaboration pluriannuelle avec Sanofi** : licence 5 ans pour K Pro ; Owkin co-développe des agents IA biopharma de nouvelle génération ; extension d'un partenariat historique €90 M (depuis 2021, oncologie). [BusinessWire/owkin.com, 05/06/2026]
+  Mai 2026 — **Accord similaire avec AstraZeneca** : agents IA pour l'intelligence compétitive et les workflows décisionnels. [Owkin news]
+- Orientations stratégiques : Pivot vers un modèle « agent-as-a-service » dans la pharma réglementée mondiale ; deux contrats majeurs (Sanofi + AstraZeneca) en deux mois confirment la demande de délégation autonome de tâches scientifiques complexes.
+- À surveiller : Détails financiers contrats Sanofi/AstraZeneca ; performance des agents K Pro en R&D clinique réelle ; trajectoire de Waiv ; levée Owkin principale.
 
 ## Bioptimus (France, modèles de fondation pour la biologie)
 - Dernière MAJ : —
@@ -288,8 +292,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : Course à l'IPO avec Anthropic (dépôts S-1 à une semaine d'écart) ; expansion européenne (Espagne) ; pivot vers la bataille des intégrateurs en entreprise via le Partner Network.
 - À surveiller : Calendrier IPO ; implantations européennes additionnelles ; quelles ESN/cabinets français/européens rejoignent le Partner Network.
 
+## L'Oréal (France, cosmétiques / grand groupe CAC 40)
+- Dernière MAJ : 22/06/2026
+- Financement : coté CAC 40, non startup. CA 2025 : ~42 Md€.
+- Produits / modèles : ModiFace (technologie try-on beauté AR) ; CreAItech (plateforme interne GenAI contenu beauté).
+- Contrats & partenariats :
+  17/06/2026 (VivaTech) — **L'Oréal × OpenAI** : OpenAI partenaire fondateur du programme "Transformative AI" de L'Oréal. Périmètre : Maybelline try-on maquillage dans ChatGPT (via ModiFace) ; GPT-Rosalind pour mapping microbiome cutané La Roche-Posay ; CreAItech sur modèles OpenAI ; ChatGPT AI-native advertising (SkinCeuticals, CeraVe, Garnier). [L'Oréal Finance/BeautyMatter, 17/06/2026]
+  17/06/2026 (VivaTech) — **L'Oréal × NVIDIA** : NVIDIA AI Enterprise pour le rendu 3D produits et le déploiement IA L'Oréal. [BW Confidential, 17/06/2026]
+- Orientations stratégiques : Intégration de l'IA dans l'ensemble de la chaîne de valeur (R&D, contenu marketing, commerce agentique). Signal de bascule d'un grand groupe français du CAC 40 vers des partenaires IA américains (vs. Mistral/souveraineté).
+- À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
+
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 18/06/2026
+- Dernière MAJ : 22/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -299,7 +313,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 16/06/2026 (J+4) : Délégation Washington identifiée : Nicholas Carlini, Logan Graham, Dave Orr, Tom Brown (co-fondateur, chief compute officer), Sarah Heck ; rencontres avec Lutnick et Sean Cairncross. Seul jalon officiel confirmé = vérification d'identité à partir du 8 juillet → suspension minimum 26 jours. Marchés prédictifs (Kalshi) : ~57 % probabilité rétablissement en juillet. [WSJ/CNBC/Kalshi, 14-16/06/2026]
   - 17/06/2026 (J+5) : Bloomberg titre « Anthropic's Mythos and Fable Models Trigger Policy Reversal by White House » — reconsidération de la position de l'administration, sans accord signé. [Bloomberg Newsletter, 16/06/2026]
   - 17-19/06/2026 (J+5 à J+7) : Globe and Mail (17/06) confirme des négociations actives entre Anthropic et des responsables Trump. Chris Ciauri (MD International) lors d'une conférence de presse : "We are very confident that in the coming days, the models will become available again." Pas de restauration d'accès au 19/06. [Globe and Mail 17/06 ; Korea JoongAng Daily 17/06/2026]
-- À surveiller : Date de rétablissement effectif ; conditions imposées par l'administration (vérification d'identité, restrictions géographiques) ; lien explicite entre cet épisode et calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude ; IPO (S-1 public estimé août, cotation estimée sept. 2026).
+  - 22/06/2026 (J+10) : Toujours suspendu — aucun accord signé, aucune restauration. Négociations en cours. Fable 5 devait quitter les plans Pro/Max/Team le 22/06 (bascule crédits d'usage) — jamais effectif du fait de la suspension.
+- À surveiller : Date de rétablissement effectif ; conditions imposées par l'administration (vérification d'identité le 8 juillet, restrictions géographiques) ; lien explicite entre cet épisode et calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude ; IPO (S-1 public estimé août, cotation estimée sept. 2026).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 19/06/2026

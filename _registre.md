@@ -68,4 +68,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 19/06/2026 | PRIVÉE-FR | Neuralk AI / Gradium / pyannoteAI | Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06) ; 7 startups européennes, ~470 emplois, >150 M$ cumulé | [SUITE / NOUVEAU]
 19/06/2026 | PRIVÉE-MONDE | OpenAI GPT-5.5 Instant santé | Améliorations santé (18/06) : niveau comparable aux modèles de raisonnement frontier sur benchmarks santé ; 230 M utilisateurs/sem | [NOUVEAU]
 19/06/2026 | NOUVEL-ENTRANT | pyannoteAI (France) | Spinout CNRS 2024, diarization speaker temps réel, >1 Md téléchargements HuggingFace, présente au Startup Village AWS/NVIDIA VivaTech | [NOUVEAU]
+22/06/2026 | PUBLIQUE-FR | Tibi 3 / Bercy | 13 Md€ engagés (cible 15 Md€ fin 2026), ~40 partenaires dont SNCF/RATP/Eutelsat (première fois entreprises publiques), moitié deeptech IA/quantique/biotech/spatial, annoncé par Roland Lescure à VivaTech 19/06/2026 | [NOUVEAU]
+22/06/2026 | PRIVÉE-FR | Mistral Compute | Datacenter Bruyères-le-Châtel opérationnel avec clients enterprise (19/06 VivaTech) ; 18 000 GB200 déployés [à confirmer vs. 13 800 GB300 DCD mars 2026] ; annonce extension Suède 1,4 Md$ ; cible 200 MW Europe 2027 ; Mensch : Mistral "full-stack cloud company" | [SUITE]
+22/06/2026 | PUBLIQUE-EU | AI Act haute-risque consultation | Délai prolongé de 4 semaines : nouvelle échéance 23 juillet 2026 (était 23 juin) ; lignes directrices finales attendues fin 2026 | [SUITE]
+22/06/2026 | PRIVÉE-FR | L'Oréal × OpenAI + NVIDIA | Deux partenariats stratégiques annoncés à VivaTech 17/06 (non capturés) : OpenAI partenaire fondateur "Transformative AI" L'Oréal (ChatGPT/ModiFace/GPT-Rosalind/CreAItech) + NVIDIA AI Enterprise pour rendu 3D et IA L'Oréal | [NOUVEAU]
+22/06/2026 | PRIVÉE-FR | Owkin × Sanofi | Licence K Pro 5 ans (agents IA biopharma next-gen) annoncée 05/06/2026 (non capturée) ; extension partenariat €90M depuis 2021 ; second contrat similaire avec AstraZeneca mai 2026 | [NOUVEAU]
+22/06/2026 | PRIVÉE-MONDE | Anthropic Fable 5/Mythos 5 | J+10 au 22/06, toujours suspendu, aucun accord signé ; négociations Trump-Anthropic en cours ; prochain jalon 8 juillet | [SUITE]
+22/06/2026 | PUBLIQUE-EU | VivaTech 2026 bilan final | 200 000 visiteurs, 165 nationalités, ×4 fréquentation en 10 ans, festival J4 grand public (20/06), Thomas Pesquet ESA | [SUITE]
+22/06/2026 | PUBLIQUE-EU | AION / EuroHPC gigafactory | Deadline candidatures EuroHPC AI Gigafactories fermée 23/06 ; candidature AION déposée (~10 Md€, 100 MW→1 GW) ; sélection attendue fin 2026 | [SUITE]
 
