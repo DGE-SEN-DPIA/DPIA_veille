@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VivaTech 2026 — Récapitulatif des annonces</title>
+<style>
+  :root{
+    --paper:#F7F7F3;
+    --paper-2:#F1F0EA;
+    --ink:#1C1E22;
+    --ink-soft:#3D4148;
+    --rule:#D9D6CC;
+    --blue:#1E3A5F;
+    --blue-soft:#E8EDF2;
+    --warn:#8C3A26;
+    --warn-soft:#F3E7E1;
+    --ok:#3A6B52;
+    --ok-soft:#E6EEE8;
+    --meta:#71706A;
+    --serif:'Iowan Old Style','Palatino Linotype','Georgia',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+    --mono:'SF Mono','IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace;
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:16px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  a{color:var(--blue);}
+
+  /* ── Skip-to-content / focus ───────────────────────── */
+  a:focus-visible, button:focus-visible{
+    outline:2px solid var(--blue);
+    outline-offset:2px;
+  }
+
+  /* ── Masthead ───────────────────────────────────────── */
+  header.masthead{
+    border-bottom:3px solid var(--ink);
+    padding:48px 24px 28px;
+    max-width:920px;
+    margin:0 auto;
+  }
+  .eyebrow{
+    font-family:var(--mono);
+    font-size:11.5px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--meta);
+    display:flex;
+    gap:10px;
+    align-items:center;
+    margin-bottom:14px;
+  }
+  .eyebrow .dot{width:5px;height:5px;border-radius:50%;background:var(--warn);}
+  h1{
+    font-family:var(--serif);
+    font-weight:600;
+    font-size:clamp(28px,4.4vw,42px);
+    line-height:1.08;
+    margin:0 0 10px;
+    letter-spacing:-.01em;
+  }
+  .deck{
+    font-size:15.5px;
+    color:var(--ink-soft);
+    max-width:640px;
+  }
+  .meta-line{
+    margin-top:22px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:18px;
+    font-family:var(--mono);
+    font-size:12px;
+    color:var(--meta);
+  }
+  .meta-line strong{color:var(--ink);}
+
+  /* ── Legend ─────────────────────────────────────────── */
+  .legend{
+    max-width:920px;
+    margin:22px auto 0;
+    padding:14px 24px 0;
+    display:flex;
+    gap:22px;
+    flex-wrap:wrap;
+    font-size:13px;
+    color:var(--ink-soft);
+  }
+  .legend span{display:inline-flex;align-items:center;gap:7px;}
+  .tag{
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+    font-family:var(--mono);
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:.02em;
+    padding:2px 8px;
+    border-radius:3px;
+  }
+  .tag.ok{background:var(--ok-soft);color:var(--ok);}
+  .tag.warn{background:var(--warn-soft);color:var(--warn);}
+
+  /* ── TOC ────────────────────────────────────────────── */
+  nav.toc{
+    max-width:920px;
+    margin:30px auto 0;
+    padding:20px 24px;
+    background:var(--paper-2);
+    border:1px solid var(--rule);
+    border-radius:6px;
+  }
+  nav.toc h2{
+    font-family:var(--mono);
+    font-size:11px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--meta);
+    margin:0 0 12px;
+  }
+  nav.toc ol{
+    margin:0;
+    padding:0;
+    list-style:none;
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:6px 28px;
+  }
+  nav.toc li a{
+    display:flex;
+    gap:10px;
+    text-decoration:none;
+    color:var(--ink);
+    font-size:14px;
+    padding:5px 0;
+    border-bottom:1px solid transparent;
+  }
+  nav.toc li a:hover{border-bottom-color:var(--blue);}
+  nav.toc li a .n{
+    font-family:var(--mono);
+    color:var(--meta);
+    font-size:13px;
+    min-width:16px;
+  }
+
+  /* ── Main ───────────────────────────────────────────── */
+  main{
+    max-width:920px;
+    margin:0 auto;
+    padding:8px 24px 80px;
+  }
+
+  section.chapter{
+    margin-top:56px;
+    scroll-margin-top:24px;
+  }
+  .chapter-head{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    border-bottom:2px solid var(--ink);
+    padding-bottom:10px;
+    margin-bottom:24px;
+  }
+  .chapter-num{
+    font-family:var(--serif);
+    font-size:15px;
+    color:var(--meta);
+  }
+  .chapter-head h2{
+    font-family:var(--serif);
+    font-weight:600;
+    font-size:23px;
+    margin:0;
+    letter-spacing:-.01em;
+  }
+
+  .context-note{
+    background:var(--blue-soft);
+    border-left:3px solid var(--blue);
+    padding:12px 16px;
+    font-size:14px;
+    color:var(--ink-soft);
+    margin-bottom:22px;
+    border-radius:0 4px 4px 0;
+  }
+  .context-note strong{color:var(--blue);}
+
+  /* ── Annonce card ───────────────────────────────────── */
+  article.item{
+    padding:20px 0 22px;
+    border-bottom:1px solid var(--rule);
+  }
+  article.item:last-child{border-bottom:none;padding-bottom:4px;}
+
+  .item-head{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:baseline;
+    gap:10px 12px;
+    margin-bottom:8px;
+  }
+  .item-head h3{
+    font-family:var(--serif);
+    font-weight:600;
+    font-size:18px;
+    margin:0;
+    line-height:1.3;
+  }
+  .status{
+    font-family:var(--mono);
+    font-size:10.5px;
+    font-weight:700;
+    letter-spacing:.04em;
+    padding:2px 7px;
+    border-radius:3px;
+    white-space:nowrap;
+    text-transform:uppercase;
+  }
+  .status.ok{background:var(--ok-soft);color:var(--ok);}
+  .status.note{background:var(--paper-2);color:var(--meta);border:1px solid var(--rule);}
+
+  .item-date{
+    font-family:var(--mono);
+    font-size:12.5px;
+    color:var(--meta);
+    font-style:italic;
+  }
+
+  .item-body{
+    font-size:15px;
+    color:var(--ink-soft);
+  }
+  .item-body p{margin:0 0 10px;}
+  .item-body ul{
+    margin:8px 0 10px;
+    padding-left:20px;
+  }
+  .item-body li{margin-bottom:7px;}
+  .item-body strong{color:var(--ink);font-weight:600;}
+
+  .sources{
+    margin-top:10px;
+    font-family:var(--mono);
+    font-size:12px;
+    color:var(--meta);
+    display:flex;
+    gap:7px;
+  }
+  .sources::before{content:"§";color:var(--rule);font-weight:700;}
+
+  .flag{
+    margin-top:10px;
+    display:flex;
+    gap:9px;
+    align-items:flex-start;
+    background:var(--warn-soft);
+    border-radius:4px;
+    padding:9px 12px;
+    font-size:13.5px;
+    color:#6B2A1B;
+  }
+  .flag .ico{flex-shrink:0;line-height:1.3;}
+
+  /* ── Closing note ───────────────────────────────────── */
+  .closing{
+    margin-top:60px;
+    padding:24px 24px 22px;
+    background:var(--ink);
+    color:var(--paper);
+    border-radius:6px;
+  }
+  .closing h2{
+    font-family:var(--mono);
+    font-size:11px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:#B9C3CE;
+    margin:0 0 10px;
+  }
+  .closing p{
+    font-size:14px;
+    line-height:1.65;
+    color:#E4E4DF;
+    margin:0;
+  }
+  .closing strong{color:#fff;}
+
+  footer{
+    max-width:920px;
+    margin:32px auto 0;
+    padding:18px 24px 0;
+    border-top:1px solid var(--rule);
+    font-family:var(--mono);
+    font-size:11.5px;
+    color:var(--meta);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+
+  @media (max-width:640px){
+    header.masthead{padding:36px 18px 22px;}
+    main{padding:8px 18px 60px;}
+    nav.toc ol{grid-template-columns:1fr;}
+    .legend{padding:14px 18px 0;}
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    html{scroll-behavior:auto;}
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="eyebrow"><span class="dot"></span>DGE · Note de veille — document de travail</div>
+  <h1>VivaTech 2026<br>Récapitulatif des annonces</h1>
+  <p class="deck">Synthèse factuelle et sourcée des annonces faites à l'occasion de la 10ᵉ édition du salon. Chaque entrée indique sa date réelle et son statut de vérification — un soin particulier a été porté à distinguer ce qui relève de l'édition 2026 de ce qui appartient à des séquences antérieures.</p>
+  <div class="meta-line">
+    <span><strong>10ᵉ édition</strong> · 17–20 juin 2026</span>
+    <span>Paris Expo Porte de Versailles</span>
+    <span>Consolidé à partir de la presse et des notes de veille DPIA (15–22 juin 2026)</span>
+  </div>
+</header>
+
+<div class="legend">
+  <span><span class="tag ok">✅ 2026</span> annoncé pendant le salon ou sa veille immédiate</span>
+  <span><span class="tag warn">⚠️ vigilance</span> antérieur au salon, à recouper, ou non documenté</span>
+</div>
+
+<nav class="toc" aria-label="Sommaire">
+  <h2>Sommaire</h2>
+  <ol>
+    <li><a href="#s1"><span class="n">01</span> Infrastructure &amp; calcul souverain</a></li>
+    <li><a href="#s2"><span class="n">02</span> Startups IA &amp; écosystème privé</a></li>
+    <li><a href="#s3"><span class="n">03</span> Partenariats grands groupes × IA</a></li>
+    <li><a href="#s4"><span class="n">04</span> Commande publique &amp; État</a></li>
+    <li><a href="#s5"><span class="n">05</span> Diffusion de l'IA &amp; écosystème (DGE/Bpifrance)</a></li>
+    <li><a href="#s6"><span class="n">06</span> Prix &amp; lauréats</a></li>
+    <li><a href="#s7"><span class="n">07</span> Pays à l'honneur</a></li>
+    <li><a href="#s8"><span class="n">08</span> Souveraineté numérique européenne</a></li>
+  </ol>
+</nav>
+
+<main>
+
+  <!-- ════════ 1 ════════ -->
+  <section class="chapter" id="s1">
+    <div class="chapter-head">
+      <span class="chapter-num">01</span>
+      <h2>Infrastructure &amp; calcul souverain</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Foxconn + Bull (Eviden) + NVIDIA — assemblage de racks IA en France</h3>
+        <span class="status ok">✅ 2026 · 17/06</span>
+      </div>
+      <div class="item-body">
+        <p>Partenariat industriel formalisé le 17/06 : les composants du rack <strong>Vera Rubin NVL72</strong> (architecture Grace Blackwell ultra-scale, successeur H100/H200) seront fabriqués dans les usines Foxconn (République tchèque) puis <strong>assemblés et validés à Angers</strong>, dans l'usine Bull. Investissement initial <strong>supérieur à 120 M€</strong>. Premier engagement de production de matériel IA de niveau rack-scale sur sol européen ; Bull (Atos/Eviden) retrouve un rôle de production hardware stratégique. Foxconn a simultanément présenté ses premiers robots humanoïdes en Europe (stack physique fermé : simulation → entraînement NVIDIA Isaac GR00T → production).</p>
+      </div>
+      <div class="sources">PRNewswire / Hon Hai, 17/06/2026 · TechTimes, 17/06/2026 · communiqué Bull</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Mistral Compute — mise en service opérationnelle + extension Suède</h3>
+        <span class="status ok">✅ 2026 · 19/06</span>
+        <span class="status note">infrastructure annoncée en 2025</span>
+      </div>
+      <div class="item-body">
+        <p>Arthur Mensch a annoncé le 19/06 que <strong>Mistral Compute est opérationnel et sert des clients entreprise</strong>. Le datacenter de <strong>Bruyères-le-Châtel</strong> (Essonne, opéré par Eclairion, 44 MW visés) déploie ses premiers systèmes. Annonce simultanée d'une <strong>extension en Suède (1,4 Md$ supplémentaires)</strong> pour atteindre <strong>200 MW de capacité en Europe d'ici 2027</strong>. Mensch a positionné Mistral comme un « cloud company full-stack » concurrent des hyperscalers, partenaires de lancement incluant Black Forest Labs (Allemagne), BNP Paribas et Thales.</p>
+      </div>
+      <div class="sources">VentureBeat, 19/06/2026 · TechTimes, 20/06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Discordance à confirmer sur le nombre de GPU : 13 800 GB300 (DataCenter Dynamics, mars 2026) vs 18 000 GB200 (VentureBeat, 19/06) — probablement deux clusters distincts, à confirmer par Eclairion/Mistral.</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Île-de-France — chaîne de valeur IA « de la puce au cloud »</h3>
+        <span class="status ok">✅ 2026 · 17/06</span>
+      </div>
+      <div class="item-body">
+        <p>Partenariat entre la Région, <strong>Scaleway</strong>, le fabricant de puces francilien <strong>VSORA</strong> (processeurs d'inférence) et l'éditeur <strong>ZML</strong>, pour bâtir une chaîne de valeur IA entièrement française. La Région devient par ailleurs la première à se doter d'une <strong>stratégie régionale d'implantation des datacenters</strong> (vote prévu le 25/06).</p>
+      </div>
+      <div class="sources">Région Île-de-France, 17/06/2026 · ActuIA</div>
+    </article>
+  </section>
+
+  <!-- ════════ 2 ════════ -->
+  <section class="chapter" id="s2">
+    <div class="chapter-head">
+      <span class="chapter-num">02</span>
+      <h2>Startups IA &amp; écosystème privé</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Genesis AI lance « Eno »</h3>
+        <span class="status ok">✅ 2026 · 17/06</span>
+      </div>
+      <div class="item-body">
+        <p>Premier <strong>robot humanoïde généraliste</strong> de Genesis AI (startup Paris / Silicon Valley), propulsé par le foundation model propriétaire <strong>GENE</strong> (dextérité + IA agentique + exécution autonome de tâches). Design à roues + bras anthropomorphes ; déploiements cibles fin 2026 (manufacturing, logistique, laboratoires). Fondateurs : Théophile Gervet (ex-Mistral AI) et Zhou Xian (Carnegie Mellon).</p>
+      </div>
+      <div class="sources">PRNewswire · Robotics and Automation News, 17/06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Le seed de 105 M$ (Khosla Ventures, Bpifrance, Eric Schmidt, Xavier Niel) date de l'été 2025 — antérieur au salon.</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Mistral « Vibe » + IA industrielle</h3>
+        <span class="status ok">✅ 2026 · 19/06</span>
+      </div>
+      <div class="item-body">
+        <p>Mistral a confirmé au salon le rebrand <strong>Le Chat → Vibe</strong> (lancé le 28/05) et l'expansion de son offre IA industrielle.</p>
+      </div>
+      <div class="sources">VentureBeat, 19/06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>L'offre « Mistral for Industrial Engineering » avec Airbus/BMW/EDF/CMA CGM a été annoncée le 28/05, hors salon.</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Startup Village AWS/NVIDIA — 7 startups européennes (5 françaises)</h3>
+        <span class="status ok">✅ 2026 · 17–20/06</span>
+      </div>
+      <div class="item-body">
+        <p>Sélection AWS/NVIDIA représentant ~470 emplois et &gt;150 M$ de financement cumulé récent. Parmi elles :</p>
+        <ul>
+          <li><strong>Neuralk AI</strong> (FR, 2023) — modèle de fondation tabulaire pour l'analytique prédictive entreprise.</li>
+          <li><strong>Gradium</strong> (FR, spin-off Kyutai, 2025) — modèles audio ultra-basse latence pour agents vocaux.</li>
+          <li><strong>pyannoteAI</strong> (FR, 2024, issue de 12 ans de recherche CNRS) — diarization en streaming temps réel ; &gt;1 Md de téléchargements Hugging Face.</li>
+          <li><strong>Physicl</strong> (FR, spin-off Nfinite, 2026) — données 3D simulation-ready pour robots et world models.</li>
+        </ul>
+      </div>
+      <div class="sources">aboutamazon.eu, 17/06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Le seed Gradium (70 M$, décembre 2025) est antérieur au salon.</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Prisme.ai — trois nouveaux clients stratégiques</h3>
+        <span class="status ok">✅ 2026 · 17–18/06</span>
+      </div>
+      <div class="item-body">
+        <p>L'éditeur d'IA agentique souveraine a annoncé <strong>ArianeGroup</strong> (espace), <strong>Pierre Fabre</strong> (pharmacie) et <strong>ODDO BHF</strong> (banque), en présence de la ministre du Numérique et de son homologue allemand.</p>
+      </div>
+      <div class="sources">La Revue du Digital, 18/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Présences marquantes (sessions plénières)</h3>
+        <span class="status ok">✅ 2026 · 17/06</span>
+      </div>
+      <div class="item-body">
+        <ul>
+          <li><strong>Jeff Bezos / Prometheus</strong> — présentation de l'« IA physique » industrielle.</li>
+          <li><strong>Yann LeCun / AMI Labs</strong> — première intervention comme président exécutif, défense des « world models » (architecture JEPA).</li>
+        </ul>
+      </div>
+      <div class="flag"><span class="ico">⚠️</span><span>La série B Prometheus (12 Md$, val. 41 Md$) a été bouclée le 11/06 ; la levée AMI Labs (1,03 Md$) date de mars 2026 — les deux antérieures au salon.</span></div>
+    </article>
+  </section>
+
+  <!-- ════════ 3 ════════ -->
+  <section class="chapter" id="s3">
+    <div class="chapter-head">
+      <span class="chapter-num">03</span>
+      <h2>Partenariats grands groupes × IA</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>L'Oréal × OpenAI + L'Oréal × NVIDIA</h3>
+        <span class="status ok">✅ 2026 · 17/06</span>
+      </div>
+      <div class="item-body">
+        <p>Double partenariat stratégique annoncé le 17/06 :</p>
+        <ul>
+          <li><strong>L'Oréal × OpenAI</strong> : OpenAI devient « partenaire fondateur » du programme <em>Transformative AI</em>. Intégration de l'essai virtuel de maquillage <strong>ModiFace</strong> de Maybelline dans ChatGPT ; déploiement de <strong>GPT-Rosalind</strong> pour cartographier le microbiome cutané (La Roche-Posay) ; bascule de la plateforme interne <strong>CreAItech</strong> sur OpenAI ; pilote de publicité intégrée (SkinCeuticals, CeraVe, Garnier).</li>
+          <li><strong>L'Oréal × NVIDIA</strong> : NVIDIA AI Enterprise pour le rendu 3D produits et le développement IA.</li>
+        </ul>
+      </div>
+      <div class="sources">L'Oréal Finance, 17/06/2026 · BW Confidential, 17/06/2026 · Silicon.fr</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>GenAI footprint — outil open source inter-entreprises</h3>
+        <span class="status ok">✅ 2026</span>
+      </div>
+      <div class="item-body">
+        <p>Neuf grands groupes européens ont créé <strong>GenAI footprint</strong>, outil open source d'estimation de l'impact environnemental des contenus produits par IA générative, ciblant notamment la génération vidéo. À l'origine : <strong>Publicis, AXA, Engie, Groupe La Poste/La Banque Postale</strong>, rejoints par <strong>Accor, FDJ United, Orange, L'Oréal, Renault Group</strong>.</p>
+      </div>
+      <div class="sources">MCFactory, 06/2026</div>
+    </article>
+  </section>
+
+  <!-- ════════ 4 ════════ -->
+  <section class="chapter" id="s4">
+    <div class="chapter-head">
+      <span class="chapter-num">04</span>
+      <h2>Commande publique &amp; État (France)</h2>
+    </div>
+
+    <div class="context-note"><strong>Séquence du 16/06 (veille du salon)</strong> — Annonces faites par le Premier ministre Sébastien Lecornu, cadrées par le gouvernement comme le volet « innovation française » de VivaTech 2026.</div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Enveloppe France 2030 — 655 M€ supplémentaires pour l'IA</h3>
+        <span class="status ok">✅ 16/06/2026</span>
+      </div>
+      <div class="item-body">
+        <p>655 M€ via France 2030 pour l'infrastructure, le calcul, la recherche, les entreprises et les filières industrielles.</p>
+      </div>
+      <div class="sources">Franceinfo · Journal du Net · info.gouv.fr, 16/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>« L'Assistant » — agent conversationnel souverain pour ~1 M d'agents de l'État</h3>
+        <span class="status ok">✅ 16/06/2026</span>
+      </div>
+      <div class="item-body">
+        <p>Généralisation de <strong>« L'Assistant »</strong>, agent fondé sur les modèles <strong>Mistral AI</strong>, à l'ensemble des agents de l'État (~1 million de fonctionnaires), après pilote DINUM de 10 000 agents (oct. 2025). Coût estimé : <strong>700 000 €</strong>. Premier déploiement d'un LLM souverain à cette échelle en Europe ; choix de Mistral explicitement assumé face aux alternatives non européennes.</p>
+      </div>
+      <div class="sources">France 24 · Franceinfo, 16/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>ChapsVision en substitution de Palantir à la DGSI</h3>
+        <span class="status ok">✅ 16/06/2026</span>
+      </div>
+      <div class="item-body">
+        <p>Sélection de l'entreprise française <strong>ChapsVision</strong> par la <strong>DGSI</strong> en remplacement de <strong>Palantir</strong>, dans une logique de réduction des dépendances stratégiques.</p>
+      </div>
+      <div class="sources">info.gouv.fr · La Revue du Digital, 16/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Autres mesures IA / services publics</h3>
+        <span class="status ok">✅ 16/06/2026</span>
+      </div>
+      <div class="item-body">
+        <ul>
+          <li><strong>Chatbot santé public</strong> sur Ameli.fr (orientation dans le parcours de soins), d'ici fin 2026.</li>
+          <li><strong>Plateforme de données publiques</strong> pour l'IA (démographiques, économiques, administratives, géographiques).</li>
+        </ul>
+      </div>
+      <div class="sources">info.gouv.fr, 16/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Tibi 3 — 13 Md€ pour la deeptech</h3>
+        <span class="status ok">✅ 2026 · 19/06 (J3)</span>
+      </div>
+      <div class="item-body">
+        <p>Le ministre de l'Économie <strong>Roland Lescure</strong> a officialisé la phase 3 de l'initiative Tibi : <strong>13 Md€ engagés</strong> (cible 15 Md€ fin 2026) par ~40 investisseurs institutionnels privés, dont la moitié fléchée vers la deeptech (IA, quantique, biotech, spatial). Fait structurant : entrée pour la première fois d'<strong>entreprises publiques (SNCF, RATP, Eutelsat)</strong> dans la coalition. Total mobilisé depuis 2019 : 31 Md€.</p>
+      </div>
+      <div class="sources">presse.economie.gouv.fr · Maddyness, 19/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>France Travail — plateforme métiers du numérique / IA</h3>
+        <span class="status ok">✅ 2026</span>
+      </div>
+      <div class="item-body">
+        <p>Présentation en avant-première d'une plateforme dédiée aux métiers du numérique, de la tech et de l'IA (ouverture à l'automne, lancement officiel en septembre).</p>
+      </div>
+      <div class="sources">Android DZ (direct VivaTech), 18/06/2026</div>
+    </article>
+  </section>
+
+  <!-- ════════ 5 ════════ -->
+  <section class="chapter" id="s5">
+    <div class="chapter-head">
+      <span class="chapter-num">05</span>
+      <h2>Diffusion de l'IA &amp; soutien à l'écosystème — dispositifs DGE / Bpifrance</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Plan « Osez l'IA » — nouvelle étape opérationnelle</h3>
+        <span class="status ok">✅ 2026 · 17/06</span>
+        <span class="status note">plan lancé en 2025</span>
+      </div>
+      <div class="item-body">
+        <p>À l'occasion du salon, <strong>Anne Le Hénanff</strong> (ministre déléguée chargée de l'IA et du Numérique), <strong>Bruno Bonnell</strong> (SGPI) et <strong>Nicolas Dufourcq</strong> (DG Bpifrance) ont annoncé une nouvelle étape du plan <strong>« Osez l'IA »</strong> (lancé en juillet 2025 ; cible 2030 : 100 % des grandes entreprises, 80 % des PME/ETI, 50 % des TPE). Mesures :</p>
+        <ul>
+          <li><strong>Réseau des « Ambassadeurs IA » élargi</strong> : +45 nouveaux ambassadeurs, portant le total à <strong>615</strong>, répartis dans 20 régions et collectivités, sur 13 secteurs, désormais étendu aux Outre-mer. En neuf mois, plus de <strong>35 000 entreprises</strong> déjà touchées.</li>
+          <li><strong>Plateforme « Accélérez avec l'IA »</strong> (Bpifrance) lancée le 17/06 : plus de <strong>75 cas d'usage concrets</strong> sectoriels, enrichie au fil de l'eau.</li>
+          <li><strong>Deux dispositifs d'accompagnement</strong> cofinancés France 2030, opérés par Bpifrance Conseil : les <strong>« Diags Data IA »</strong> (PME/ETI ; 10 000 € HT, pris en charge à 40 %, enveloppe 9,6 M€) et les <strong>« Accélérateurs IA »</strong> (18 mois, pris en charge à 46 %, enveloppe 2 M€ ; éligibilité PME/ETI &gt; 8 M€ de CA, &gt; 50 collaborateurs, &gt; 3 ans).</li>
+          <li><strong>Catalogue d'offreurs de solutions souveraines d'IA</strong> pour PME/ETI annoncé pour l'été 2026, constitué des lauréats de l'AMI lancé le 13 mai 2026 par la DGE et le SGPI.</li>
+        </ul>
+      </div>
+      <div class="sources">DGE / presse.economie.gouv.fr / Bpifrance, 18/06/2026 · Banque des Territoires, 06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Le plan lui-même a été lancé en juillet 2025 / annoncé à VivaTech 2025. Ce qui est nouveau en 2026 est sa phase opérationnelle (ambassadeurs, plateforme, dispositifs, catalogue).</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>« Je choisis la French Tech » — bilan, élargissement, et lancement de « Choose European Tech »</h3>
+        <span class="status ok">✅ 2026 · 17–18/06</span>
+      </div>
+      <div class="item-body">
+        <p>Le programme de commande publique et privée orienté vers les startups françaises (lancé en juin 2023 ; objectif : doubler les achats publics/privés d'ici 2027, cible 12 Md€) change d'échelle :</p>
+        <ul>
+          <li><strong>Neuf nouveaux grands groupes</strong> rejoignent l'initiative — Atos, Bouygues Construction, Crédit Agricole, Eutelsat, Fnac Darty, Groupama, Groupe Rocher, Safran, Stellantis — portant à <strong>23</strong> le nombre de grands groupes engagés, pour un engagement collectif <strong>dépassant 2 Md€ d'achats</strong>.</li>
+          <li><strong>Un ambassadeur désigné dans chaque ministère</strong> — relais de la commande publique vers l'écosystème.</li>
+          <li><strong>Lancement de « Choose European Tech »</strong> : extension du modèle français à l'échelle européenne, réunissant <strong>huit pays</strong> (France, Belgique, Allemagne, Espagne, Portugal, République tchèque, Roumanie, Serbie).</li>
+        </ul>
+      </div>
+      <div class="sources">presse.economie.gouv.fr · Usine Digitale · Les Echos, 17–18/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>France Tourisme Tech — lancement de la 4ᵉ édition</h3>
+        <span class="status ok">✅ 2026 · 19/06</span>
+      </div>
+      <div class="item-body">
+        <p>Le ministre du Tourisme <strong>Serge Papin</strong> a lancé depuis le salon l'appel à manifestation d'intérêt de la <strong>4ᵉ édition</strong> du programme <strong>France Tourisme Tech</strong>, piloté par la DGE (lancé en 2023, ~80 partenaires). Bilan depuis 2021 : <strong>35 startups accompagnées</strong>, plus de <strong>55 expérimentations</strong>, dont <strong>10 industrialisées</strong>. Candidatures jusqu'au <strong>20/09/2026</strong>.</p>
+      </div>
+      <div class="sources">economie.gouv.fr · L'Écho touristique, 19/06/2026</div>
+    </article>
+  </section>
+
+  <!-- ════════ 6 ════════ -->
+  <section class="chapter" id="s6">
+    <div class="chapter-head">
+      <span class="chapter-num">06</span>
+      <h2>Prix &amp; lauréats</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Cérémonie des startups (TechCrunch)</h3>
+        <span class="status ok">✅ 2026 · 19/06</span>
+      </div>
+      <div class="item-body">
+        <ul>
+          <li><strong>Innovation de l'année</strong> : Hodo Bravo (Karim Boussetta)</li>
+          <li><strong>Female Founder Award</strong> : Liz Dennett</li>
+          <li><strong>Tech for Change</strong> : Alithea Biotechnology</li>
+          <li><strong>AfricaTech Award</strong> : SURGiA</li>
+        </ul>
+      </div>
+      <div class="sources">Android DZ, 19/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>VivaTech × Bloomberg Awards</h3>
+        <span class="status ok">✅ 2026 · 18/06</span>
+        <span class="status note">format nouveau</span>
+      </div>
+      <div class="item-body">
+        <ul>
+          <li><strong>Visionary Award</strong> : Sir Tim Berners-Lee (Inrupt)</li>
+          <li><strong>Leadership Award</strong> : Joe Tsai (Alibaba)</li>
+          <li><strong>Momentum Award</strong> : Yann LeCun (AMI Labs)</li>
+          <li><strong>Breakthrough Award</strong> : Peter Steinberger (OpenClaw / OpenAI Codex)</li>
+          <li><strong>Investor Award</strong> : Jeannette zu Fürstenberg (General Catalyst)</li>
+          <li><strong>Rising Star</strong> : May Habib (Writer)</li>
+          <li><strong>CitizenTech Award</strong> : Ukraine (reçu par la vice-ministre N. Denikeieva)</li>
+        </ul>
+      </div>
+      <div class="sources">TechTimes, 20/06/2026</div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>LVMH Innovation Award (format en 3 prix)</h3>
+        <span class="status ok">✅ 2026 · 18–19/06</span>
+      </div>
+      <div class="item-body">
+        <ul>
+          <li><strong>Best Business Award</strong> : Synthesia (vidéos d'entreprise générées par IA)</li>
+          <li><strong>Best Impact Award</strong> : Fairly Made (traçabilité des matières)</li>
+          <li><strong>Most Promising Award</strong> : Bluefish (visibilité des marques sur les moteurs d'IA générative)</li>
+        </ul>
+      </div>
+      <div class="sources">LVMH · Luxus Plus, 18–19/06/2026</div>
+    </article>
+  </section>
+
+  <!-- ════════ 7 ════════ -->
+  <section class="chapter" id="s7">
+    <div class="chapter-head">
+      <span class="chapter-num">07</span>
+      <h2>Pays à l'honneur</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Allemagne — « Country of the Year »</h3>
+        <span class="status ok">✅ 2026</span>
+      </div>
+      <div class="item-body">
+        <p>Première nation <strong>européenne</strong> à recevoir le titre. Délégation sans précédent : plus grand stand de l'histoire du salon (<strong>800 m²</strong>), <strong>200 startups</strong>, ~150 partenaires, <strong>14 Länder</strong>, 12 entités gouvernementales, deux ministres fédéraux (<strong>Karsten Wildberger</strong>, Numérique ; <strong>Dorothee Bär</strong>, Recherche/Technologie/Espace). Titre accepté par Wildberger aux côtés du ministre français de l'Économie <strong>Roland Lescure</strong> — cadrage explicite de coopération franco-allemande sur la souveraineté (ligne du sommet de Berlin, nov. 2025). Citation de Wildberger : « La souveraineté n'est pas l'isolement. C'est l'ouverture en position de force. »</p>
+      </div>
+      <div class="sources">VivaTech (communiqué) · TechTimes, 20/06/2026 · Ministère fédéral allemand des Affaires étrangères</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Aucun contrat bilatéral franco-allemand chiffré signé au salon n'a été identifié dans les sources.</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Inde — « AI Country Partner »</h3>
+        <span class="status ok">✅ 2026 · 18/06</span>
+      </div>
+      <div class="item-body">
+        <p><strong>Narendra Modi</strong> sur scène avec <strong>Emmanuel Macron</strong> le 18/06 ; pavillon de <strong>80+ startups deeptech</strong> inauguré le 17/06 par le ministre Piyush Goyal, en présence d'Anne Le Hénanff. Modi a présenté le <strong>cadre de gouvernance IA MANAV</strong> et défendu une IA « inclusive pour tous », citant l'accord de libre-échange Inde-UE et l'infrastructure publique numérique indienne (UPI). Séquence inscrite dans l'<strong>Année de l'Innovation Inde-France 2026</strong>.</p>
+      </div>
+      <div class="sources">Euronews · info.fr · TechTimes, 18–20/06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Sur les accords concrets : plusieurs accords startups indiennes-françaises évoqués « sans détails officiellement communiqués » ; aucun mécanisme opérationnel formalisé identifié — récit de « troisième voie » essentiellement déclaratif à ce stade.</span></div>
+    </article>
+  </section>
+
+  <!-- ════════ 8 ════════ -->
+  <section class="chapter" id="s8">
+    <div class="chapter-head">
+      <span class="chapter-num">08</span>
+      <h2>Souveraineté numérique européenne</h2>
+    </div>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Définition commune franco-allemande de la souveraineté / du service numérique européen</h3>
+        <span class="status ok">✅ 2026 · 18/06</span>
+      </div>
+      <div class="item-body">
+        <p>Sept mois après le Sommet sur la souveraineté numérique de Berlin (nov. 2025), <strong>Anne Le Hénanff</strong> et son homologue allemand <strong>Karsten Wildberger</strong> ont présenté une <strong>définition commune de la souveraineté numérique européenne</strong>, articulée autour de <strong>six principes</strong> (maîtrise des technologies, protection des données, résilience des infrastructures, etc.). Cette définition partagée vise à <strong>alimenter les futurs textes européens</strong>, du <strong>CADA</strong> au <strong>Quantum Act</strong>, et à faire converger les positions des deux États sur la qualification d'un service numérique « européen ». Les deux ministres ont également lancé un <strong>Forum franco-allemand</strong> dédié.</p>
+      </div>
+      <div class="sources">Alliancy, 18/06/2026 · communiqués DGE / ministère allemand du Numérique</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Cohérence à vérifier avec le « livrable direct du Sommet souveraineté numérique » (groupe de travail sur la définition partagée d'un service numérique européen) suivi par la DGE.</span></div>
+    </article>
+
+    <article class="item">
+      <div class="item-head">
+        <h3>Autres signaux souveraineté repérés au salon</h3>
+        <span class="status note">importance secondaire</span>
+      </div>
+      <div class="item-body">
+        <ul>
+          <li><strong>Partenariat Inria × Fraunhofer</strong> signé en présence de Le Hénanff et Wildberger (European Centre for AI Excellence) ; annonce de centres binationaux en IA avec l'Allemagne (DFKI) et l'Inde.</li>
+          <li><strong>Bpifrance × KfW Capital</strong> : mobilisation de <strong>400 M€</strong> pour le capital-risque (axe franco-allemand).</li>
+          <li>Présence institutionnelle européenne forte : <strong>Henna Virkkunen</strong> (VP exécutive Commission, souveraineté technologique) sur scène aux côtés de Le Hénanff et Wildberger.</li>
+        </ul>
+      </div>
+      <div class="sources">Inria, programme VivaTech 2026 · Studeria, 06/2026</div>
+      <div class="flag"><span class="ico">⚠️</span><span>Montant Bpifrance × KfW (400 M€) à recouper sur source primaire avant citation.</span></div>
+    </article>
+  </section>
+
+  <div class="closing">
+    <h2>Note de cadrage — vérification des dates</h2>
+    <p>Tous les blocs ci-dessus sont datés et rattachés à <strong>VivaTech 2026 (17–20/06)</strong> ou à sa veille immédiate (séquence État du 16/06). Rappels de vigilance : <strong>Mistral Compute</strong> (infrastructure annoncée à VivaTech 2025, ici bilan opérationnel 2026) ; la <strong>session Macron + Huang + Mensch</strong> appartient à VivaTech 2025 ; les levées <strong>Prometheus / AMI Labs / Genesis</strong> sont antérieures au salon ; le plan <strong>« Osez l'IA »</strong> a été lancé en 2025, seule sa phase opérationnelle est nouvelle en 2026.</p>
+  </div>
+
+</main>
+
+<footer>
+  <span>Document de travail DGE — sources presse et veille DPIA</span>
+  <span>À recouper sur sources primaires avant citation institutionnelle</span>
+</footer>
+
+</body>
+</html>
