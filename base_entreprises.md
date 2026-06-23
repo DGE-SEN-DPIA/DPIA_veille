@@ -67,12 +67,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Levée de fonds annoncée ; déploiements enterprise.
 
 ## Pleias (France, LLM open source / données ouvertes)
-- Dernière MAJ : —
+- Dernière MAJ : 23/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Produits / modèles :
+  Juin 2026 — **SYNTH** : premier dataset génératif généraliste open source CC-BY-SA pour l'entraînement de petits modèles de raisonnement (79,6 M exemples, 41 Md mots, ~75 Md tokens Pleias tokenizer), basé sur 58 698 articles Wikipedia (Wikimedia Enterprise). Co-release avec l'AI Alliance. [huggingface.co/datasets/PleIAs/SYNTH]
+  Juin 2026 — **Baguettotron** : modèle de raisonnement entraîné exclusivement sur SYNTH (200 Md tokens, 80 couches) — best-in-class pour sa catégorie de taille sur MMLU et benchmarks de raisonnement. [HuggingFace, Threads @sung.kim.mw]
+- Contrats & partenariats : Co-publication SYNTH avec l'AI Alliance. Soutenu par LANGU:IA (start-up d'État, DINUM/Ministère de la Culture), préfiguration d'ALT-EDIC.
+- Orientations stratégiques : Fondé par Pierre-Carl Langlais. Focus données ouvertes, reproducibilité, open science. SYNTH = démonstration qu'un dataset 100 % ouvert peut former des modèles compétitifs.
+- À surveiller : Date exacte de release SYNTH ; adoption par d'autres labos ; levée de fonds ; prochains modèles.
 
 ## Photoroom (France, IA générative d'images)
 - Dernière MAJ : —
@@ -303,18 +305,20 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 22/06/2026
+- Dernière MAJ : 23/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
 - Orientations stratégiques : **Suspension Fable 5/Mythos 5** — chronologie complète :
+  - 02/06/2026 : EO Trump "Promoting Advanced AI Innovation and Security" signé — base légale du mécanisme de contrôle gouvernemental pré-release (30j d'accès gouvernemental volontaire avant déploiement aux partenaires). Non capturé dans les notes antérieures.
   - 12/06/2026 (17h21 ET) : directive Lutnick (Commerce US, contrôle export, sécurité nationale) ; suspension mondiale ; 90 min de préavis ; déclenchée par signalement Amazon/Andy Jassy (jailbreak Fable 5) ; soupçons distillation par groupe lié Chine. [CNN/CNBC, 12-13/06/2026]
   - 14/06/2026 : négociations cadres Anthropic à Washington ; Commission européenne (Regnier) demande mesures non discriminatoires. [Fortune/Euronews, 14/06/2026]
-  - 16/06/2026 (J+4) : Délégation Washington identifiée : Nicholas Carlini, Logan Graham, Dave Orr, Tom Brown (co-fondateur, chief compute officer), Sarah Heck ; rencontres avec Lutnick et Sean Cairncross. Seul jalon officiel confirmé = vérification d'identité à partir du 8 juillet → suspension minimum 26 jours. Marchés prédictifs (Kalshi) : ~57 % probabilité rétablissement en juillet. [WSJ/CNBC/Kalshi, 14-16/06/2026]
-  - 17/06/2026 (J+5) : Bloomberg titre « Anthropic's Mythos and Fable Models Trigger Policy Reversal by White House » — reconsidération de la position de l'administration, sans accord signé. [Bloomberg Newsletter, 16/06/2026]
-  - 17-19/06/2026 (J+5 à J+7) : Globe and Mail (17/06) confirme des négociations actives entre Anthropic et des responsables Trump. Chris Ciauri (MD International) lors d'une conférence de presse : "We are very confident that in the coming days, the models will become available again." Pas de restauration d'accès au 19/06. [Globe and Mail 17/06 ; Korea JoongAng Daily 17/06/2026]
-  - 22/06/2026 (J+10) : Toujours suspendu — aucun accord signé, aucune restauration. Négociations en cours. Fable 5 devait quitter les plans Pro/Max/Team le 22/06 (bascule crédits d'usage) — jamais effectif du fait de la suspension.
-- À surveiller : Date de rétablissement effectif ; conditions imposées par l'administration (vérification d'identité le 8 juillet, restrictions géographiques) ; lien explicite entre cet épisode et calendrier CADA ; réactions d'opérateurs français utilisateurs de Claude ; IPO (S-1 public estimé août, cotation estimée sept. 2026).
+  - 16/06/2026 (J+4) : Délégation Washington identifiée : Nicholas Carlini, Logan Graham, Dave Orr, Tom Brown (co-fondateur), Sarah Heck. Jalon officiel : vérification d'identité à partir du 8 juillet. Kalshi : ~57 % probabilité rétablissement en juillet. [WSJ/CNBC/Kalshi]
+  - 17-19/06/2026 (J+5-7) : Négociations actives confirmées (Globe and Mail 17/06). Chris Ciauri : "We are very confident that in the coming days, the models will become available again." Pas de restauration au 19/06.
+  - 22/06/2026 (J+10) : Toujours suspendu, aucun accord signé.
+  - 18/06/2026 : **Cadre conjoint de risque IA Maison Blanche/Anthropic** en cours de rédaction (Politico/TheStreet) — premier co-drafting régulateur-lab aux États-Unis ; définira les seuils d'intervention gouvernementale sur modèles frontière. [TheStreet, 18/06/2026]
+  - 23/06/2026 (J+11) : Toujours suspendu. Prochains jalons : 2 juillet (livrables EO cyber-défenses), 8 juillet (vérification identité Anthropic).
+- À surveiller : Date de rétablissement effectif ; contenu du framework conjoint (publication attendue avant 1er août) ; conditions imposées par l'administration ; IPO (S-1 public estimé août, cotation estimée sept. 2026) ; Anthropic/DoD dispute (Wikipedia mentionne un différend DoD distinct — à vérifier).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 19/06/2026
@@ -405,12 +409,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Labos chinois (à préciser : DeepSeek, Alibaba/Qwen, Zhipu AI, Moonshot AI, ByteDance…)
-- Dernière MAJ : 16/06/2026
-- Financement : Moonshot AI (Kimi) — **CORRECTIF** : tour de 2 Md$ à une valorisation de 20 Md$ **clôturé en mai 2026** (lead : Long-Z Investments/Meituan, avec Tsinghua Capital, China Mobile, CPE Yuanfeng ; ARR > 200 M$ en avril 2026). [AI Insider, 08/05/2026]. Distinct du 3e tour cherché à 30 Md$ de valorisation signalé par Bloomberg (08/06/2026) — ce 3e tour reste au stade précoce au 16/06.
-- Produits / modèles : Alibaba — Qwen3.7-Plus lancé le 02/06/2026, agent multimodal (perception écran, contrôle GUI, génération de code). [MarkTechPost, 02/06/2026]. DeepSeek V4 (V4-Pro 1,6T params + V4-Flash 284B) — preview lancé le 24/04/2026, stable au 08/06/2026. Moonshot AI / Kimi — K2.7-Code lancé le 12/06/2026 (1T params, open source MIT modifié) ; HighSpeed mode annoncé le 15/06/2026 (180-260 tok/s, ×6 vs standard). [TechTimes/DevOps.com, 15/06/2026]
+- Dernière MAJ : 23/06/2026
+- Financement :
+  **DeepSeek** — ~16/06/2026 : **premier tour externe clôturé**, ~7,4 Md$ (50 Md yuan), valorisation 50 Md$+. Structure inédite : capital privé dans une LP gérée par CEO Liang Wenfeng (pas d'equity directe, pas de droits de vote, lock-up 5 ans pour LP commerciaux) ; seul le **Fonds national d'investissement en IA** (État chinois) reçoit des parts directes avec droits de vote. Backers : Liang Wenfeng (~20 Md yuan), Tencent (~10 Md yuan), CATL (~5 Md yuan). [The Information ~16/06/2026, 1 source payante ; CNBC cible 03/06/2026]
+  Moonshot AI (Kimi) — **CORRECTIF** : tour de 2 Md$ à 20 Md$ valorisation clôturé mai 2026. Distinct du 3e tour visé à 30 Md$ (stade précoce au 19/06).
+- Produits / modèles : Alibaba — Qwen3.7-Plus lancé 02/06/2026, agent multimodal. DeepSeek V4 (V4-Pro 1,6T params + V4-Flash 284B) — preview 24/04/2026, stable ; V4.1 attendu juin 2026. Moonshot AI / Kimi — K2.7-Code lancé 12/06/2026 (1T params, open source MIT modifié) ; HighSpeed mode annoncé 15/06/2026 (180-260 tok/s).
 - Contrats & partenariats : —
-- Orientations stratégiques : Afflux massif de capitaux ; course à la vitesse d'inférence dans les modèles de code open source (Kimi K2.7 HighSpeed) ; DeepSeek dominant en adoption enterprise US.
-- À surveiller : Clôture éventuelle du 3e tour Moonshot AI ($30 Md valorisation) ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
+- Orientations stratégiques : Capitalisation massive des labos chinois sous contrôle étatique stratégique ; DeepSeek devient le lab IA chinois le plus valorisé. Compétition tripolaire US/EU/Chine dans les modèles frontière avec un avantage asymétrique pour Chine (financement privé sans accountability publique, protection État implicite).
+- À surveiller : DeepSeek V4.1 ; 3e tour Moonshot AI (~30 Md$ valorisation) ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
 
 ## Foxconn / Hon Hai Technology Group (Taïwan, hardware industriel + IA physique)
 - Dernière MAJ : 18/06/2026
