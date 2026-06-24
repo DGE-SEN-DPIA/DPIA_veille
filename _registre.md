@@ -83,4 +83,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 23/06/2026 | PRIVÉE-MONDE | Automate 2026 Chicago | 23-24/06/2026 ; NVIDIA Pavilion humanoïdes en production ; Figure 03 à 1 robot/h (BotQ) ; Amazon 1M robots entrepôt ; Boston Dynamics Atlas livré à Hyundai/DeepMind | [NOUVEAU]
 23/06/2026 | ACADÉMIQUE | Pleias / SYNTH + Baguettotron | Dataset génératif généraliste open source CC-BY-SA (79,6M exemples, 75B tokens) ; Baguettotron best-in-class raisonnement pour sa taille sur MMLU ; date exacte non confirmée | [NOUVEAU]
 23/06/2026 | PUBLIQUE-EU | AI Act applicabilité 2 août 2026 | J-40 ; Article 50 transparence + enforcement GPAI Commission ; consultation haute-risque jusqu'au 23 juillet ; contexte rappelé face à EO Trump 1er août | [SUITE]
+24/06/2026 | PUBLIQUE-FR | DGSI / ChapsVision / Palantir | Lecornu 16/06 : DGSI remplace Palantir (Gotham) par ChapsVision (Argonos) — souveraineté renseignement ; même choix BfV allemand mai 2026 ; migration opérationnelle 2027 | [NOUVEAU]
+24/06/2026 | PRIVÉE-MONDE | Anthropic Fable 5/Mythos 5 | J+12 au 24/06, toujours suspendu ; Séoul ouvert 17-18/06 (Naver, LG, Samsung SDS) ; Glasswing 150 orgs 15 pays ; guerre des prix API OpenAI en préparation | [SUITE]
+24/06/2026 | PRIVÉE-MONDE | Automate 2026 Chicago J2-J3 | Humanoid Robot Forum 23-24/06 ; Agility Digit production commerciale Toyota Canada (RaaS) ; >20 humanoïdes NVIDIA Pavilion | [SUITE]
+24/06/2026 | PRIVÉE-MONDE | OpenAI GPT-5.6 | non officiellement lancé au 24/06 ; Polymarket 83 % fenêtre 22-28 juin ; guerre prix API OpenAI vs. Anthropic | [SUITE]
+24/06/2026 | PRIVÉE-MONDE | Moonshot AI / Kimi | démantèlement VIE depuis mai 2026 pour IPO HK H2 2026/début 2027 ; ARR ~200 M$ avril ; 3e tour ~2 Mrd$ en discussion | [SUITE]
+24/06/2026 | PRIVÉE-FR | Mistral robotique | algorithmes navigation/manipulation/raisonnement ; recrutement Duchenne (ex-Aldebaran/INRIA/Meta) ; 96 % sur kits pièces ; date article à confirmer | [NOUVEAU]
+24/06/2026 | PRIVÉE-FR | Wandercraft Calvin | pleinement opérationnel nuit sur ligne R5 Renault Douai, été 2026 | [SUITE]
+24/06/2026 | ACADÉMIQUE | Kyutai "FID Lottery" | arXiv/kyutai.org 18/06 : variance cachée dans les scores FID remet en question la comparabilité des benchmarks génératifs | [NOUVEAU]
+24/06/2026 | PUBLIQUE-EU | CADA | proposition formelle Commission adoptée 3/06/2026 ; trilogue en cours (12-36 mois) ; 4 niveaux d'assurance Union cloud/IA public | [SUITE]
 

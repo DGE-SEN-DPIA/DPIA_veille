@@ -22,7 +22,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 22/06/2026
+- Dernière MAJ : 24/06/2026
 - Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15-22/06/2026 — statu quo : toujours « stade précoce », aucune clôture ni investisseur annoncés.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
@@ -31,7 +31,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   28/05/2026 — **Clients Industrial Engineering** : Airbus (5 ans, défense/espace), BMW (crash simulation), EDF, CMA CGM.
   10/06/2026 — **Mistral / Digital Realty** : 10 MW de cluster IA sur datacenter Digital Realty Paris. [DCD, 28/05/2026]
 - Orientations stratégiques : Pivot « cloud full-stack company » (Mensch, VivaTech 19/06) ; concurrent direct des hyperscalers US pour les marchés publics et industriels EU ; trajectoire 200 MW en Europe d'ici 2027 (France + Suède) ; positionnement IA industrielle physique souveraine. Arthur Mensch explore également la conception de puces propres [CNBC, 28/05].
-- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède.
+  Juin 2026 — **Mistral Robotique** : lancement d'un programme R&D robotique (algorithmes navigation, manipulation, raisonnement). Recrutement d'Olivier Duchenne (ex-Aldebaran, INRIA, Meta Robotics). Taux de réussite annoncé : 96 % sur préparation de kits de pièces pour chaînes de montage. Déploiement en usines conditionné à l'atteinte d'un seuil de rendement suffisant. [Usine Nouvelle, juin 2026 — date précise à confirmer]
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements robotique en usine.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -93,12 +94,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Kyutai (France, laboratoire de recherche IA — audio/voix, modèles ouverts)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Dernière MAJ : 24/06/2026
+- Financement : 300 M€ sur 5 ans (Iliad, CMA CGM, Schmidt Futures) — fondation à but non lucratif, nov. 2023.
+- Produits / modèles :
+  - Moshi (voix, modèle temps réel) ; modèles audio ouverts.
+  - 10/06/2026 — recherche sur les modèles de dialogue spoken full-duplex via RL (post-training pour meilleure interactivité).
+  - 18/06/2026 — **"FID Lottery"** : étude sur la variance cachée des scores FID dans l'évaluation des modèles génératifs. Impact méthodologique : invalide la comparabilité directe de nombreux benchmarks génératifs.
+- Contrats & partenariats : lié à Mistral Compute (premier early adopter), Iliad (fondateur).
+- Orientations stratégiques : Recherche ouverte, publication systématique, modèles audio open-source.
+- À surveiller : Publications sur la sécurité des évaluations génératifs ; lien avec Gradium (spin-off audio).
 
 ## Gradium (France, IA vocale — spin-off Kyutai)
 - Dernière MAJ : 19/06/2026
@@ -127,12 +131,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Wandercraft (France, robotique — exosquelettes / robots humanoïdes)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 24/06/2026
 - Financement : —
 - Produits / modèles : Robot humanoïde « Calvin » (1,70 m), visant l'autonomie complète sans supervision humaine « dans quelques semaines » selon le co-fondateur Jean-Louis Constanza.
 - Contrats & partenariats : Avec Renault — Calvin testé depuis février 2026 sur le site de Douai (manutention de pneus de 25 kg, capacité de 7-8 chariots de 24 pneus en 1h30) ; présentation presse le 08/06/2026. Objectif : 10 robots opérationnels à Douai fin 2026, et déploiement de 350 unités dans les usines Renault d'ici 2027 (mise en service complète été 2026). [Usine Nouvelle/Journal Auto, 08/06/2026]
 - Orientations stratégiques : —
-- À surveiller : Passage effectif à l'autonomie sans supervision ; extension à d'autres sites Renault ; cas d'usage IA industrielle/IA physique emblématique du partenariat startup-grand groupe.
+  Eté 2026 — **Calvin pleinement opérationnel** sur la ligne R5 (nuit) de l'usine Renault Douai. Supervision humaine réduite à la sécurité de balance. [Usine Nouvelle / France 3 Hauts-de-France]
+- À surveiller : Extension à d'autres lignes et sites Renault (cible 350 robots en 18 mois) ; levée de fonds Wandercraft ; cas d'usage IA industrielle/IA physique emblématique.
 
 ## Jimini AI (France, IA juridique — droit des affaires)
 - Dernière MAJ : —
@@ -215,6 +220,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : **VivaTech 17-18/06/2026** — annonce de trois nouveaux clients : ArianeGroup (espace/défense), Pierre Fabre (pharmacie), ODDO BHF (banque), en présence de la ministre du Numérique et de son homologue allemand. [La Revue du Digital, 18/06/2026]
 - Orientations stratégiques : Positionnement IA agentique souveraine, en concurrence avec Dust, Delos, solutions américaines. Nuit de la Data et de l'IA 2026 — argent (SelfAI).
 - À surveiller : Extension sectorielle (défense, industrie) ; levée de fonds.
+
+---
+
+## ChapsVision (France, analyse de données souveraine — renseignement & sécurité)
+- Dernière MAJ : 24/06/2026
+- Financement : Non public.
+- Produits / modèles : **Argonos** — plateforme d'analyse de données de renseignement et de sécurité intérieure, alternative souveraine à Palantir Gotham.
+- Contrats & partenariats :
+  16/06/2026 — **DGSI (France)** : ChapsVision remplace Palantir Gotham à la DGSI (annoncé par Lecornu). Migration sur plusieurs années ; déploiement opérationnel 2027. [Boursorama/Euronews, 16/06/2026]
+  Mai 2026 — **BfV (Allemagne)** : services de renseignement intérieur allemands choisissent également Argonos en remplacement de Palantir.
+- Orientations stratégiques : Fondée en 2019 par Olivier Dellenbach (polytechnicien). Développée par acquisitions. Positionnée comme l'alternative EU à Palantir dans les services de sécurité occidentaux. Standard franco-allemand de fait en juin 2026 pour les outils d'analyse de renseignement souverains.
+- À surveiller : Autres contrats publics en Europe (après France + Allemagne) ; levée de fonds ; montée en puissance face à Palantir sur les marchés publics UE.
 
 ---
 
@@ -305,7 +322,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 23/06/2026
+- Dernière MAJ : 24/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -318,7 +335,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 22/06/2026 (J+10) : Toujours suspendu, aucun accord signé.
   - 18/06/2026 : **Cadre conjoint de risque IA Maison Blanche/Anthropic** en cours de rédaction (Politico/TheStreet) — premier co-drafting régulateur-lab aux États-Unis ; définira les seuils d'intervention gouvernementale sur modèles frontière. [TheStreet, 18/06/2026]
   - 23/06/2026 (J+11) : Toujours suspendu. Prochains jalons : 2 juillet (livrables EO cyber-défenses), 8 juillet (vérification identité Anthropic).
-- À surveiller : Date de rétablissement effectif ; contenu du framework conjoint (publication attendue avant 1er août) ; conditions imposées par l'administration ; IPO (S-1 public estimé août, cotation estimée sept. 2026) ; Anthropic/DoD dispute (Wikipedia mentionne un différend DoD distinct — à vérifier).
+  - 17-18/06/2026 : **Ouverture bureau de Séoul** — 3e bureau APAC. Partenariats : Naver (Claude Code pour l'ensemble de l'ingénierie), LG CNS (Claude pour milliers d'employés LG Group), Samsung SDS (Claude Cowork + Claude Code pour Samsung Electronics), Nexon (Claude Code jeux live-service), Hanwha Solutions (Claude via AWS Bedrock). MOU avec le ministère coréen de la science. Accès pour 60 chercheurs universitaires. [anthropic.com, 17-18/06/2026]
+  - Juin 2026 : **Project Glasswing étendu à 150 organisations dans 15 pays** (vs. 50 au lancement) — programme d'accès contrôlé au modèle Claude Mythos pour la cybersécurité défensive. [TechTimes, 18-19/06/2026]
+  - 24/06/2026 (J+12) : Toujours suspendu. OpenAI prépare une guerre des prix API en anticipation du vide.
+- À surveiller : Date de rétablissement effectif ; contenu du framework conjoint (publication attendue avant 1er août) ; conditions imposées par l'administration ; IPO (S-1 public estimé août, cotation estimée sept. 2026) ; impact de la guerre des prix API sur la position de marché Anthropic.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 19/06/2026
@@ -409,14 +429,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Labos chinois (à préciser : DeepSeek, Alibaba/Qwen, Zhipu AI, Moonshot AI, ByteDance…)
-- Dernière MAJ : 23/06/2026
+- Dernière MAJ : 24/06/2026
 - Financement :
   **DeepSeek** — ~16/06/2026 : **premier tour externe clôturé**, ~7,4 Md$ (50 Md yuan), valorisation 50 Md$+. Structure inédite : capital privé dans une LP gérée par CEO Liang Wenfeng (pas d'equity directe, pas de droits de vote, lock-up 5 ans pour LP commerciaux) ; seul le **Fonds national d'investissement en IA** (État chinois) reçoit des parts directes avec droits de vote. Backers : Liang Wenfeng (~20 Md yuan), Tencent (~10 Md yuan), CATL (~5 Md yuan). [The Information ~16/06/2026, 1 source payante ; CNBC cible 03/06/2026]
   Moonshot AI (Kimi) — **CORRECTIF** : tour de 2 Md$ à 20 Md$ valorisation clôturé mai 2026. Distinct du 3e tour visé à 30 Md$ (stade précoce au 19/06).
 - Produits / modèles : Alibaba — Qwen3.7-Plus lancé 02/06/2026, agent multimodal. DeepSeek V4 (V4-Pro 1,6T params + V4-Flash 284B) — preview 24/04/2026, stable ; V4.1 attendu juin 2026. Moonshot AI / Kimi — K2.7-Code lancé 12/06/2026 (1T params, open source MIT modifié) ; HighSpeed mode annoncé 15/06/2026 (180-260 tok/s).
 - Contrats & partenariats : —
 - Orientations stratégiques : Capitalisation massive des labos chinois sous contrôle étatique stratégique ; DeepSeek devient le lab IA chinois le plus valorisé. Compétition tripolaire US/EU/Chine dans les modèles frontière avec un avantage asymétrique pour Chine (financement privé sans accountability publique, protection État implicite).
-- À surveiller : DeepSeek V4.1 ; 3e tour Moonshot AI (~30 Md$ valorisation) ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
+  Moonshot AI / Kimi — **IPO Hong Kong en préparation** : démantèlement structure VIE depuis mai 2026 (Bloomberg 19/05) pour satisfaire aux exigences CSRC. Horizon de cotation : fin 2026 - début 2027. ARR ~200 M$ en avril 2026 (doublé en 6 semaines). 3e tour de financement (~2 Mrd$, valorisation 30 Mrd$ visée) en discussion depuis juin 2026 — Meituan impliqué. [Bloomberg 08/06/2026 ; The Next Web]
+- À surveiller : DeepSeek V4.1 (attendu juin 2026, pas encore sorti) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
 
 ## Foxconn / Hon Hai Technology Group (Taïwan, hardware industriel + IA physique)
 - Dernière MAJ : 18/06/2026
