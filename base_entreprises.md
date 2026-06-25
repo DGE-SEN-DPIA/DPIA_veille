@@ -22,17 +22,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 24/06/2026
-- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 15-22/06/2026 — statu quo : toujours « stade précoce », aucune clôture ni investisseur annoncés.
+- Dernière MAJ : 25/06/2026
+- Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 25/06/2026 — statu quo, stade précoce.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
 - Contrats & partenariats : Datacenter de Bruyères-le-Châtel (Essonne, 44 MW, 13 800 GPU Nvidia GB300 selon DCD mars 2026 / 18 000 GB200 selon VentureBeat 19/06 — discordance à confirmer), financé par 830 M$ (722 M€) de dette (Bpifrance, BNP, CA-CIB, HSBC, La Banque Postale, MUFG, Natixis), opéré par Eclairion. **OPÉRATIONNEL** avec clients enterprise (confirmé à VivaTech, 19/06/2026). Partenaires early adopters : BNP Paribas, Orange, SNCF, Thales, Kyutai, Veolia, Schneider Electric.
   19/05/2026 — **Acquisition d'Emmi AI** (Vienne, Autriche), Physics AI pour simulation industrielle, >30 chercheurs intégrés. [Mistral AI/Channel News, 19-26/05/2026]
   28/05/2026 — **Clients Industrial Engineering** : Airbus (5 ans, défense/espace), BMW (crash simulation), EDF, CMA CGM.
   10/06/2026 — **Mistral / Digital Realty** : 10 MW de cluster IA sur datacenter Digital Realty Paris. [DCD, 28/05/2026]
-- Orientations stratégiques : Pivot « cloud full-stack company » (Mensch, VivaTech 19/06) ; concurrent direct des hyperscalers US pour les marchés publics et industriels EU ; trajectoire 200 MW en Europe d'ici 2027 (France + Suède) ; positionnement IA industrielle physique souveraine. Arthur Mensch explore également la conception de puces propres [CNBC, 28/05].
+- Orientations stratégiques : Pivot « cloud full-stack company » (Mensch, VivaTech 19/06) ; concurrent direct des hyperscalers US pour les marchés publics et industriels EU ; programme global infrastructure de 4 Md€ (France + Suède), cible 200 MW en Europe en 2027 et 1 GW en 2030. Arthur Mensch explore également la conception de puces propres [CNBC, 28/05].
   Juin 2026 — **Mistral Robotique** : lancement d'un programme R&D robotique (algorithmes navigation, manipulation, raisonnement). Recrutement d'Olivier Duchenne (ex-Aldebaran, INRIA, Meta Robotics). Taux de réussite annoncé : 96 % sur préparation de kits de pièces pour chaînes de montage. Déploiement en usines conditionné à l'atteinte d'un seuil de rendement suffisant. [Usine Nouvelle, juin 2026 — date précise à confirmer]
-- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements robotique en usine.
+  25/06/2026 — **Les Ulis (Essonne), 10 MW, dédié à l'inférence** : troisième site de calcul Mistral, ouverture Q3 2026. Distinct de Bruyères-le-Châtel (training/cloud) et de la future extension suédoise. Objectif : contrôle direct de la capacité d'inférence, réduction dépendance cloud tiers. [VentureBeat / Futurum, juin 2026 — 1 source]
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements robotique en usine.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -78,12 +79,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Date exacte de release SYNTH ; adoption par d'autres labos ; levée de fonds ; prochains modèles.
 
 ## Photoroom (France, IA générative d'images)
-- Dernière MAJ : —
+- Dernière MAJ : 25/06/2026
 - Financement : —
-- Produits / modèles : —
+- Produits / modèles :
+  **PRX** — modèle text-to-image entraîné from scratch, publié en open source sur Hugging Face (Apache 2.0). 1,3 milliard de paramètres, architecture MMDiT simplifiée (tokens texte non-updated via transformer blocks), flow-matching avec scheduling discret, encodeur texte T5-Gemma-2B multilingue (multilingual). Entraîné en <10 jours sur 32 GPU NVIDIA H200 à résolution 1024px. Famille PRX : base, SFT et distillée, aux résolutions 256/512/1024px. [huggingface.co/blog/Photoroom/prx-open-source-t2i-model ; Photoroom/PRX GitHub]
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : Publication transparente incluant poids, expériences et ablations ; positionnement « open science ». Hébergé sur Hugging Face en format Diffusers. Date exacte de release à confirmer.
+- À surveiller : Adoption par la communauté open source ; performances vs. SDXL/Flux sur benchmarks standardisés ; applications e-commerce (cœur de métier Photoroom).
 
 ## Hugging Face (France/US, plateforme & hub de modèles open source)
 - Dernière MAJ : —
@@ -322,31 +324,33 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 24/06/2026
+- Dernière MAJ : 25/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
 - Orientations stratégiques : **Suspension Fable 5/Mythos 5** — chronologie complète :
-  - 02/06/2026 : EO Trump "Promoting Advanced AI Innovation and Security" signé — base légale du mécanisme de contrôle gouvernemental pré-release (30j d'accès gouvernemental volontaire avant déploiement aux partenaires). Non capturé dans les notes antérieures.
-  - 12/06/2026 (17h21 ET) : directive Lutnick (Commerce US, contrôle export, sécurité nationale) ; suspension mondiale ; 90 min de préavis ; déclenchée par signalement Amazon/Andy Jassy (jailbreak Fable 5) ; soupçons distillation par groupe lié Chine. [CNN/CNBC, 12-13/06/2026]
-  - 14/06/2026 : négociations cadres Anthropic à Washington ; Commission européenne (Regnier) demande mesures non discriminatoires. [Fortune/Euronews, 14/06/2026]
-  - 16/06/2026 (J+4) : Délégation Washington identifiée : Nicholas Carlini, Logan Graham, Dave Orr, Tom Brown (co-fondateur), Sarah Heck. Jalon officiel : vérification d'identité à partir du 8 juillet. Kalshi : ~57 % probabilité rétablissement en juillet. [WSJ/CNBC/Kalshi]
-  - 17-19/06/2026 (J+5-7) : Négociations actives confirmées (Globe and Mail 17/06). Chris Ciauri : "We are very confident that in the coming days, the models will become available again." Pas de restauration au 19/06.
+  - 02/06/2026 : EO Trump "Promoting Advanced AI Innovation and Security" signé.
+  - 12/06/2026 (17h21 ET) : directive Lutnick, suspension mondiale, 90 min de préavis, déclenchée par signalement Amazon/Andy Jassy. [CNN/CNBC, 12-13/06/2026]
+  - 14/06/2026 : négociations à Washington ; Commission européenne demande mesures non discriminatoires. [Fortune/Euronews, 14/06/2026]
+  - 15/06/2026 : Tom Brown (co-fondateur, CCO) + Sarah Heck prennent la tête des négociations au Commerce Department, en remplacement de Dario Amodei.
+  - 17-19/06/2026 : Négociations actives (Globe and Mail 17/06). Chris Ciauri : « Very confident in coming days. » 19/06 — Axios : Trump déclare ne plus voir Anthropic comme une menace nationale après rencontre G7 Évian-les-Bains avec Amodei (mercredi 18/06) — « Well, not now, but a week ago, maybe. » Trump estime qu'Anthropic a « agi très responsablement. »
+  - 18/06/2026 : **Cadre conjoint de risque IA Maison Blanche/Anthropic** en cours de rédaction — zero-defect testing, rapport obligatoire des jailbreaks avant release. Étendu à la définition de seuils d'intervention gouvernementale.
   - 22/06/2026 (J+10) : Toujours suspendu, aucun accord signé.
-  - 18/06/2026 : **Cadre conjoint de risque IA Maison Blanche/Anthropic** en cours de rédaction (Politico/TheStreet) — premier co-drafting régulateur-lab aux États-Unis ; définira les seuils d'intervention gouvernementale sur modèles frontière. [TheStreet, 18/06/2026]
-  - 23/06/2026 (J+11) : Toujours suspendu. Prochains jalons : 2 juillet (livrables EO cyber-défenses), 8 juillet (vérification identité Anthropic).
-  - 17-18/06/2026 : **Ouverture bureau de Séoul** — 3e bureau APAC. Partenariats : Naver (Claude Code pour l'ensemble de l'ingénierie), LG CNS (Claude pour milliers d'employés LG Group), Samsung SDS (Claude Cowork + Claude Code pour Samsung Electronics), Nexon (Claude Code jeux live-service), Hanwha Solutions (Claude via AWS Bedrock). MOU avec le ministère coréen de la science. Accès pour 60 chercheurs universitaires. [anthropic.com, 17-18/06/2026]
-  - Juin 2026 : **Project Glasswing étendu à 150 organisations dans 15 pays** (vs. 50 au lancement) — programme d'accès contrôlé au modèle Claude Mythos pour la cybersécurité défensive. [TechTimes, 18-19/06/2026]
-  - 24/06/2026 (J+12) : Toujours suspendu. OpenAI prépare une guerre des prix API en anticipation du vide.
-- À surveiller : Date de rétablissement effectif ; contenu du framework conjoint (publication attendue avant 1er août) ; conditions imposées par l'administration ; IPO (S-1 public estimé août, cotation estimée sept. 2026) ; impact de la guerre des prix API sur la position de marché Anthropic.
+  - 23/06/2026 (J+11) : Toujours suspendu. Prochains jalons : 2 juillet (EO cyber-défenses) ; 8 juillet (vérification identité Anthropic).
+  - 24/06/2026 (J+12) : Toujours suspendu. OpenAI prépare une guerre des prix API.
+  - 25/06/2026 (J+13) : Toujours suspendu. Polymarket : 60% probabilité rétablissement semaine prochaine. Lettre Congrès bipartisane (Liccardo + 3, 18/06) — réponse Lutnick attendue **26 juin** (demain), procédure 14 C.F.R. § 744.22(b).
+  - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
+  - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
+- À surveiller : Réponse Lutnick 26/06 ; rétablissement effectif (probabilité 60% avant début juillet) ; contenu public du framework conjoint (avant 1er août) ; IPO S-1 public (estimé juillet-août) ; impact guerre des prix API OpenAI si suspension se prolonge.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
-- Dernière MAJ : 19/06/2026
+- Dernière MAJ : 25/06/2026
 - Financement : filiale de Google (Alphabet)
 - Produits / modèles : Gemini 2.x (frontière), Gemma (open-weights), AlphaCode, AlphaFold, D4RT (Best Paper CVPR 2026, reconstruction dynamique 4D 18-300× plus rapide que l'état de l'art).
-- Contrats & partenariats : 19/06/2026 — **Appel à financement 10 M$ pour la sécurité multi-agents** : co-lancé avec Schmidt Sciences, la Cooperative AI Foundation et l'ARIA (UK) ; focus sur les risques de sécurité liés à l'interaction de millions d'agents IA hétérogènes (communication, négociation, transactions entre systèmes issus d'acteurs différents) ; deadline candidatures 8/08/2026, awardees attendus automne 2026. [deepmind.google, MIT Technology Review, 11/06/2026]
+  **Gemini 3.5 Pro** — annoncé à Google I/O 2026 (19/05). GA ciblée initialement en juin 2026. Reportée officiellement à juillet 2026 (23/06/2026 — Cryptobriefing). Contexte 2M tokens, Deep Think reasoning mode. En preview Vertex AI enterprise uniquement à fin juin.
+- Contrats & partenariats : 19/06/2026 — **Appel à financement 10 M$ pour la sécurité multi-agents** : co-lancé avec Schmidt Sciences, la Cooperative AI Foundation et l'ARIA (UK) ; deadline candidatures 8/08/2026, awardees attendus automne 2026. [deepmind.google, MIT Technology Review, 11/06/2026]
 - Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique.
-- À surveiller : Résultats de l'appel 10 M$ (awardées automne 2026) ; annonces Gemini 2.x ; travaux agents autonomes.
+- À surveiller : GA Gemini 3.5 Pro (juillet) ; résultats appel 10 M$ ; annonces Gemini 3.5 Flash et extensions multimodales.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
 - Dernière MAJ : —
@@ -357,12 +361,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## xAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 15/06/2026 [info capitalisée le 15/06, fait du 05/06/2026, hors fenêtre de la note du jour]
+- Dernière MAJ : 25/06/2026
 - Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (rampe réduite jusqu'en septembre 2026, plein tarif d'octobre 2026 à juin 2029, soit ~32 Md$ au total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI (absorbé par SpaceX via fusion actions-pour-actions début 2026). [TechCrunch/CNBC, 05/06/2026]
-- Orientations stratégiques : Illustre la pénurie de capacité de calcul même chez les hyperscalers les mieux dotés.
-- À surveiller : Suite de l'intégration xAI/SpaceX ; usage effectif de cette capacité de calcul.
+- Produits / modèles :
+  **Grok 4.3** — disponible en GA sur Amazon Bedrock depuis le 15/06/2026. Contexte 1 million de tokens, moteur d'inférence Mantle (AWS), niveaux de raisonnement configurables (none/low/medium/high), tarif $1,25/$2,50 par million de tokens — le plus bas pour un modèle frontier sur Bedrock selon AWS. Intégration tool calling, structured output, streaming. [AWS Newsroom, 15/06/2026]
+  **Grok Imagine Video 1.5** — GA dans l'API Imagine et sur grok.com/imagine + iOS/Android (juin 2026). Meilleure qualité image-to-video, génération plus rapide.
+- Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (~32 Md$ total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI. [TechCrunch/CNBC, 05/06/2026]
+  15/06/2026 — Grok 4.3 sur Amazon Bedrock (xAI rejoint les model providers Bedrock).
+- Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks) ; positionnement sur l'entreprise avec le tarif d'inférence le plus bas en raisonnement frontier.
+- À surveiller : Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud ; usage de la capacité de calcul SpaceX/xAI.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : —

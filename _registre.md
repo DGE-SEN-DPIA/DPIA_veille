@@ -92,4 +92,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 24/06/2026 | PRIVÉE-FR | Wandercraft Calvin | pleinement opérationnel nuit sur ligne R5 Renault Douai, été 2026 | [SUITE]
 24/06/2026 | ACADÉMIQUE | Kyutai "FID Lottery" | arXiv/kyutai.org 18/06 : variance cachée dans les scores FID remet en question la comparabilité des benchmarks génératifs | [NOUVEAU]
 24/06/2026 | PUBLIQUE-EU | CADA | proposition formelle Commission adoptée 3/06/2026 ; trilogue en cours (12-36 mois) ; 4 niveaux d'assurance Union cloud/IA public | [SUITE]
+25/06/2026 | PRIVÉE-MONDE | Anthropic Fable 5/Mythos 5 | J+13 toujours suspendu ; Trump "plus une menace" après G7 Évian (Axios 19/06) ; Tom Brown mène Commerce Dept ; Polymarket 60% retour semaine prochaine ; Congress deadline Lutnick 26/06 | [SUITE]
+25/06/2026 | PRIVÉE-MONDE | Automate 2026 J4 / IA physique | ABB Physical AI Toolchain (NVIDIA Omniverse ~99% sim-to-real, PoWa cobot) ; Kawasaki RL030N 8-DOF (premier robot IA physique 8 axes) ; Kawasaki+Dexterity Mech (Foresight World Model, logistique entrepôt, 23/06) | [SUITE]
+25/06/2026 | PUBLIQUE-FR | CNIL G7 DPAs Paris | Table ronde G7 autorités protection données 23-26/06 ; Action Plan 2026 adopté ; IA responsable + protection mineurs priorités | [NOUVEAU]
+25/06/2026 | PRIVÉE-MONDE | GPT-5.6 report juillet | Polymarket 91% pas avant fin juin ; report officieux juillet ; OpenAI sans release note officielle | [SUITE]
+25/06/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro report juillet | Google reporte officiellement la GA en juillet 2026 ; preview Vertex AI seulement | [SUITE]
+25/06/2026 | PRIVÉE-MONDE | xAI Grok 4.3 Bedrock | Disponible GA sur Amazon Bedrock le 15/06 (non capturé) ; 1M tokens, moteur Mantle, $1,25/$2,50/M tokens | [NOUVEAU]
+25/06/2026 | PRIVÉE-FR | Mistral Les Ulis inference | Troisième site calcul : Les Ulis Essonne 10 MW, dédié inférence, ouverture Q3 2026 ; programme global 4 Md€, cible 200 MW 2027, 1 GW 2030 | [NOUVEAU]
+25/06/2026 | PRIVÉE-FR | Photoroom PRX | Modèle text-to-image 1,3B open source Apache 2.0, Hugging Face, MMDiT + flow-matching discret + T5-Gemma-2B multilingue | [NOUVEAU]
 
