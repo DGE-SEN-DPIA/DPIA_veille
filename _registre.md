@@ -100,4 +100,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 25/06/2026 | PRIVÉE-MONDE | xAI Grok 4.3 Bedrock | Disponible GA sur Amazon Bedrock le 15/06 (non capturé) ; 1M tokens, moteur Mantle, $1,25/$2,50/M tokens | [NOUVEAU]
 25/06/2026 | PRIVÉE-FR | Mistral Les Ulis inference | Troisième site calcul : Les Ulis Essonne 10 MW, dédié inférence, ouverture Q3 2026 ; programme global 4 Md€, cible 200 MW 2027, 1 GW 2030 | [NOUVEAU]
 25/06/2026 | PRIVÉE-FR | Photoroom PRX | Modèle text-to-image 1,3B open source Apache 2.0, Hugging Face, MMDiT + flow-matching discret + T5-Gemma-2B multilingue | [NOUVEAU]
+26/06/2026 | PRIVÉE-FR | Harmattan AI / DGA | Commande 5 000 drones DELCO supplémentaires (annonce 23/06, ordre 28/05) — 6 000 unités total, plus grande commande drone unique histoire militaire française, livraison début 2027 | [NOUVEAU]
+26/06/2026 | PRIVÉE-MONDE | Anthropic Fable 5/Mythos 5 | J+14 au 26/06, toujours suspendu, zéro trafic confirmé ; deadline Lutnick/Congrès aujourd'hui ; jalons 2 juillet + 8 juillet | [SUITE]
+26/06/2026 | PUBLIQUE-FR | France 2030 Pionniers IA | 28 nouveaux lauréats 2e vague annoncés à VivaTech le 18/06 ; 51 projets total ; santé, robotique industrielle, souveraineté, transition écologique | [NOUVEAU]
+26/06/2026 | INFRA | STMicroelectronics | Cible datacenter 2026 doublée à ~1 Md$ (2/06, non capturé) ; cible 2027 ~2 Md$ ; diffusion demande IA dans semi-conducteurs spécialisés européens | [NOUVEAU]
+26/06/2026 | INFRA | LID World Summit / CEA-Leti | 23-25/06 Grenoble, 1 250+ participants ; résultats FAMES (FD-SOI, NVM, 3D intégration) — maturité industrielle pour puces low-power AI factories | [NOUVEAU]
+26/06/2026 | PRIVÉE-MONDE | GPT-5.6 / Gemini 3.5 Pro | Deux reports juillet confirmés — fenêtre juin fermée sans grand lancement modèle frontière | [SUITE]
+26/06/2026 | ACADÉMIQUE | ICML 2026 preview | 6 352 papiers / 26,6% acceptation, Séoul 7-11 juillet ; tutorial "Adaptive Reasoning in LLMs" Arora+Dziri ; axe : raisonnement adaptatif, quantization, alignement inférence | [NOUVEAU]
+26/06/2026 | ACADÉMIQUE | VLA méta-analyse 1 228 papiers | Infrastructure données = bottleneck structurel VLA ; negative transfer datasets hétérogènes ; world-model-based RL en montée (PlayWorld, RehearseVLA, RISE) | [NOUVEAU]
+26/06/2026 | ACADÉMIQUE | ROAD-VLA arXiv:2606.25800 | Adaptation en ligne robuste par self-distillation pour VLA face aux distribution shifts | [NOUVEAU]
 

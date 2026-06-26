@@ -324,7 +324,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 25/06/2026
+- Dernière MAJ : 26/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -338,7 +338,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 22/06/2026 (J+10) : Toujours suspendu, aucun accord signé.
   - 23/06/2026 (J+11) : Toujours suspendu. Prochains jalons : 2 juillet (EO cyber-défenses) ; 8 juillet (vérification identité Anthropic).
   - 24/06/2026 (J+12) : Toujours suspendu. OpenAI prépare une guerre des prix API.
-  - 25/06/2026 (J+13) : Toujours suspendu. Polymarket : 60% probabilité rétablissement semaine prochaine. Lettre Congrès bipartisane (Liccardo + 3, 18/06) — réponse Lutnick attendue **26 juin** (demain), procédure 14 C.F.R. § 744.22(b).
+  - 25/06/2026 (J+13) : Toujours suspendu. Polymarket : 60% probabilité rétablissement semaine prochaine. Lettre Congrès bipartisane (Liccardo + 3, 18/06) — réponse Lutnick attendue **26 juin**, procédure 14 C.F.R. § 744.22(b).
+  - 26/06/2026 (J+14) : Toujours suspendu. Zéro trafic confirmé (Anthropic Head of Growth, 25/06). Deadline Lutnick/Congrès arrivée sans réponse publique identifiée à la date de publication. Prochains jalons : 2 juillet (EO cyber-défenses fédérales) ; 8 juillet (vérification identité) ; 1er août (framework zero-defect testing / frontier AI).
   - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
 - À surveiller : Réponse Lutnick 26/06 ; rétablissement effectif (probabilité 60% avant début juillet) ; contenu public du framework conjoint (avant 1er août) ; IPO S-1 public (estimé juillet-août) ; impact guerre des prix API OpenAI si suspension se prolonge.
@@ -446,6 +447,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   Moonshot AI / Kimi — **IPO Hong Kong en préparation** : démantèlement structure VIE depuis mai 2026 (Bloomberg 19/05) pour satisfaire aux exigences CSRC. Horizon de cotation : fin 2026 - début 2027. ARR ~200 M$ en avril 2026 (doublé en 6 semaines). 3e tour de financement (~2 Mrd$, valorisation 30 Mrd$ visée) en discussion depuis juin 2026 — Meituan impliqué. [Bloomberg 08/06/2026 ; The Next Web]
 - À surveiller : DeepSeek V4.1 (attendu juin 2026, pas encore sorti) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
 
+## STMicroelectronics (France/Italie, semi-conducteurs)
+- Dernière MAJ : 26/06/2026
+- Financement : société cotée (NYSE/Euronext Paris).
+- Produits / modèles : Semi-conducteurs pour datacenters IA (alimentation, interfaces optiques, contrôleurs) — au-delà des GPU, segment de niche.
+- Contrats & partenariats : —
+- Orientations stratégiques :
+  02/06/2026 — **Doublement de la cible datacenter 2026 à ~1 Md$** (vs. >500 M$ précédemment). Cible 2027 : ~2 Md$ si les dynamiques actuelles persistent. Signal : diffusion de la demande IA dans les composants spécialisés européens, au-delà des seuls fabricants de GPU. STMicro positionné sur les puces d'alimentation, les interfaces optiques et les contrôleurs pour AI factories. [newsroom.st.com, 02/06/2026]
+  CEA-Leti LID World Summit (23-25/06) : présentation des résultats FAMES (FD-SOI avancé, mémoires NVM, intégration 3D) — maturité industrielle pour puces low-power destinées aux AI factories européennes.
+- À surveiller : Résultats T2 2026 (chiffres datacenter vs. cible 1 Md$) ; partenariats avec AI factories AION/EuroHPC.
+
 ## Foxconn / Hon Hai Technology Group (Taïwan, hardware industriel + IA physique)
 - Dernière MAJ : 18/06/2026
 - Financement : —
@@ -524,5 +535,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : —
 - Orientations stratégiques : Co-fondée fin 2025 par Jeff Bezos (co-CEO, fondateur Amazon et Blue Origin) et Vik Bajaj (co-CEO, chercheur Stanford). Bezos présente Prometheus sur la grande scène de VivaTech Paris le 17/06/2026. Concurrent direct de Mistral for Industrial Engineering, Siemens AI, Ansys AI et des jumeaux numériques.
 - À surveiller : Premiers clients industriels européens annoncés ; partenariats cloud/NVIDIA ; positionnement vis-à-vis de la réglementation IA industrielle UE.
+
+## Harmattan AI (France, IA de défense — drones autonomes)
+- Dernière MAJ : 26/06/2026
+- Financement : **Série B — 200 M$** clôturée janvier 2026 ; lead : Dassault Aviation ; valorisation 1,4 Md€ — **première licorne française de l'industrie de défense** (en moins de 18 mois d'existence).
+- Produits / modèles : **DELCO** — micro-drone de combat 1,8 kg, portée >2 km, 40 min autonomie, optronique IR Lynred (FR), assemblage en France. Stack IA embarqué pour surveillance, reconnaissance et interception.
+- Contrats & partenariats :
+  Juillet 2025 — première commande DGA : 1 000 drones.
+  28/05/2026 — **nouvelle commande DGA : 5 000 drones DELCO supplémentaires** (annonce publique : 23/06/2026). Total flotte armée de terre : 6 000 unités, livraison début 2027. Plus grande commande de drone d'un même type dans l'histoire militaire française.
+  Janvier 2026 — commande MoD britannique : 3 000 systèmes.
+  Partenariat Dassault Aviation : IA embarquée pour les futurs systèmes de combat aérien (Rafale F5, UCAS).
+  Partenaire Lynred (caméras IR, France) pour l'optronique DELCO.
+- Orientations stratégiques : Fondée en 2024, Harmattan AI a atteint en 18 mois le statut de licorne et la production de masse (6 000 drones commandés). Modèle : conception et assemblage souverains sur sol français avec partenaires industriels français (Lynred). Expansion vers d'autres alliés OTAN.
+- À surveiller : Nouveau tour de financement post-série B ; extension à d'autres armées OTAN ; développement vers l'aviation de combat autonome (Rafale F5/UCAS, Dassault Aviation).
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
