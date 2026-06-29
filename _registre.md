@@ -109,4 +109,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 26/06/2026 | ACADÉMIQUE | ICML 2026 preview | 6 352 papiers / 26,6% acceptation, Séoul 7-11 juillet ; tutorial "Adaptive Reasoning in LLMs" Arora+Dziri ; axe : raisonnement adaptatif, quantization, alignement inférence | [NOUVEAU]
 26/06/2026 | ACADÉMIQUE | VLA méta-analyse 1 228 papiers | Infrastructure données = bottleneck structurel VLA ; negative transfer datasets hétérogènes ; world-model-based RL en montée (PlayWorld, RehearseVLA, RISE) | [NOUVEAU]
 26/06/2026 | ACADÉMIQUE | ROAD-VLA arXiv:2606.25800 | Adaptation en ligne robuste par self-distillation pour VLA face aux distribution shifts | [NOUVEAU]
+27/06/2026 | PRIVÉE-MONDE | Anthropic Mythos 5 | clearance partielle US ~100 org. infrastructures critiques, lettre Lutnick 27/06 ; Fable 5 toujours suspendu | [SUITE]
+26/06/2026 | PRIVÉE-MONDE | OpenAI GPT-5.6 Sol/Terra/Luna | preview limitée ~20 org. approuvées US gov, $5/$30 / $2,50/$15 / $1/$6, cadre EO frontier AI | [SUITE]
+25/06/2026 | PRIVÉE-MONDE | OpenAI IPO tilt 2027 | Altman refuse <$1T, NYT 25/06, effet SpaceX IPO -24%, Kalshi 59% avant mars 2027 ; Anthropic serait premier entrant (oct. 2026, $965 Md) | [NOUVEAU]
+28/06/2026 | PUBLIQUE-INT | GLM-5.2 Zhipu / export controls | 39% F1 IDOR vs 32% Claude Code, open weights MIT — "controls fail first test" (TechTimes 28/06) | [NOUVEAU]
+28/05/2026 | PRIVÉE-MONDE | Anthropic Série H $65 Md | $965 Md val., Altimeter/Dragoneer/Greenoaks/Sequoia + $15 Md hyperscalers, ARR $47 Md — non capturé (base_entreprises mis à jour, registre rattrapé) | [NOUVEAU]
+10/06/2026 | PRIVÉE-MONDE | Google DeepMind DiffusionGemma | 26B MoE Apache 2.0, diffusion 4× plus rapide, 1 000 tokens/s H100 — non capturé | [NOUVEAU]
+24/06/2026 | INFRA | Qualcomm Dragonfly C1000 + Meta | CPU datacenter 250 cœurs Oryon, Meta premier client, livraison H2 2028, acquisition Modular $3,92 Md | [NOUVEAU]
 

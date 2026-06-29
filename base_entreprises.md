@@ -310,8 +310,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : Stargate — démarrage le 01/06/2026 de la construction du campus « The Barn » (Saline, Michigan, 1 GW, 1,65 M m²), avec Oracle/Related Digital/Blackstone/Walbridge (16 Md$ construction + 40 Md$ équipement compute Oracle), mise en service début 2028. Ouverture/mise en avant d'un bureau à Madrid le 11/06/2026 (présentée par l'Espagne comme validation de sa stratégie régulatoire).
   11/06/2026 — Acquisition d'Ona (ex-Gitpod) : infrastructure cloud sécurisée pour agents IA persistants, destinée à renforcer Codex pour les workflows enterprise longue durée. Termes non divulgués. [CNBC/InfoWorld, 11/06/2026]
   14/06/2026 — **Lancement de l'OpenAI Partner Network** : premier programme mondial de partenaires, 150 M$ investis, système 3 niveaux (Select/Advanced/Elite), objectif 300 000 consultants certifiés fin 2026. Partners fondateurs : Accenture, Bain, BCG, McKinsey, PwC. [openai.com/Dataconomy, 14/06/2026]
-- Orientations stratégiques : Course à l'IPO avec Anthropic (dépôts S-1 à une semaine d'écart) ; expansion européenne (Espagne) ; pivot vers la bataille des intégrateurs en entreprise via le Partner Network.
-- À surveiller : Calendrier IPO ; implantations européennes additionnelles ; quelles ESN/cabinets français/européens rejoignent le Partner Network.
+- Orientations stratégiques : Course à l'IPO — tilt vers 2027 (NYT 25/06) : Altman refuse valorisation sous $1T ; SpaceX IPO performance décevante (-24 % du pic). Kalshi 59 % pour annonce officielle IPO avant mars 2027. Expansion européenne (Espagne) ; pivot vers la bataille des intégrateurs en entreprise via le Partner Network.
+  26/06/2026 — **GPT-5.6 Sol, Terra, Luna** lancé en preview limitée (~20 org. approuvées US gov). Sol : $5/$30/M tokens ; Terra : $2,50/$15 ; Luna : $1/$6. Cadre EO "trusted preview" → assessment classifié → GA (coming weeks, probablement juillet). [OpenAI newsroom, 26/06/2026]
+- À surveiller : Annonce officielle IPO (Kalshi : mars 2027 à 59 %) ; GA GPT-5.6 (juillet) ; implantations européennes additionnelles ; ESN/cabinets FR/EU rejoignant le Partner Network.
 
 ## L'Oréal (France, cosmétiques / grand groupe CAC 40)
 - Dernière MAJ : 22/06/2026
@@ -340,17 +341,19 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 24/06/2026 (J+12) : Toujours suspendu. OpenAI prépare une guerre des prix API.
   - 25/06/2026 (J+13) : Toujours suspendu. Polymarket : 60% probabilité rétablissement semaine prochaine. Lettre Congrès bipartisane (Liccardo + 3, 18/06) — réponse Lutnick attendue **26 juin**, procédure 14 C.F.R. § 744.22(b).
   - 26/06/2026 (J+14) : Toujours suspendu. Zéro trafic confirmé (Anthropic Head of Growth, 25/06). Deadline Lutnick/Congrès arrivée sans réponse publique identifiée à la date de publication. Prochains jalons : 2 juillet (EO cyber-défenses fédérales) ; 8 juillet (vérification identité) ; 1er août (framework zero-defect testing / frontier AI).
+  - **27/06/2026 (J+15) : Lutnick envoie lettre à Anthropic confirmant "progrès significatifs" → Mythos 5 rétabli pour ~100 organisations US d'infrastructures critiques (agences fédérales + entreprises certifiées). Fable 5 toujours suspendu.** [Fortune/NBC News/Euronews, 27/06/2026]
   - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
-- À surveiller : Réponse Lutnick 26/06 ; rétablissement effectif (probabilité 60% avant début juillet) ; contenu public du framework conjoint (avant 1er août) ; IPO S-1 public (estimé juillet-août) ; impact guerre des prix API OpenAI si suspension se prolonge.
+- À surveiller : Rétablissement Fable 5 (jalons 2 juillet + 8 juillet) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; impact guerre des prix API OpenAI si suspension se prolonge.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
-- Dernière MAJ : 25/06/2026
+- Dernière MAJ : 29/06/2026
 - Financement : filiale de Google (Alphabet)
 - Produits / modèles : Gemini 2.x (frontière), Gemma (open-weights), AlphaCode, AlphaFold, D4RT (Best Paper CVPR 2026, reconstruction dynamique 4D 18-300× plus rapide que l'état de l'art).
   **Gemini 3.5 Pro** — annoncé à Google I/O 2026 (19/05). GA ciblée initialement en juin 2026. Reportée officiellement à juillet 2026 (23/06/2026 — Cryptobriefing). Contexte 2M tokens, Deep Think reasoning mode. En preview Vertex AI enterprise uniquement à fin juin.
+  10/06/2026 — **DiffusionGemma** : modèle open source 26B MoE, licence Apache 2.0. Architecture diffusion (non auto-régressive) : génère 256 tokens en parallèle → 4× plus rapide qu'un LLM standard (1 000 tokens/s sur H100, ~700 sur RTX 5090). Active 3,8B params à l'inférence. Idéal pour édition de code, infilling, séquences biologiques. Compromis : qualité inférieure à Gemma 4 classique. [Google DeepMind blog, 10/06/2026]
 - Contrats & partenariats : 19/06/2026 — **Appel à financement 10 M$ pour la sécurité multi-agents** : co-lancé avec Schmidt Sciences, la Cooperative AI Foundation et l'ARIA (UK) ; deadline candidatures 8/08/2026, awardees attendus automne 2026. [deepmind.google, MIT Technology Review, 11/06/2026]
-- Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique.
+- Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique. Modèles open-source compétitifs (DiffusionGemma) comme levier de distribution.
 - À surveiller : GA Gemini 3.5 Pro (juillet) ; résultats appel 10 M$ ; annonces Gemini 3.5 Flash et extensions multimodales.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
@@ -446,6 +449,17 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : Capitalisation massive des labos chinois sous contrôle étatique stratégique ; DeepSeek devient le lab IA chinois le plus valorisé. Compétition tripolaire US/EU/Chine dans les modèles frontière avec un avantage asymétrique pour Chine (financement privé sans accountability publique, protection État implicite).
   Moonshot AI / Kimi — **IPO Hong Kong en préparation** : démantèlement structure VIE depuis mai 2026 (Bloomberg 19/05) pour satisfaire aux exigences CSRC. Horizon de cotation : fin 2026 - début 2027. ARR ~200 M$ en avril 2026 (doublé en 6 semaines). 3e tour de financement (~2 Mrd$, valorisation 30 Mrd$ visée) en discussion depuis juin 2026 — Meituan impliqué. [Bloomberg 08/06/2026 ; The Next Web]
 - À surveiller : DeepSeek V4.1 (attendu juin 2026, pas encore sorti) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
+
+## Qualcomm (États-Unis, semi-conducteurs — mobile & datacenter)
+- Dernière MAJ : 29/06/2026
+- Financement : société cotée (Nasdaq : QCOM).
+- Produits / modèles :
+  24/06/2026 — **Dragonfly C1000** : nouveau CPU datacenter 250 cœurs (architecture Oryon), >5 GHz sustained, PCIe Gen 7, CXL. Cible : orchestration agentic AI à haute densité de threads. Livraison H2 2028. **Dragonfly AI300** : accélérateur compagnon.
+- Contrats & partenariats :
+  24/06/2026 — **Meta** (Zuckerberg sur scène à l'Investor Day NYC) : accord multi-générations pour déployer le C1000 dans les serveurs Meta. Premier client hyperscaler nommé. Microsoft également annoncé comme partenaire anchor.
+  24/06/2026 — **Acquisition Modular** : 3,92 Md$ — compilateur et runtime ML (MLIR, Mojo), positionne Qualcomm dans le software IA pour accélérer le déploiement sur ses puces.
+- Orientations stratégiques : Entrée structurelle sur le marché CPU datacenter IA (4e acteur après ARM, AMD, Intel) ; doublement de la cible non-mobile revenue à 40 Md$. Positionnement sur l'inférence agentique longue-durée où les GPU sont moins adaptés.
+- À surveiller : Performances réelles C1000 face aux chips ARM Neoverse N3 ; adoption au-delà de Meta ; intégration Modular dans la plateforme Dragonfly.
 
 ## STMicroelectronics (France/Italie, semi-conducteurs)
 - Dernière MAJ : 26/06/2026
