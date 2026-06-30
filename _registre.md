@@ -116,4 +116,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 28/05/2026 | PRIVÉE-MONDE | Anthropic Série H $65 Md | $965 Md val., Altimeter/Dragoneer/Greenoaks/Sequoia + $15 Md hyperscalers, ARR $47 Md — non capturé (base_entreprises mis à jour, registre rattrapé) | [NOUVEAU]
 10/06/2026 | PRIVÉE-MONDE | Google DeepMind DiffusionGemma | 26B MoE Apache 2.0, diffusion 4× plus rapide, 1 000 tokens/s H100 — non capturé | [NOUVEAU]
 24/06/2026 | INFRA | Qualcomm Dragonfly C1000 + Meta | CPU datacenter 250 cœurs Oryon, Meta premier client, livraison H2 2028, acquisition Modular $3,92 Md | [NOUVEAU]
+30/06/2026 | INFRA | Corée du Sud / Samsung-SK Hynix-SK Group-GS-Naver | plan cumulé >648 Md$ puces+datacenters IA horizon 2035, annoncé 29/06 | [NOUVEAU]
+30/06/2026 | PUBLIQUE-EU | BEI / Airbus | prêt record 3 Md€ R&D avancée France/Allemagne/Espagne jusqu'à 2030, 1ère tranche 1Md€ signée 29/06, pas de volet IA explicite | [NOUVEAU]
+30/06/2026 | PRIVÉE-MONDE | Anthropic Fable 5/Mythos 5 | J+18, Mythos5 toujours limité >100 orgs US critical infra depuis 27/06 ; rumeur presse (Axios/Gizmodo) retour Fable5 "cette semaine" non confirmée (29/06) | [SUITE]
+30/06/2026 | ACADÉMIQUE | PFIA 2026 | 19e édition ouverte 29/06 à Arras, atelier Robotique et IA Comité France 2030 | [NOUVEAU]
+30/06/2026 | PUBLIQUE-FR | Salon Souveraineté Numérique | Paris 30/06-1/07, ~100 exposants alternatives souveraines | [NOUVEAU]
+30/06/2026 | PRIVÉE-MONDE | AI Engineer World's Fair | San Francisco, ouverture 29/06, 6000+ ingénieurs, sponsor Microsoft, présence OpenAI/Anthropic/Google DeepMind | [NOUVEAU]
+30/06/2026 | PRIVÉE-FR | Cité de l'IA Summit | Marcq-en-Barœul/Lille, 30/06, >1000 décideurs IA souveraine européenne | [NOUVEAU]
 

@@ -325,7 +325,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 26/06/2026
+- Dernière MAJ : 30/06/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -342,6 +342,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 25/06/2026 (J+13) : Toujours suspendu. Polymarket : 60% probabilité rétablissement semaine prochaine. Lettre Congrès bipartisane (Liccardo + 3, 18/06) — réponse Lutnick attendue **26 juin**, procédure 14 C.F.R. § 744.22(b).
   - 26/06/2026 (J+14) : Toujours suspendu. Zéro trafic confirmé (Anthropic Head of Growth, 25/06). Deadline Lutnick/Congrès arrivée sans réponse publique identifiée à la date de publication. Prochains jalons : 2 juillet (EO cyber-défenses fédérales) ; 8 juillet (vérification identité) ; 1er août (framework zero-defect testing / frontier AI).
   - **27/06/2026 (J+15) : Lutnick envoie lettre à Anthropic confirmant "progrès significatifs" → Mythos 5 rétabli pour ~100 organisations US d'infrastructures critiques (agences fédérales + entreprises certifiées). Fable 5 toujours suspendu.** [Fortune/NBC News/Euronews, 27/06/2026]
+  - 29/06/2026 (J+17) : Statu quo confirmé — Mythos 5 toujours limité à >100 orgs critical infra, Fable 5 toujours suspendu. Presse (Axios/Gizmodo, relayé par Journal du Geek/Forbes) évoque un retour possible de Fable 5 "cette semaine" — **non confirmé par Anthropic**. [rumeur, non confirmée]
+  - 30/06/2026 (J+18) : Aucune confirmation officielle supplémentaire identifiée à ce jour.
   - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
 - À surveiller : Rétablissement Fable 5 (jalons 2 juillet + 8 juillet) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; impact guerre des prix API OpenAI si suspension se prolonge.
