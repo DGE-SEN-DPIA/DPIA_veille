@@ -123,4 +123,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 30/06/2026 | PUBLIQUE-FR | Salon Souveraineté Numérique | Paris 30/06-1/07, ~100 exposants alternatives souveraines | [NOUVEAU]
 30/06/2026 | PRIVÉE-MONDE | AI Engineer World's Fair | San Francisco, ouverture 29/06, 6000+ ingénieurs, sponsor Microsoft, présence OpenAI/Anthropic/Google DeepMind | [NOUVEAU]
 30/06/2026 | PRIVÉE-FR | Cité de l'IA Summit | Marcq-en-Barœul/Lille, 30/06, >1000 décideurs IA souveraine européenne | [NOUVEAU]
+01/07/2026 | PRIVÉE-MONDE | Anthropic Fable 5 redéployé | levée contrôles export DoC 30/06/2026 ; redéploiement mondial officiel 01/07 ; quota 50% jusqu'au 7 juillet ; classificateur jailbreak >99% ; programme HackerOne | [SUITE J+20]
+01/07/2026 | PUBLIQUE-CHINE | TC260 Ethics-Safety Guidelines IA | entrée en vigueur 01/07/2026 ; 9 principes éthiques volontaires ; règlement contraignant services anthropomorphiques prévu 15/07 | [NOUVEAU]
+01/07/2026 | PUBLIQUE-EU | Présidence irlandaise Conseil UE | depuis 01/07/2026 (succède à Chypre) ; AI Summit Dublin prévu 14/10/2026 | [NOUVEAU]
+01/07/2026 | PRIVÉE-FR | Pasqal × Crédit Agricole CIB | partenariat finance quantique approfondi (mesure de risque, optimisation portefeuille, fonds propres) ; premiers cas d'usage production visés 2028 ; montant non communiqué ; 30/06/2026 | [NOUVEAU]
+01/07/2026 | PRIVÉE-FR | Pasqal SPAC Analyst Day | Analyst Day New York 30/06/2026 dans le cadre fusion SPAC Bleichroeder/Nasdaq BBCQ ; valorisation ~2 Md$ ; pas de montant nouveau annoncé | [NOUVEAU]
+01/07/2026 | ACADÉMIQUE | HF Papers world models 01/07 | "Orca: The World is in Your Mind" (80 upvotes), "MemLearner" (world models vidéo), OSWorld2.0 (benchmark agents), Scaling the Horizon 35B Agent | [NOUVEAU]
+01/07/2026 | PUBLIQUE-FR | Salon Souveraineté Numérique J2 | Paris Espace Champerret 01/07, patronage Anne Le Hénanff, ~100 exposants, conférence "European AI: defending our values" 17h | [SUITE]
+01/07/2026 | ACADÉMIQUE | PFIA 2026 Journée Robotique et IA | Arras 01/07 ; session robotique et IA France 2030 ; pas d'annonce concrète identifiée | [SUITE]
 

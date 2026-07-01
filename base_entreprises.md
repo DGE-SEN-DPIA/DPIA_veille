@@ -276,12 +276,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Quantique
 
 ## Pasqal (France, calcul quantique — atomes neutres)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Dernière MAJ : 01/07/2026
+- Financement : SPAC en cours — fusion avec Bleichroeder Acquisition Corp. II (Nasdaq : BBCQ), valorisation ~2 Md$, montée en bourse visée ~170 M€. Analyst Day tenu à New York le 30/06/2026.
+- Produits / modèles : Processeurs quantiques à atomes neutres.
+- Contrats & partenariats :
+  30/06/2026 — **Partenariat approfondi Crédit Agricole CIB** : informatique quantique appliquée à la finance (mesure de risque, optimisation de portefeuille, suivi consommation fonds propres). Premiers cas d'usage en production visés dès 2028. Montant non communiqué.
+- Orientations stratégiques : Double trajectoire : cotation Nasdaq via SPAC + contrats finance/industrie en parallèle.
+- À surveiller : Closing du SPAC ; annonce de clients production ; extension au-delà de la finance (énergie, pharma).
 
 ## Quandela (France, calcul quantique photonique)
 - Dernière MAJ : —
@@ -325,7 +326,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 30/06/2026
+- Dernière MAJ : 01/07/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -343,10 +344,11 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 26/06/2026 (J+14) : Toujours suspendu. Zéro trafic confirmé (Anthropic Head of Growth, 25/06). Deadline Lutnick/Congrès arrivée sans réponse publique identifiée à la date de publication. Prochains jalons : 2 juillet (EO cyber-défenses fédérales) ; 8 juillet (vérification identité) ; 1er août (framework zero-defect testing / frontier AI).
   - **27/06/2026 (J+15) : Lutnick envoie lettre à Anthropic confirmant "progrès significatifs" → Mythos 5 rétabli pour ~100 organisations US d'infrastructures critiques (agences fédérales + entreprises certifiées). Fable 5 toujours suspendu.** [Fortune/NBC News/Euronews, 27/06/2026]
   - 29/06/2026 (J+17) : Statu quo confirmé — Mythos 5 toujours limité à >100 orgs critical infra, Fable 5 toujours suspendu. Presse (Axios/Gizmodo, relayé par Journal du Geek/Forbes) évoque un retour possible de Fable 5 "cette semaine" — **non confirmé par Anthropic**. [rumeur, non confirmée]
-  - 30/06/2026 (J+18) : Aucune confirmation officielle supplémentaire identifiée à ce jour.
+  - 30/06/2026 (J+18) : Département du Commerce américain lève les contrôles à l'exportation sur Fable 5 et Mythos 5. Lutnick : travail « over the past two weeks » avec Anthropic pour « analyze and approve Fable 5 ». [9to5Mac, 30/06/2026]
+  - **01/07/2026 (J+19) : RÉSOLU — Redéploiement mondial officiel de Fable 5** sur Claude Platform, Claude.ai, Claude Code et Claude Cowork. Contreparties : détection proactive des risques, coopération sur protocoles des futures versions, signalement des activités malveillantes. Mesures techniques : classificateur jailbreak >99 %, surveillance 24/7, programme HackerOne. Quota transitoire : 50 % des quotas hebdomadaires jusqu'au 7 juillet. [Anthropic, 01/07/2026]
   - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
-- À surveiller : Rétablissement Fable 5 (jalons 2 juillet + 8 juillet) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; impact guerre des prix API OpenAI si suspension se prolonge.
+- À surveiller : Quota Fable 5 normalisé à 100% à partir du 7 juillet ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 29/06/2026
