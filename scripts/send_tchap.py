@@ -76,8 +76,15 @@ async def send_once(message: str):
     if room_id not in client.rooms:
         client.rooms[room_id] = MatrixRoom(room_id, client.user_id, encrypted=True)
 
-    # Récupère les membres du salon (requis pour le chiffrement E2E).
+    # Récupère membres ET clés des appareils, requis pour partager la clé de
+    # session Megolm à tous les destinataires (sinon message non déchiffrable).
+    # /!\ joined_members() met members_synced=True, ce qui fait sauter à room_send()
+    # son bloc interne joined_members()+keys_query() : on doit donc appeler
+    # keys_query() nous-mêmes ici, sinon le device_store reste vide et la clé
+    # de session n'est partagée avec personne.
     await client.joined_members(room_id)
+    if client.should_query_keys:
+        await client.keys_query()
 
     await bot.api.send_text_message(room_id, message)
     await client.close()
