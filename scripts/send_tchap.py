@@ -10,8 +10,23 @@ import asyncio
 import os
 import sys
 import cryptography
+import aiohttp
 import simplematrixbotlib as botlib
 from nio.rooms import MatrixRoom
+
+# aiohttp ne lit pas HTTPS_PROXY (majuscules) automatiquement.
+# On force trust_env=True sur tous les ClientSession créés (y.c. ceux de matrix-nio).
+_orig_cs_init = aiohttp.ClientSession.__init__
+def _patched_cs_init(self, *args, **kwargs):
+    kwargs.setdefault("trust_env", True)
+    _orig_cs_init(self, *args, **kwargs)
+aiohttp.ClientSession.__init__ = _patched_cs_init
+
+# Expose aussi les variantes minuscules au cas où
+if "HTTPS_PROXY" in os.environ:
+    os.environ.setdefault("https_proxy", os.environ["HTTPS_PROXY"])
+if "HTTP_PROXY" in os.environ:
+    os.environ.setdefault("http_proxy", os.environ["HTTP_PROXY"])
 
 async def send_once(message: str):
     homeserver = os.environ["TCHAP_HOMESERVER"]
@@ -46,15 +61,23 @@ async def send_once(message: str):
     await bot.api.login()
     client = bot.api.async_client
 
-    # Sync minimal (incrémental) pour initialiser l'état olm/device du compte.
-    await client.sync(timeout=30000, full_state=False)
+    # Force l'utilisation du proxy : injecte un ClientSession avec trust_env=True
+    # avant le premier appel réseau (client_session peut être None si login était en cache).
+    if hasattr(client, "client_session") and client.client_session:
+        await client.client_session.close()
+    client.client_session = aiohttp.ClientSession(trust_env=True)
+
+    # Sync minimal pour initialiser l'état olm/device du compte.
+    # timeout=0 : le serveur répond immédiatement sans long-poll (évite le timeout proxy).
+    await client.sync(timeout=0, full_state=False)
     creds.session_write_file()
 
-    # Un sync incrémental ne renvoie pas forcément l'état du salon visé s'il
-    # n'y a pas eu d'activité récente. On l'enregistre manuellement comme
-    # salon chiffré : room_send se chargera de récupérer membres et clés.
+    # Enregistre le salon si absent du sync (pas d'activité récente).
     if room_id not in client.rooms:
         client.rooms[room_id] = MatrixRoom(room_id, client.user_id, encrypted=True)
+
+    # Récupère les membres du salon (requis pour le chiffrement E2E).
+    await client.joined_members(room_id)
 
     await bot.api.send_text_message(room_id, message)
     await client.close()
