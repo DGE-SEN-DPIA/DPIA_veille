@@ -131,4 +131,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 01/07/2026 | ACADÉMIQUE | HF Papers world models 01/07 | "Orca: The World is in Your Mind" (80 upvotes), "MemLearner" (world models vidéo), OSWorld2.0 (benchmark agents), Scaling the Horizon 35B Agent | [NOUVEAU]
 01/07/2026 | PUBLIQUE-FR | Salon Souveraineté Numérique J2 | Paris Espace Champerret 01/07, patronage Anne Le Hénanff, ~100 exposants, conférence "European AI: defending our values" 17h | [SUITE]
 01/07/2026 | ACADÉMIQUE | PFIA 2026 Journée Robotique et IA | Arras 01/07 ; session robotique et IA France 2030 ; pas d'annonce concrète identifiée | [SUITE]
+02/07/2026 | PUBLIQUE-EU | AI Act Omnibus / Conseil UE | vote final Conseil 29/06 (non capturé 30-01/07) ; publication JOUE imminente ; Annexe III → déc. 2027 définitif ; Annexe I → août 2028 ; interdiction nudifiers IA ; nouveau régime GPAI | [SUITE]
+02/07/2026 | PUBLIQUE-INT | EO Trump cyberdéfense jalon 2 juillet | CISA BOD 26-04 livré 10/06 (4 critères, délai 3j CVE critiques) ; Treasury clearinghouse non confirmé au 2/07 ; framework frontier AI deadline 1er août | [SUITE]
+02/07/2026 | PRIVÉE-MONDE | OpenAI GPT-5.6 Sol / Cerebras | Sol annoncé sur Cerebras (chip Jalapeño) 750 tok/s en juillet ; fenêtre éval. gov ferme 26/07 ; GA attendue mi-fin juillet | [SUITE]
+02/07/2026 | PRIVÉE-MONDE | Google Nano Banana 2 Lite + Gemini Omni Flash | 01/07 : text-to-image le plus rapide Gemini Image + vidéo multimodal public preview ($0,10/s clips 10s, 3 éditions contexte) | [NOUVEAU]
+02/07/2026 | PRIVÉE-MONDE | Tesla Optimus production Fremont | démarrage juillet/août 2026 ; ligne ex-Model S/X fermée mai 2026 ; 10 000 pièces uniques ; ventes externes entreprises 2027 ; Giga Texas H2 2027 | [NOUVEAU]
+02/07/2026 | PRIVÉE-FR | Mistral OCR 4 | document intelligence on-premise 23/06 ; 170 langues ; win rate 72 % tests aveugles ; $4/1000 pages ; alternative souveraine aux APIs US pour secteurs réglementés | [SUITE — non capturé dans registre]
+02/07/2026 | ACADÉMIQUE | ICML 2026 ouverture J-4 | 6 352 papiers acceptés (26,6 %) ; Séoul 6-11 juillet ; agentic AI axe dominant (≥60 workshops) ; couverture vendredi | [SUITE]
 

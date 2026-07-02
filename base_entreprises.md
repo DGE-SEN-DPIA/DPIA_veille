@@ -22,7 +22,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 25/06/2026
+- Dernière MAJ : 02/07/2026
 - Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 25/06/2026 — statu quo, stade précoce.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
@@ -31,6 +31,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   28/05/2026 — **Clients Industrial Engineering** : Airbus (5 ans, défense/espace), BMW (crash simulation), EDF, CMA CGM.
   10/06/2026 — **Mistral / Digital Realty** : 10 MW de cluster IA sur datacenter Digital Realty Paris. [DCD, 28/05/2026]
 - Orientations stratégiques : Pivot « cloud full-stack company » (Mensch, VivaTech 19/06) ; concurrent direct des hyperscalers US pour les marchés publics et industriels EU ; programme global infrastructure de 4 Md€ (France + Suède), cible 200 MW en Europe en 2027 et 1 GW en 2030. Arthur Mensch explore également la conception de puces propres [CNBC, 28/05].
+  23/06/2026 — **OCR 4** : modèle d'extraction documentaire déployable en conteneur unique on-premise (aucun envoi de données hors infrastructure client). Couvre 170 langues avec boîtes de délimitation au niveau paragraphe, scores de confiance inline et intégration RAG directe. Win rate 72 % en tests aveugles indépendants. Tarif API : $4/1 000 pages ($2 en Batch API), $5 pour Document AI. Disponible sur Mistral API, Amazon SageMaker et Microsoft Foundry. Première alternative souveraine crédible aux APIs cloud US pour l'extraction documentaire dans les secteurs réglementés (banque, santé, défense, marchés publics). [mistral.ai/news/ocr-4/, 23/06/2026]
   Juin 2026 — **Mistral Robotique** : lancement d'un programme R&D robotique (algorithmes navigation, manipulation, raisonnement). Recrutement d'Olivier Duchenne (ex-Aldebaran, INRIA, Meta Robotics). Taux de réussite annoncé : 96 % sur préparation de kits de pièces pour chaînes de montage. Déploiement en usines conditionné à l'atteinte d'un seuil de rendement suffisant. [Usine Nouvelle, juin 2026 — date précise à confirmer]
   25/06/2026 — **Les Ulis (Essonne), 10 MW, dédié à l'inférence** : troisième site de calcul Mistral, ouverture Q3 2026. Distinct de Bruyères-le-Châtel (training/cloud) et de la future extension suédoise. Objectif : contrôle direct de la capacité d'inférence, réduction dépendance cloud tiers. [VentureBeat / Futurum, juin 2026 — 1 source]
 - À surveiller : Clôture levée ~3 Md€ et investisseurs ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements robotique en usine.
@@ -305,7 +306,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # Monde — Grands labos & acteurs majeurs
 
 ## OpenAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 16/06/2026
+- Dernière MAJ : 02/07/2026
 - Financement : 08/06/2026 — dépôt confidentiel d'un formulaire S-1 auprès de la SEC en vue d'une IPO, visant une valorisation proche de 1 000 Md$ (contre 852 Md$ lors de la dernière levée privée), Goldman Sachs et Morgan Stanley mandatés ; aucun calendrier de cotation arrêté. [openai.com/CNBC/Fortune, 08-09/06/2026]
 - Produits / modèles : Depuis le 01/06/2026, GPT-5.5, GPT-5.4 et Codex sont en disponibilité générale sur Amazon Bedrock, au tarif first-party OpenAI sans surcoût. [AWS blog, 01/06/2026]
 - Contrats & partenariats : Stargate — démarrage le 01/06/2026 de la construction du campus « The Barn » (Saline, Michigan, 1 GW, 1,65 M m²), avec Oracle/Related Digital/Blackstone/Walbridge (16 Md$ construction + 40 Md$ équipement compute Oracle), mise en service début 2028. Ouverture/mise en avant d'un bureau à Madrid le 11/06/2026 (présentée par l'Espagne comme validation de sa stratégie régulatoire).
@@ -313,7 +314,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   14/06/2026 — **Lancement de l'OpenAI Partner Network** : premier programme mondial de partenaires, 150 M$ investis, système 3 niveaux (Select/Advanced/Elite), objectif 300 000 consultants certifiés fin 2026. Partners fondateurs : Accenture, Bain, BCG, McKinsey, PwC. [openai.com/Dataconomy, 14/06/2026]
 - Orientations stratégiques : Course à l'IPO — tilt vers 2027 (NYT 25/06) : Altman refuse valorisation sous $1T ; SpaceX IPO performance décevante (-24 % du pic). Kalshi 59 % pour annonce officielle IPO avant mars 2027. Expansion européenne (Espagne) ; pivot vers la bataille des intégrateurs en entreprise via le Partner Network.
   26/06/2026 — **GPT-5.6 Sol, Terra, Luna** lancé en preview limitée (~20 org. approuvées US gov). Sol : $5/$30/M tokens ; Terra : $2,50/$15 ; Luna : $1/$6. Cadre EO "trusted preview" → assessment classifié → GA (coming weeks, probablement juillet). [OpenAI newsroom, 26/06/2026]
-- À surveiller : Annonce officielle IPO (Kalshi : mars 2027 à 59 %) ; GA GPT-5.6 (juillet) ; implantations européennes additionnelles ; ESN/cabinets FR/EU rejoignant le Partner Network.
+  Juillet 2026 — **GPT-5.6 Sol / Cerebras** : Sol annoncé en déploiement sur infrastructure Cerebras (chip « Jalapeño »), vitesse jusqu'à 750 tokens/seconde (~15× GPT-5.5 en service prioritaire), ciblant les applications enterprise en temps réel. Fenêtre d'évaluation gouvernementale (30j depuis le 26/06) ferme le 26 juillet → GA attendue mi-fin juillet. [KuCoin/VentureBeat, juillet 2026]
+- À surveiller : GA GPT-5.6 Sol/Cerebras (mi-fin juillet) ; annonce officielle IPO (Kalshi : mars 2027 à 59 %) ; implantations européennes additionnelles ; ESN/cabinets FR/EU rejoignant le Partner Network.
 
 ## L'Oréal (France, cosmétiques / grand groupe CAC 40)
 - Dernière MAJ : 22/06/2026
@@ -351,14 +353,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Quota Fable 5 normalisé à 100% à partir du 7 juillet ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
-- Dernière MAJ : 29/06/2026
+- Dernière MAJ : 02/07/2026
 - Financement : filiale de Google (Alphabet)
 - Produits / modèles : Gemini 2.x (frontière), Gemma (open-weights), AlphaCode, AlphaFold, D4RT (Best Paper CVPR 2026, reconstruction dynamique 4D 18-300× plus rapide que l'état de l'art).
   **Gemini 3.5 Pro** — annoncé à Google I/O 2026 (19/05). GA ciblée initialement en juin 2026. Reportée officiellement à juillet 2026 (23/06/2026 — Cryptobriefing). Contexte 2M tokens, Deep Think reasoning mode. En preview Vertex AI enterprise uniquement à fin juin.
   10/06/2026 — **DiffusionGemma** : modèle open source 26B MoE, licence Apache 2.0. Architecture diffusion (non auto-régressive) : génère 256 tokens en parallèle → 4× plus rapide qu'un LLM standard (1 000 tokens/s sur H100, ~700 sur RTX 5090). Active 3,8B params à l'inférence. Idéal pour édition de code, infilling, séquences biologiques. Compromis : qualité inférieure à Gemma 4 classique. [Google DeepMind blog, 10/06/2026]
 - Contrats & partenariats : 19/06/2026 — **Appel à financement 10 M$ pour la sécurité multi-agents** : co-lancé avec Schmidt Sciences, la Cooperative AI Foundation et l'ARIA (UK) ; deadline candidatures 8/08/2026, awardees attendus automne 2026. [deepmind.google, MIT Technology Review, 11/06/2026]
 - Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique. Modèles open-source compétitifs (DiffusionGemma) comme levier de distribution.
-- À surveiller : GA Gemini 3.5 Pro (juillet) ; résultats appel 10 M$ ; annonces Gemini 3.5 Flash et extensions multimodales.
+  01/07/2026 — **Nano Banana 2 Lite** : modèle text-to-image le plus rapide et économique de la gamme Gemini Image, disponible sur Google Cloud. [cloud.google.com, 01/07/2026]
+  01/07/2026 — **Gemini Omni Flash** : modèle nativement multimodal en public preview sur Google AI Studio et Gemini API ; génère des clips vidéo de 10 secondes par édition conversationnelle ($0,10/s, jusqu'à 3 éditions en contexte). [cloud.google.com, 01/07/2026]
+- À surveiller : GA Gemini 3.5 Pro (toujours reportée, en preview Vertex AI enterprise) ; résultats appel 10 M$ (automne 2026) ; adoption Gemini Omni Flash en production.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
 - Dernière MAJ : —
@@ -414,6 +418,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - Europe (depuis VivaTech 2025) : Mistral Compute (18 000 GB200, Essonne), Nebius/Nscale UK (14 000 Blackwell), Allemagne (10 000 Blackwell) = >3 000 exaflops souverains. Bilan de déploiement présenté à VivaTech 2026 (GTC Paris keynote Jensen Huang, 17-20/06/2026).
 - Orientations stratégiques : Diffusion de la plateforme DSX comme modèle reproductible pour des « AI factories souveraines » nationales.
 - À surveiller : Déploiement effectif des 20+ AI factories européennes ; montée en puissance ENPIRE (AI agents + hardware robotics).
+
+## Tesla (États-Unis, automobiles → robotique humanoïde / IA physique)
+- Dernière MAJ : 02/07/2026
+- Financement : société cotée (Nasdaq : TSLA).
+- Produits / modèles :
+  **Optimus Gen 3** — robot humanoïde, 10 000 pièces uniques. Premiers prototypes 2024 ; Gen 3 en production Fremont à partir de juillet/août 2026.
+- Contrats & partenariats :
+  Juillet/août 2026 — **Production Fremont démarrée** : Tesla achève la conversion de la ligne Model S/X de l'usine de Fremont (derniers véhicules produits mai 2026) ; production d'Optimus Gen 3 lancée. Rythme initial « quite slow » selon Musk (Q1 2026 earnings, 22/04/2026), en raison de la compléxité (10 000 pièces uniques, chaîne entièrement nouvelle). Cible annoncée : 1 million d'unités par an de capacité installée à Fremont fin 2026. [Electrek, 22/04/2026 ; tesery.com]
+- Orientations stratégiques : Premier constructeur automobile mondial à fermer une ligne de production historique pour pivoter vers la robotique humanoïde. Ventes externes aux entreprises clientes prévues à partir de 2027. Deuxième site de production ciblé à Giga Texas (H2 2027). Signal structurel pour la compétition internationale sur l'IA physique (face à Figure, Agility, Boston Dynamics, Unitree, Wandercraft).
+- À surveiller : Rythme réel de production Fremont (vs. trajectoire 1 M/an) ; premières ventes enterprise (2027) ; ouverture Giga Texas robotique (H2 2027) ; fiabilité des timelines Musk (historiquement volatile).
 
 ---
 
