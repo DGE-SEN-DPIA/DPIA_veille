@@ -328,7 +328,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 01/07/2026
+- Dernière MAJ : 03/07/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -350,7 +350,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - **01/07/2026 (J+19) : RÉSOLU — Redéploiement mondial officiel de Fable 5** sur Claude Platform, Claude.ai, Claude Code et Claude Cowork. Contreparties : détection proactive des risques, coopération sur protocoles des futures versions, signalement des activités malveillantes. Mesures techniques : classificateur jailbreak >99 %, surveillance 24/7, programme HackerOne. Quota transitoire : 50 % des quotas hebdomadaires jusqu'au 7 juillet. [Anthropic, 01/07/2026]
   - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
-- À surveiller : Quota Fable 5 normalisé à 100% à partir du 7 juillet ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley).
+  30/06/2026 — **Claude Sonnet 5** lancé (simultanément à la levée des contrôles export sur Fable 5, non capturé dans les notes 01-02/07) : modèle le plus agentique d'Anthropic, nouveau défaut Free/Pro, 1M tokens contexte par défaut, 128k tokens sortie max, adaptive thinking by default (extended thinking manuel → erreur 400), cyber-safeguards by default (bloquent usages cyber dangereux en temps réel, même niveau Opus 4.7/4.8). Benchmark knowledge work interne : dépasse légèrement Opus 4.8. Terminal-Bench 2.1 : nouveau SOTA. Tarif introductif : $2/$10/M tokens jusqu'au 31/08/2026, puis $3/$15. [anthropic.com/news/claude-sonnet-5 ; TechCrunch 30/06/2026]
+  07/07/2026 — **Fable 5 sort des abonnements** : fin du quota transitoire 50%, bascule en usage credits uniquement. Anthropic promet réintégration dans les forfaits standards dès que la capacité le permet. [BleepingComputer, 01/07/2026]
+- À surveiller : Réintégration Fable 5 dans les abonnements ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 02/07/2026
@@ -458,7 +460,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Labos chinois (à préciser : DeepSeek, Alibaba/Qwen, Zhipu AI, Moonshot AI, ByteDance…)
-- Dernière MAJ : 24/06/2026
+- Dernière MAJ : 03/07/2026
 - Financement :
   **DeepSeek** — ~16/06/2026 : **premier tour externe clôturé**, ~7,4 Md$ (50 Md yuan), valorisation 50 Md$+. Structure inédite : capital privé dans une LP gérée par CEO Liang Wenfeng (pas d'equity directe, pas de droits de vote, lock-up 5 ans pour LP commerciaux) ; seul le **Fonds national d'investissement en IA** (État chinois) reçoit des parts directes avec droits de vote. Backers : Liang Wenfeng (~20 Md yuan), Tencent (~10 Md yuan), CATL (~5 Md yuan). [The Information ~16/06/2026, 1 source payante ; CNBC cible 03/06/2026]
   Moonshot AI (Kimi) — **CORRECTIF** : tour de 2 Md$ à 20 Md$ valorisation clôturé mai 2026. Distinct du 3e tour visé à 30 Md$ (stade précoce au 19/06).
@@ -466,7 +468,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : —
 - Orientations stratégiques : Capitalisation massive des labos chinois sous contrôle étatique stratégique ; DeepSeek devient le lab IA chinois le plus valorisé. Compétition tripolaire US/EU/Chine dans les modèles frontière avec un avantage asymétrique pour Chine (financement privé sans accountability publique, protection État implicite).
   Moonshot AI / Kimi — **IPO Hong Kong en préparation** : démantèlement structure VIE depuis mai 2026 (Bloomberg 19/05) pour satisfaire aux exigences CSRC. Horizon de cotation : fin 2026 - début 2027. ARR ~200 M$ en avril 2026 (doublé en 6 semaines). 3e tour de financement (~2 Mrd$, valorisation 30 Mrd$ visée) en discussion depuis juin 2026 — Meituan impliqué. [Bloomberg 08/06/2026 ; The Next Web]
-- À surveiller : DeepSeek V4.1 (attendu juin 2026, pas encore sorti) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
+  30/06/2026 — **DeepSeek V4 officiel : lancement mi-juillet** confirmé (TechNode/Pandaily). Introduction du **peak-hour pricing** (×2) : 9h-12h et 14h-18h heure Beijing — première pour un LLM frontière chinois. V4-Pro off-peak : $0,435/$0,87 par M tokens ; V4-Flash off-peak : $0,14/$0,28. **Deprecation des anciens noms API** (deepseek-chat, deepseek-reasoner) : 24 juillet 2026 15h59 UTC, sans période de grâce. [TechNode 30/06/2026 ; Pandaily 30/06/2026 ; api-docs.deepseek.com]
+- À surveiller : Lancement officiel DeepSeek V4 (mi-juillet) ; migration clients utilisant les anciens noms API (deadline 24 juillet) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier ; ByteDance, Zhipu AI — rien de premier plan dans la fenêtre.
 
 ## Qualcomm (États-Unis, semi-conducteurs — mobile & datacenter)
 - Dernière MAJ : 29/06/2026
