@@ -22,7 +22,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 02/07/2026
+- Dernière MAJ : 06/07/2026
 - Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 25/06/2026 — statu quo, stade précoce.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
@@ -34,7 +34,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   23/06/2026 — **OCR 4** : modèle d'extraction documentaire déployable en conteneur unique on-premise (aucun envoi de données hors infrastructure client). Couvre 170 langues avec boîtes de délimitation au niveau paragraphe, scores de confiance inline et intégration RAG directe. Win rate 72 % en tests aveugles indépendants. Tarif API : $4/1 000 pages ($2 en Batch API), $5 pour Document AI. Disponible sur Mistral API, Amazon SageMaker et Microsoft Foundry. Première alternative souveraine crédible aux APIs cloud US pour l'extraction documentaire dans les secteurs réglementés (banque, santé, défense, marchés publics). [mistral.ai/news/ocr-4/, 23/06/2026]
   Juin 2026 — **Mistral Robotique** : lancement d'un programme R&D robotique (algorithmes navigation, manipulation, raisonnement). Recrutement d'Olivier Duchenne (ex-Aldebaran, INRIA, Meta Robotics). Taux de réussite annoncé : 96 % sur préparation de kits de pièces pour chaînes de montage. Déploiement en usines conditionné à l'atteinte d'un seuil de rendement suffisant. [Usine Nouvelle, juin 2026 — date précise à confirmer]
   25/06/2026 — **Les Ulis (Essonne), 10 MW, dédié à l'inférence** : troisième site de calcul Mistral, ouverture Q3 2026. Distinct de Bruyères-le-Châtel (training/cloud) et de la future extension suédoise. Objectif : contrôle direct de la capacité d'inférence, réduction dépendance cloud tiers. [VentureBeat / Futurum, juin 2026 — 1 source]
-- À surveiller : Clôture levée ~3 Md€ et investisseurs ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements robotique en usine.
+  04/07/2026 — **Leanstral 1.5** : modèle Apache-2.0 open source pour la vérification formelle en Lean 4. Architecture MoE 119B/6B actifs, contexte 256k tokens. Performances : saturation miniF2F, 587/672 PutnamBench, FATE-H 87%, FATE-X 34%. Détecte 5 bugs inconnus sur 57 dépôts open source. Disponible gratuitement via API Labs et Hugging Face. Retraite programmée 30/09/2026. Premier mouvement Mistral dans la vérification formelle — pertinent pour la certification logicielle (Airbus, EDF, défense). [mistral.ai/news/leanstral-1-5/, 04/07/2026]
+  01/06/2026 — **Campus AI → 3 GW** : Bpifrance + Mistral + MGX + NVIDIA portent le programme Campus AI à 3 GW répartis en réseau national d'"AI Gigafactories". Annoncé au sommet Choose France (Macron : €7,5 Md). Mistral : accès prioritaire à l'inférence. Premier site à Fouju (Seine-et-Marne), opérationnel 2028. Construction deuxième site annoncée imminente. [Bpifrance presse, 01/06/2026 ; Gulf Today, 02/06/2026]
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; sélection deuxième site Campus AI ; extension de L'Assistant aux collectivités ; résultats commerciaux Industrial Engineering ; premiers déploiements robotique en usine.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -328,7 +330,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Déclinaison en France des partenariats IA ; positionnement souveraineté vs. hyperscalers pour les opérations européennes.
 
 ## Anthropic (États-Unis, modèles de fondation)
-- Dernière MAJ : 03/07/2026
+- Dernière MAJ : 06/07/2026
 - Financement : 01/06/2026 — dépôt confidentiel d'un formulaire S-1, suite à une série H de 65 Md$ valorisant l'entreprise à 965 Md$, run-rate de revenus annualisé > 47 Md$. [anthropic.com/TechCrunch/Fortune, 01/06/2026]
 - Produits / modèles : Claude Fable 5 et Claude Mythos 5 — modèles les plus capables d'Anthropic à ce jour.
 - Contrats & partenariats : Accord compute avec xAI/SpaceX : 1,25 Md$/mois pour la totalité de Colossus 1 (Memphis, 300 MW, >220 000 GPU NVIDIA), jusqu'en mai 2029 (~40 Md$ total). Annoncé mai 2026.
@@ -352,10 +354,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
   30/06/2026 — **Claude Sonnet 5** lancé (simultanément à la levée des contrôles export sur Fable 5, non capturé dans les notes 01-02/07) : modèle le plus agentique d'Anthropic, nouveau défaut Free/Pro, 1M tokens contexte par défaut, 128k tokens sortie max, adaptive thinking by default (extended thinking manuel → erreur 400), cyber-safeguards by default (bloquent usages cyber dangereux en temps réel, même niveau Opus 4.7/4.8). Benchmark knowledge work interne : dépasse légèrement Opus 4.8. Terminal-Bench 2.1 : nouveau SOTA. Tarif introductif : $2/$10/M tokens jusqu'au 31/08/2026, puis $3/$15. [anthropic.com/news/claude-sonnet-5 ; TechCrunch 30/06/2026]
   07/07/2026 — **Fable 5 sort des abonnements** : fin du quota transitoire 50%, bascule en usage credits uniquement. Anthropic promet réintégration dans les forfaits standards dès que la capacité le permet. [BleepingComputer, 01/07/2026]
-- À surveiller : Réintégration Fable 5 dans les abonnements ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet.
+  30/06/2026 — **Claude Science** : workbench scientifique pour la recherche pharmaceutique et biologique. Intègre 60+ bases de données (génomique, protéomique, chémoinformatique). Beta sur Pro/Max/Team/Enterprise. Programme de grants : jusqu'à $30 000 par projet, candidatures jusqu'au 15 juillet 2026. Focus : maladies négligées (marché non adressé par la pharma classique). Entrée directe en concurrence avec Google DeepMind (AlphaFold) et OpenAI (drug discovery). [anthropic.com/news/claude-science-ai-workbench, 30/06/2026 ; CNBC/MIT Tech Review]
+  Bénéfice opérationnel Q2 2026 : Anthropic est "on track" pour son premier bénéfice opérationnel (~$559 M estimé Q2 2026) [Bloomberg, 1 source — à confirmer par rapport officiel].
+- À surveiller : Réintégration Fable 5 dans les abonnements (post 7 juillet) ; premiers résultats Claude Science (drug discovery) ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet ; confirmation bénéfice Q2 2026.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
-- Dernière MAJ : 02/07/2026
+- Dernière MAJ : 06/07/2026
 - Financement : filiale de Google (Alphabet)
 - Produits / modèles : Gemini 2.x (frontière), Gemma (open-weights), AlphaCode, AlphaFold, D4RT (Best Paper CVPR 2026, reconstruction dynamique 4D 18-300× plus rapide que l'état de l'art).
   **Gemini 3.5 Pro** — annoncé à Google I/O 2026 (19/05). GA ciblée initialement en juin 2026. Reportée officiellement à juillet 2026 (23/06/2026 — Cryptobriefing). Contexte 2M tokens, Deep Think reasoning mode. En preview Vertex AI enterprise uniquement à fin juin.
@@ -364,7 +368,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique. Modèles open-source compétitifs (DiffusionGemma) comme levier de distribution.
   01/07/2026 — **Nano Banana 2 Lite** : modèle text-to-image le plus rapide et économique de la gamme Gemini Image, disponible sur Google Cloud. [cloud.google.com, 01/07/2026]
   01/07/2026 — **Gemini Omni Flash** : modèle nativement multimodal en public preview sur Google AI Studio et Gemini API ; génère des clips vidéo de 10 secondes par édition conversationnelle ($0,10/s, jusqu'à 3 éditions en contexte). [cloud.google.com, 01/07/2026]
-- À surveiller : GA Gemini 3.5 Pro (toujours reportée, en preview Vertex AI enterprise) ; résultats appel 10 M$ (automne 2026) ; adoption Gemini Omni Flash en production.
+  **Fuite de talents juin 2026** : en deux jours (18-19 juin 2026), Google DeepMind perd deux figures majeures — Noam Shazeer (co-auteur du Transformer 2017, co-lead Gemini) part pour OpenAI (18/06) ; John Jumper (Nobel Chimie 2024, créateur AlphaFold) part pour Anthropic (19/06). Titre Alphabet -5% sur la semaine. Contexte direct du report de la GA de Gemini 3.5 Pro (quality issues post-départ). [CNBC 19/06/2026 ; Fortune 23/06/2026]
+- À surveiller : GA Gemini 3.5 Pro (toujours reportée à juillet sans date GA) ; résultats appel 10 M$ sécurité multi-agents (automne 2026) ; adoption Gemini Omni Flash en production ; remplacement de Shazeer dans la gouvernance Gemini.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
 - Dernière MAJ : —
@@ -481,6 +486,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   24/06/2026 — **Acquisition Modular** : 3,92 Md$ — compilateur et runtime ML (MLIR, Mojo), positionne Qualcomm dans le software IA pour accélérer le déploiement sur ses puces.
 - Orientations stratégiques : Entrée structurelle sur le marché CPU datacenter IA (4e acteur après ARM, AMD, Intel) ; doublement de la cible non-mobile revenue à 40 Md$. Positionnement sur l'inférence agentique longue-durée où les GPU sont moins adaptés.
 - À surveiller : Performances réelles C1000 face aux chips ARM Neoverse N3 ; adoption au-delà de Meta ; intégration Modular dans la plateforme Dragonfly.
+
+## VSORA (France, puce IA inference — fabless)
+- Dernière MAJ : 06/07/2026
+- Financement :
+  18/06/2026 — Partenariat stratégique Île-de-France / Scaleway / VSORA / ZML signé à VivaTech : Scaleway s'engage à déployer les premiers serveurs VSORA en production pour validation architecture. [GlobeNewswire, 18/06/2026]
+  01/07/2026 — **Extension de tour** : Ardian Semiconductor (lead), Otium, XAnge, NJJ Capital, ISAI Cap Venture (Capgemini), CloudHQ, SPRIND (agence innovation défense all.), EIC Fund, Omnes Capital, Critical Path. Montant non communiqué. Valide la "maturité technologique" de Jotunn8 selon Ardian. [Ardian/GlobeNewswire, 01/07/2026]
+- Produits / modèles : **Jotunn8** — puce IA inference pour datacenters, architecture AI inference accelerator, conception fabless.
+- Contrats & partenariats : Scaleway (déploiement et validation production) ; ZML ; Région Île-de-France.
+- Orientations stratégiques : Concurrent européen aux GPU inference NVIDIA/AMD sur le marché cloud souverain ; soutenu par fonds public européen (EIC) et privé (Ardian). Signal fort : premier investissement Ardian Semiconductor dans une puce française.
+- À surveiller : Tapeout Jotunn8 et benchmark vs. NVIDIA H100/H200 ; déploiement Scaleway (date) ; contrats AION/EuroHPC.
 
 ## STMicroelectronics (France/Italie, semi-conducteurs)
 - Dernière MAJ : 26/06/2026

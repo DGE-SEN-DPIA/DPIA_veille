@@ -143,4 +143,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 03/07/2026 | PRIVÉE-MONDE | DeepSeek V4 officiel mi-juillet | lancement officiel mi-juillet 2026 confirmé (TechNode/Pandaily 30/06) ; peak pricing ×2 heures bureau Beijing ; V4-Pro $0,435/$0,87 off-peak ; deprecation anciens noms API 24 juillet 2026 | [SUITE DeepSeek, dernière mention 23/06]
 03/07/2026 | PUBLIQUE-INT | UK AI Security Institutes best practices | publication annoncée pour juillet par ministre Kendall (avril 2026) ; non confirmée publiée au 03/07 | [SIGNAL, à surveiller]
 03/07/2026 | ACADÉMIQUE | ICML 2026 J-3 / LaWAM arXiv:2606.15768 | tutoriaux demain 6 juillet ; LaWAM (latent world action models) signal IA physique ; couverture vendredi | [SUITE]
+06/07/2026 | PUBLIQUE-FR | Campus AI 3 GW (non capturé 01/06) | Bpifrance + Mistral + MGX + NVIDIA portent Campus AI à 3 GW réseau national gigafactories IA ; €7,5 Md Macron ; premier site Fouju opérationnel 2028 ; signé Choose France 01/06/2026 | [NOUVEAU]
+06/07/2026 | PUBLIQUE-INT | UN Global Dialogue AI Governance Genève | premier forum multilatéral ONU gouvernance IA, Palexpo Genève 6-7 juillet 2026, co-présidé El Salvador/Estonie, 193 États membres | [NOUVEAU]
+06/07/2026 | PRIVÉE-FR | Mistral Leanstral 1.5 | modèle Apache-2.0 119B/6B actifs, vérification formelle Lean 4, 587/672 PutnamBench, FATE-H 87%, gratuit API Labs + HuggingFace, lancé 04/07/2026 | [NOUVEAU]
+06/07/2026 | PRIVÉE-MONDE | Anthropic Claude Science (non capturé 30/06) | workbench scientifique 60+ bases de données, drug discovery maladies négligées, beta Pro/Max/Team/Enterprise, grants $30k deadline 15/07 | [NOUVEAU]
+06/07/2026 | PRIVÉE-MONDE | Google DeepMind Shazeer→OpenAI Jumper→Anthropic (non capturé 18-19/06) | Shazeer (co-auteur Transformer, co-lead Gemini) → OpenAI 18/06 ; Jumper (Nobel 2024, AlphaFold) → Anthropic 19/06 ; Alphabet -5% | [NOUVEAU]
+06/07/2026 | INFRA | VSORA + Ardian (non capturé 01/07) | Ardian Semiconductor lead d'un nouveau tour VSORA (puce IA inference française Jotunn8) ; Otium, XAnge, NJJ Capital, ISAI Cap Venture, EIC Fund ; 01/07/2026 | [NOUVEAU]
+06/07/2026 | PRIVÉE-FR | French Tech H1 2026 baromètre | €4,83 Md levés H1 2026 ; AMI Labs + Alan = 91% de la croissance ; seed et deal count en baisse | [NOUVEAU]
+06/07/2026 | ACADÉMIQUE | ICML 2026 J1 ouverture / BagelVLA / Fast-WAM | tutoriaux J1 Séoul ; conférence principale 7-9 juillet ; best papers attendus ; signaux VLA : BagelVLA, Fast-WAM, WAM vs VLA robustness | [SUITE]
 
