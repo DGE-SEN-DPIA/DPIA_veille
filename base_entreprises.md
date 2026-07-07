@@ -351,20 +351,22 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 17-18/06/2026 : **Bureau de Séoul** — partenariats Naver, LG CNS, Samsung SDS, Nexon, Hanwha.
   - Juin 2026 : **Project Glasswing étendu à 150 organisations / 15 pays**.
   30/06/2026 — **Claude Sonnet 5** lancé (simultanément à la levée des contrôles export sur Fable 5, non capturé dans les notes 01-02/07) : modèle le plus agentique d'Anthropic, nouveau défaut Free/Pro, 1M tokens contexte par défaut, 128k tokens sortie max, adaptive thinking by default (extended thinking manuel → erreur 400), cyber-safeguards by default (bloquent usages cyber dangereux en temps réel, même niveau Opus 4.7/4.8). Benchmark knowledge work interne : dépasse légèrement Opus 4.8. Terminal-Bench 2.1 : nouveau SOTA. Tarif introductif : $2/$10/M tokens jusqu'au 31/08/2026, puis $3/$15. [anthropic.com/news/claude-sonnet-5 ; TechCrunch 30/06/2026]
-  07/07/2026 — **Fable 5 sort des abonnements** : fin du quota transitoire 50%, bascule en usage credits uniquement. Anthropic promet réintégration dans les forfaits standards dès que la capacité le permet. [BleepingComputer, 01/07/2026]
-- À surveiller : Réintégration Fable 5 dans les abonnements ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet.
+  07/07/2026 — **Fable 5 sort des abonnements** : fin du quota transitoire 50%, bascule en usage credits uniquement ($10/$50 par M tokens input/output). Anthropic promet réintégration dans les forfaits standards dès que la capacité le permet. [BleepingComputer / Anthropic, 07/07/2026]
+  29/06/2026 — **Partenariat California-Anthropic** (non capturé) : Gov. Newsom annonce accès à Claude pour l'ensemble des agences de l'État californien et collectivités locales, via plateforme SITeS (California Dept of Technology), à -50% du tarif catalogue + formation workforce gratuite. Plus grand déploiement IA d'État US. Primo-déployeurs : DMV Californie, Dept of Health Care Services. [gov.ca.gov / TechCrunch, 29/06/2026]
+- À surveiller : Réintégration Fable 5 dans les abonnements ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet ; extension du modèle California à d'autres États et à la France.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
-- Dernière MAJ : 02/07/2026
+- Dernière MAJ : 07/07/2026
 - Financement : filiale de Google (Alphabet)
 - Produits / modèles : Gemini 2.x (frontière), Gemma (open-weights), AlphaCode, AlphaFold, D4RT (Best Paper CVPR 2026, reconstruction dynamique 4D 18-300× plus rapide que l'état de l'art).
-  **Gemini 3.5 Pro** — annoncé à Google I/O 2026 (19/05). GA ciblée initialement en juin 2026. Reportée officiellement à juillet 2026 (23/06/2026 — Cryptobriefing). Contexte 2M tokens, Deep Think reasoning mode. En preview Vertex AI enterprise uniquement à fin juin.
+  **Gemini 3.5 Pro** — annoncé à Google I/O 2026 (19/05). GA ciblée initialement en juin 2026. Reportée officiellement à juillet 2026 (23/06/2026 — Cryptobriefing). Contexte 2M tokens, Deep Think reasoning mode. En preview Vertex AI enterprise uniquement à fin juin. Date de GA ciblée le **17 juillet 2026** selon rumeurs (non confirmé officiellement — [1 source, 07/07/2026]). Nouveau base model (non réutilisation architecture Gemini 2.5 Pro) ; capacités SVG annoncées.
   10/06/2026 — **DiffusionGemma** : modèle open source 26B MoE, licence Apache 2.0. Architecture diffusion (non auto-régressive) : génère 256 tokens en parallèle → 4× plus rapide qu'un LLM standard (1 000 tokens/s sur H100, ~700 sur RTX 5090). Active 3,8B params à l'inférence. Idéal pour édition de code, infilling, séquences biologiques. Compromis : qualité inférieure à Gemma 4 classique. [Google DeepMind blog, 10/06/2026]
 - Contrats & partenariats : 19/06/2026 — **Appel à financement 10 M$ pour la sécurité multi-agents** : co-lancé avec Schmidt Sciences, la Cooperative AI Foundation et l'ARIA (UK) ; deadline candidatures 8/08/2026, awardees attendus automne 2026. [deepmind.google, MIT Technology Review, 11/06/2026]
 - Orientations stratégiques : Sécurité des agents, multi-agent alignment, IA physique. Modèles open-source compétitifs (DiffusionGemma) comme levier de distribution.
   01/07/2026 — **Nano Banana 2 Lite** : modèle text-to-image le plus rapide et économique de la gamme Gemini Image, disponible sur Google Cloud. [cloud.google.com, 01/07/2026]
   01/07/2026 — **Gemini Omni Flash** : modèle nativement multimodal en public preview sur Google AI Studio et Gemini API ; génère des clips vidéo de 10 secondes par édition conversationnelle ($0,10/s, jusqu'à 3 éditions en contexte). [cloud.google.com, 01/07/2026]
-- À surveiller : GA Gemini 3.5 Pro (toujours reportée, en preview Vertex AI enterprise) ; résultats appel 10 M$ (automne 2026) ; adoption Gemini Omni Flash en production.
+  Juillet 2026 (rumeur) — **Nano Banana Pro** : version supérieure de la gamme Nano Banana en préparation, capacités et tarifs non confirmés. [1 source, 07/07/2026]
+- À surveiller : Confirmation officielle GA Gemini 3.5 Pro (cible rumeur 17 juillet) ; lancement Nano Banana Pro ; résultats appel 10 M$ (automne 2026) ; adoption Gemini Omni Flash en production.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
 - Dernière MAJ : —
@@ -583,5 +585,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   Partenaire Lynred (caméras IR, France) pour l'optronique DELCO.
 - Orientations stratégiques : Fondée en 2024, Harmattan AI a atteint en 18 mois le statut de licorne et la production de masse (6 000 drones commandés). Modèle : conception et assemblage souverains sur sol français avec partenaires industriels français (Lynred). Expansion vers d'autres alliés OTAN.
 - À surveiller : Nouveau tour de financement post-série B ; extension à d'autres armées OTAN ; développement vers l'aviation de combat autonome (Rafale F5/UCAS, Dassault Aviation).
+
+## Aire / FLOPS & FRIENDS (franco-américaine, AI scientist pour R&D enterprise) — NOUVEAU ENTRANT
+- Dernière MAJ : 07/07/2026
+- Financement : Seed en cours — objectif ~400 M$ (valorisation cible ~2 Md$). [1 source, juillet 2026 — à confirmer]
+- Produits / modèles : Plateforme d'« AI scientist » pour accélérer la R&D enterprise ; positionnement sur l'automatisation de cycles de recherche et d'expérimentation à destination des équipes scientifiques et d'ingénierie.
+- Contrats & partenariats : —
+- Orientations stratégiques : Co-fondée par **Irwan Bello** (ex-OpenAI, recherche fondamentale), **Gabriel Synnaeve** (ex-Meta FAIR Paris, RL et agents), et **Yossi Adi** (ex-Meta, speech/audio IA). Franco-américaine : ancrage recherche France (ex-FAIR Paris) et infrastructure US. Opère sous le nom commercial FLOPS & FRIENDS (référence humoristique à l'intensité de calcul). Annonce juillet 2026.
+- À surveiller : Clôture et montant final du seed ; détail du produit ; premiers clients enterprise (probable cible : pharma, biotech, matériaux, aérospatiale) ; confirmation officielle de la levée par 2 sources indépendantes.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
