@@ -249,12 +249,21 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Montant et calendrier de clôture du rachat de Gladia ; stratégie « build vs. buy » pour les briques IA souveraines (voix, vision).
 
 ## Scaleway (France, cloud)
-- Dernière MAJ : 14/06/2026
+- Dernière MAJ : 08/07/2026
 - Financement : —
 - Produits / modèles : —
 - Contrats & partenariats : Membre du consortium AION (avec Ardian, Capgemini, EDF, Orange, Bull, iliad…) candidat à une AI Gigafactory européenne en France [annonce datée du 21/05/2026 selon EDF, antérieure à la fenêtre, à recroiser].
+  18/06/2026 (VivaTech) — **Partenariat Scaleway / VSORA / ZML / Région Île-de-France** : engagement à déployer les premiers serveurs équipés de Jotunn8 (accélérateur IA inférence VSORA, TSMC N5, CoWoS) dans les datacenters Scaleway. ZML assure la couche logicielle d'inférence multi-hardware. Objectif : premières infrastructures IA souveraines haute performance en Île-de-France, sans dépendance NVIDIA/AMD. Premier déploiement industriel d'un accélérateur IA conçu en France dans un cloud certifié souverain. [GlobalNewsWire / Usine Digitale / La Revue du Digital, 18/06/2026]
 - Orientations stratégiques : 01/06/2026 — hausse tarifaire moyenne de +25 % (jusqu'à +300 % sur certaines instances comme STARDUST) sur 78 lignes tarifaires (instances, stockage, bare metal Iridium/Dedibox), justifiée par la hausse des coûts matériels (RAM, stockage) et la pression sur les adresses IPv4. [channelnews.fr/silicon.fr, 01/06/2026]
-- À surveiller : Impact de la hausse tarifaire sur la compétitivité face aux hyperscalers ; suite du consortium AION.
+- À surveiller : Calendrier déploiement opérationnel Jotunn8 chez Scaleway ; impact de la hausse tarifaire sur la compétitivité face aux hyperscalers ; suite du consortium AION.
+
+## VSORA (France, semi-conducteurs — accélérateur inférence IA)
+- Dernière MAJ : 08/07/2026
+- Financement : non public
+- Produits / modèles : **Jotunn8** — accélérateur IA conçu en France pour l'inférence en datacenter, gravé chez TSMC (procédé N5, packaging CoWoS). Premier accélérateur IA de fabrication européenne (design France, fab TSMC) destiné à des clouds souverains.
+- Contrats & partenariats : 18/06/2026 — partenariat avec Scaleway, ZML et la Région Île-de-France pour le déploiement des premiers serveurs Jotunn8 dans les datacenters Scaleway.
+- Orientations stratégiques : Alternative souveraine aux GPU NVIDIA/AMD pour les workloads d'inférence, compatible avec la stack logicielle ZML (multi-hardware sans réécriture). Positionnement IA souveraine européenne.
+- À surveiller : Disponibilité commerciale Jotunn8 ; performances vs. NVIDIA H100/H200 sur les benchmarks inférence ; prochaine levée de fonds.
 
 ## Outscale (France, cloud — groupe Dassault Systèmes)
 - Dernière MAJ : 14/06/2026
@@ -353,7 +362,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   30/06/2026 — **Claude Sonnet 5** lancé (simultanément à la levée des contrôles export sur Fable 5, non capturé dans les notes 01-02/07) : modèle le plus agentique d'Anthropic, nouveau défaut Free/Pro, 1M tokens contexte par défaut, 128k tokens sortie max, adaptive thinking by default (extended thinking manuel → erreur 400), cyber-safeguards by default (bloquent usages cyber dangereux en temps réel, même niveau Opus 4.7/4.8). Benchmark knowledge work interne : dépasse légèrement Opus 4.8. Terminal-Bench 2.1 : nouveau SOTA. Tarif introductif : $2/$10/M tokens jusqu'au 31/08/2026, puis $3/$15. [anthropic.com/news/claude-sonnet-5 ; TechCrunch 30/06/2026]
   07/07/2026 — **Fable 5 sort des abonnements** : fin du quota transitoire 50%, bascule en usage credits uniquement ($10/$50 par M tokens input/output). Anthropic promet réintégration dans les forfaits standards dès que la capacité le permet. [BleepingComputer / Anthropic, 07/07/2026]
   29/06/2026 — **Partenariat California-Anthropic** (non capturé) : Gov. Newsom annonce accès à Claude pour l'ensemble des agences de l'État californien et collectivités locales, via plateforme SITeS (California Dept of Technology), à -50% du tarif catalogue + formation workforce gratuite. Plus grand déploiement IA d'État US. Primo-déployeurs : DMV Californie, Dept of Health Care Services. [gov.ca.gov / TechCrunch, 29/06/2026]
-- À surveiller : Réintégration Fable 5 dans les abonnements ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet ; extension du modèle California à d'autres États et à la France.
+  **08/07/2026 — Vérification biométrique d'identité effective** : politique de confidentialité révisée (publiée 8 juin, délai 30j) entre en vigueur. Anthropic peut exiger de tout abonné Free/Pro/Max un justificatif d'identité gouvernemental, un selfie live et un gabarit de géométrie faciale avant d'accéder à certaines fonctionnalités. Prestataire : **Persona Identities** (tiers, données stockées chez Persona). Exemption totale : Team, Enterprise, API. Actif en mode restreint depuis le 14/04/2026. Justification : conformité contrôles export Fable 5 + vérification d'âge. Incident sécurité Persona (fév. 2026) : 2 456 fichiers (53 Mo) exposés sans auth sur endpoint FedRAMP. Concernements GDPR Art. 9 (DPIA non publiée), Illinois BIPA. [TechTimes 21/06/2026 / TechCrunch 22/06/2026 / Biometric Update 2026]
+- **Dernière MAJ : 08/07/2026**
+- À surveiller : Réintégration Fable 5 dans les abonnements ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet ; extension du modèle California à d'autres États et à la France ; réaction CNIL / autorités DPA UE sur la biométrie Anthropic.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 07/07/2026

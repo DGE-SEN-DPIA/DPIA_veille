@@ -153,4 +153,9 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 07/07/2026 | ACADÉMIQUE | arXiv:2607.00836 World Action Models tutorial | « From World Models to World Action Models: A Concise Tutorial for Robotics » (1/07) — taxonomie 4 paradigmes WAM ; référence structurante IA physique 2026 | [NOUVEAU]
 07/07/2026 | ACADÉMIQUE | arXiv:2607.02431 WorldSample | « WorldSample: Closed-loop Real-robot RL with World Modelling » (2/07) — augmentation world model pour RL robotique réel ; Policy-Paced Learning | [NOUVEAU]
 07/07/2026 | PRIVÉE-FR | French Tech H1 2026 baromètre | €4,83 Md H1 2026 (-17% deals, +23% volume) ; AMI+Alan = 28% ; hors méga-rounds : +4% seulement ; amorçage en repli | [NOUVEAU]
+08/07/2026 | PRIVÉE-MONDE | Anthropic vérification biométrique | entrée en vigueur 8/07 : ID gouvernemental + selfie + gabarit facial (Persona) ; Free/Pro/Max ; API/Team/Enterprise exempts ; GDPR Art. 9 non-conformité possible | [NOUVEAU]
+08/07/2026 | INFRA | Scaleway / VSORA / ZML / Île-de-France | premiers serveurs Jotunn8 (accélérateur IA inference conçu France, TSMC N5/CoWoS) dans cloud Scaleway ; annoncé VivaTech 18/06 — rattrapage | [NOUVEAU]
+08/07/2026 | PRIVÉE-MONDE | Chine Doubao/Qwen agents émotionnels | Doubao (ByteDance) + Qwen Agent (Alibaba) suppriment fonctionnalités compagnon IA avant le 15/07 (règlement anthropomorphique) — J-7 | [SUITE de TC260, dernière mention 03/07]
+08/07/2026 | ACADÉMIQUE | Kairos arXiv:2606.16533 | world model stack natif Physical AI (TSCA N5, Hybrid Linear Temporal Attention, deployment-aware) ; soumis 15/06 — rattrapage | [NOUVEAU]
+08/07/2026 | PUBLIQUE-FR | Baromètre France Num 2025 | 34% PME françaises adoptent l'IA (vs 13% en 2024) ; 7% industriels ; 94% optimisent l'existant | [NOUVEAU]
 
