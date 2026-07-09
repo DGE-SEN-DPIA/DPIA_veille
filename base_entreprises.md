@@ -142,6 +142,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   Eté 2026 — **Calvin pleinement opérationnel** sur la ligne R5 (nuit) de l'usine Renault Douai. Supervision humaine réduite à la sécurité de balance. [Usine Nouvelle / France 3 Hauts-de-France]
 - À surveiller : Extension à d'autres lignes et sites Renault (cible 350 robots en 18 mois) ; levée de fonds Wandercraft ; cas d'usage IA industrielle/IA physique emblématique.
 
+## Aire / FLOPS & FRIENDS (France/US, IA scientifique R&D enterprise) — NOUVEL ENTRANT
+- Dernière MAJ : 09/07/2026
+- Financement : Seed de $400 M cible à ~$2 Md de valorisation — tour en cours, non clôturé au 09/07/2026. [French Tech Journal + Sifted, juillet 2026 — 2 sources]
+- Produits / modèles : « AI scientist » pour automatiser la R&D enterprise (biologie, physique, finance).
+- Contrats & partenariats : —
+- Orientations stratégiques : Fondée par Irwan Bello (ex-OpenAI), Gabriel Synnaeve (ex-Meta FAIR Paris) et Yossi Adi. Opérations transatlantiques, ancrage Paris via Synnaeve. Statut legal et siège à confirmer.
+- À surveiller : Clôture du seed et identité des investisseurs ; premiers produits publics ; positionnement vs. Prometheus (Bezos/Bajaj) et OpenAI o3-pro sur le segment AI scientist.
+
+## OpenAI (US, LLM / agents / infrastructure IA)
+- Dernière MAJ : 09/07/2026
+- Financement : —
+- Produits / modèles :
+  26/06/2026 — **GPT-5.6 Sol/Terra/Luna (preview)** : preview limitée ~20 partenaires gouvernementaux US. Sol (flagship), Terra (everyday), Luna (économique).
+  09/07/2026 — **GPT-5.6 GA mondiale** : Sol $5/$30, Terra $2,50/$15, Luna $1/$6 par M tokens input/output. Ultra mode (Sol) : multi-agents embarqués, sous-agents parallèles facturés séparément. Sol disponible sur Cerebras à 750 tokens/s. Cache : breakpoints explicites, durée min. 30 min, cache-write 1,25× taux non mis en cache.
+- Contrats & partenariats : Partner Network mondial $150 M (14/06/2026, Accenture/Bain/BCG/McKinsey/PwC). Partenariat DoC US pour pré-release Gov (cadre EO 1er août).
+- Orientations stratégiques : Nouveau schéma de naming tiered (Sol/Terra/Luna) applicable aux générations futures. Accélération inférence via Cerebras (Jalapeño chip).
+- À surveiller : Disponibilité Azure OpenAI Service et AWS Bedrock pour GPT-5.6 (déploiements souverains FR) ; réponse METR flag sur benchmark gaming ; IPO (tilt vers 2027 selon Kalshi).
+
 ## Jimini AI (France, IA juridique — droit des affaires)
 - Dernière MAJ : —
 - Financement : —
