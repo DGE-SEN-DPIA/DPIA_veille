@@ -22,7 +22,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 02/07/2026
+- Dernière MAJ : 10/07/2026
 - Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 25/06/2026 — statu quo, stade précoce.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
@@ -34,7 +34,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   23/06/2026 — **OCR 4** : modèle d'extraction documentaire déployable en conteneur unique on-premise (aucun envoi de données hors infrastructure client). Couvre 170 langues avec boîtes de délimitation au niveau paragraphe, scores de confiance inline et intégration RAG directe. Win rate 72 % en tests aveugles indépendants. Tarif API : $4/1 000 pages ($2 en Batch API), $5 pour Document AI. Disponible sur Mistral API, Amazon SageMaker et Microsoft Foundry. Première alternative souveraine crédible aux APIs cloud US pour l'extraction documentaire dans les secteurs réglementés (banque, santé, défense, marchés publics). [mistral.ai/news/ocr-4/, 23/06/2026]
   Juin 2026 — **Mistral Robotique** : lancement d'un programme R&D robotique (algorithmes navigation, manipulation, raisonnement). Recrutement d'Olivier Duchenne (ex-Aldebaran, INRIA, Meta Robotics). Taux de réussite annoncé : 96 % sur préparation de kits de pièces pour chaînes de montage. Déploiement en usines conditionné à l'atteinte d'un seuil de rendement suffisant. [Usine Nouvelle, juin 2026 — date précise à confirmer]
   25/06/2026 — **Les Ulis (Essonne), 10 MW, dédié à l'inférence** : troisième site de calcul Mistral, ouverture Q3 2026. Distinct de Bruyères-le-Châtel (training/cloud) et de la future extension suédoise. Objectif : contrôle direct de la capacité d'inférence, réduction dépendance cloud tiers. [VentureBeat / Futurum, juin 2026 — 1 source]
-- À surveiller : Clôture levée ~3 Md€ et investisseurs ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements robotique en usine.
+  08/07/2026 — **Robostral Navigate** : premier modèle IA physique Mistral, navigation robotique 8B paramètres, single RGB camera sans LiDAR, 76,6 % succès R2R-CE (val. unseen), +9,7 pts vs. SOTA single-cam, +4,5 pts vs. multi-sensor. Entraîné sur données simulées, hardware-agnostique. Cibles : logistique, manufacturing, hospitality. [mistral.ai/news/robostral-navigate/, 08/07/2026]
+  Juillet 2026 — **Modèle MoE open-weight « fat but sparse »** en early access pour partenaires clés (recherche, gouvernements, industrie). Nom et paramètres non divulgués. Confirmation CEO Mensch. [TechTimes / aiweekly.co, 06-07/07/2026]
+  Juillet 2026 — ARR confirmé à $400M (vs. $20M un an plus tôt). [AI Weekly, juillet 2026]
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; ouverture Les Ulis Q3 2026 ; nom/taille/licence modèle MoE open-weight ; premiers déploiements Robostral en usine ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension L'Assistant collectivités ; résultats commerciaux Industrial Engineering ; financement Suède.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -242,6 +245,25 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : Positionnement IA agentique souveraine, en concurrence avec Dust, Delos, solutions américaines. Nuit de la Data et de l'IA 2026 — argent (SelfAI).
 - À surveiller : Extension sectorielle (défense, industrie) ; levée de fonds.
 
+## Gradium (France, voix IA ultra-basse latence / spinout Kyutai)
+- Dernière MAJ : 10/07/2026
+- Financement :
+  Décembre 2025 — **Seed $70M** : FirstMark Capital (lead), Eurazeo, DST Global Partners, Xavier Niel, Rodolphe Saadé, Eric Schmidt.
+  09/07/2026 — **Extension seed $30M NVIDIA** : seed total porté à plus de $100M. NVIDIA premier investisseur stratégique industriel. [Sifted, TechCrunch, 09/07/2026]
+- Produits / modèles : Modèles audio voix ultra-basse latence multilingues pour agents IA conversationnels (temps de réponse quasi-instantané, sans la pause caractéristique des systèmes concurrents). Concurrent potentiel des solutions ElevenLabs, AWS Polly, Azure Speech.
+- Contrats & partenariats : **Renault** — premier grand client confirmé. Ouverture d'un bureau en Bay Area (San Francisco) avec les fonds NVIDIA.
+- Orientations stratégiques : Spinout de Kyutai (lab IA open-science français) ; co-fondé par Neil Zeghidour (ex-Google Brain, DeepMind, Meta). Ambition : standard voix IA pour agents d'entreprise, alternative souveraine aux APIs voix US.
+- À surveiller : Annonce de clients enterprise supplémentaires (admin. française ?) ; lancement produit SaaS public ; série A prévue 2026-2027 ; état de la concurrence avec Kyutai Moshi (modèle voix temps réel).
+
+## ÆTHER Consortium (France/Europe, gigafactories IA souveraines)
+- Dernière MAJ : 10/07/2026
+- Financement : Candidature au programme EuroHPC AI Gigafactories (€20 Md, appel lancé 2025, sélection attendue fin 2026). Pas de financement privé divulgué.
+- Produits / modèles : Infrastructure de calcul IA souveraine de bout en bout (puce → énergie → cloud).
+- Contrats & partenariats :
+  08/07/2026 — **Dépôt candidature EuroHPC AI Gigafactories**. Membres fondateurs : **SiPearl** (puces Arm Neoverse), **2CRSi** (serveurs), **Axelera AI** (accélérateur inférence), **ÉS Group** (énergie Alsace), **Projex** (construction), **Haffner Energy** (hydrogène bas-carbone). Deux sites en négociation exclusive dans la **région strasbourgeoise** (acquisition visée avant fin octobre 2026). Résultats raccordement RTE attendus fin juillet 2026.
+- Orientations stratégiques : Premier datacenter (FR-SXB1) opérationnel en 2027. Capacité initiale 42 MW, cible long-terme 400 MW (sous réserve raccordement). Ambition déclarée : démontrer que l'Europe possède toutes les briques pour concevoir, construire, alimenter, exploiter et mettre à l'échelle son infrastructure IA de façon totalement souveraine.
+- À surveiller : Résultats RTE (raccordement réseau, fin juillet 2026) ; finalisation acquisition sites Strasbourg (octobre 2026) ; décision sélection EuroHPC (fin 2026) ; relation avec candidature concurrente AION (~10 Md€, 1 GW).
+
 ---
 
 ## ChapsVision (France, analyse de données souveraine — renseignement & sécurité)
@@ -405,16 +427,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : —
 - À surveiller : —
 
-## xAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 25/06/2026
+## xAI / SpaceX (États-Unis, modèles de fondation / coding / IA agentique)
+- Dernière MAJ : 10/07/2026
 - Financement : —
 - Produits / modèles :
-  **Grok 4.3** — disponible en GA sur Amazon Bedrock depuis le 15/06/2026. Contexte 1 million de tokens, moteur d'inférence Mantle (AWS), niveaux de raisonnement configurables (none/low/medium/high), tarif $1,25/$2,50 par million de tokens — le plus bas pour un modèle frontier sur Bedrock selon AWS. Intégration tool calling, structured output, streaming. [AWS Newsroom, 15/06/2026]
-  **Grok Imagine Video 1.5** — GA dans l'API Imagine et sur grok.com/imagine + iOS/Android (juin 2026). Meilleure qualité image-to-video, génération plus rapide.
-- Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (~32 Md$ total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI. [TechCrunch/CNBC, 05/06/2026]
-  15/06/2026 — Grok 4.3 sur Amazon Bedrock (xAI rejoint les model providers Bedrock).
-- Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks) ; positionnement sur l'entreprise avec le tarif d'inférence le plus bas en raisonnement frontier.
-- À surveiller : Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud ; usage de la capacité de calcul SpaceX/xAI.
+  **Grok 4.3** — GA Amazon Bedrock 15/06/2026, $1,25/$2,50/M tokens, contexte 1M.
+  **Grok Imagine Video 1.5** — GA juin 2026 (image-to-video).
+  **Grok 4.5** — lancé 08-09/07/2026. Premier modèle co-développé SpaceX/xAI + Cursor (Anysphere, acquis par SpaceX $60Md le 16/06/2026). Architecture V9 MoE 1,5T paramètres, entraîné sur données réelles de sessions Cursor + STEM. Cibles : code, agentic, legal, finance. Score : 4e Artificial Analysis Intelligence Index. Tarif : $2/$6/M tokens (input/output) — 60%+ moins cher qu'Opus 4.8. Pas disponible dans l'UE à la date de lancement ; EU availability mid-juillet (sans date fixe). [Axios 08/07 ; TechCrunch 08/07 ; Bloomberg 08/07 ; Trending Topics EU 09/07].
+- Contrats & partenariats :
+  05/06/2026 — Google : 920 M$/mois (~32 Md$ total) pour ~110 000 GPU Nvidia dans les datacenters liés à xAI.
+  16/06/2026 — **Acquisition Cursor (Anysphere)** : $60Md all-stock SpaceX (plus grande acquisition VC-backed de l'histoire). Cursor apporte ~3M développeurs et son corpus de données de sessions de codage.
+- Orientations stratégiques : Pivot de xAI vers les modèles coding+agentique via Cursor ; ciblage legal/finance au-delà du software engineering. Grok 5 (6T params MoE, Colossus 2) toujours en training.
+- À surveiller : Grok 5 lancement ; disponibilité EU Grok 4.5 ; monétisation de la base Cursor en dehors des US.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : —
