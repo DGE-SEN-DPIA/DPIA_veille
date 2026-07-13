@@ -168,4 +168,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 09/07/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro | ciblé 17 juillet [rumeur, non confirmé Google officiel] | [SUITE]
 09/07/2026 | NOUVEL-ENTRANT | Aire / FLOPS & FRIENDS | Sifted confirme (2e source) seed $400M cible / ~$2Md val. ; tour non clôturé ; co-fondateurs Bello/Synnaeve/Adi | [SUITE de 07/07 → 2 sources]
 09/07/2026 | ACADÉMIQUE | ICML 2026 J3 | clôture conférence principale (9 juillet) ; workshops 10-11 juillet ; synthèse vendredi | [SUITE]
+13/07/2026 | PRIVÉE-FR | Mistral Robostral Navigate | modèle robotique 8B, navigation single-RGB, 76,6% R2R-CE SOTA (+9,7pts mono / +4,5pts multi-sensor), 400K traj. 6K scènes simulation, hardware agnostic — rattrapage 08/07 | [NOUVEAU]
+13/07/2026 | PRIVÉE-FR | Mistral MoE open-weight + ARR | nouveau modèle « fat but sparse » en early access partenaires juillet 2026 ; ARR >$400M confirmé (début 2026) ; lancement public été 2026 — rattrapage 06/07 | [NOUVEAU]
+13/07/2026 | PRIVÉE-MONDE | Anthropic Fable 5 | 2e extension accès inclus Pro/Max/Team/Enterprise jusqu'au 19/07 (12/07) — 50% quotas hebdo ; après : $10/$50/M tokens | [SUITE de 07/07]
+13/07/2026 | PUBLIQUE-CHINE | règlement anthropomorphique / Qwen Agent | Alibaba Qwen Agent offline 10/07 (J-5 vs deadline légale 15/07) — retrait proactif anticipatif | [SUITE de 09/07]
+13/07/2026 | PUBLIQUE-EU | AI Act Omnibus JOUE | J-20 avant 2 août, toujours non publié au 13/07 — urgence maximale | [SUITE de 09/07]
+13/07/2026 | PRIVÉE-MONDE | DeepSeek V4 | V4-Pro 1,6T/49B actifs, V4-Flash 284B/13B actifs confirmés ; peak/off-peak ×2 ; deprecation API 24/07 15h59 UTC | [SUITE de 03/07]
+13/07/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro | J-4 avant rumeur 17/07 ; non confirmé Google officiel | [SUITE de 09/07]
+13/07/2026 | ACADÉMIQUE | ICML 2026 Mech Interp Workshop | 10/07 : 23 spotlights publiés (feature geometry, circuits, sécurité/discovery) | [SUITE de 09/07]
 
