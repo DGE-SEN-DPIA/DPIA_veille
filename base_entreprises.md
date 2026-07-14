@@ -22,7 +22,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 13/07/2026
+- Dernière MAJ : 14/07/2026
 - Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 25/06/2026 — statu quo, stade précoce.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
@@ -37,7 +37,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **06/07/2026 — ARR confirmé >$400 M** (début 2026), trajectoire $1 Md fin 2026 selon Mensch. Valorisation citée ~$23 Md dans certains médias en lien avec les discussions de levée (1 source, à confirmer). [AI Weekly, TechTimes, juillet 2026]
   **06/07/2026 — Nouveau modèle MoE open-weight en early access partenaires** : architecture « fat but sparse » (Mixture-of-Experts). Paramètre count, benchmarks et licence non divulgués à date. Lancement public élargi visé « plus tard cet été ». [TechTimes 06/07/2026 ; AI Weekly juillet 2026]
   **08/07/2026 — Robostral Navigate** : premier modèle d'IA physique robotique Mistral. 8B paramètres, navigation autonome sur une seule caméra RGB ordinaire. **76,6 % sur R2R-CE** (validation, scènes inconnues) — +9,7 pts vs. meilleure approche monoculaire précédente, +4,5 pts vs. meilleurs systèmes multi-capteurs (LiDAR inclus). Entraîné 100 % en simulation (400 000 trajectoires, 6 000 scènes), affiné par RL en ligne. Hardware agnostic (wheels, legged, flying). Applications : manufacturing, delivery, logistique, hospitality. Directement lié au pivot robotique amorcé avec Emmi AI (19/05) et Mistral for Industrial Engineering (28/05). [Bloomberg + mistral.ai/news/robostral-navigate/ + eWeek, 08-09/07/2026]
-- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation valorisation ~$23 Md ; lancement public modèle MoE open-weight (été 2026) ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements Robostral Navigate en flotte industrielle.
+  **02/07/2026 — Leanstral 1.5** : modèle open-source Apache 2.0 pour la vérification formelle Lean 4. Architecture MoE 119B total / 6B actifs ; contexte 256k tokens. Scores : miniF2F saturé ; 587/672 PutnamBench (SOTA) ; FATE-H 87 % (SOTA), FATE-X 34 % (SOTA). Découverte de 5 bugs inconnus dans 57 dépôts testés. API gratuite (Mistral Labs). Application : certification logiciels critiques (aéro, nucléaire, banque). [mistral.ai/news/leanstral-1-5/, 02/07/2026]
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation valorisation ~$23 Md ; lancement public modèle MoE open-weight (été 2026) ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements Robostral Navigate en flotte industrielle ; adoption de Leanstral 1.5 par les secteurs réglementés.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -111,12 +112,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Publications sur la sécurité des évaluations génératifs ; lien avec Gradium (spin-off audio).
 
 ## Gradium (France, IA vocale — spin-off Kyutai)
-- Dernière MAJ : 19/06/2026
+- Dernière MAJ : 14/07/2026
 - Financement : 70 M$ (≈60 M€) seed — décembre 2025 ; investisseurs : FirstMark Capital, Eurazeo, DST Global Partners, Eric Schmidt, Xavier Niel (Iliad), Rodolphe Saadé (CMA CGM), Korelya Capital, Amplify Partners.
-- Produits / modèles : Modèles audio ultra-basse latence pour agents vocaux (API en bêta prévue début 2026) ; inférence sur AWS G7e (NVIDIA RTX PRO 6000).
+  **08-09/07/2026 — Extension seed au-delà de 100 M$** avec entrée de **NVIDIA** comme nouvel investisseur industriel. Total >$100M. [Maddyness / Brief IA / Gate News, 08-10/07/2026 — 3 sources].
+- Produits / modèles : Modèles audio ultra-basse latence pour agents vocaux (STT, TTS, compréhension audio multilingue) ; inférence sur AWS G7e (NVIDIA RTX PRO 6000).
 - Contrats & partenariats : AWS (infrastructure inference principale). Présence Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06/2026).
-- Orientations stratégiques : Concurrencer les acteurs US de la voice tech (ElevenLabs, etc.) ; cible agents conversationnels et industries réglementées. Fondateurs : Neil Zeghidour (CEO), Alexandre Défossez (CSO), Olivier Teboul (CTO), Laurent Mazaré (CCO).
-- À surveiller : Lancement officiel API ; premiers clients enterprise ; prochaine levée.
+- Orientations stratégiques : Concurrencer les acteurs US de la voice tech (ElevenLabs, etc.) ; cible agents conversationnels et industries réglementées. L'entrée de NVIDIA valide le positionnement modalité vocale pour l'IA physique (robots, agents embarqués). Fondateurs : Neil Zeghidour (CEO), Alexandre Défossez (CSO), Olivier Teboul (CTO), Laurent Mazaré (CCO).
+- À surveiller : Lancement officiel API commerciale ; premiers clients enterprise ; prochains tours de financement ; synergies avec l'écosystème NVIDIA (physique IA, Jetson).
 
 ## Genesis AI (France/US, robotique — world models pour la manipulation physique)
 - Dernière MAJ : 18/06/2026
@@ -154,14 +156,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Clôture du seed et identité des investisseurs ; premiers produits publics ; positionnement vs. Prometheus (Bezos/Bajaj) et OpenAI o3-pro sur le segment AI scientist.
 
 ## OpenAI (US, LLM / agents / infrastructure IA)
-- Dernière MAJ : 09/07/2026
+- Dernière MAJ : 14/07/2026
 - Financement : —
 - Produits / modèles :
   26/06/2026 — **GPT-5.6 Sol/Terra/Luna (preview)** : preview limitée ~20 partenaires gouvernementaux US. Sol (flagship), Terra (everyday), Luna (économique).
   09/07/2026 — **GPT-5.6 GA mondiale** : Sol $5/$30, Terra $2,50/$15, Luna $1/$6 par M tokens input/output. Ultra mode (Sol) : multi-agents embarqués, sous-agents parallèles facturés séparément. Sol disponible sur Cerebras à 750 tokens/s. Cache : breakpoints explicites, durée min. 30 min, cache-write 1,25× taux non mis en cache.
 - Contrats & partenariats : Partner Network mondial $150 M (14/06/2026, Accenture/Bain/BCG/McKinsey/PwC). Partenariat DoC US pour pré-release Gov (cadre EO 1er août).
 - Orientations stratégiques : Nouveau schéma de naming tiered (Sol/Terra/Luna) applicable aux générations futures. Accélération inférence via Cerebras (Jalapeño chip).
-- À surveiller : Disponibilité Azure OpenAI Service et AWS Bedrock pour GPT-5.6 (déploiements souverains FR) ; réponse METR flag sur benchmark gaming ; IPO (tilt vers 2027 selon Kalshi).
+  **10/07/2026 — Apple vs. OpenAI** : Apple attaque OpenAI en justice pour vol systématique de secrets commerciaux hardware. Défendeurs nommés : Tang Tan (Chief Hardware Officer OpenAI, ex-VP Apple) et Chang Liu (ex-ingénieur Apple). Apple allègue que 400+ anciens employés ont rejoint OpenAI en emportant plans produit, specs hardware, chaîne d'approvisionnement. Lien central avec io Products (studio Jony Ive, ~6,5 Md$ acquis). Partenariat Apple-OpenAI (ChatGPT dans iOS, 2024) de facto rompu. [Bloomberg + CNBC + TechCrunch, 10/07/2026]
+  **14/07/2026 — OpenAI demande >1M$ attorney fees** à xAI après dismissal de la plainte trade secret xAI (juge Rita Lin, 15/06 « futile ») ; xAI annonce appel. [Bloomberg, 14/07/2026]
+- À surveiller : Disponibilité Azure OpenAI Service et AWS Bedrock pour GPT-5.6 (déploiements souverains FR) ; réponse METR flag sur benchmark gaming ; IPO (tilt vers 2027 selon Kalshi) ; issue du procès Apple (impact sur hardware AI et recrutements) ; Grok 4.5 EU availability (concurrence xAI en EU).
 
 ## Jimini AI (France, IA juridique — droit des affaires)
 - Dernière MAJ : —
@@ -214,12 +218,12 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## Dust (France, agents & assistants IA en entreprise)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
+- Dernière MAJ : 14/07/2026
+- Financement : **Juin 2026 — Série B $40 M** [1 source — Crescendo AI ; investisseurs et date exacte à confirmer].
+- Produits / modèles : Plateforme d'agents IA d'entreprise (création, déploiement, gestion d'agents).
 - Contrats & partenariats : —
 - Orientations stratégiques : —
-- À surveiller : —
+- À surveiller : Confirmation Série B ($40M, investisseurs, date) ; clients enterprise ; positionnement vs. Prisme.ai, Delos dans l'écosystème agentique souverain FR.
 
 ## Delos (France, bureautique GenAI souveraine)
 - Dernière MAJ : 18/06/2026
@@ -402,23 +406,25 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Confirmation officielle GA Gemini 3.5 Pro (cible rumeur 17 juillet) ; lancement Nano Banana Pro ; résultats appel 10 M$ (automne 2026) ; adoption Gemini Omni Flash en production.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
-- Dernière MAJ : —
+- Dernière MAJ : 14/07/2026
 - Financement : —
-- Produits / modèles : —
+- Produits / modèles :
+  **09/07/2026 — Muse Spark 1.1** : premier modèle commercialisé de Meta avec API payante (Meta Model API, public preview). Multimodal (texte, code, vision) ; 1M tokens de contexte ; optimisé tâches agentiques (computer use bureau/navigateur/mobile, sous-agents parallèles). Performances revendiquées : #1 sur MCP Atlas, JobBench, Humanity's Last Exam, Finance Agent V2 (vs. GPT-5.5/Opus 4.8). Tarif : $1,25/$4,25 per M tokens in/out. $20 de crédits gratuits en public preview. US only à lancement. [ai.meta.com/blog, 09/07/2026]
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques : Premier virage commercial de Meta dans les API IA — rupture avec le modèle 100 % open-source/gratuit. Concurrent direct d'OpenAI et Anthropic sur le marché des API enterprise.
+- À surveiller : Extension Meta Model API hors US (notamment EU) ; pricing RGPD-compatible ; performance réelle Muse Spark 1.1 sur benchmarks tiers ; Muse Spark 2 / modèles suivants.
 
 ## xAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 25/06/2026
+- Dernière MAJ : 14/07/2026
 - Financement : —
 - Produits / modèles :
   **Grok 4.3** — disponible en GA sur Amazon Bedrock depuis le 15/06/2026. Contexte 1 million de tokens, moteur d'inférence Mantle (AWS), niveaux de raisonnement configurables (none/low/medium/high), tarif $1,25/$2,50 par million de tokens — le plus bas pour un modèle frontier sur Bedrock selon AWS. Intégration tool calling, structured output, streaming. [AWS Newsroom, 15/06/2026]
   **Grok Imagine Video 1.5** — GA dans l'API Imagine et sur grok.com/imagine + iOS/Android (juin 2026). Meilleure qualité image-to-video, génération plus rapide.
+  **08/07/2026 — Grok 4.5** : modèle « Opus-class », optimisé coding et tâches agentiques, co-entraîné avec Cursor (acquis par xAI). Tarif $2/$6 per M tokens in/out. Disponible sur Grok Build, Cursor (tous plans), xAI Console. **Non disponible dans l'UE à la date du lancement** — disponibilité EU annoncée mi-juillet. [x.ai/news/grok-4-5, 08/07/2026 ; Axios ; TechCrunch]
 - Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (~32 Md$ total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI. [TechCrunch/CNBC, 05/06/2026]
   15/06/2026 — Grok 4.3 sur Amazon Bedrock (xAI rejoint les model providers Bedrock).
-- Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks) ; positionnement sur l'entreprise avec le tarif d'inférence le plus bas en raisonnement frontier.
-- À surveiller : Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud ; usage de la capacité de calcul SpaceX/xAI.
+- Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks, Cursor) ; positionnement coding/agentic enterprise ; xAI introduit une stratégie IDE (Cursor) inédite chez les modèles frontier. Procès trade secret contre OpenAI définitivement rejeté (juge Lin, 15/06) ; appel annoncé 14/07 ; OpenAI demande >1M$ de frais.
+- À surveiller : Grok 4.5 disponibilité EU (mid-juillet) ; RGPD-compliance pour déploiements EU ; Grok 5 (10T params, roadmap) ; issue de l'appel du procès OpenAI.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : —
