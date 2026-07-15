@@ -176,4 +176,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 13/07/2026 | PRIVÉE-MONDE | DeepSeek V4 | V4-Pro 1,6T/49B actifs, V4-Flash 284B/13B actifs confirmés ; peak/off-peak ×2 ; deprecation API 24/07 15h59 UTC | [SUITE de 03/07]
 13/07/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro | J-4 avant rumeur 17/07 ; non confirmé Google officiel | [SUITE de 09/07]
 13/07/2026 | ACADÉMIQUE | ICML 2026 Mech Interp Workshop | 10/07 : 23 spotlights publiés (feature geometry, circuits, sécurité/discovery) | [SUITE de 09/07]
+15/07/2026 | PRIVÉE-MONDE | DeepSeek V4 | GA officielle 15/07 : V4-Pro et V4-Flash en production, 1M tokens contexte, peak/off-peak pricing ×2 — migration API avant 24/07 | [SUITE de 13/07]
+15/07/2026 | PUBLIQUE-CHINE | règlement anthropomorphique en vigueur | entré en vigueur 15/07 : Qwen données supprimées définitivement, Doubao lecture seule →15/10, 14K+ agents retirés à Shanghai | [SUITE de 13/07]
+15/07/2026 | PRIVÉE-MONDE | xAI Grok Build CLI sécurité | repos Git entiers (historique + secrets) envoyés à GCS sans consentement ; Musk promet suppression sans calendrier ni vérification — front page HN 14/07 | [NOUVEAU]
+15/07/2026 | PRIVÉE-MONDE | xAI Grok 4.5 | lancement 08/07 (Axios, rattrapage) — non capturé dans les notes 09-13/07 ; aucun benchmark officiel | [NOUVEAU]
+15/07/2026 | PUBLIQUE-FR | Mistral Mensch énergie nucléaire | appel à réserver l'électricité nucléaire bon marché aux acteurs IA européens vs. hyperscalers US ; 3/4 PPA EDF prioritaires attribués à FR (Eclairion, Mistral, OpCore) | [NOUVEAU]
+15/07/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro | J-2 avant date rumeur 17 juillet — zéro confirmation Google officielle | [SUITE de 13/07]
+15/07/2026 | PRIVÉE-MONDE | Anthropic Fable 5 | J-4 avant expiration accès inclus 19/07 — Les Ulis toujours non ouvert | [SUITE de 13/07]
 

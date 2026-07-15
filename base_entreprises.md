@@ -22,7 +22,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 # France — Écosystème IA
 
 ## Mistral (France, modèles de fondation / LLM / cloud souverain)
-- Dernière MAJ : 13/07/2026
+- Dernière MAJ : 15/07/2026
 - Financement : 12/06/2026 — négociations (stade précoce, termes non arrêtés) pour une levée d'environ 3 Md€ (3,5 Md$) à une valorisation proche de 20 Md€, contre 11,7 Md€ lors de la série C de septembre 2025 (ASML, ~11 %, 1,3 Md€). [Bloomberg/Maddyness/TechCrunch, 12/06/2026]. 25/06/2026 — statu quo, stade précoce.
   19/06/2026 — Extension infrastructure Suède : 1,4 Md$ supplémentaires annoncés à VivaTech pour une deuxième capacité de calcul en Europe (Suède), dans la trajectoire 200 MW pour 2027. [VentureBeat, 19/06/2026 — 1 source]
 - Produits / modèles : 28/05/2026 — **Mistral for Industrial Engineering** : surrogate modeling pour Airbus (5 ans, défense/espace/hélicoptères), BMW, EDF, CMA CGM. 28/05/2026 — **Vibe** : rebrand de Le Chat en plateforme agentique unifiée (Work Mode + Code Mode), annoncé lors de la conférence annuelle Mistral à Paris (Carrousel du Louvre). [Mistral.ai/news, 28/05/2026]. 16/06/2026 — **"L'Assistant"** — agent conversationnel Mistral déployé à ~1 M agents de l'État français (coût 700 k€). [France 24, 16/06/2026]
@@ -37,7 +37,8 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **06/07/2026 — ARR confirmé >$400 M** (début 2026), trajectoire $1 Md fin 2026 selon Mensch. Valorisation citée ~$23 Md dans certains médias en lien avec les discussions de levée (1 source, à confirmer). [AI Weekly, TechTimes, juillet 2026]
   **06/07/2026 — Nouveau modèle MoE open-weight en early access partenaires** : architecture « fat but sparse » (Mixture-of-Experts). Paramètre count, benchmarks et licence non divulgués à date. Lancement public élargi visé « plus tard cet été ». [TechTimes 06/07/2026 ; AI Weekly juillet 2026]
   **08/07/2026 — Robostral Navigate** : premier modèle d'IA physique robotique Mistral. 8B paramètres, navigation autonome sur une seule caméra RGB ordinaire. **76,6 % sur R2R-CE** (validation, scènes inconnues) — +9,7 pts vs. meilleure approche monoculaire précédente, +4,5 pts vs. meilleurs systèmes multi-capteurs (LiDAR inclus). Entraîné 100 % en simulation (400 000 trajectoires, 6 000 scènes), affiné par RL en ligne. Hardware agnostic (wheels, legged, flying). Applications : manufacturing, delivery, logistique, hospitality. Directement lié au pivot robotique amorcé avec Emmi AI (19/05) et Mistral for Industrial Engineering (28/05). [Bloomberg + mistral.ai/news/robostral-navigate/ + eWeek, 08-09/07/2026]
-- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation valorisation ~$23 Md ; lancement public modèle MoE open-weight (été 2026) ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements Robostral Navigate en flotte industrielle.
+  **14-15/07/2026 — Déclaration Mensch électricité nucléaire** : Arthur Mensch appelle publiquement la France à prioriser l'accès à l'électricité nucléaire bon marché pour les acteurs IA européens vs. hyperscalers US ("l'IA = transformation d'énergie en tokens"). Fait concret en arrière-plan : EDF aurait attribué 3 des 4 PPA prioritaires à des acteurs français (Eclairion, Mistral, OpCore). Glissement de la souveraineté numérique vers la politique énergétique industrielle. [Digitimes, 15/07/2026 — 1 source]
+- À surveiller : Clôture levée ~3 Md€ et investisseurs ; confirmation valorisation ~$23 Md ; lancement public modèle MoE open-weight (été 2026) ; ouverture Les Ulis Q3 2026 ; confirmation chiffre GPU Bruyères-le-Châtel (discordance 13 800 vs. 18 000) ; extension de L'Assistant aux collectivités territoriales ; résultats commerciaux Industrial Engineering ; financement Suède ; premiers déploiements Robostral Navigate en flotte industrielle ; confirmation des 3 PPA EDF et implications pour la politique énergétique IA.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -385,8 +386,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   29/06/2026 — **Partenariat California-Anthropic** (non capturé) : Gov. Newsom annonce accès à Claude pour l'ensemble des agences de l'État californien et collectivités locales, via plateforme SITeS (California Dept of Technology), à -50% du tarif catalogue + formation workforce gratuite. Plus grand déploiement IA d'État US. Primo-déployeurs : DMV Californie, Dept of Health Care Services. [gov.ca.gov / TechCrunch, 29/06/2026]
   **08/07/2026 — Vérification biométrique d'identité effective** : politique de confidentialité révisée (publiée 8 juin, délai 30j) entre en vigueur. Anthropic peut exiger de tout abonné Free/Pro/Max un justificatif d'identité gouvernemental, un selfie live et un gabarit de géométrie faciale avant d'accéder à certaines fonctionnalités. Prestataire : **Persona Identities** (tiers, données stockées chez Persona). Exemption totale : Team, Enterprise, API. Actif en mode restreint depuis le 14/04/2026. Justification : conformité contrôles export Fable 5 + vérification d'âge. Incident sécurité Persona (fév. 2026) : 2 456 fichiers (53 Mo) exposés sans auth sur endpoint FedRAMP. Concernements GDPR Art. 9 (DPIA non publiée), Illinois BIPA. [TechTimes 21/06/2026 / TechCrunch 22/06/2026 / Biometric Update 2026]
   **12/07/2026 — Fable 5 : deuxième extension consécutive de l'accès inclus**, jusqu'au **19 juillet à 23h59 PT** (après première extension 7→12 juillet). Toujours limité à 50 % des quotas hebdomadaires ; après le 19 juillet : usage credits uniquement ($10/$50/M tokens). Signe de contrainte inférence persistante — Les Ulis non encore ouvert. [BleepingComputer + Simon Willison, 12/07/2026]
-- **Dernière MAJ : 13/07/2026**
-- À surveiller : Réintégration Fable 5 dans les abonnements après le 19/07 ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cotation ciblée octobre 2026, Goldman/JPM/Morgan Stanley) ; ARR cible $50 Md fin juillet ; extension du modèle California à d'autres États et à la France ; réaction CNIL / autorités DPA UE sur la biométrie Anthropic.
+  **15/07/2026 — Fable 5 accès inclus J-4** : toujours actif jusqu'au 19/07 à 23h59 PT (50 % quotas hebdo) ; après : $10/$50/M tokens. Les Ulis (10 MW, inférence) toujours non ouvert — délai des 2 extensions successives directement corrélé à la saturation inférence.
+  **01/07/2026 — Claude Science lancé** : programme de subventions API ($30 K crédits par projet, jusqu'à 50 projets) pour la recherche scientifique (focus biomédicale). Candidatures closes le 15/07/2026. Notifications : 31/07 ; projets sept.-déc. 2026. [Anthropic, claude.com/science, 01/07/2026]
+- **Dernière MAJ : 15/07/2026**
+- À surveiller : Réintégration Fable 5 dans les abonnements après le 19/07 ; Les Ulis ouverture Q3 2026 ; Sonnet 5 disponible via cloud souverain EU ; contenu public du framework conjoint frontier AI (avant 1er août) ; IPO S-1 public (cible octobre 2026) ; extension du modèle California à d'autres États et à la France ; réaction CNIL / DPA UE sur la biométrie Anthropic ; sélection des 50 projets Claude Science (annonce 31/07).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 07/07/2026
@@ -410,15 +413,17 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : —
 
 ## xAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 25/06/2026
+- Dernière MAJ : 15/07/2026
 - Financement : —
 - Produits / modèles :
   **Grok 4.3** — disponible en GA sur Amazon Bedrock depuis le 15/06/2026. Contexte 1 million de tokens, moteur d'inférence Mantle (AWS), niveaux de raisonnement configurables (none/low/medium/high), tarif $1,25/$2,50 par million de tokens — le plus bas pour un modèle frontier sur Bedrock selon AWS. Intégration tool calling, structured output, streaming. [AWS Newsroom, 15/06/2026]
+  **Grok 4.5** — lancé le 08/07/2026 (Axios scoop). Non capturé dans les notes 09-13/07 ; aucun benchmark officiel ni détail technique divulgué dans les sources primaires au 15/07.
   **Grok Imagine Video 1.5** — GA dans l'API Imagine et sur grok.com/imagine + iOS/Android (juin 2026). Meilleure qualité image-to-video, génération plus rapide.
 - Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (~32 Md$ total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI. [TechCrunch/CNBC, 05/06/2026]
   15/06/2026 — Grok 4.3 sur Amazon Bedrock (xAI rejoint les model providers Bedrock).
 - Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks) ; positionnement sur l'entreprise avec le tarif d'inférence le plus bas en raisonnement frontier.
-- À surveiller : Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud ; usage de la capacité de calcul SpaceX/xAI.
+  **14/07/2026 — Incident sécurité Grok Build CLI** : le CLI packege l'intégralité des dépôts Git suivis (historique + secrets effacés compris) et les envoie à un bucket Google Cloud Storage sans consentement explicite. Révélé par analyse wire-level (12/07), front page HN (14/07). Musk a promis la suppression complète des données uploadées avant le 13/07, sans calendrier ni vérification publiés. Action requise pour les utilisateurs : rotation immédiate de tous les secrets Git des dépôts concernés.
+- À surveiller : Grok 5 (10T params, roadmap annoncée) ; bilan officiel xAI de l'incident Grok Build CLI (organisations affectées, preuve de suppression) ; Grok 4.5 benchmarks officiels ; nouvelles intégrations cloud.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : —
@@ -505,8 +510,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   Moonshot AI / Kimi — **IPO Hong Kong en préparation** : démantèlement structure VIE depuis mai 2026 (Bloomberg 19/05) pour satisfaire aux exigences CSRC. Horizon de cotation : fin 2026 - début 2027. ARR ~200 M$ en avril 2026 (doublé en 6 semaines). 3e tour de financement (~2 Mrd$, valorisation 30 Mrd$ visée) en discussion depuis juin 2026 — Meituan impliqué. [Bloomberg 08/06/2026 ; The Next Web]
   30/06/2026 — **DeepSeek V4 officiel : lancement mi-juillet** confirmé (TechNode/Pandaily). Introduction du **peak-hour pricing** (×2) : 9h-12h et 14h-18h heure Beijing — première pour un LLM frontière chinois. V4-Pro off-peak : $0,435/$0,87 par M tokens ; V4-Flash off-peak : $0,14/$0,28. **Deprecation des anciens noms API** (deepseek-chat, deepseek-reasoner) : 24 juillet 2026 15h59 UTC, sans période de grâce. [TechNode 30/06/2026 ; Pandaily 30/06/2026 ; api-docs.deepseek.com]
   **10/07/2026 — Alibaba Qwen Agent offline** : agents humanoïdes et user-created coupés depuis le 10 juillet, soit 5 jours avant l'entrée en vigueur du règlement anthropomorphique (15/07/2026). Premier retrait proactif anticipatif observé — Alibaba a préféré couper avant la deadline plutôt qu'attendre une mise en demeure visible.
-- Dernière MAJ : 13/07/2026
-- À surveiller : Entrée en vigueur règlement anthropomorphique 15/07 (Doubao offline) ; lancement officiel DeepSeek V4 (mi-juillet, non daté) ; architecture V4-Pro params vérification en production ; migration clients anciens noms API (deadline 24 juillet 15h59 UTC) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier.
+  **15/07/2026 — DeepSeek V4 GA officielle** : V4-Pro et V4-Flash en production (graduées depuis preview 24/04). Contexte 1M tokens standard sur toute la gamme. Instauration du peak-hour pricing (×2 aux heures de pointe Beijing 9h-12h et 14h-18h) — premier LLM frontière à adopter ce modèle de tarification. V4-Pro off-peak : $0,435/$0,87 /M tokens ; V4-Flash off-peak : $0,14/$0,28. Deprecation `deepseek-chat` / `deepseek-reasoner` : **24 juillet 2026, 15h59 UTC**, sans période de grâce.
+  **15/07/2026 — Règlement anthropomorphique CEC entré en vigueur** : Qwen Agent (Alibaba) offline depuis 10/07 (proactif J-5), données utilisateurs définitivement supprimées sans période de grâce. Doubao (ByteDance) cesse les fonctions compagnon ce jour, données en lecture seule jusqu'au 15/10 puis suppression. Shanghai avait retiré 14 000+ agents non conformes dès le 26/06.
+- Dernière MAJ : 15/07/2026
+- À surveiller : Migration clients anciens noms API DeepSeek (deadline 24 juillet 15h59 UTC) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier ; enforcement suites règlement anthropomorphique (amendes, autres plateformes).
 
 ## Qualcomm (États-Unis, semi-conducteurs — mobile & datacenter)
 - Dernière MAJ : 29/06/2026
