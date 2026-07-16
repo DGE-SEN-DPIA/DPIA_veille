@@ -176,4 +176,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 13/07/2026 | PRIVÉE-MONDE | DeepSeek V4 | V4-Pro 1,6T/49B actifs, V4-Flash 284B/13B actifs confirmés ; peak/off-peak ×2 ; deprecation API 24/07 15h59 UTC | [SUITE de 03/07]
 13/07/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro | J-4 avant rumeur 17/07 ; non confirmé Google officiel | [SUITE de 09/07]
 13/07/2026 | ACADÉMIQUE | ICML 2026 Mech Interp Workshop | 10/07 : 23 spotlights publiés (feature geometry, circuits, sécurité/discovery) | [SUITE de 09/07]
+16/07/2026 | PRIVÉE-MONDE | Meta / Muse Spark 1.1 + Meta Compute | premier API payante Meta $1,25/$4,25/M tokens ; Meta Compute cloud business (Janardhan/Gross/McCormick) — 01-09/07/2026 | [NOUVEAU]
+16/07/2026 | PRIVÉE-MONDE | DeepSeek V4 | lancé officiellement 15/07 ; V4-Pro + V4-Flash live ; deprecation API deepseek-chat/deepseek-reasoner 24/07 15h59 UTC | [SUITE de 13/07]
+16/07/2026 | PUBLIQUE-EU | AI Act Omnibus JOUE | J-14 avant 2 août ; toujours non publié ; Art.50(2) watermarking grâce réduite 6→3 mois (2/12/2026) ; CSAM interdiction ajoutée | [SUITE de 13/07]
+16/07/2026 | PRIVÉE-MONDE | Grok 4.5 / SpaceXAI | lancé 08/07 ; V9 1,5T params ; $2/$6/M tokens ; non dispo EU (AI Act GPAI risque systémique) ; EU mid-juillet | [NOUVEAU]
+16/07/2026 | PUBLIQUE-CHINE | règlement anthropomorphique | entré en vigueur 15/07 ; Doubao offline 15/07 ; toutes obligations actives | [SUITE de 13/07]
+16/07/2026 | INFRA | ZML / LLMD | lancement LLMD serveur inférence cross-chip gratuit ; $20M seed (20VC, Kima, LocalGlobe, Puzzle) ; LeCun endorsement — 08/07/2026 | [NOUVEAU]
+16/07/2026 | PUBLIQUE-FR | ARIANE | successeur DINUM annoncé 30/04 par Lecornu ; Walter Arnaud nommé 10/06 ; effective 01/01/2027 ; fusion DINUM+DITP ; numérique fonction régalienne | [NOUVEAU]
+16/07/2026 | PRIVÉE-MONDE | NVIDIA / Hugging Face / LeRobot | Isaac GR00T 1.7 VLA open humanoïde dans LeRobot — 07/07/2026 ; Cosmos 3 prévu prochainement | [NOUVEAU]
 

@@ -402,23 +402,26 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Confirmation officielle GA Gemini 3.5 Pro (cible rumeur 17 juillet) ; lancement Nano Banana Pro ; résultats appel 10 M$ (automne 2026) ; adoption Gemini Omni Flash en production.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
+- Dernière MAJ : 16/07/2026
+- Financement : société cotée (Nasdaq : META). Action +15 % sur la semaine du 07/07/2026.
+- Produits / modèles :
+  09/07/2026 — **Muse Spark 1.1** : lancé en public preview via le **Meta Model API** (US uniquement). Tarif : $1,25 input / $4,25 output par million de tokens — 6× moins cher en sortie que GPT-5.5, 10× moins cher que Claude Opus 4.8. Contexte 1 M tokens. Cas d'usage : coding agentique, raisonnement multi-étapes, tool use, computer use, video captioning. $20 de crédits gratuits à l'inscription. [DataCamp, 09/07/2026 ; TechTimes, 13/07/2026]
 - Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Orientations stratégiques :
+  01/07/2026 — **Meta Compute** : Bloomberg révèle la création d'une entité cloud interne pour monétiser l'excès de capacité de calcul et vendre l'accès aux modèles (approche Bedrock-like). Dirigée par Santosh Janardhan (VP Infrastructure), Daniel Gross et Dina Powell McCormick. Initialement US uniquement — question ouverte : accréditation SecNumCloud / GPAI AI Act pour une version européenne. [Bloomberg, 01/07/2026]
+- À surveiller : Extension Meta Model API hors US (EU, qualification GPAI/SecNumCloud) ; lancement d'autres modèles via l'API ; impact sur les contrats-cadres API des organisations publiques françaises.
 
 ## xAI (États-Unis, modèles de fondation)
-- Dernière MAJ : 25/06/2026
+- Dernière MAJ : 16/07/2026
 - Financement : —
 - Produits / modèles :
   **Grok 4.3** — disponible en GA sur Amazon Bedrock depuis le 15/06/2026. Contexte 1 million de tokens, moteur d'inférence Mantle (AWS), niveaux de raisonnement configurables (none/low/medium/high), tarif $1,25/$2,50 par million de tokens — le plus bas pour un modèle frontier sur Bedrock selon AWS. Intégration tool calling, structured output, streaming. [AWS Newsroom, 15/06/2026]
   **Grok Imagine Video 1.5** — GA dans l'API Imagine et sur grok.com/imagine + iOS/Android (juin 2026). Meilleure qualité image-to-video, génération plus rapide.
+  **Grok 4.5** — lancé le 08/07/2026 par SpaceXAI. Architecture V9, ~1,5T paramètres. Tarif API : $2 input / $6 output par million de tokens. Intégration Cursor (coding), capacités agentic coding. **Non disponible dans l'UE** au lancement : classification GPAI à risque systémique (seuil 10²⁵ FLOPs dépassé), obligations AI Act (évaluations adversariales, incident reporting, audits cybersécurité). SpaceXAI annonce disponibilité EU « mi-juillet » — toujours en attente au 16/07/2026. **Premier cas documenté de délai EU imposé par l'AI Act pour évaluation GPAI.** [heise.de, 08/07/2026 ; TrendingTopics.eu, 08/07/2026 ; aigovernance.com, 2026]
 - Contrats & partenariats : 05/06/2026 — Google s'engage à payer SpaceX 920 M$/mois (~32 Md$ total) pour ~110 000 GPU Nvidia dans des datacenters liés à xAI. [TechCrunch/CNBC, 05/06/2026]
   15/06/2026 — Grok 4.3 sur Amazon Bedrock (xAI rejoint les model providers Bedrock).
 - Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks) ; positionnement sur l'entreprise avec le tarif d'inférence le plus bas en raisonnement frontier.
-- À surveiller : Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud ; usage de la capacité de calcul SpaceX/xAI.
+- À surveiller : Disponibilité EU de Grok 4.5 (mid-juillet) ; issue des évaluations GPAI AI Act ; Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : —
@@ -453,8 +456,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   - 04-05/06/2026 — lancement de la « Nemotron Coalition » (modèles de fondation open source) lors du GTC Taipei, avec H Company (France) parmi les premiers membres.
   - **17/06/2026, VivaTech** — partenariat Foxconn + Bull (Angers) + NVIDIA : composants Vera Rubin NVL72 fabriqués en République tchèque, assemblés et validés à l'usine Bull d'Angers (France). Premier rack IA de niveau mondial assemblé sur sol français. [PRNewswire/Hon Hai, 17/06/2026]
   - Europe (depuis VivaTech 2025) : Mistral Compute (18 000 GB200, Essonne), Nebius/Nscale UK (14 000 Blackwell), Allemagne (10 000 Blackwell) = >3 000 exaflops souverains. Bilan de déploiement présenté à VivaTech 2026 (GTC Paris keynote Jensen Huang, 17-20/06/2026).
-- Orientations stratégiques : Diffusion de la plateforme DSX comme modèle reproductible pour des « AI factories souveraines » nationales.
-- À surveiller : Déploiement effectif des 20+ AI factories européennes ; montée en puissance ENPIRE (AI agents + hardware robotics).
+  - **07/07/2026 — Isaac GR00T 1.7 intégré dans LeRobot** (Hugging Face) : NVIDIA et Hugging Face annoncent l'intégration d'**Isaac GR00T 1.7** (VLA ouvert commercialement, robots humanoïdes) et d'**Isaac Teleop** dans la bibliothèque open source LeRobot. NVIDIA Cosmos 3 (world model frontière IA physique) annoncé comme prochaine intégration prévue. Premier VLA humanoïde open-weight NVIDIA utilisable en production, distribué via HuggingFace. [NVIDIA Blog, 07/07/2026 ; The Robot Report, 07/07/2026]
+- Orientations stratégiques : Diffusion de la plateforme DSX comme modèle reproductible pour des « AI factories souveraines » nationales. Stratégie open ecosystem (LeRobot/HuggingFace) pour l'IA physique humanoïde.
+- Dernière MAJ : 16/07/2026
+- À surveiller : Déploiement effectif des 20+ AI factories européennes ; intégration Cosmos 3 dans LeRobot ; montée en puissance ENPIRE (AI agents + hardware robotics).
 
 ## Tesla (États-Unis, automobiles → robotique humanoïde / IA physique)
 - Dernière MAJ : 02/07/2026
@@ -505,8 +510,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   Moonshot AI / Kimi — **IPO Hong Kong en préparation** : démantèlement structure VIE depuis mai 2026 (Bloomberg 19/05) pour satisfaire aux exigences CSRC. Horizon de cotation : fin 2026 - début 2027. ARR ~200 M$ en avril 2026 (doublé en 6 semaines). 3e tour de financement (~2 Mrd$, valorisation 30 Mrd$ visée) en discussion depuis juin 2026 — Meituan impliqué. [Bloomberg 08/06/2026 ; The Next Web]
   30/06/2026 — **DeepSeek V4 officiel : lancement mi-juillet** confirmé (TechNode/Pandaily). Introduction du **peak-hour pricing** (×2) : 9h-12h et 14h-18h heure Beijing — première pour un LLM frontière chinois. V4-Pro off-peak : $0,435/$0,87 par M tokens ; V4-Flash off-peak : $0,14/$0,28. **Deprecation des anciens noms API** (deepseek-chat, deepseek-reasoner) : 24 juillet 2026 15h59 UTC, sans période de grâce. [TechNode 30/06/2026 ; Pandaily 30/06/2026 ; api-docs.deepseek.com]
   **10/07/2026 — Alibaba Qwen Agent offline** : agents humanoïdes et user-created coupés depuis le 10 juillet, soit 5 jours avant l'entrée en vigueur du règlement anthropomorphique (15/07/2026). Premier retrait proactif anticipatif observé — Alibaba a préféré couper avant la deadline plutôt qu'attendre une mise en demeure visible.
-- Dernière MAJ : 13/07/2026
-- À surveiller : Entrée en vigueur règlement anthropomorphique 15/07 (Doubao offline) ; lancement officiel DeepSeek V4 (mi-juillet, non daté) ; architecture V4-Pro params vérification en production ; migration clients anciens noms API (deadline 24 juillet 15h59 UTC) ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier.
+  **15/07/2026 — DeepSeek V4 officiellement lancé en production** : V4-Pro (1,6T params, 49B actifs) et V4-Flash (284B, 13B actifs) disponibles. Contexte 1 M tokens. Tarifs off-peak V4-Pro : $0,435/$0,87/M tokens ; V4-Flash : $0,14/$0,28. Peak pricing ×2 (9h-12h et 14h-18h Beijing). Deadline migration API : 24 juillet 15h59 UTC — endpoints deepseek-chat et deepseek-reasoner désactivés. [DeepSeek API Docs (source primaire) — date 15/07 : 1 source indirecte, à confirmer]
+  **15/07/2026 — Règlement anthropomorphique chinois entré en vigueur** : Doubao (ByteDance) offline le 15/07 ; toutes obligations actives (interdiction compagnons IA mineurs, rappel durée, détresse psychologique, non-utilisation conversations pour training, audit >1M users). [digitalpolicyalert.org ; Le Grand Continent, 15/07/2026]
+- Dernière MAJ : 16/07/2026
+- À surveiller : Confirmation source primaire DeepSeek du lancement V4 le 15/07 ; migration clients anciens noms API (deadline 24 juillet 15h59 UTC) ; performance V4-Pro vs. GPT-5.6 Sol sur benchmarks enterprise ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier.
 
 ## Qualcomm (États-Unis, semi-conducteurs — mobile & datacenter)
 - Dernière MAJ : 29/06/2026
@@ -628,5 +635,23 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : —
 - Orientations stratégiques : Co-fondée par **Irwan Bello** (ex-OpenAI, recherche fondamentale), **Gabriel Synnaeve** (ex-Meta FAIR Paris, RL et agents), et **Yossi Adi** (ex-Meta, speech/audio IA). Franco-américaine : ancrage recherche France (ex-FAIR Paris) et infrastructure US. Opère sous le nom commercial FLOPS & FRIENDS (référence humoristique à l'intensité de calcul). Annonce juillet 2026.
 - À surveiller : Clôture et montant final du seed ; détail du produit ; premiers clients enterprise (probable cible : pharma, biotech, matériaux, aérospatiale) ; confirmation officielle de la levée par 2 sources indépendantes.
+
+## ZML (France, infrastructure d'inférence IA — cross-chip) — NOUVEAU ENTRANT
+- Dernière MAJ : 16/07/2026
+- Financement : **$20 M seed** clôturé juillet 2026. Investisseurs : 20VC, Kima Ventures, LocalGlobe, Puzzle Ventures. Soutenu par Yann LeCun. [TechCrunch, 08/07/2026 ; Yahoo Finance, 08/07/2026]
+- Produits / modèles :
+  08/07/2026 — **ZML/LLMD** : serveur d'inférence LLM cross-chip. Compatible NVIDIA, AMD, Google TPU, Apple Metal, Intel Arc — non open source mais **gratuit**. Couche logicielle permettant d'exécuter des modèles LLM sur n'importe quel hardware d'inférence sans réécriture de stack. Positionné comme logiciel complémentaire du partenariat Scaleway/VSORA/Jotunn8 annoncé à VivaTech (18/06/2026). [TechCrunch, 08/07/2026]
+- Contrats & partenariats : Lien fonctionnel avec Scaleway (cloud souverain) et VSORA (accélérateur Jotunn8) pour la stack d'inférence souveraine française.
+- Orientations stratégiques : Équipe de 20 personnes. Fondateur : Steeve Morin. Objectif : réduire la dépendance des datacenters souverains français aux stacks logicielles CUDA/NVIDIA. Alternative open-run aux stacks propriétaires des hyperscalers US.
+- À surveiller : Performances LLMD vs. CUDA sur benchmarks inférence LLM ; adoption dans la stack Scaleway/VSORA en production ; levée série A ; extension hors France.
+
+## ARIANE — Autorité du numérique et de l'IA (France, institution publique)
+- Dernière MAJ : 16/07/2026
+- Statut : En préfiguration depuis le 10/06/2026 ; effective au **1er janvier 2027**.
+- Contexte : Annoncée le **30 avril 2026** par le Premier ministre Lecornu. Issue de la **fusion DINUM + DITP** (la DITP devient la Direction des services publics et conserve une autonomie opérationnelle). L'ANSSI n'est pas intégrée à l'ARIANE.
+- Préfigurateur : **Walter Arnaud**, ingénieur général de l'armement, nommé par décret le 10 juin 2026. [FrenchWeb, CIO-Online, ChannelNews, 2026]
+- Missions : (1) Définir les standards techniques communs de l'État ; (2) Piloter les infrastructures numériques stratégiques (cloud souverain, calcul, inférence) ; (3) Coordonner les partenariats technologiques public-privé ; (4) Assurer la cohérence architecturale du SI de l'État.
+- Cadre politique : S'inscrit dans le plan **« Notre IA »** (655 M€ France 2030 supplémentaires, annoncé 16/06/2026 par Lecornu). Le numérique devient une **fonction régalienne** au même titre que la défense ou la diplomatie.
+- À surveiller : Organigramme final ARIANE (fusion DINUM/DITP) ; périmètre exact des pouvoirs normatifs ; interactions avec ANSSI (SecNumCloud) et CNIL (gouvernance IA) ; impact sur les marchés publics numériques dès 2027 ; premiers standards techniques publiés.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
