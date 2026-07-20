@@ -6,6 +6,13 @@
 
 ## Juillet 2026
 
+20/07 | infra/international | Japan FRONTia / NVIDIA / Noetra | 16/07 — 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/$6,1 Md sur 5 ans, SoftBank/Sony/NEC/Honda
+20/07 | privé | Moonshot AI / Kimi K3 | 16/07 — MoE 2,8 T params, poids ouverts 27/07, surpasse Opus 4.8/GPT-5.5, bat Fable 5 sur Frontend Code Arena
+20/07 | privé | Anthropic / Fable 5 split | 18-20/07 — Max permanent (50% limites), Pro/Team Standard usage-credits $10/$50/M + $100 crédit offert
+20/07 | Europe | AI Act Omnibus JOUE | J-13 avant 2 août, toujours non publié au 20/07
+20/07 | privé | Gemini 3.5 Pro | 3e délai consécutif (17/07), stopgap Gemini 3.6 Flash / 3.5 Flash Light en préparation
+20/07 | recherche | DynaWM arXiv:2607.02604 | World model guidé VLA pour manipulation dynamique, +1,88-45,31% sur DynaGrasp-32
+20/07 | recherche | TACO arXiv:2607.02840 | Modèle monde tactile post-training VLA, pipeline Recognize–Imagine–Label pour manipulation contact-riche
 17/07 | sécurité/privé | Hugging Face | Incident sécurité IA agent autonome 16/07 — datasets+credentials accédés, aucun modèle public altéré
 17/07 | France/public | IGAS/IGF/IGA | Rapport 02/07 — shadow IA 40%, 0-74 projets/ministère, délais÷6, +60% fonctions supports, 13 reco
 17/07 | France/public | « L'Assistant » / État | 16/06 — 1M agents, Albert API + Mistral, 700K€, SecNumCloud
