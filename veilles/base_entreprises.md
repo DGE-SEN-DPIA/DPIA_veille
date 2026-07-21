@@ -5,37 +5,38 @@
 ---
 
 ## Mistral AI (France, modèles LLM / infrastructure IA)
-- Dernière MAJ : 17/07/2026
+- Dernière MAJ : 21/07/2026
 - Financement : Série C €1,7 Md (ASML lead, a16z, Bpifrance, General Catalyst, Index, Lightspeed, NVIDIA) sept. 2025 ; dette €830M (mars 2026, consortium 7 banques) ; discussions levée equity ~€3 Md à ~€20 Md val. (juin 2026, non close)
 - ARR : >$400 M (début 2026) ; cible >$1 Md fin 2026
-- Produits / modèles : Robostral Navigate (08/07/2026, 8B, navigation monoculaire SOTA 76,6% R2R-CE) ; MoE open-weight « fat but sparse » en early access partenaires (~06/07/2026, params non divulgués) ; Mistral for Industrial Engineering (28/05/2026, clients Airbus/BMW/EDF/CMA CGM)
+- Produits / modèles : Leanstral 1.5 (02/07/2026, MoE 119B/6,5B actifs, Lean 4, Apache 2.0, 256k tokens, sature miniF2F, 5 bugs réels découverts) ; Robostral Navigate (08/07/2026, 8B, navigation monoculaire SOTA 76,6% R2R-CE) ; MoE open-weight « fat but sparse » en early access partenaires (~06/07/2026, params non divulgués) ; Mistral for Industrial Engineering (28/05/2026, clients Airbus/BMW/EDF/CMA CGM)
 - Infrastructure : Bruyères-le-Châtel (training) ; Les Ulis (Digital Realty Paris South, 10 MW, NVIDIA GB300 NVL72, inférence, cible Q3 2026) ; Borlänge Suède EcoDataCenter (€1,2 Md, hydropower) ; objectif 200 MW fin 2027, 1 GW 2030
 - Contrats & partenariats : Mistral = moteur de « L'Assistant » (Albert API, 1M agents publics FR, 700K€, annoncé 16/06/2026) ; Koyeb (acquis fév. 2026)
-- Orientations stratégiques : cloud IA intégré (« AI cloud » post-Koyeb) ; robotique industrielle (Robostral) ; open weight stratégique (MoE été 2026) ; levée equity en cours
+- Orientations stratégiques : cloud IA intégré (« AI cloud » post-Koyeb) ; robotique industrielle (Robostral) ; vérification formelle (Leanstral 1.5) ; open weight stratégique (MoE été 2026) ; levée equity en cours
 - À surveiller : closing levée ~€3 Md + valorisation définitive ; lancement MoE open-weight public (paramètres, benchmarks, licence) ; ouverture Les Ulis Q3 2026
 
 ---
 
 ## Anthropic (USA, modèles LLM / sécurité IA)
-- Dernière MAJ : 20/07/2026
+- Dernière MAJ : 21/07/2026
 - Financement : Série H $65 Md, $965 Md post-money (mai/juin 2026) ; S-1 confidentiel SEC déposé 01/06/2026
 - ARR : >$47 Md annualisé (mai 2026)
 - Produits / modèles : Fable 5 (split effectif 20/07 — Max/Team Premium : accès permanent 50% limites hebdo ; Pro/Team Standard : usage-credits $10/$50/M + $100 crédit one-time) ; Sonnet 5 ($2/$10 jusqu'au 31/08) ; Mythos 5 (US uniquement via Project Glasswing, ~100+ org infra critique agréées DoC/Lutnick 26/06/2026) ; Claude for Teachers (14/07/2026, K-12 USA, gratuit 1 an)
+- Partenariats : Ode with Anthropic (JV lancée 15/07/2026, $1,5 Md val., avec Blackstone + Hellman & Friedman + Goldman Sachs + General Atlantic + Leonard Green) — déploiement IA enterprise, 100 ingénieurs forward-deployed chez clients
 - Gouvernance / données : vérification biométrique (ID + facial geometry via Persona) active depuis 08/07/2026 sur comptes Free/Pro/Max ; GDPR Art.9 DPIA non publiée ; CNIL silencieuse
 - Project Glasswing : Mythos 5 restauré 01/07/2026 pour partenaires US (~100+ org) après suspension export controls 12/06 (jailbreak cybersécurité signalé par Amazon/Jassy) ; classifier anti-jailbreak déployé ; expansion internationale en cours avec autorités fédérales
-- Infrastructure : Les Ulis (10 MW inference, France, cible Q3 2026 — non ouvert au 20/07)
-- IPO : Nasdaq cible octobre 2026, Goldman Sachs/JPMorgan/Morgan Stanley
-- À surveiller : IPO roadshow ; CNIL action sur biométrie ; ouverture Les Ulis ; expansion Mythos hors US
+- Infrastructure : Les Ulis (10 MW inference, France, cible Q3 2026 — non ouvert au 21/07)
+- IPO : roadshow pré-IPO lancé 15/07/2026 (réunions institutionnels, GS/MS/JPM) ; Nasdaq cible octobre 2026 ; $965 Md
+- À surveiller : publication S-1 public ; closing roadshow ; CNIL action sur biométrie ; ouverture Les Ulis ; expansion Mythos hors US
 
 ---
 
 ## OpenAI (USA, modèles LLM / hardware)
-- Dernière MAJ : 17/07/2026
+- Dernière MAJ : 21/07/2026
 - Financement : $122 Md round clos mars 2026, val. $852 Md ; S-1 confidentiel SEC déposé juin 2026
 - Produits / modèles : GPT-5.6 famille (Sol $5/$30, Terra $2,50/$15, Luna $1/$6/M tokens) lancée 09/07/2026 ; Ultra mode (multi-agents embarquée, Sol uniquement) ; ChatGPT Work
 - Juridique : plainte Apple (10/07/2026, Northern District California) pour vol systématique secrets commerciaux hardware via Tang Tan (Chief Hardware Officer, ex-VP Apple) et Chang Liu — affecte aussi io Products (Jony Ive, racheté 2025)
-- IPO : cible septembre 2026, Goldman Sachs + Morgan Stanley, val. cible $850 Md
-- À surveiller : procès Apple ; IPO roadshow ; disponibilité GPT-5.6 Sol sur Azure et AWS Bedrock pour déploiements souverains FR
+- IPO : reporté à 2027 (~25/06/2026, conseillers OpenAI) après volatilité SpaceX post-IPO ; plancher Sam Altman $1 000 Md non négociable [Forbes + Yahoo Finance, non confirmé officiellement] ; cible initiale sept. 2026 abandonnée
+- À surveiller : procès Apple ; date IPO 2027 ; disponibilité GPT-5.6 Sol sur Azure et AWS Bedrock pour déploiements souverains FR
 
 ---
 
@@ -154,3 +155,35 @@
 - Recherche : co-auteur ROSA (arXiv:2607.01088) avec Stanford — système serving RFM pour robot factories, 12,06× productivité
 - Partenariats FR : Isaac GR00T 1.7 intégré LeRobot (avec HuggingFace, 07/07/2026) ; Les Ulis Mistral (GB300 NVL72, Q3 2026)
 - À surveiller : Rubin livraisons EU souveraines ; timeline H2 2026 ; Japan FRONTia comme modèle pour AION/EuroHPC
+- Partenariats industriels FR (21/07/2026) : Bull (Eviden/Atos) + Foxconn assemblent Vera Rubin NVL72 à Angers, France + CZ, livraisons H2 2026 (annoncé VivaTech 17/06/2026)
+
+---
+
+## Bull / Eviden (France, intégrateur systèmes IA / supercalcul)
+- Dernière MAJ : 21/07/2026
+- Appartenance : filiale Atos Group (branche Eviden), spécialisée serveurs HPC et IA
+- Partenariats : Bull + Foxconn — assemblage NVIDIA Vera Rubin NVL72 pour l'Europe (annoncé VivaTech 17/06/2026) : composants Foxconn (République tchèque), intégration finale usine Bull d'Angers (Maine-et-Loire) ; livraisons H2 2026
+- Produit/plateforme : rack NVL72 — 72 GPU Rubin + 36 CPU Vera, refroidissement liquide, 3,6 exaFLOPS inférence, clients AI factories + cloud providers EU
+- Orientations stratégiques : positionné sur la chaîne d'assemblage souveraine IA en Europe ; pertinent pour AION/EuroHPC et appels d'offres SecNumCloud nécessitant traçabilité matérielle
+- À surveiller : premières livraisons H2 2026 ; qualification SecNumCloud ; volume commandes EU
+
+---
+
+## Ode with Anthropic (USA, services IA enterprise)
+- Dernière MAJ : 21/07/2026
+- JV créée par : Anthropic + Blackstone + Hellman & Friedman + Goldman Sachs + General Atlantic + Leonard Green & Partners
+- Lancement officiel : 15/07/2026 ; valorisation initiale $1,5 Md
+- Modèle : société de déploiement IA enterprise — 100 ingénieurs « forward-deployed » intégrés chez les clients (accès réseau 600+ entreprises Blackstone : finance, santé, infrastructure)
+- Positionnement : fermer le « implementation gap » entre performance modèle et usage business réel ; concurrence ESN sur le déploiement opérationnel IA
+- Périmètre souveraineté : hors SecNumCloud (modèles Anthropic US) — point d'attention pour marchés publics FR
+- À surveiller : expansion géographique (Europe, FR) ; recrutement ingénieurs ; tarification ; concurrence avec cabinets conseil et ESN FR
+
+---
+
+## Six Robotics (Norvège, défense-tech / autonomie drones)
+- Dernière MAJ : 21/07/2026
+- Financement : seed €12 M (annoncé ~30/06/2026) — DTCP (fonds défense €500 M), EIFO (investisseur État danois), Scale Capital (Copenhague)
+- Équipe : 90 personnes, fondée 2023, ex-forces spéciales norvégiennes
+- Produit : Valkyrie — logiciel de commandement d'essaims de drones (1 opérateur → flotte coordonnée) pour conditions dégradées/contestées ; développé avec forces armées norvégiennes et FFI (Norwegian Defence Research Establishment)
+- Marché : défense OTAN, Europe du Nord ; expansion Danemark H2 2026
+- À surveiller : certification NATO/OTAN ; contrats forces armées européennes ; rapprochement potentiel filières défense FR (Thales, MBDA, DGA)

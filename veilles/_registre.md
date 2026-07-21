@@ -6,6 +6,15 @@
 
 ## Juillet 2026
 
+21/07 | privé | Anthropic / Ode × Blackstone $1,5 Md JV | 15/07 — déploiement IA enterprise, 100 ingénieurs forward-deployed, Blackstone + H&F + GS + GA + LGP
+21/07 | infra/FR | Bull × Foxconn × NVIDIA Vera Rubin NVL72 | 17/06 VivaTech — assemblage Angers FR + CZ, H2 2026, 3,6 exaFLOPS inférence/rack
+21/07 | privé/FR | Mistral / Leanstral 1.5 | 02/07 — MoE 119B/6,5B actifs, Lean 4 Apache 2.0, sature miniF2F, 5 bugs réels découverts
+21/07 | France/public | Accord-cadre IA FP syndicats | 10/07 — 2e version « insuffisante » CFDT+CGT, signature automne fragilisée
+21/07 | France/public | Haut Commissariat plan 2026-2027 | 07/07 — programme ~20 rapports, chantier IA dans les services publics (Beaune)
+21/07 | privé | OpenAI IPO delay | ~25/06 — reporté 2027 après SpaceX volatilité, plancher $1 T Altman [1 source]
+21/07 | privé | Anthropic IPO roadshow | 15/07 — réunions pré-roadshow investisseurs institutionnels, GS/MS/JPM, cible oct. 2026
+21/07 | nouveaux | Six Robotics (Norvège) | ~30/06 — seed €12 M, DTCP fonds défense, logiciel Valkyrie drones militaires coordonnés
+
 20/07 | infra/international | Japan FRONTia / NVIDIA / Noetra | 16/07 — 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/$6,1 Md sur 5 ans, SoftBank/Sony/NEC/Honda
 20/07 | privé | Moonshot AI / Kimi K3 | 16/07 — MoE 2,8 T params, poids ouverts 27/07, surpasse Opus 4.8/GPT-5.5, bat Fable 5 sur Frontend Code Arena
 20/07 | privé | Anthropic / Fable 5 split | 18-20/07 — Max permanent (50% limites), Pro/Team Standard usage-credits $10/$50/M + $100 crédit offert
