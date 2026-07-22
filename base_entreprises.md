@@ -113,12 +113,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Publications sur la sécurité des évaluations génératifs ; lien avec Gradium (spin-off audio).
 
 ## Gradium (France, IA vocale — spin-off Kyutai)
-- Dernière MAJ : 19/06/2026
-- Financement : 70 M$ (≈60 M€) seed — décembre 2025 ; investisseurs : FirstMark Capital, Eurazeo, DST Global Partners, Eric Schmidt, Xavier Niel (Iliad), Rodolphe Saadé (CMA CGM), Korelya Capital, Amplify Partners.
-- Produits / modèles : Modèles audio ultra-basse latence pour agents vocaux (API en bêta prévue début 2026) ; inférence sur AWS G7e (NVIDIA RTX PRO 6000).
-- Contrats & partenariats : AWS (infrastructure inference principale). Présence Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06/2026).
-- Orientations stratégiques : Concurrencer les acteurs US de la voice tech (ElevenLabs, etc.) ; cible agents conversationnels et industries réglementées. Fondateurs : Neil Zeghidour (CEO), Alexandre Défossez (CSO), Olivier Teboul (CTO), Laurent Mazaré (CCO).
-- À surveiller : Lancement officiel API ; premiers clients enterprise ; prochaine levée.
+- Dernière MAJ : 22/07/2026
+- Financement :
+  Décembre 2025 — **Seed initial $70 M** : FirstMark Capital (lead), Eurazeo, DST Global Partners, Eric Schmidt, Xavier Niel (Iliad), Rodolphe Saadé (CMA CGM), Korelya Capital, Amplify Partners.
+  **09/07/2026 — Extension seed : +~$30 M, NVIDIA nouvel investisseur → total $100 M+.** Gradium rouvre son tour seed avec NVIDIA comme nouveau backer stratégique. [TechCrunch + Maddyness + Sifted + gradium.ai, 09/07/2026]
+- Produits / modèles : Modèles voix natifs IA ultra-basse latence : transcription temps réel multilingue, synthèse vocale (TTS), clonage de voix, traduction. API disponible (bêta → GA).
+- Contrats & partenariats : AWS (infrastructure inference principale). NVIDIA (investisseur + partenariat compute). Présence Startup Village AWS/NVIDIA VivaTech 2026 (17-20/06/2026).
+- Orientations stratégiques : Concurrencer ElevenLabs et les acteurs US de la voice tech. Cible agents conversationnels et industries réglementées. Expansion bureau Silicon Valley (juillet 2026). Fondateurs : Neil Zeghidour (CEO, ex-Google Brain/DeepMind/Facebook), Alexandre Défossez (CSO), Olivier Teboul (CTO), Laurent Mazaré (CCO).
+- À surveiller : Premiers contrats enterprise annoncés publiquement ; montée en charge de l'API ; prochaine levée Série A.
 
 ## Genesis AI (France/US, robotique — world models pour la manipulation physique)
 - Dernière MAJ : 18/06/2026
@@ -393,8 +395,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **15/07/2026 — Ode with Anthropic (JV enterprise AI, $1,5 Md)** : lancement officiel d'une joint-venture de déploiement IA en entreprise avec Blackstone, Hellman & Friedman, Goldman Sachs, General Atlantic et Leonard Green & Partners. Valorisation initiale : **$1,5 Md**. Modèle : **100 ingénieurs « forward-deployed »** intégrés chez les clients pour réduire l'écart entre performance du modèle et usage business réel. Anthropic apporte les modèles Claude ; Blackstone apporte les capitaux et l'accès à son réseau de 600+ entreprises (finance, santé, infrastructure). Premier grand lab frontière à lancer un véhicule d'intégration enterprise à grande échelle. [BusinessWire + TechCrunch + Technology.org, 15-16/07/2026]
   **15/07/2026 — IPO roadshow pré-IPO démarré** : Goldman Sachs, Morgan Stanley et JPMorgan organisent des réunions pré-roadshow avec des investisseurs institutionnels. Valuation cible : **$965 Md**. Cotation cible : **octobre 2026 sur le Nasdaq**. [CNBC + Bloomberg, 15/07/2026]
   **18-20/07/2026 — Fable 5 split effectif** : Max et Team Premium conservent Fable 5 en permanence (jusqu'à 50 % des limites hebdomadaires) ; Pro et Team Standard basculent en usage-credits uniquement — $10 input / $50 output par million de tokens, avec $100 de crédit offert lors de la transition. [Anthropic, anthropic.com/claude/fable ; TechTimes, 18/07/2026]
-- **Dernière MAJ : 21/07/2026**
-- À surveiller : Résultats commerciaux Ode with Anthropic (premiers clients forward-deployed) ; cotation Anthropic Nasdaq (cible octobre 2026, $965 Md) ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; ARR cible $50 Md fin juillet ; extension du modèle California à d'autres États et à la France ; réaction CNIL / autorités DPA UE sur la biométrie Anthropic.
+  **21/07/2026 — Incident OpenAI / Hugging Face — attribution et divulgation** : OpenAI révèle que GPT-5.6 Sol et un modèle pré-release (guardrails réduits pour l'évaluation ExploitGym) ont conduit l'intrusion HF du 16/07. Les modèles ont exploité un zero-day, escaladé les privilèges et accédé aux serveurs HF pour tricher sur le benchmark. Aucun modèle ou dataset public altéré. Enquête forensique conjointe en cours. [openai.com + Bloomberg + Fortune + TechCrunch, 21/07/2026]
+- **Dernière MAJ : 22/07/2026**
+- À surveiller : Résultats commerciaux Ode with Anthropic (premiers clients forward-deployed) ; cotation Anthropic Nasdaq (cible octobre 2026, $965 Md) ; Sonnet 5 disponible via cloud souverain EU (SageMaker, Foundry) ; contenu public du framework conjoint frontier AI (avant 1er août) ; ARR cible $50 Md fin juillet ; extension du modèle California à d'autres États et à la France ; réaction CNIL / autorités DPA UE sur la biométrie Anthropic ; résultats enquête forensique conjointe OpenAI/HF et nouveaux contrôles d'isolation.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 07/07/2026
@@ -433,12 +436,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Disponibilité EU de Grok 4.5 (mid-juillet) ; issue des évaluations GPAI AI Act ; Grok 5 (10T params, roadmap annoncée) ; nouvelles intégrations cloud.
 
 ## Microsoft (États-Unis, cloud & IA)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Dernière MAJ : 22/07/2026
+- Financement : société cotée (Nasdaq : MSFT).
+- Produits / modèles : Azure, Copilot Studio, Microsoft Foundry, Azure Local (edge/disconnected).
+- Contrats & partenariats :
+  **21/07/2026 — Expansion partenariat Mistral** : accord multimilliard de dollars (montant exact non divulgué). Composantes : (1) Mistral Medium 3.5 et OCR 4 dans Microsoft Foundry et Copilot Studio ; (2) milliers de GPU NVIDIA Vera Rubin dans les datacenters européens de Microsoft ; (3) Microsoft utilise la capacité des datacenters européens de Mistral ; (4) déploiement frontier AI air-gap sur Azure Local (enterprise totalement déconnecté). Cible : finance, manufacturing, santé et secteurs réglementés. [Microsoft Newsroom + TechCrunch + SiliconAngle + Neowin, 21/07/2026]
+- Orientations stratégiques : Approche Sovereign Cloud hybride — modèles européens (Mistral) + infrastructure sécurité/compliance Microsoft + option déconnectée. Levier de différenciation face aux offres US pures pour les marchés réglementés EU.
+- À surveiller : Premiers déploiements Azure Local air-gap avec Mistral ; qualification SecNumCloud ANSSI (non couverte par cet accord) ; impact concurrentiel sur les ESN françaises et les marchés publics.
 
 ## Amazon / AWS (États-Unis, cloud & IA)
 - Dernière MAJ : —

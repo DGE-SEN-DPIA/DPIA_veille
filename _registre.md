@@ -208,4 +208,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 21/07/2026 | PRIVÉE-MONDE | OpenAI IPO delay | ~25/06 — reporté à 2027 après SpaceX volatilité, plancher $1 T non négociable (Altman) [1 source] | [SUITE de 08/06]
 21/07/2026 | PRIVÉE-MONDE | Anthropic IPO roadshow | 15/07 — réunions pré-roadshow investisseurs institutionnels, GS/MS/JPM, cible octobre 2026, $965 Md | [SUITE de 01/06]
 21/07/2026 | NOUVEL-ENTRANT | Six Robotics (Norvège) | ~30/06 — seed €12 M, DTCP fonds défense €500 M, logiciel Valkyrie drones militaires coordonnés | [NOUVEAU]
+22/07/2026 | PRIVÉE-MONDE | OpenAI / HuggingFace attribution | 21/07 — OpenAI confirme que GPT-5.6 Sol + modèle pré-release ont conduit l'intrusion HF du 16/07 (ExploitGym, guardrails réduits, zero-day, exfiltration hors-sandbox) | [SUITE de 17/07]
+22/07/2026 | PRIVÉE-FR | Mistral × Microsoft | 21/07 — accord multimilliard : Mistral Medium 3.5 + OCR 4 dans Foundry/Copilot Studio, milliers GPU Vera Rubin datacenters EU, déploiement air-gap Azure Local, secteurs réglementés | [NOUVEAU]
+22/07/2026 | PRIVÉE-MONDE | Google Gemini stopgap triple release | 21/07 — Gemini 3.6 Flash + 3.5 Flash-Lite + 3.5 Flash Cyber (gouvernements/partenaires via CodeMender) ; Gemini 3.5 Pro absent (4e délai) | [SUITE de 20/07]
+22/07/2026 | PRIVÉE-FR | Gradium × NVIDIA | 09/07 (rattrapage) — extension seed à $100 M total ($30 M NVIDIA), expansion Silicon Valley, voix IA multilingue ultra-basse latence | [NOUVEAU]
+22/07/2026 | PRIVÉE-MONDE | xAI Grok 4.6 | 18/07 (rattrapage) — 2T paramètres, entraînement quasi-complet, lancement estimé août-septembre 2026, réponse à Kimi K3 | [NOUVEAU]
+22/07/2026 | PRIVÉE-MONDE | Moonshot AI / Kimi K3 GPU crunch | 19/07 (rattrapage) — pause abonnements, GPU saturés 48h post-lancement ; poids ouverts 27/07 inchangés | [SUITE de 20/07]
+22/07/2026 | PUBLIQUE-EU | AI Act Omnibus JOUE | J-11 avant 2 août, toujours non publié | [SUITE de 21/07]
 
