@@ -215,4 +215,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 22/07/2026 | PRIVÉE-MONDE | xAI Grok 4.6 | 18/07 (rattrapage) — 2T paramètres, entraînement quasi-complet, lancement estimé août-septembre 2026, réponse à Kimi K3 | [NOUVEAU]
 22/07/2026 | PRIVÉE-MONDE | Moonshot AI / Kimi K3 GPU crunch | 19/07 (rattrapage) — pause abonnements, GPU saturés 48h post-lancement ; poids ouverts 27/07 inchangés | [SUITE de 20/07]
 22/07/2026 | PUBLIQUE-EU | AI Act Omnibus JOUE | J-11 avant 2 août, toujours non publié | [SUITE de 21/07]
+23/07/2026 | PUBLIQUE-EU | EU Commission Art. 50 AI Act | 20/07 — lignes directrices finales transparence, deadline 2 août, amende €15M/3% CA mondial, watermarking systèmes existants → 2 déc. 2026 | [NOUVEAU — rattrapage 20/07]
+23/07/2026 | INFRA-MONDE | MGX × AIP × BlackRock GIP / Aligned Data Centres | 21/07 — acquisition record $40Md + $5Md capex, 51 campus, 6,4 GW Amériques ; MGX Fund I clôturé $49Md (01/07) | [NOUVEAU]
+23/07/2026 | PRIVÉE-MONDE | Altman Washington + signal GPT-6 | 22/07 — briefing Trump admin semaine 28/07 sur next-gen models ; fuites ~10T params, 1,5M+ contexte [non confirmé] ; Polymarket 71% avant fin sept. ; lié EO frontier AI 1 août | [NOUVEAU]
+23/07/2026 | PRIVÉE-MONDE | OpenAI Presence | 22/07 — plateforme enterprise IA voix/chat, Forward Deployed Engineers + GSI partenaires, non self-serve ; BBVA/SoftBank/IAG | [NOUVEAU]
+23/07/2026 | PUBLIQUE-EU | EU AI Office — expert findings frontier AI | 15/07 — fenêtre 1-2 ans décisive ; compute+énergie priorités urgentes ; souveraineté = accès/contrôle/bénéfice modèles frontier | [NOUVEAU — rattrapage 15/07]
+23/07/2026 | PRIVÉE-FR | Mistral levée Série D figures 22/07 | Caproasia 22/07 confirme $3,5 Md / $23 Md valorisation (vs Bloomberg €3Md/€20Md, 12/06) ; non close | [SUITE de 12/06]
+23/07/2026 | PRIVÉE-MONDE | xAI Grok 4.5 EU rollout partiel | Confirmé mi-juillet : app/Cursor OK, API console EU indisponible ; hors délai « mid-July » officiel xAI | [SUITE de 16/07]
 
