@@ -4,24 +4,24 @@
 ---
 
 ## Mistral AI (France, LLM / IA physique)
-- Dernière MAJ : 24/07/2026
-- Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; levée en cours ~$3,5 Md / ~$23 Md val. (non clôturée, investisseurs : ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel) ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis)
+- Dernière MAJ : 27/07/2026
+- Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; Série D en cours : cible €3 Md / val. €20 Md (non clôturée) — investisseurs confirmés en discussion : EQT (Scaleup Europe Fund €5 Md), Samsung (€1 Md, discussions avancées Axios 22/07), ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
 - ARR : >$400 M (début 2026), trajectoire >$1 Md fin 2026
 - Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS
 - Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026)
-- Orientations stratégiques : entrée sur IA physique (Robostral + Emmi AI) ; expansion compute souverain (Les Ulis 10 MW, Q3 2026 cible, pas encore ouvert) ; montée en puissance sur les secteurs réglementés via air-gap Azure Local
-- À surveiller : closing levée ~$3,5 Md / $23 Md ; release publique MoE open-weight ; ouverture Les Ulis ; expansion post-Emmi AI (industriel/physique)
+- Orientations stratégiques : entrée sur IA physique (Robostral + Emmi AI) ; expansion compute souverain (Les Ulis 10 MW, Q3 2026 cible, pas encore ouvert) ; montée en puissance sur les secteurs réglementés via air-gap Azure Local ; pivot "European Palantir" (intégration profonde enterprise, forward engineers)
+- À surveiller : closing Série D (Samsung + EQT décisifs) ; release publique MoE open-weight ; ouverture Les Ulis ; expansion post-Emmi AI (industriel/physique)
 
 ---
 
 ## Anthropic (USA, LLM frontier)
-- Dernière MAJ : 24/07/2026
-- Financement : Series H (mai 2026, $965 Md val.) ; IPO Nasdaq visée octobre 2026 (GS/MS/JPM roadshow depuis 15/07/2026) ; valorisation implicite marché secondaire $1,05-1,15 T
+- Dernière MAJ : 27/07/2026
+- Financement : Series H (mai 2026, $965 Md val.) ; S-1 déposé confidentiellement SEC le 01/06/2026 ; IPO Nasdaq visée octobre 2026 (GS/MS/JPM roadshow depuis 15/07/2026) ; valorisation implicite marché secondaire $1,05-1,15 T
 - ARR : >$47 Md (mai 2026)
-- Produits / modèles : Claude Fable 5 (export control levé 26/06/2026, Project Glasswing pour Mythos 5) ; Claude Sonnet 5 (30/06/2026, $2/$10 input/output jusqu'au 31/08) ; Claude pour Healthcare & Life Sciences (incl. Owkin Pathology Explorer, 01/2026)
+- Produits / modèles : Claude Fable 5 (export control levé 26/06/2026, $10/$50 MTok, Project Glasswing pour Mythos 5) ; Claude Sonnet 5 (30/06/2026, $2/$10 jusqu'au 31/08) ; **Claude Opus 5** (24/07/2026, $5/$25 MTok standard / $10/$50 fast, 1M ctx, FrontierBench 43,3% SOTA, ARC-AGI-3 30,2% SOTA, cutoff mai 2026) ; Claude pour Healthcare & Life Sciences (incl. Owkin Pathology Explorer, 01/2026)
 - Contrats & partenariats : Ode JV ($1,5 Md, Blackstone + H&F + Goldman + GA + Leonard Green, 15/07/2026, 100 ingénieurs forward-deployed) ; DINUM/MEAE via Albert API (indirect Mistral)
-- Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gestion contrainte capacité inférence (Fable 5 split : Max permanent, Pro credits $10/$50/M)
-- À surveiller : IPO Nasdaq (S-1 public attendu août-septembre 2026) ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing)
+- Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse
+- À surveiller : IPO Nasdaq (S-1 public attendu août-septembre 2026) ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08
 
 ---
 
@@ -106,6 +106,33 @@
 - Financement : seed €12M (DTCP, EIFO, Scale Capital, ~30/06/2026)
 - Produit : logiciel Valkyrie (1 opérateur → flotte de drones coordonnés), développé avec forces armées norvégiennes et FFI
 - À surveiller : expansion OTAN/UE ; contrats défense européens
+
+---
+
+## NVIDIA (USA, semi-conducteurs IA)
+- Dernière MAJ : 27/07/2026
+- Produits : GPU Vera Rubin (B300/GB300 NVL72) — principal actionnaire compute IA mondial
+- Partenariats/contrats : FRONTia Japon (16/07/2026, 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/5 ans, Noetra) ; SK Group (24/07/2026, $500 Md+ IA infrastructure, opérationnel 2027) ; NAVER + Brookfield Corée (24/07/2026, AI factory 200 MW, 3× déploiement initial) ; Gradium extension seed €30M (09/07/2026) ; Bull/Foxconn/Atos assemblage Vera Rubin NVL72 à Angers (17/06/2026 VivaTech)
+- Part de marché : ~80 % GPU IA par revenus ; datacenter revenue FY2026 $193,7 Md
+- Jensen Huang : débuts sur X (24-25/07/2026) — plaide pour modèles ouverts comme "essentiels à la sécurité, innovation et souveraineté"
+- À surveiller : Blackwell Ultra → Vera Rubin → Feynman roadmap ; débats open vs. closed models dans contexte sécurité UE
+
+---
+
+## Scaleway (France, cloud souverain / Iliad)
+- Dernière MAJ : 27/07/2026
+- Actionnaire : Iliad (Xavier Niel)
+- Contrats clés : Airbus — cloud de confiance européen (16/07/2026) : applications critiques (conception aéronefs, ingénierie, production industrielle), 100 % européen, conditions légales contre extraterritorialité US, capacités IA intégrées. Montant non divulgué.
+- Positionnement : cloud souverain SecNumCloud, alternative cloud UE pour secteur industriel et aéronautique
+- À surveiller : montée en puissance Scaleway comme cloud souverain de référence industrie ; impact CADA sur positionnement
+
+---
+
+## Soitec (France, substrats semi-conducteurs)
+- Dernière MAJ : 27/07/2026
+- Partenariats : ZenSemi (Chine) — partenariat BCD-on-SOI 300mm (annoncé ~29/06/2026) : substrats Power-SOI 300mm pour puces BCD (Bipolar-CMOS-DMOS), ciblant datacenters IA, véhicules électriques, robotique. Action Soitec +8 % le 30/06 à l'annonce.
+- Marchés cibles : électronique de puissance pour infrastructure IA (PDU, régulateurs tension serveurs), EV, robotique industrielle
+- À surveiller : montée en puissance production BCD-on-SOI ; concurrence sur marché substrats IA ; relations UE-Chine (partenaire fonderie chinois)
 
 ---
 

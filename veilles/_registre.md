@@ -58,6 +58,18 @@
 17/07 | export | NVIDIA H200 Chine | gap : 2M commandés / 700K disponibles, 10 firmes approuvées 75K max (14/07)
 17/07 | privé/mondial | Apple vs OpenAI | plainte NDCAL (10/07) : vol secrets hardware Tang Tan + Chang Liu
 
+## 27/07/2026
+
+27/07 | réglementation | EU AI Act Omnibus | Règl. (UE) 2026/1744 publié JOUE 24/07, en vigueur 27/07 : Art. 50 → 2 août ; haut-risque Annexe III → 2/12/2027 ; interdictions deepfakes intimes + CSAM → 2/12/2026
+27/07 | privé/mondial | Anthropic / Claude Opus 5 | lancé 24/07 : $5/$25 MTok, FrontierBench 43,3% SOTA (vs Fable 5 33,7%), ARC-AGI-3 30,2% SOTA, ½ prix Fable 5
+27/07 | privé/mondial | Moonshot AI / Kimi K3 | poids ouverts publiés 27/07 00h00 UTC, Modified MIT, 2,8T MoE, ~1,4 To MXFP4
+27/07 | infra/souveraineté | Airbus × Scaleway | contrat cloud souverain européen 16/07 : applications critiques (conception, ingénierie, production), 100% UE, capacités IA
+27/07 | privé/FR | Mistral Série D | Samsung en discussions €1 Md à val. €20 Md (Axios 22/07, Sifted 24/07) ; EQT Scaleup Fund aussi — non clôturé
+27/07 | privé/mondial | NVIDIA × SK Group | partenariat $500 Md+ infrastructure IA (24/07), opérationnel 2027 ; + NAVER/Brookfield Corée 200MW
+27/07 | privé/mondial | xAI / Grok | add-on Google Workspace (Sheets/Slides/Docs) lancé 24/07, gratuit Marketplace
+27/07 | recherche | Kairos 3.1 / ACE Robotics | world-action model open-source, WAIC 2026, SOTA 12 benchmarks robotique, arXiv 2606.16533
+27/07 | infra/semi | Soitec × ZenSemi | partenariat BCD-on-SOI 300mm (29/06, rattrapage) : datacenters IA + EV + robotique, action Soitec +8%
+
 ---
 
 *Créé le 24/07/2026 — à compléter à chaque exécution*
