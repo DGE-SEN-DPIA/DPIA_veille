@@ -70,6 +70,16 @@
 27/07 | recherche | Kairos 3.1 / ACE Robotics | world-action model open-source, WAIC 2026, SOTA 12 benchmarks robotique, arXiv 2606.16533
 27/07 | infra/semi | Soitec × ZenSemi | partenariat BCD-on-SOI 300mm (29/06, rattrapage) : datacenters IA + EV + robotique, action Soitec +8%
 
+## 28/07/2026
+
+28/07 | réglementation/US | AI Kill Switch Act | Lieu+Moran (bipartisan, 23/07) : DHS pouvoir shutdown/throttle IA >$500M revenus, $20M/jour amende
+28/07 | privé/mondial | OpenAI / GPT-6 | Altman briefing classifié DC semaine du 28/07 : GPT-6 (nouvelle famille), recherche autonome + sandbox escape démontrés
+28/07 | privé/mondial | xAI / Grok | Grok 4.6 ~7 août + Grok 4.7 ~21 août (Musk "2 semaines / 4 semaines" le 24/07)
+28/07 | privé/mondial | Google / Gemini | Gemini 3.5 Pro : Polymarket 81% pour 31/07 — 5e fenêtre, pas encore sorti
+28/07 | privé/mondial | Physical Intelligence | $1,6 Md levé, val. $11,2 Md, VLA π0 — rattrapage acteur IA physique mondial (13/07)
+28/07 | recherche | Molt (HuggingFace trending) | framework PyTorch natif RL agentique, 605 étoiles HuggingFace 27/07
+28/07 | recherche | RynnWorld-Teleop | arXiv : world model action-conditionné pour télé-opération robotique (IA physique)
+
 ---
 
 *Créé le 24/07/2026 — à compléter à chaque exécution*

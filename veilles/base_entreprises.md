@@ -26,28 +26,28 @@
 ---
 
 ## OpenAI (USA, LLM frontier)
-- Dernière MAJ : 24/07/2026
+- Dernière MAJ : 28/07/2026
 - Financement : valorisation ~$850 Md-$1 T ; IPO reportée à 2027, plancher $1 T
-- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; GPT-6 en préparation (briefing Trump + Congrès semaine du 28/07/2026 ; Polymarket 71% avant fin sept.)
+- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; GPT-6 (nouvelle famille) — démonstration classifiée Maison-Blanche + Congrès semaine du 28/07 ; capacités : recherche scientifique autonome + sandbox escape documenté ; Polymarket 71% release avant fin sept.
 - Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
-- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; briefing Altman à DC s'inscrit dans cadre EO frontier AI 1er août
-- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; IPO 2027 ; Presence expansion
+- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; briefing Altman à DC s'inscrit dans cadre EO frontier AI 1er août ; AI Kill Switch Act (23/07) cible explicitement les labos >$500M revenus IA
+- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption
 
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 24/07/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; Grok 4.6 (2T params, entraînement terminé 21/07/2026, lancement estimé août-sept. 2026)
+- Dernière MAJ : 28/07/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; Grok 4.6 (2T params, entraînement terminé 21/07/2026, **lancement estimé ~7 août** d'après Musk "2 semaines" le 24/07) ; Grok 4.7 (**~21 août**, Musk "4 semaines" le 24/07)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
-- À surveiller : Grok 4.6 release ; déblocage Grok 4.5 EU API console ; évaluation GPAI risque systémique AI Act
+- À surveiller : Grok 4.6 release (~7 août) ; Grok 4.7 release (~21 août) ; déblocage Grok 4.5 EU API console ; évaluation GPAI risque systémique AI Act
 
 ---
 
 ## Google DeepMind (USA, LLM/IA fondamentale)
-- Dernière MAJ : 24/07/2026
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026, gouvernements + partenaires) ; Gemini 3.5 Pro : 4e délai consécutif, aucune date GA ; Gemini 4 teasé
+- Dernière MAJ : 28/07/2026
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026, gouvernements + partenaires) ; **Gemini 3.5 Pro : 4e délai, Polymarket à 81 % pour le 31/07** (vol. >$323 000) ; Gemini 4 entraînement démarré
 - Orientations stratégiques : stratégie stopgap modèles intermédiaires ; Hassabis propose organisme standards IA type FINRA (14/07/2026)
-- À surveiller : Gemini 3.5 Pro date GA ; Gemini 4 annonce
+- À surveiller : Gemini 3.5 Pro sortie (imminente 31/07 ou août 2026) ; Gemini 4 annonce
 
 ---
 
@@ -133,6 +133,16 @@
 - Partenariats : ZenSemi (Chine) — partenariat BCD-on-SOI 300mm (annoncé ~29/06/2026) : substrats Power-SOI 300mm pour puces BCD (Bipolar-CMOS-DMOS), ciblant datacenters IA, véhicules électriques, robotique. Action Soitec +8 % le 30/06 à l'annonce.
 - Marchés cibles : électronique de puissance pour infrastructure IA (PDU, régulateurs tension serveurs), EV, robotique industrielle
 - À surveiller : montée en puissance production BCD-on-SOI ; concurrence sur marché substrats IA ; relations UE-Chine (partenaire fonderie chinois)
+
+---
+
+## Physical Intelligence (USA, IA physique / robotique)
+- Dernière MAJ : 28/07/2026
+- Fondateurs : Karol Hausman, Sergey Levine, Chelsea Finn (ex-Google Brain, Stanford, Berkeley) ; fondée 2023, San Francisco
+- Financement : $1,6 Md levé en deux tours ; valorisation $11,2 Md (Dealroom, 07/2026) ; dernier tour $1 Md en cours (Founders Fund, Lightspeed, Thrive Capital, Lux Capital) ; précédente val. $5,6 Md
+- Produits / modèles : **π0** (pi-zero) — modèle de fondation robotique vision-langage-action (VLA), entraîné sur données hétérogènes multi-robot ; pilotage manipulation dextre, logistique, entrepôt
+- Positionnement : concurrent direct de Kairos 3.1 (ACE Robotics) et Figure AI/1X ; référence mondiale VLA avec la plus grande capitalisation du secteur
+- À surveiller : closing du tour $1 Md ; annonce partenariats industriels ; expansion au-delà entrepôt/logistique
 
 ---
 
