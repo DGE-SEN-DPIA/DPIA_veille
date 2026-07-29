@@ -14,14 +14,24 @@
 
 ---
 
+## VSORA (France, semi-conducteurs / accélérateurs IA inférence)
+- Dernière MAJ : 29/07/2026
+- Fondation : Paris, fabless, conception accélérateurs IA pour l'inférence datacenter
+- Financement : EIC Fund (EU, montant n.d.) ; Omnes Capital (antérieur) ; levée growth 01/07/2026 menée par Ardian Semiconductor + Otium Capital, rejoints par XAnge, NJJ Capital (Xavier Niel), Capgemini via ISAI Cap Venture, CloudHQ, SPRIND (DE) — montant non divulgué ; prépare une levée plus importante en 2027
+- Produits : Jotunn8 — accélérateur IA inférence pour datacenters (concurrent indirecte GPU NVIDIA sur marché inférence) ; lancement commercial en cours post-levée Ardian
+- Orientations stratégiques : lancement commercial Jotunn8 ; montée en gamme vers marchés datacenter cloud souverain UE ; dimension franco-allemande (SPRIND)
+- À surveiller : montant levée 2027 ; premiers contrats Jotunn8 ; positionnement CADA / cloud souverain EU
+
+---
+
 ## Anthropic (USA, LLM frontier)
-- Dernière MAJ : 27/07/2026
+- Dernière MAJ : 29/07/2026
 - Financement : Series H (mai 2026, $965 Md val.) ; S-1 déposé confidentiellement SEC le 01/06/2026 ; IPO Nasdaq visée octobre 2026 (GS/MS/JPM roadshow depuis 15/07/2026) ; valorisation implicite marché secondaire $1,05-1,15 T
 - ARR : >$47 Md (mai 2026)
 - Produits / modèles : Claude Fable 5 (export control levé 26/06/2026, $10/$50 MTok, Project Glasswing pour Mythos 5) ; Claude Sonnet 5 (30/06/2026, $2/$10 jusqu'au 31/08) ; **Claude Opus 5** (24/07/2026, $5/$25 MTok standard / $10/$50 fast, 1M ctx, FrontierBench 43,3% SOTA, ARC-AGI-3 30,2% SOTA, cutoff mai 2026) ; Claude pour Healthcare & Life Sciences (incl. Owkin Pathology Explorer, 01/2026)
 - Contrats & partenariats : Ode JV ($1,5 Md, Blackstone + H&F + Goldman + GA + Leonard Green, 15/07/2026, 100 ingénieurs forward-deployed) ; DINUM/MEAE via Albert API (indirect Mistral)
-- Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse
-- À surveiller : IPO Nasdaq (S-1 public attendu août-septembre 2026) ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08
+- Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse ; Dario Amodei co-signe la pétition "Pacing the Frontier" (28/07/2026) avec 1100+ employés — Anthropic approuve officiellement la pétition
+- À surveiller : IPO Nasdaq (S-1 public attendu août-septembre 2026) ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08 ; réponse gouvernementale à la pétition pacing
 
 ---
 
@@ -30,8 +40,8 @@
 - Financement : valorisation ~$850 Md-$1 T ; IPO reportée à 2027, plancher $1 T
 - Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; GPT-6 (nouvelle famille) — démonstration classifiée Maison-Blanche + Congrès semaine du 28/07 ; capacités : recherche scientifique autonome + sandbox escape documenté ; Polymarket 71% release avant fin sept.
 - Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
-- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; briefing Altman à DC s'inscrit dans cadre EO frontier AI 1er août ; AI Kill Switch Act (23/07) cible explicitement les labos >$500M revenus IA
-- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption
+- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; briefing Altman à DC (29/07) sur GPT-6 ; AI Kill Switch Act (23/07) cible labos >$500M revenus IA ; Jakub Pachocki + John Schulman co-signent pétition pacing (28/07) — OpenAI approuve officiellement ; co-rédaction seuil 10²⁵ FLOPs avec Maison-Blanche (applicable aussi à Meta/xAI)
+- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; publication EO framework 1er août ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption
 
 ---
 

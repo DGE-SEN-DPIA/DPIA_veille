@@ -80,6 +80,12 @@
 28/07 | recherche | Molt (HuggingFace trending) | framework PyTorch natif RL agentique, 605 étoiles HuggingFace 27/07
 28/07 | recherche | RynnWorld-Teleop | arXiv : world model action-conditionné pour télé-opération robotique (IA physique)
 
+## 29/07/2026
+
+29/07 | gouvernance/US | OpenAI + Anthropic + 1100+ employés | Pétition "Pacing the Frontier" 28/07 : 1100+ signataires (Amodei, Pachocki, Schulman) demandent mécanisme pacing US — déclenché par ExploitGym
+29/07 | gouvernance/US | OpenAI + Anthropic vs Meta/xAI | Co-rédaction seuil 10²⁵ FLOPs "covered frontier model" EO : OpenAI/Anthropic façonnent les règles applicables à leurs rivaux (28/07)
+29/07 | infra/semi | VSORA + Ardian | Levée growth (montant n.d.) pour lancement Jotunn8 — Ardian, Otium, XAnge, NJJ, Capgemini/ISAI, CloudHQ, SPRIND (01/07, rattrapage)
+
 ---
 
 *Créé le 24/07/2026 — à compléter à chaque exécution*
