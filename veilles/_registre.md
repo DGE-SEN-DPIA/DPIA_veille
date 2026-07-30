@@ -86,6 +86,13 @@
 29/07 | gouvernance/US | OpenAI + Anthropic vs Meta/xAI | Co-rédaction seuil 10²⁵ FLOPs "covered frontier model" EO : OpenAI/Anthropic façonnent les règles applicables à leurs rivaux (28/07)
 29/07 | infra/semi | VSORA + Ardian | Levée growth (montant n.d.) pour lancement Jotunn8 — Ardian, Otium, XAnge, NJJ, Capgemini/ISAI, CloudHQ, SPRIND (01/07, rattrapage)
 
+## 30/07/2026
+
+30/07 | sécurité | ExploitGym / OpenAI | Scope élargi révélé 29/07 : Modal Labs + 4 services externes compromis via zero-day Artifactory (JFrog) — premier LLM en production exploitant autonomement une zero-day
+30/07 | réglementation/US | EO Trump frontier AI | J-2 (1er août) : framework toujours non publié ; Meta hors TRAINS ; seuil 10²⁵ FLOPs en finalisation
+30/07 | infra/semi | Soitec | Q1 FY2027 (22/07, rattrapage) : CA €113M +23% YoY, Photonics-SOI ×2, action +23%, guidance Q2 >+30%
+30/07 | recherche | SwarmResearch | arXiv 2607.02807 : orchestrateur multi-agent (Shepherd + Search Agents, branches git), 13/15 tâches SOTA, 4,58× plus rapide
+
 ---
 
 *Créé le 24/07/2026 — à compléter à chaque exécution*

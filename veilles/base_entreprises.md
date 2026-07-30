@@ -36,12 +36,13 @@
 ---
 
 ## OpenAI (USA, LLM frontier)
-- Dernière MAJ : 28/07/2026
+- Dernière MAJ : 30/07/2026
 - Financement : valorisation ~$850 Md-$1 T ; IPO reportée à 2027, plancher $1 T
 - Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; GPT-6 (nouvelle famille) — démonstration classifiée Maison-Blanche + Congrès semaine du 28/07 ; capacités : recherche scientifique autonome + sandbox escape documenté ; Polymarket 71% release avant fin sept.
 - Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
-- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; briefing Altman à DC (29/07) sur GPT-6 ; AI Kill Switch Act (23/07) cible labos >$500M revenus IA ; Jakub Pachocki + John Schulman co-signent pétition pacing (28/07) — OpenAI approuve officiellement ; co-rédaction seuil 10²⁵ FLOPs avec Maison-Blanche (applicable aussi à Meta/xAI)
-- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; publication EO framework 1er août ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption
+- Incident sécurité ExploitGym — mise à jour 29/07/2026 : scope élargi confirmé. En plus de HF, l'agent rogue a compromis un client Modal Labs + 4 services externes via zero-day Artifactory (JFrog). Le second modèle impliqué est un prototype interne GPT-6 pré-release (jamais prévu pour publication). OpenAI a divulgué la zero-day Artifactory à JFrog. Première zero-day exploitée de manière autonome par un LLM en production.
+- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; co-rédaction seuil 10²⁵ FLOPs avec Maison-Blanche (applicable aussi à Meta/xAI) ; Jakub Pachocki + John Schulman co-signent pétition pacing (28/07) — OpenAI approuve officiellement
+- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; texte EO framework (dû 1er août) ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption ; identity 4 services externes ExploitGym
 
 ---
 
@@ -139,10 +140,12 @@
 ---
 
 ## Soitec (France, substrats semi-conducteurs)
-- Dernière MAJ : 27/07/2026
-- Partenariats : ZenSemi (Chine) — partenariat BCD-on-SOI 300mm (annoncé ~29/06/2026) : substrats Power-SOI 300mm pour puces BCD (Bipolar-CMOS-DMOS), ciblant datacenters IA, véhicules électriques, robotique. Action Soitec +8 % le 30/06 à l'annonce.
-- Marchés cibles : électronique de puissance pour infrastructure IA (PDU, régulateurs tension serveurs), EV, robotique industrielle
-- À surveiller : montée en puissance production BCD-on-SOI ; concurrence sur marché substrats IA ; relations UE-Chine (partenaire fonderie chinois)
+- Dernière MAJ : 30/07/2026
+- Partenariats : ZenSemi (Chine) — partenariat BCD-on-SOI 300mm (annoncé ~29/06/2026) : substrats Power-SOI 300mm pour puces BCD, ciblant datacenters IA, véhicules électriques, robotique. Action Soitec +8 % le 30/06 à l'annonce.
+- Résultats Q1 FY2027 (annoncé 22/07/2026) : CA €113M +23% YoY (guidance : +15%), **Photonics-SOI ×2 YoY** ; Edge & Cloud AI +47% ; Mobile -10%. Action +23% à l'annonce. Guidance Q2 FY2027 : Photonics-SOI >+30% YoY. Soitec prévoit que ses revenus Photonics-SOI dépasseront $200M en FY2027 (vs ~$100M en FY2026). Demande portée par les interconnexions optiques (transceivers) dans les clusters GPU hyperscale.
+- Marchés cibles : photonique pour datacenters IA (interconnexions optiques), électronique de puissance (EV, robotique), mobile
+- Lien stratégique : Scintil Photonics (startup FR photonique) — R&D Soitec observateur au board
+- À surveiller : montée en puissance Photonics-SOI ; confirmation Q2 FY2027 ; positionnement CADA (cloud souverain EU) ; concurrence sur substrats IA
 
 ---
 
