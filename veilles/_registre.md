@@ -95,4 +95,16 @@
 
 ---
 
+## 31/07/2026
+
+31/07 | sécurité/infra | JFrog Artifactory | Patch 7.161.15 publié 27/07 : 8 CVEs (CVE-2026-65617/-65923/-66018 crédités OpenAI) — self-hosted à patcher en urgence (suite ExploitGym)
+31/07 | réglementation/EU | AI Act Art. 50 | J-2 : obligation chatbot notification effective 2 août ; amende €15M/3% CA ; exemption Art. 50(2) jusqu'au 2/12 pour systèmes existants
+31/07 | réglementation/US | EO Trump frontier AI | J-1 : framework non publié au soir 31/07 ; Meta hors TRAINS ; publication attendue 1er août
+31/07 | privé/mondial | Google Gemini | 3.5 Pro : 5e fenêtre manquée (31/07) ; Polymarket pivote vers 7 août (~73%) ; Gemini 4 entraînement démarré
+31/07 | numérique/FR | Google AI Mode France | Lancement 22/07 (rattrapage) : AI Overviews + AI Mode avec accord droits voisins (opt-out, métriques séparées, compensation) ; -30% trafic éditeurs estimé — premier marché EU
+31/07 | recherche | LaWAM | arXiv 2606.15768 : world-action model latent pour politiques robotiques efficaces en données — IA physique industrielle
+31/07 | recherche | VLA for UAVs | arXiv 2607.06706 : revue VLA pour drones et manipulation bimanuelle — convergence VLA-drones
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
