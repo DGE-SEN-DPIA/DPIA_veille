@@ -107,4 +107,15 @@
 
 ---
 
+## 03/08/2026
+
+03/08 | privé/mondial | OpenAI / Astra | Révélation nom du prochain modèle (01-02/08) via 10 preuves maths Lean 4 zéro-sorry (non-sofic group, sphère packing…) — modèle interne non public, coût ~$2K compute, premier test TRAINS/EO prévu
+03/08 | réglementation/US | EO Trump frontier AI | Deadline 1er août manquée : zéro livrable sur 3 requis ; TRAINS = "suspended animation" ; Meta hors cadre sans date
+03/08 | réglementation/EU | AI Act Art. 50 + GPAI enforcement | Effectifs depuis 02/08 : notification chatbot (€15M/3% CA) + Bureau IA peut auditer/sanctionner GPAI ; xAI (GPAI Code partiel) exposée
+03/08 | privé/FR | Mistral Série D | Potentiellement close €3 Md / val. €20 Md, EQT lead [2 sources, aucun communiqué officiel Mistral dans fenêtre]
+03/08 | privé/mondial | Google Gemini 3.5 Pro | Toujours absent 03/08 — 6e fenêtre ~7 août (Polymarket 73%, spéculatif)
+03/08 | privé/mondial | xAI / Grok | 4.6 ~7 août (1,5T, SFT/RL V9 base) ; 4.7 ~21 août (2,1T) ; EU API console toujours bloquée
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*

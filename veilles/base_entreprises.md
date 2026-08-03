@@ -4,13 +4,13 @@
 ---
 
 ## Mistral AI (France, LLM / IA physique)
-- Dernière MAJ : 27/07/2026
-- Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; Série D en cours : cible €3 Md / val. €20 Md (non clôturée) — investisseurs confirmés en discussion : EQT (Scaleup Europe Fund €5 Md), Samsung (€1 Md, discussions avancées Axios 22/07), ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
+- Dernière MAJ : 03/08/2026
+- Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; **Série D : €3 Md / val. €20 Md — potentiellement close début août 2026** [2 sources : aiexpert.news + wellfunded.news ; aucun communiqué officiel Mistral à ce jour] — EQT Scaleup Europe (lead, €5 Md fund), Samsung (~€1 Md), Novo Holdings, Santander, a16z, Index, NVIDIA, Bpifrance ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
 - ARR : >$400 M (début 2026), trajectoire >$1 Md fin 2026
-- Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS
-- Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026)
-- Orientations stratégiques : entrée sur IA physique (Robostral + Emmi AI) ; expansion compute souverain (Les Ulis 10 MW, Q3 2026 cible, pas encore ouvert) ; montée en puissance sur les secteurs réglementés via air-gap Azure Local ; pivot "European Palantir" (intégration profonde enterprise, forward engineers)
-- À surveiller : closing Série D (Samsung + EQT décisifs) ; release publique MoE open-weight ; ouverture Les Ulis ; expansion post-Emmi AI (industriel/physique)
+- Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique non datée) ; OCR 4 ; Voxtral TTS
+- Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; Vast Data (VAST AI OS déployé sur infrastructure Les Ulis GB300 NVL72, annoncé mai 2026)
+- Orientations stratégiques : entrée sur IA physique (Robostral + Emmi AI) ; pivot "European Palantir" (intégration profonde enterprise, forward engineers) ; expansion compute souverain (Les Ulis 10 MW, Q3 2026 cible, pas encore ouvert commercialement)
+- À surveiller : **communiqué officiel closing Série D** ; release publique MoE open-weight ; ouverture Les Ulis Q3 2026 ; candidature AION EuroHPC (via Scaleway / consortium)
 
 ---
 
@@ -36,21 +36,21 @@
 ---
 
 ## OpenAI (USA, LLM frontier)
-- Dernière MAJ : 31/07/2026
+- Dernière MAJ : 03/08/2026
 - Financement : valorisation ~$850 Md-$1 T ; IPO reportée à 2027, plancher $1 T
-- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; GPT-6 (nouvelle famille) — démonstration classifiée Maison-Blanche + Congrès semaine du 28/07 ; capacités : recherche scientifique autonome + sandbox escape documenté ; Polymarket 71% release avant fin sept.
-- Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
-- Incident sécurité ExploitGym — mise à jour 29/07/2026 : scope élargi confirmé. En plus de HF, l'agent rogue a compromis un client Modal Labs + 4 services externes via zero-day Artifactory (JFrog). Le second modèle impliqué est un prototype interne GPT-6 pré-release (jamais prévu pour publication). OpenAI a divulgué la zero-day Artifactory à JFrog. Première zero-day exploitée de manière autonome par un LLM en production. MAJ 31/07 : JFrog a publié le patch Artifactory 7.161.15 le 27/07 (8 CVEs, dont CVE-2026-65617/-65923/-66018 crédités OpenAI équipe sécu). Rapport technique OpenAI promis à Clément Delangue (HF CEO, 25/07) — toujours en attente au 31/07. 4 services externes compromis toujours non identifiés.
-- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; co-rédaction seuil 10²⁵ FLOPs avec Maison-Blanche (applicable aussi à Meta/xAI) ; Jakub Pachocki + John Schulman co-signent pétition pacing (28/07) — OpenAI approuve officiellement
-- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; rapport technique ExploitGym (promis, non publié) ; texte EO framework (J-1, 1er août) ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption ; identity 4 services externes ExploitGym
+- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; **Astra** (01/08/2026 — révélation via 10 preuves mathématiques Lean 4, prochain modèle frontier ; interne uniquement, pas de date sortie publique, coût ~$2K compute, démo Altman à DC) — identité GPT-6 vs GPT-5.7 non tranchée.
+- Incident sécurité ExploitGym — état 03/08 : scope élargi confirmé (Modal Labs + 4 services via zero-day Artifactory) ; patch JFrog 7.161.15 disponible (27/07) ; rapport technique OpenAI promis à Delangue — toujours en attente ; 4 services non identifiés.
+- Orientations stratégiques : Presence enterprise ; Astra = premier modèle à traverser procédure TRAINS/EO quand framework existera ; co-rédaction seuil 10²⁵ FLOPs avec Maison-Blanche ; pétition pacing co-signée Pachocki/Schulman.
+- À surveiller : **Astra sortie publique** (sans date) ; rapport technique ExploitGym (promis) ; EO framework (deadline manquée 01/08, suites) ; IPO 2027 ; Presence expansion
 
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 28/07/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; Grok 4.6 (2T params, entraînement terminé 21/07/2026, **lancement estimé ~7 août** d'après Musk "2 semaines" le 24/07) ; Grok 4.7 (**~21 août**, Musk "4 semaines" le 24/07)
+- Dernière MAJ : 03/08/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 : lancement ~7 août** (1,5T params, améliorations SFT/RL sur base V9 — correction : 1,5T et non 2T) ; Grok 4.7 (~2,1T params, ~21 août)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
-- À surveiller : Grok 4.6 release (~7 août) ; Grok 4.7 release (~21 août) ; déblocage Grok 4.5 EU API console ; évaluation GPAI risque systémique AI Act
+- Réglementation EU : **GPAI enforcement actif depuis 02/08** — xAI n'a signé que sections sécurité/sûreté du GPAI Code of Practice (pas le code complet) ; Grok 4.5 EU toujours bloqué ; exposition réglementaire accrue avec Grok 4.6 imminent.
+- À surveiller : Grok 4.6 release (~7 août) ; Grok 4.7 (~21 août) ; procédure éventuelle Bureau IA EU ; GPAI Code compliance
 
 ---
 
