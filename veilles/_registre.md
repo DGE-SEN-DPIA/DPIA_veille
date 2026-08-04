@@ -107,4 +107,15 @@
 
 ---
 
+## 04/08/2026
+
+04/08 | privé/mondial | OpenAI / Astra | Annoncé 01/08 via 10 preuves mathématiques (groupe non-sofique, conjecture Connes) ; modèle multi-agents coordonnés ; ~$2K compute ; Lean 4 sur GitHub ; pas de date de sortie
+04/08 | réglementation/US | EO Trump frontier AI | Finalisé 01/08 ; contenu classifié ; réunion WH labos 03/08 (Anthropic/OpenAI/Google/Meta) ; Meta hors TRAINS ; benchmarks secret
+04/08 | réglementation/EU | AI Act Art. 50 | Effectif depuis 02/08 ; CNIL désignée superviseure de référence France (DDADUE, Sénat 17/02/2026) ; aucune mise en demeure 2-3 août
+04/08 | sécurité | ExploitGym / HF | Schneier 02-03/08 : restrictions export US ont forcé HF à utiliser modèle chinois pour se défendre ; rapport technique OpenAI toujours attendu
+04/08 | privé/FR | H Company | Rattrapage 16/07 : lancement Holo 3 (agents computer-use, navigation UI, HoloTab Chrome) — concurrent Claude Computer Use/Operator
+04/08 | recherche | TACO | arXiv 2607.02840 : world model tactile comme correcteur VLA post-training — IA physique
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*

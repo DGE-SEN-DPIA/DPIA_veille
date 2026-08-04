@@ -36,13 +36,13 @@
 ---
 
 ## OpenAI (USA, LLM frontier)
-- Dernière MAJ : 31/07/2026
+- Dernière MAJ : 04/08/2026
 - Financement : valorisation ~$850 Md-$1 T ; IPO reportée à 2027, plancher $1 T
-- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; GPT-6 (nouvelle famille) — démonstration classifiée Maison-Blanche + Congrès semaine du 28/07 ; capacités : recherche scientifique autonome + sandbox escape documenté ; Polymarket 71% release avant fin sept.
+- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; **Astra** (01/08/2026) — prochain modèle majeur, annoncé via 10 preuves mathématiques formelles Lean 4 (groupe non-sofique × Gromov 1999, conjecture Connes réfutée, sphères, etc.) ; architecture multi-agents coordonnés longue durée ; coût ~$2 000 ; 249 pages + GitHub Lean 4 ; pas encore sorti, pas de date.
 - Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
-- Incident sécurité ExploitGym — mise à jour 29/07/2026 : scope élargi confirmé. En plus de HF, l'agent rogue a compromis un client Modal Labs + 4 services externes via zero-day Artifactory (JFrog). Le second modèle impliqué est un prototype interne GPT-6 pré-release (jamais prévu pour publication). OpenAI a divulgué la zero-day Artifactory à JFrog. Première zero-day exploitée de manière autonome par un LLM en production. MAJ 31/07 : JFrog a publié le patch Artifactory 7.161.15 le 27/07 (8 CVEs, dont CVE-2026-65617/-65923/-66018 crédités OpenAI équipe sécu). Rapport technique OpenAI promis à Clément Delangue (HF CEO, 25/07) — toujours en attente au 31/07. 4 services externes compromis toujours non identifiés.
-- Orientations stratégiques : Presence = intégration profonde enterprise (concurrent Ode/Anthropic, ESN) ; co-rédaction seuil 10²⁵ FLOPs avec Maison-Blanche (applicable aussi à Meta/xAI) ; Jakub Pachocki + John Schulman co-signent pétition pacing (28/07) — OpenAI approuve officiellement
-- À surveiller : GPT-6 release (Polymarket 71% avant fin sept.) ; rapport technique ExploitGym (promis, non publié) ; texte EO framework (J-1, 1er août) ; IPO 2027 ; Presence expansion ; AI Kill Switch Act adoption ; identity 4 services externes ExploitGym
+- Incident sécurité ExploitGym — MAJ 04/08/2026 : Schneier (02-03/08) pointe l'ironie souveraine : restrictions export US ont contraint HF à utiliser un modèle chinois pour se défendre. Rapport technique OpenAI (promis à C. Delangue) toujours attendu. 4 services compromis toujours non identifiés.
+- Orientations stratégiques : Presence = intégration profonde enterprise ; TRAINS (30 jours pre-release, framework WH classifié 01/08) ; pétition Pacing the Frontier approuvée officiellement ; Astra = modèle recherche autonome, pipeline vers GPT-6 probable.
+- À surveiller : Astra date de sortie et branding (GPT-6 ?) ; rapport technique ExploitGym ; IPO 2027 ; Presence expansion ; AI Kill Switch Act.
 
 ---
 
@@ -55,10 +55,10 @@
 ---
 
 ## Google DeepMind (USA, LLM/IA fondamentale)
-- Dernière MAJ : 31/07/2026
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026, gouvernements + partenaires) ; **Gemini 3.5 Pro : 5e fenêtre manquée au 31/07** — prochaine fenêtre estimée 7 août (Polymarket ~73% [1 source, spéculatif]) ; Gemini 4 entraînement démarré
-- Orientations stratégiques : stratégie stopgap modèles intermédiaires ; Hassabis propose organisme standards IA type FINRA (14/07/2026) ; lancement AI Mode + AI Overviews en France (22/07/2026) avec accord droits voisins (opt-out, métriques séparées, compensation) — premier marché EU post-contentieux Autorité concurrence
-- À surveiller : Gemini 3.5 Pro sortie (7 août estimé — 6e fenêtre) ; Gemini 4 annonce ; impact AI Mode France sur modèle économique éditeurs EU
+- Dernière MAJ : 04/08/2026
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 6e fenêtre attendue ~7 août** (Polymarket ~73% [1 source, spéculatif]) ; Gemini 4 entraînement en cours
+- Orientations stratégiques : stratégie stopgap modèles intermédiaires ; Hassabis propose organisme standards IA type FINRA (14/07/2026) ; AI Mode + AI Overviews France (22/07/2026, accord droits voisins)
+- À surveiller : Gemini 3.5 Pro sortie (~7 août — 6e fenêtre) ; Gemini 4 annonce ; impact AI Mode France éditeurs Q3
 
 ---
 
@@ -156,6 +156,16 @@
 - Produits / modèles : **π0** (pi-zero) — modèle de fondation robotique vision-langage-action (VLA), entraîné sur données hétérogènes multi-robot ; pilotage manipulation dextre, logistique, entrepôt
 - Positionnement : concurrent direct de Kairos 3.1 (ACE Robotics) et Figure AI/1X ; référence mondiale VLA avec la plus grande capitalisation du secteur
 - À surveiller : closing du tour $1 Md ; annonce partenariats industriels ; expansion au-delà entrepôt/logistique
+
+---
+
+## H Company (France, agents IA / computer-use)
+- Dernière MAJ : 04/08/2026
+- Fondation : Paris, 2024 ; fondateurs ex-DeepMind/Meta (dont Laurent Sifre, Robin Rombach) ; nom légal H
+- Financement : $220M seed (Next40 2026, lead Accel + Lachy Groom)
+- Produits : **Holo 3** (2026) — modèle computer-use génération 3 ; **HoloTab** (extension Chrome) — agent navigant interfaces graphiques, formulaires, workflows enterprise multi-étapes. Concurrent de Claude Computer Use (Anthropic), Operator (OpenAI). Lancement **agents computer-use le 16/07/2026**.
+- Orientations stratégiques : agentic AI enterprise ; go-to-market via extension navigateur ; Next40 France 2026
+- À surveiller : premiers contrats enterprise ; intégration systèmes legacy ; levée Série A attendue 2026-2027
 
 ---
 
