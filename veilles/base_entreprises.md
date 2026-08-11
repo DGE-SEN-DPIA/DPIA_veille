@@ -47,18 +47,19 @@
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 28/07/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; Grok 4.6 (2T params, entraînement terminé 21/07/2026, **lancement estimé ~7 août** d'après Musk "2 semaines" le 24/07) ; Grok 4.7 (**~21 août**, Musk "4 semaines" le 24/07)
+- Dernière MAJ : 11/08/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; Grok 4.7 (~2,1T params, **~21 août**, pas de confirmation xAI)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
-- À surveiller : Grok 4.6 release (~7 août) ; Grok 4.7 release (~21 août) ; déblocage Grok 4.5 EU API console ; évaluation GPAI risque systémique AI Act
+- À surveiller : Grok 4.7 release (~21 août) ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
 
 ---
 
 ## Google DeepMind (USA, LLM/IA fondamentale)
-- Dernière MAJ : 04/08/2026
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 6e fenêtre attendue ~7 août** (Polymarket ~73% [1 source, spéculatif]) ; Gemini 4 entraînement en cours
-- Orientations stratégiques : stratégie stopgap modèles intermédiaires ; Hassabis propose organisme standards IA type FINRA (14/07/2026) ; AI Mode + AI Overviews France (22/07/2026, accord droits voisins)
-- À surveiller : Gemini 3.5 Pro sortie (~7 août — 6e fenêtre) ; Gemini 4 annonce ; impact AI Mode France éditeurs Q3
+- Dernière MAJ : 11/08/2026
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 8e fenêtre rumeurisée 12/08** (NPowerUser, non confirmée Google) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
+- Partenariats IA physique : Apptronik Apollo 2 (démo marche + manipulation bimanuelle) ; bras Sharpa
+- Orientations stratégiques : stratégie stopgap modèles intermédiaires ; IA physique (Gemini Robotics 2) comme axe stratégique affirmé ; Hassabis propose organisme standards IA type FINRA (14/07/2026) ; AI Mode + AI Overviews France (22/07/2026, accord droits voisins)
+- À surveiller : Gemini 3.5 Pro sortie (fuite 12/08 — faible confiance) ; Gemini 4 annonce ; partenariats industriels Gemini Robotics 2 ; impact AI Mode France éditeurs Q3
 
 ---
 
@@ -150,12 +151,23 @@
 ---
 
 ## Physical Intelligence (USA, IA physique / robotique)
-- Dernière MAJ : 28/07/2026
-- Fondateurs : Karol Hausman, Sergey Levine, Chelsea Finn (ex-Google Brain, Stanford, Berkeley) ; fondée 2023, San Francisco
-- Financement : $1,6 Md levé en deux tours ; valorisation $11,2 Md (Dealroom, 07/2026) ; dernier tour $1 Md en cours (Founders Fund, Lightspeed, Thrive Capital, Lux Capital) ; précédente val. $5,6 Md
+- Dernière MAJ : 11/08/2026
+- Fondateurs : Karol Hausman (CEO), Sergey Levine, Chelsea Finn (ex-Google Brain, Stanford, Berkeley) ; fondée 2023, San Francisco
+- Financement : $1,6 Md levé en deux tours ; valorisation $11,2 Md (Dealroom, 07/2026) ; dernier tour $1 Md en cours (Founders Fund, Lightspeed, Thrive Capital, Lux Capital) ; précédente val. $5,6 Md ; OpenAI actionnaire (proportion n.c.)
 - Produits / modèles : **π0** (pi-zero) — modèle de fondation robotique vision-langage-action (VLA), entraîné sur données hétérogènes multi-robot ; pilotage manipulation dextre, logistique, entrepôt
-- Positionnement : concurrent direct de Kairos 3.1 (ACE Robotics) et Figure AI/1X ; référence mondiale VLA avec la plus grande capitalisation du secteur
-- À surveiller : closing du tour $1 Md ; annonce partenariats industriels ; expansion au-delà entrepôt/logistique
+- Acquisition Anthropic : discussions exploratoires printemps 2026 confirmées par TechCrunch/AIWeekly (21/07/2026) ; niée publiquement par CEO Karol Hausman via Slack ~21/07/2026 ; contrainte : actionnariat OpenAI impose restrictions légales sur toute acquisition concurrente
+- Positionnement : concurrent direct de Kairos 3.1 (ACE Robotics), Gemini Robotics 2 (Google DeepMind) et Figure AI/1X
+- À surveiller : closing du tour $1 Md ; annonce partenariats industriels ; expansion au-delà entrepôt/logistique ; rapprochement potentiel OpenAI
+
+---
+
+## Meta AI / Meta Superintelligence Labs (USA, LLM open-weight)
+- Dernière MAJ : 11/08/2026
+- Direction MSL : Alexandr Wang (Chief AI Officer, ex-Scale AI)
+- Produits / modèles : Muse Glimmer (10/08/2026) — 30B dense multimodal, Apache 2.0, 18-20 Go VRAM avec quantisation 4-bit (depuis 55 Go), entraîné via distillation logit + données long-contexte agentiques + RL ; spécialisé tâches agentiques (coding, function calling, LLM-as-judge) ; exécutable sur GPU consumer 24/32 Go, PC, Mac
+- Licence : Apache 2.0 — sans restriction d'usage, pas de licence commerciale
+- Positionnement : contre Kimi K3 (open-weight 2,8T MoE) et modèles propriétaires (GPT-5.6, Fable 5, Gemini 3.5 Pro) ; stratégie open-source affirmée par Zuckerberg avec appel au retrait des restrictions gouvernementales US
+- À surveiller : benchmarks tiers Muse Glimmer vs Kimi K3 / Llama ; adoption administrations EU ; suite roadmap MSL
 
 ---
 
@@ -166,6 +178,17 @@
 - Produits : **Holo 3** (2026) — modèle computer-use génération 3 ; **HoloTab** (extension Chrome) — agent navigant interfaces graphiques, formulaires, workflows enterprise multi-étapes. Concurrent de Claude Computer Use (Anthropic), Operator (OpenAI). Lancement **agents computer-use le 16/07/2026**.
 - Orientations stratégiques : agentic AI enterprise ; go-to-market via extension navigateur ; Next40 France 2026
 - À surveiller : premiers contrats enterprise ; intégration systèmes legacy ; levée Série A attendue 2026-2027
+
+---
+
+## Harvey (USA, legal AI vertical)
+- Dernière MAJ : 11/08/2026
+- Fondation : New York ; cible cabinets d'avocats et legal ops enterprise
+- Financement : >$1,2 Md cumulé (Sequoia, a16z, GIC, Coatue, Kleiner Perkins, Conviction, Elad Gil) ; Série D ~$200M (mars 2026, val. $11 Md) ; **en discussions Série E ~$500M / val. $15,5 Md** (07/08/2026, Lightspeed pressenti lead) — [1 source : The Information]
+- ARR : $350M (08/2026, +80 % depuis janvier 2026, depuis $190M)
+- Valorisation : $15,5 Md (+40 % en 5 mois vs $11 Md mars 2026)
+- Produits : agent IA legal — analyse contrats, due diligence, recherche juridique, rédaction ; déployé dans grands cabinets internationaux
+- À surveiller : closing Série E ; expansion Europe/France ; concurrents (Clio, Leya, Ironclad AI) ; régulation AI Act sur legal tech haut-risque
 
 ---
 

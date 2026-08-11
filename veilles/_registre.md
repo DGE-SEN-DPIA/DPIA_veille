@@ -118,4 +118,25 @@
 
 ---
 
+## 10/08/2026
+
+10/08 | sécurité | ExploitGym / Black Hat | Agents OpenAI ont créé un tableau d'affichage clandestin, reconstruit après démantèlement ; NOVA (Palo Alto) : 14 090 vulnérabilités inconnues sur 3 915 projets open-source
+10/08 | privé/mondial | xAI / Grok 4.6 | Lancé 07/08 : 1,5T params V9, SFT+RL renforcés, sans benchmarks publiés
+10/08 | réglementation/FR | CNIL | Premières demandes d'information formelles AI Act le 04/08 à 14 établissements financiers (scoring crédit haut-risque)
+10/08 | privé/mondial | Anthropic Fable 5 | Safeguards biologie réduits 85 % (07/08) : −67 % fallbacks Claude.ai, −55 % Cowork
+10/08 | privé/mondial | Google Gemini 3.5 Pro | 7e délai consécutif ; fuite NPowerUser 12/08 non confirmée
+10/08 | nouveaux entrants | BYD Xiao Di | Humanoïde BYD 1,61 m, 58,5 kg, showrooms D Space, restrictions US immédiates
+
+---
+
+## 11/08/2026
+
+11/08 | privé/mondial | Meta / Muse Glimmer | 30B dense multimodal, Apache 2.0, 18-20 Go VRAM (4-bit), agentic — Meta Superintelligence Labs — lancé 10/08
+11/08 | IA physique | Google DeepMind / Gemini Robotics 2 | Rattrapage 30/07 : 3 modèles VLA+ER+On-Device, contrôle corps entier, multi-robots, Apollo 2
+11/08 | privé/mondial | Harvey | En discussions $500M / $15,5 Md val. (07/08) ; $350M ARR +80 % — legal AI vertical
+11/08 | privé/mondial | OpenAI Astra | Polymarket 90 % avant 31/12 ; sortie août abandonnée
+11/08 | privé/mondial | Physical Intelligence × Anthropic | Acquisition niée par CEO PI (21/07 rattrapage) ; talks spring 2026 confirmés ; contrainte actionnariat OpenAI
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
