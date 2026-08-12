@@ -3,14 +3,15 @@
 
 ---
 
-## Mistral AI (France, LLM / IA physique)
-- Dernière MAJ : 27/07/2026
+## Mistral AI (France, LLM / IA physique / infrastructure souveraine)
+- Dernière MAJ : 12/08/2026
 - Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; Série D en cours : cible €3 Md / val. €20 Md (non clôturée) — investisseurs confirmés en discussion : EQT (Scaleup Europe Fund €5 Md), Samsung (€1 Md, discussions avancées Axios 22/07), ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
 - ARR : >$400 M (début 2026), trajectoire >$1 Md fin 2026
 - Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS
-- Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026)
-- Orientations stratégiques : entrée sur IA physique (Robostral + Emmi AI) ; expansion compute souverain (Les Ulis 10 MW, Q3 2026 cible, pas encore ouvert) ; montée en puissance sur les secteurs réglementés via air-gap Azure Local ; pivot "European Palantir" (intégration profonde enterprise, forward engineers)
-- À surveiller : closing Série D (Samsung + EQT décisifs) ; release publique MoE open-weight ; ouverture Les Ulis ; expansion post-Emmi AI (industriel/physique)
+- Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; coalition computing EU : ASML + CMA CGM + Amadeus (ECUs multi-annuels, 200 MW fin 2027, 1 GW fin 2030 — 11/08/2026) ; Caisse des Dépôts (partenariat stratégique, 19 filiales, mai 2026)
+- Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
+- Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible)
+- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis ; premiers contrats Priority Tier avec administrations ; expansion coalition EU (membership suivant après ASML/CMA CGM/Amadeus)
 
 ---
 
@@ -41,8 +42,9 @@
 - Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; **Astra** (01/08/2026) — prochain modèle majeur, annoncé via 10 preuves mathématiques formelles Lean 4 (groupe non-sofique × Gromov 1999, conjecture Connes réfutée, sphères, etc.) ; architecture multi-agents coordonnés longue durée ; coût ~$2 000 ; 249 pages + GitHub Lean 4 ; pas encore sorti, pas de date.
 - Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
 - Incident sécurité ExploitGym — MAJ 04/08/2026 : Schneier (02-03/08) pointe l'ironie souveraine : restrictions export US ont contraint HF à utiliser un modèle chinois pour se défendre. Rapport technique OpenAI (promis à C. Delangue) toujours attendu. 4 services compromis toujours non identifiés.
-- Orientations stratégiques : Presence = intégration profonde enterprise ; TRAINS (30 jours pre-release, framework WH classifié 01/08) ; pétition Pacing the Frontier approuvée officiellement ; Astra = modèle recherche autonome, pipeline vers GPT-6 probable.
-- À surveiller : Astra date de sortie et branding (GPT-6 ?) ; rapport technique ExploitGym ; IPO 2027 ; Presence expansion ; AI Kill Switch Act.
+- **Astra — seuil cyber « Critical » (07/08/2026) :** OpenAI publie « Responding to the next frontier of critical cyber capabilities » ; « cannot rule out » que Astra dépasse le seuil Critical du Preparedness Framework (zero-days systèmes critiques sans intervention humaine, cyberattaque bout-en-bout). Premier modèle frontier au seuil Critical jamais documenté. Mesures : testing isolé, monitoring universel, pause activités internes non conformes. Coopération avec agences gouvernementales. Sortie indéterminée.
+- Orientations stratégiques : Presence = intégration profonde enterprise ; TRAINS (30 jours pre-release, framework WH classifié 01/08) ; pétition Pacing the Frontier approuvée officiellement ; Astra = modèle recherche autonome (preuves mathématiques Lean 4, 01/08), pipeline GPT-6 probable ; développement ralenti pour évaluation cyber.
+- À surveiller : Astra date de sortie (post-évaluations gouvernementales) ; rapport technique ExploitGym ; IPO 2027 ; Presence expansion ; AI Kill Switch Act.
 
 ---
 
@@ -55,11 +57,12 @@
 ---
 
 ## Google DeepMind (USA, LLM/IA fondamentale)
-- Dernière MAJ : 11/08/2026
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 8e fenêtre rumeurisée 12/08** (NPowerUser, non confirmée Google) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
+- Dernière MAJ : 12/08/2026
+- **Leadership (05/08/2026) :** Demis Hassabis quitte le rôle de CEO → Chairman de Google DeepMind + Chief Scientist d'Alphabet (continue Isomorphic Labs). Koray Kavukcuoglu (ex-CTO DeepMind, Alphabet Chief AI Architect) devient SVP Google DeepMind, rapporte à Sundar Pichai. Jeff Dean (27 ans Google, Chief Scientist) cofonde Discovery Loop avec Oriol Vinyals, Quoc Le, Sanjay Ghemawat. Alphabet −5 % sur la journée. Contexte : retards Gemini 3.5 Pro, pression OpenAI/Anthropic.
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 9e délai** (12/08 manqué, base model reconstruction confirmée par The Decoder) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
 - Partenariats IA physique : Apptronik Apollo 2 (démo marche + manipulation bimanuelle) ; bras Sharpa
-- Orientations stratégiques : stratégie stopgap modèles intermédiaires ; IA physique (Gemini Robotics 2) comme axe stratégique affirmé ; Hassabis propose organisme standards IA type FINRA (14/07/2026) ; AI Mode + AI Overviews France (22/07/2026, accord droits voisins)
-- À surveiller : Gemini 3.5 Pro sortie (fuite 12/08 — faible confiance) ; Gemini 4 annonce ; partenariats industriels Gemini Robotics 2 ; impact AI Mode France éditeurs Q3
+- Orientations stratégiques : pivot vers exécution produit sous Kavukcuoglu (vs recherche fondamentale sous Hassabis) ; IA physique (Gemini Robotics 2) affirmée ; Hassabis vers AGI/stratégie Alphabet ; AI Mode + AI Overviews France (22/07/2026)
+- À surveiller : Gemini 3.5 Pro sortie (aucune date officielle) ; Gemini 4 annonce ; partenariats industriels Gemini Robotics 2 ; impact reorg sur roadmap ; recrutements post-Dean/Vinyals/Le/Ghemawat
 
 ---
 
@@ -105,11 +108,12 @@
 ---
 
 ## Zhipu AI / Z.ai (Chine, LLM open-weight)
-- Dernière MAJ : 24/07/2026
-- Produits / modèles : GLM-5.2 (13/06/2026, 744B MoE, MIT, 1M contexte, ~40B actifs)
+- Dernière MAJ : 12/08/2026
+- Produits / modèles : GLM-5.2 (13/06/2026, 744B MoE, MIT, 1M contexte, ~40B actifs) — maintenant **hébergé sur Mistral Compute** (public preview 06/08/2026)
 - Évaluations : AISI (19-20/07/2026) : GLM-5.2 à 4-7 mois du frontier cyber, match Opus 4.6 sur narrow cyber tasks, match Opus 4.5 sur cyber ranges
 - Licence MIT sans restriction géographique — déploiement on-premise possible
-- À surveiller : adoption EU/FR ; évaluation risque GPAI AI Act
+- Distribution : DeepInfra, Fireworks AI, Mistral Compute (EU, résidence données garantie)
+- À surveiller : adoption EU/FR via Mistral ; GLM-5.3 et GLM-5.5 (spéculatif, non confirmé) ; évaluation risque GPAI AI Act
 
 ---
 
@@ -189,6 +193,25 @@
 - Valorisation : $15,5 Md (+40 % en 5 mois vs $11 Md mars 2026)
 - Produits : agent IA legal — analyse contrats, due diligence, recherche juridique, rédaction ; déployé dans grands cabinets internationaux
 - À surveiller : closing Série E ; expansion Europe/France ; concurrents (Clio, Leya, Ironclad AI) ; régulation AI Act sur legal tech haut-risque
+
+---
+
+## Alibaba / Qwen (Chine, LLM frontier open-weight)
+- Dernière MAJ : 12/08/2026
+- Produits / modèles : **Qwen3.8-Max** (03/08/2026) — 2,4T paramètres (MoE), 1M contexte, performant sur coding + raisonnement complexe + agents. Open-weight (MIT, poids publiés ~10/08/2026). API sur Alibaba Cloud Model Studio. Alibaba revendique parité avec Claude Fable 5 sur benchmarks code [1 source].
+- Positionnement : troisième modèle frontier chinois open-weight compétitif (après Kimi K3 2,8T et DeepSeek V4-Pro), coût API <10 % modèles propriétaires US [estimation, non confirmé par source primaire].
+- À surveiller : benchmarks tiers Qwen3.8-Max vs Fable 5 / Kimi K3 ; adoption enterprise EU ; évaluation GPAI AI Act
+
+---
+
+## Discovery Loop (USA, découverte scientifique automatisée)
+- Dernière MAJ : 12/08/2026
+- Fondation : 05/08/2026, San Francisco. Public benefit corporation.
+- Fondateurs : Jeff Dean (ex-Chief Scientist Google, 27 ans), Sanjay Ghemawat (ex-Google Fellow), Oriol Vinyals (ex-VP Research DeepMind), Quoc Le (ex-VP Research Google Brain)
+- Mission : automatiser la boucle de découverte scientifique (hypothèse → expérience → évaluation) par apprentissage automatique ; applications pharmacologie, matériaux, ingénierie
+- Financement : Google investisseur fondateur et cloud partner. Aucun financement externe ni tour public à ce stade.
+- Produits : aucun annoncé publiquement
+- À surveiller : premiers financements externes ; premier produit/publication ; partenariats académiques ou industriels
 
 ---
 

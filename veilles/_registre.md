@@ -139,4 +139,15 @@
 
 ---
 
+## 12/08/2026
+
+12/08 | gouvernance | Google DeepMind | Hassabis CEO → Chairman/CSO Alphabet ; Kavukcuoglu SVP ; Jeff Dean + Vinyals + Le + Ghemawat fondent Discovery Loop (05/08 rattrapage, omis notes 04/08 et 10/08)
+12/08 | privé/FR | Mistral Compute | Regional Endpoints GA + Priority Tier SLA + coalition EU (ASML/CMA CGM/Amadeus) 200 MW 2027 / 1 GW 2030 + hébergement GLM-5.2 (Z.ai)
+12/08 | sécurité | OpenAI / Astra | Seuil cyber « Critical » ne peut être exclu — blog 07/08, développement ralenti (rattrapage omis note 10/08)
+12/08 | privé/mondial | Alibaba / Qwen | Qwen3.8-Max 2,4T MoE 1M ctx open-weight lancé 03/08 (rattrapage omis note 04/08)
+12/08 | nouveaux entrants | Discovery Loop | Jeff Dean + Vinyals + Le + Ghemawat ; découverte scientifique IA ; Google investisseur fondateur (05/08)
+12/08 | privé/mondial | Gemini 3.5 Pro | 9e délai confirmé (12/08 manqué) ; base model reconstruit DeepMind
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
