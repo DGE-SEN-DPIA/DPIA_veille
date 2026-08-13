@@ -150,4 +150,13 @@
 
 ---
 
+## 13/08/2026
+
+13/08 | infra/EU | EuroHPC JU | Appel Gigafactories IA (30/07) : 7 usines, >€20B privé, deadline 12/11/2026 ; France → consortium AION (Scaleway + Bull + Capgemini + EDF + Orange + HuggingFace + Kyutai + VSORA + Ardian + Artefact, ~€10B/200MW)
+13/08 | conformité/EU | Anthropic | Watermarking C2PA mondial sur sorties Claude depuis 02/08 — Art. 50 AI Act ; filigrane texte + C2PA fichiers ; premier grand lab à déployer effectivement
+13/08 | privé/FR | Mistral | Shieldstral (04/08, rattrapage) : classificateur sécurité 3B open-weight Apache 2.0, multimodal, 12 langues, 16 Go GPU — SOTA modération multimodale
+13/08 | privé/mondial | Gemini 3.5 Pro | 10e fenêtre manquée (13/08) ; aucune date officielle ; base model reconstruction confirmée
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*

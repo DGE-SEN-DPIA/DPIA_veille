@@ -4,10 +4,10 @@
 ---
 
 ## Mistral AI (France, LLM / IA physique / infrastructure souveraine)
-- Dernière MAJ : 12/08/2026
+- Dernière MAJ : 13/08/2026
 - Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; Série D en cours : cible €3 Md / val. €20 Md (non clôturée) — investisseurs confirmés en discussion : EQT (Scaleup Europe Fund €5 Md), Samsung (€1 Md, discussions avancées Axios 22/07), ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
 - ARR : >$400 M (début 2026), trajectoire >$1 Md fin 2026
-- Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS
+- Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS ; **Shieldstral** (04/08/2026, 3B, multimodal texte+images, Apache 2.0, 12 langues, 16 Go VRAM — classificateur sécurité politique-adaptive, SOTA modération multimodale, AI Act Art. 13)
 - Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; coalition computing EU : ASML + CMA CGM + Amadeus (ECUs multi-annuels, 200 MW fin 2027, 1 GW fin 2030 — 11/08/2026) ; Caisse des Dépôts (partenariat stratégique, 19 filiales, mai 2026)
 - Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
 - Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible)
@@ -26,12 +26,13 @@
 ---
 
 ## Anthropic (USA, LLM frontier)
-- Dernière MAJ : 29/07/2026
+- Dernière MAJ : 13/08/2026
 - Financement : Series H (mai 2026, $965 Md val.) ; S-1 déposé confidentiellement SEC le 01/06/2026 ; IPO Nasdaq visée octobre 2026 (GS/MS/JPM roadshow depuis 15/07/2026) ; valorisation implicite marché secondaire $1,05-1,15 T
 - ARR : >$47 Md (mai 2026)
 - Produits / modèles : Claude Fable 5 (export control levé 26/06/2026, $10/$50 MTok, Project Glasswing pour Mythos 5) ; Claude Sonnet 5 (30/06/2026, $2/$10 jusqu'au 31/08) ; **Claude Opus 5** (24/07/2026, $5/$25 MTok standard / $10/$50 fast, 1M ctx, FrontierBench 43,3% SOTA, ARC-AGI-3 30,2% SOTA, cutoff mai 2026) ; Claude pour Healthcare & Life Sciences (incl. Owkin Pathology Explorer, 01/2026)
 - Contrats & partenariats : Ode JV ($1,5 Md, Blackstone + H&F + Goldman + GA + Leonard Green, 15/07/2026, 100 ingénieurs forward-deployed) ; DINUM/MEAE via Albert API (indirect Mistral)
 - Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse ; Dario Amodei co-signe la pétition "Pacing the Frontier" (28/07/2026) avec 1100+ employés — Anthropic approuve officiellement la pétition
+- **Watermarking C2PA (11/08/2026) :** Déploiement mondial de filigranes invisibles sur toutes les sorties Claude (texte + fichiers C2PA) depuis le 02/08/2026 — conformité AI Act Art. 50 (Transparency Code). Tous produits concernés (API, plateforme, Claude Code, Cowork, Tag). Filigrane résistant au copier-coller, partiellement résistant à l'édition légère. Premier grand lab frontier à déployer effectivement. Google, Meta, Microsoft, OpenAI s'engagent en parallèle.
 - À surveiller : IPO Nasdaq (S-1 public attendu août-septembre 2026) ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08 ; réponse gouvernementale à la pétition pacing
 
 ---
@@ -136,11 +137,12 @@
 ---
 
 ## Scaleway (France, cloud souverain / Iliad)
-- Dernière MAJ : 27/07/2026
+- Dernière MAJ : 13/08/2026
 - Actionnaire : Iliad (Xavier Niel)
 - Contrats clés : Airbus — cloud de confiance européen (16/07/2026) : applications critiques (conception aéronefs, ingénierie, production industrielle), 100 % européen, conditions légales contre extraterritorialité US, capacités IA intégrées. Montant non divulgué.
-- Positionnement : cloud souverain SecNumCloud, alternative cloud UE pour secteur industriel et aéronautique
-- À surveiller : montée en puissance Scaleway comme cloud souverain de référence industrie ; impact CADA sur positionnement
+- **Consortium AION (mai 2026) :** Scaleway coordonne le consortium français candidat à l'appel EuroHPC AI Gigafactories (lancé 30/07/2026, deadline 12/11/2026). Membres : Ardian, Artefact, Bull (Atos), Capgemini, EDF, Groupe Iliad, Orange, Hugging Face, Kyutai, Quandela, VSORA. Proposition : ~€10 milliards, 288 000 GPU H100 équivalent, 200 MW. Objectif : 1 des 7 gigafactories EU.
+- Positionnement : cloud souverain SecNumCloud, alternative cloud UE pour secteur industriel et aéronautique ; coordinateur de la candidature française compute IA
+- À surveiller : résultat sélection EuroHPC (début 2027) ; montée en puissance Scaleway comme cloud souverain de référence industrie ; impact CADA sur positionnement
 
 ---
 
