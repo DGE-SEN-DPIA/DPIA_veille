@@ -159,4 +159,17 @@
 
 ---
 
+## 14/08/2026
+
+14/08 | IA physique/FR | Genesis AI | GENE-26.5 (06/05) : modèle fondation manipulation dextre humain-level, $105M seed (Bpifrance, X. Niel, Khosla) ; Eno robot humanoïde polyvalent (17/06) — rattrapage watchlist
+14/08 | privé/FR | AMI Labs | €890M levés mars 2026, entrée Next40 15/06, Yann LeCun, architecture world models (I-JEPA) — rattrapage watchlist
+14/08 | gouvernance/FR | ARIANE | DINUM transformée en autorité régalienne IA & numérique (30/04/2026) ; Walter Arnaud directeur (11/05, effectif 24/06) — rattrapage
+14/08 | nouveaux entrants/FR | Tsuga | $35M Série A (23/06/2026), observabilité agents IA BYOC, Singular + GC + Databricks Ventures — rattrapage
+14/08 | recherche | DreamX-Phi 1.0 (Alibaba) | arXiv 2608.13489 (13/08) : world model action-conditionné manipulation robotique, trending HF Papers #1 — IA physique
+14/08 | privé/mondial | Gemini 3.5 Pro | 11e délai confirmé Forbes 13/08 ; reconstruction base model ; aucune date Google
+14/08 | infra/semi | NVIDIA | Earnings Q2 FY27 le 26/08, guidance $91 Md — signal datacenter EU
+14/08 | privé/mondial | Grok 4.7 | Fenêtre estimée ~fin août/début sept. (3-4 semaines depuis 13/08) — aucune confirmation xAI
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*

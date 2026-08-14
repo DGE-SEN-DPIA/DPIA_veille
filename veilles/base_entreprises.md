@@ -217,4 +217,39 @@
 
 ---
 
+## Genesis AI (France/USA, IA physique / robotique)
+- Dernière MAJ : 14/08/2026
+- Fondation : Franco-américaine, San Francisco + Paris. Fondée ~2023-2024.
+- Financement : $105 M seed — Eclipse, Khosla Ventures, Bpifrance, HSG Capital, Eric Schmidt, Xavier Niel, Daniela Rus (MIT), Vladlen Koltun. Série A non encore annoncée.
+- Produits / modèles :
+  - **GENE-26.5** (06/05/2026) : modèle de fondation robotique pour manipulation dextre « humain-level ». Entraîné via gant de données sensoriel (mapping 1:1:1 main humaine / gant / main robotique) + moteur de données propriétaire. Coût collecte revendiqué 100× inférieur aux alternatives.
+  - **Eno** (17/06/2026) : premier robot humanoïde polyvalent de Genesis AI. 20 DOF back-drivable, pliable (format bagage cabine), déployable usine / laboratoire / hôpital / maison.
+- Positionnement : concurrent de Physical Intelligence π0 (VLA manipulation/logistique), Gemini Robotics 2 (VLA corps entier), Figure AI, 1X. Approche distinctive : data-glove + data-engine pour transfert de compétence humain → robot.
+- Ancrage FR : Bpifrance + Xavier Niel = double ancrage souverain. GENE-26.5 potentiellement déployable dans la filière industrielle française.
+- À surveiller : Série A ; premiers contrats industriels (automobile, aéronautique, logistique) ; papiers académiques GENE-26.5 vs Gemini Robotics 2 benchmarks.
+
+---
+
+## AMI Labs (France, world models / IA fondamentale)
+- Dernière MAJ : 14/08/2026
+- Fondation : Paris. Fondateur : Yann LeCun (prix Turing 2018, ex-VP/Chief AI Scientist Meta).
+- Financement : **€890 millions** (mars 2026) — consortium international, Bpifrance. Deuxième plus grosse levée IA française (après Série C Mistral €600 M). Valorisation non divulguée.
+- Statut French Tech : Next40 2026 (entrée directe le 15 juin 2026 — premier IA pure-player directement admis).
+- Technologie : modèles de fondation basés sur les **world models** — architecture I-JEPA (Image Joint Embedding Predictive Architecture) développée par LeCun. Approche non-autorégressive : planification et raisonnement sur représentations internes, sans génération token par token. Alternative structurelle aux Transformers GPT-style.
+- Produits : aucun modèle public annoncé à ce stade (août 2026).
+- Orientations stratégiques : pari de long terme sur la prochaine architecture dominante de l'IA ; focus sur raisonnement, planification et embodied AI. Convergence potentielle avec le paradigme WAM (World Action Models, arXiv 2605.12090).
+- À surveiller : premier modèle public ; partenariats industriels (robotique, industrie) ; levée ultérieure (Série A ou B) ; publications académiques ; recrutements (signal de la roadmap).
+
+---
+
+## Tsuga (France, observabilité agents IA)
+- Dernière MAJ : 14/08/2026
+- Fondation : Paris, 2024.
+- Financement : Seed $10M (décembre 2025, Singular + General Catalyst) ; **Série A $35M** (23/06/2026, Singular lead, General Catalyst, Picus Capital, Databricks Ventures, DST Global Partners, QuantumLight).
+- Produits : Plateforme d'observabilité **BYOC** (*bring your own cloud*) pour agents IA en production. Les données de télémétrie (logs, traces, métriques) restent dans le cloud du client (Azure, AWS, GCP, cloud souverain) — aucun transfert vers Tsuga. Cas d'usage : contrôle des coûts, scalabilité, débogage des agents IA. Clients : Le Monde, Camunda, Black Forest Lab.
+- Positionnement souveraineté : BYOC nativement compatible SecNumCloud et résidence des données AI Act. Databricks Ventures = signal de la convergence infra-data-IA agentique.
+- À surveiller : adoption administrations françaises (ARIANE, DINUM) ; expansion EU ; intégration stack souveraine (Mistral + Scaleway + Tsuga) ; levée Série B.
+
+---
+
 *Créé le 24/07/2026 — à compléter et enrichir à chaque exécution*
