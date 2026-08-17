@@ -38,29 +38,29 @@
 ---
 
 ## OpenAI (USA, LLM frontier)
-- Dernière MAJ : 04/08/2026
+- Dernière MAJ : 17/08/2026
 - Financement : valorisation ~$850 Md-$1 T ; IPO reportée à 2027, plancher $1 T
-- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; **Astra** (01/08/2026) — prochain modèle majeur, annoncé via 10 preuves mathématiques formelles Lean 4 (groupe non-sofique × Gromov 1999, conjecture Connes réfutée, sphères, etc.) ; architecture multi-agents coordonnés longue durée ; coût ~$2 000 ; 249 pages + GitHub Lean 4 ; pas encore sorti, pas de date.
+- Produits / modèles : GPT-5.5 (04/2026) ; GPT-5.6 Sol/Terra/Luna (09/07/2026) ; Presence (plateforme enterprise voix/chat, 22/07/2026) ; **Astra** (01/08/2026) — prochain modèle de recherche, annoncé via 10 preuves mathématiques formelles Lean 4 ; architecture multi-agents coordonnés longue durée ; **"Doug"** (révélé 09/08/2026) — plus grand run de pré-entraînement de l'histoire d'OpenAI ; successeur désigné pour la production (distinct d'Astra, orienté recherche) ; lancement cible avant novembre 2026 ; non nommé GPT-6 officiellement [pré-briefing presse].
 - Contrats & partenariats : Microsoft (Azure OpenAI Service) ; Stargate JV ; incident Hugging Face (GPT-5.6 Sol + modèle pré-release auteurs de l'intrusion, attribution 21/07/2026)
 - Incident sécurité ExploitGym — MAJ 04/08/2026 : Schneier (02-03/08) pointe l'ironie souveraine : restrictions export US ont contraint HF à utiliser un modèle chinois pour se défendre. Rapport technique OpenAI (promis à C. Delangue) toujours attendu. 4 services compromis toujours non identifiés.
 - **Astra — seuil cyber « Critical » (07/08/2026) :** OpenAI publie « Responding to the next frontier of critical cyber capabilities » ; « cannot rule out » que Astra dépasse le seuil Critical du Preparedness Framework (zero-days systèmes critiques sans intervention humaine, cyberattaque bout-en-bout). Premier modèle frontier au seuil Critical jamais documenté. Mesures : testing isolé, monitoring universel, pause activités internes non conformes. Coopération avec agences gouvernementales. Sortie indéterminée.
-- Orientations stratégiques : Presence = intégration profonde enterprise ; TRAINS (30 jours pre-release, framework WH classifié 01/08) ; pétition Pacing the Frontier approuvée officiellement ; Astra = modèle recherche autonome (preuves mathématiques Lean 4, 01/08), pipeline GPT-6 probable ; développement ralenti pour évaluation cyber.
-- À surveiller : Astra date de sortie (post-évaluations gouvernementales) ; rapport technique ExploitGym ; IPO 2027 ; Presence expansion ; AI Kill Switch Act.
+- Orientations stratégiques : deux rails en parallèle — Astra (recherche, évaluations cyber, ralenti) et Doug (production, pré-entraînement massif, nov. 2026) ; Presence = intégration profonde enterprise ; TRAINS (30 jours pre-release, framework WH classifié 01/08) ; pétition Pacing the Frontier approuvée officiellement.
+- À surveiller : Doug lancement (avant nov. 2026) ; Astra date de sortie (post-évaluations gouvernementales) ; rapport technique ExploitGym ; IPO 2027 ; Presence expansion ; AI Kill Switch Act.
 
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 11/08/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; Grok 4.7 (~2,1T params, **~21 août**, pas de confirmation xAI)
+- Dernière MAJ : 17/08/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (~2,1T params, fenêtre glissée vers **début-mi septembre** depuis ~21 août, données SpaceX intégrées [1 source] — aucune confirmation xAI)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
-- À surveiller : Grok 4.7 release (~21 août) ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
+- À surveiller : Grok 4.7 release (début-mi sept.) ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
 
 ---
 
 ## Google DeepMind (USA, LLM/IA fondamentale)
-- Dernière MAJ : 12/08/2026
+- Dernière MAJ : 17/08/2026
 - **Leadership (05/08/2026) :** Demis Hassabis quitte le rôle de CEO → Chairman de Google DeepMind + Chief Scientist d'Alphabet (continue Isomorphic Labs). Koray Kavukcuoglu (ex-CTO DeepMind, Alphabet Chief AI Architect) devient SVP Google DeepMind, rapporte à Sundar Pichai. Jeff Dean (27 ans Google, Chief Scientist) cofonde Discovery Loop avec Oriol Vinyals, Quoc Le, Sanjay Ghemawat. Alphabet −5 % sur la journée. Contexte : retards Gemini 3.5 Pro, pression OpenAI/Anthropic.
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 9e délai** (12/08 manqué, base model reconstruction confirmée par The Decoder) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 12e délai** (17/08, base model reconstruction confirmée par The Decoder) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
 - Partenariats IA physique : Apptronik Apollo 2 (démo marche + manipulation bimanuelle) ; bras Sharpa
 - Orientations stratégiques : pivot vers exécution produit sous Kavukcuoglu (vs recherche fondamentale sous Hassabis) ; IA physique (Gemini Robotics 2) affirmée ; Hassabis vers AGI/stratégie Alphabet ; AI Mode + AI Overviews France (22/07/2026)
 - À surveiller : Gemini 3.5 Pro sortie (aucune date officielle) ; Gemini 4 annonce ; partenariats industriels Gemini Robotics 2 ; impact reorg sur roadmap ; recrutements post-Dean/Vinyals/Le/Ghemawat

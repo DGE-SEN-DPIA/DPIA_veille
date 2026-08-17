@@ -172,4 +172,13 @@
 
 ---
 
+## 17/08/2026
+
+17/08 | privé/mondial | OpenAI "Doug" | Plus grand run de pré-entraînement OpenAI (révélé 09/08, rattrapage) ; lancement avant nov. 2026 ; distinct d'Astra ; [non confirmé officiellement]
+17/08 | privé/mondial | Grok 4.7 / xAI | Fenêtre glissée vers début-mi sept. (vs ~21 août) ; données SpaceX en entraînement [1 source]
+17/08 | privé/mondial | Gemini 3.5 Pro | 12e délai confirmé 17/08 ; aucune date Google ; base model reconstruction
+17/08 | privé/mondial | Anthropic IPO | S-1 public non déposé ; roadshow sept. ; listing Nasdaq oct. ; val. implicite $1,05-1,15 T ; ~76% Kalshi
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
