@@ -16,12 +16,24 @@
 ---
 
 ## VSORA (France, semi-conducteurs / accélérateurs IA inférence)
-- Dernière MAJ : 29/07/2026
+- Dernière MAJ : 18/08/2026
 - Fondation : Paris, fabless, conception accélérateurs IA pour l'inférence datacenter
-- Financement : EIC Fund (EU, montant n.d.) ; Omnes Capital (antérieur) ; levée growth 01/07/2026 menée par Ardian Semiconductor + Otium Capital, rejoints par XAnge, NJJ Capital (Xavier Niel), Capgemini via ISAI Cap Venture, CloudHQ, SPRIND (DE) — montant non divulgué ; prépare une levée plus importante en 2027
-- Produits : Jotunn8 — accélérateur IA inférence pour datacenters (concurrent indirecte GPU NVIDIA sur marché inférence) ; lancement commercial en cours post-levée Ardian
-- Orientations stratégiques : lancement commercial Jotunn8 ; montée en gamme vers marchés datacenter cloud souverain UE ; dimension franco-allemande (SPRIND)
+- Financement : EIC Fund (EU, montant n.d.) ; Omnes Capital (antérieur) ; levée growth 01/07/2026 menée par Ardian Semiconductor + Otium Capital, rejoints par XAnge, NJJ Capital (Xavier Niel), Capgemini via ISAI Cap Venture, CloudHQ, SPRIND (DE) — montant non divulgué ; investissement minoritaire Ardian Semiconductor confirmé closé ~10/08/2026 (evertiq.com, PE Hub) ; prépare une levée plus importante en 2027
+- Produits : Jotunn8 — accélérateur IA inférence pour datacenters (concurrent indirecte GPU NVIDIA sur marché inférence) ; présenté TSMC Europe Technology Symposium mai 2026 ; en fabrication
+- Orientations stratégiques : lancement commercial Jotunn8 ; montée en gamme vers marchés datacenter cloud souverain UE ; dimension franco-allemande (SPRIND) ; partenariat Île-de-France Région + Scaleway + ZML (18/06/2026) pour socle chips UE prochaine génération
 - À surveiller : montant levée 2027 ; premiers contrats Jotunn8 ; positionnement CADA / cloud souverain EU
+
+---
+
+## Harmattan AI (France, drones IA / défense)
+- Dernière MAJ : 18/08/2026
+- Fondation : 2024, Paris ; première licorne française de la défense
+- Financement : Série B $200 M (janvier 2026, Dassault Aviation lead) ; DGA commandes cumulées 6 000 drones Delco (juillet 2026)
+- Produits : drone Delco (tactique, 1 300 unités/mois assemblées à Paris, livraisons armées FR et UK) ; **payload NAMIB** (guerre électronique embarqué sur drone — détection, identification, géolocalisation radar ennemi) en développement depuis janv. 2026
+- Contrats & partenariats : Dassault Aviation (partenariat stratégique janv. 2026 — intégration UCAS / Rafale F5 horizon 2030) ; DGA (6 000 Delco) ; British Military (1 000 Delco/mois en 2025)
+- Démonstrations : NAMIB — premier vol collaboratif homme-machine Rafale F4 × drone EW (13/07/2026, espace aérien français) : géolocalisation radar à plusieurs dizaines de km, transmission position pilote Rafale, simulation frappe ; annoncé GlobeNewswire / Jane's Defence
+- Orientations stratégiques : industrialisation (1 300 drones/mois, pivot production de masse) ; montée en gamme vers combat collaboratif manned-unmanned (NAMIB → SCAF) ; export Rafale users (programme Dassault)
+- À surveiller : intégration NAMIB sur Rafale F5 (2030) ; contrats export pays Rafale ; levée suivante ; commandes DGA supplémentaires
 
 ---
 
@@ -50,8 +62,8 @@
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 17/08/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (~2,1T params, fenêtre glissée vers **début-mi septembre** depuis ~21 août, données SpaceX intégrées [1 source] — aucune confirmation xAI)
+- Dernière MAJ : 18/08/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (~2,1T params, fenêtre début-mi sept., **données SpaceX confirmées par Musk Q2 SpaceX earnings 04/08/2026** — télémétrie + opérations Starship intégrées entraînement supplémentaire — aucune date xAI)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
 - À surveiller : Grok 4.7 release (début-mi sept.) ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
 
@@ -60,7 +72,7 @@
 ## Google DeepMind (USA, LLM/IA fondamentale)
 - Dernière MAJ : 17/08/2026
 - **Leadership (05/08/2026) :** Demis Hassabis quitte le rôle de CEO → Chairman de Google DeepMind + Chief Scientist d'Alphabet (continue Isomorphic Labs). Koray Kavukcuoglu (ex-CTO DeepMind, Alphabet Chief AI Architect) devient SVP Google DeepMind, rapporte à Sundar Pichai. Jeff Dean (27 ans Google, Chief Scientist) cofonde Discovery Loop avec Oriol Vinyals, Quoc Le, Sanjay Ghemawat. Alphabet −5 % sur la journée. Contexte : retards Gemini 3.5 Pro, pression OpenAI/Anthropic.
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 12e délai** (17/08, base model reconstruction confirmée par The Decoder) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 13e délai** (18/08, enterprise Vertex AI preview uniquement, base model reconstruction toujours en cours — aucune date officielle Google) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
 - Partenariats IA physique : Apptronik Apollo 2 (démo marche + manipulation bimanuelle) ; bras Sharpa
 - Orientations stratégiques : pivot vers exécution produit sous Kavukcuoglu (vs recherche fondamentale sous Hassabis) ; IA physique (Gemini Robotics 2) affirmée ; Hassabis vers AGI/stratégie Alphabet ; AI Mode + AI Overviews France (22/07/2026)
 - À surveiller : Gemini 3.5 Pro sortie (aucune date officielle) ; Gemini 4 annonce ; partenariats industriels Gemini Robotics 2 ; impact reorg sur roadmap ; recrutements post-Dean/Vinyals/Le/Ghemawat

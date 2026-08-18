@@ -181,4 +181,15 @@
 
 ---
 
+## 18/08/2026
+
+18/08 | IA industrielle/physique/FR | Harmattan AI × Dassault | NAMIB payload EW — démo en vol Rafale F4 (13/07) ; France 1re licorne défense ; $200M Série B (Dassault lead, janv. 2026) ; 6 000 drones DGA cumulés
+18/08 | privé/mondial | Gemini 3.5 Pro | 13e délai confirmé 18/08 ; enterprise Vertex AI preview uniquement ; aucune date Google
+18/08 | privé/mondial | Grok 4.7 / xAI | Données SpaceX confirmées plusieurs sources (Musk Q2 SpaceX earnings) ; fenêtre début-mi sept. inchangée
+18/08 | privé/mondial | Anthropic IPO | S-1 public attendu sept. 2026 ; roadshow août-sept. ; listing Nasdaq cible oct. ; val. $1,05-1,15 T
+18/08 | infra/semi | VSORA + Ardian Semiconductor | Investissement minoritaire closé ~10/08/2026 (evertiq, PE Hub)
+18/08 | infra/semi | SiPearl Rhea1 | Bring-up démarré mai 2026 ; GA attendue fin 2026/déb. 2027 ; 61 Md transistors, 80 cores Arm Neoverse V1
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
