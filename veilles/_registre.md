@@ -192,4 +192,12 @@
 
 ---
 
+## 19/08/2026
+
+19/08 | infra/US | Stripe × OpenRouter | acquisition $7 Md+ (16-17/08) : gateway multi-modèles IA, 5,4× val. Series B ($1,3 Md) en 3 mois, infrastructure accès APIs IA centralisée US — enjeu résidence données EU/FR
+19/08 | privé/mondial | Gemini 3.5 Pro | 14e délai confirmé 19/08 ; enterprise Vertex AI preview uniquement ; aucune date Google ; reconstruction base model
+19/08 | privé/mondial | Grok 4.7 / xAI | Fenêtre précisée 2-9 sept. (Musk "3-4 semaines" le 12/08) vs "début-mi sept." du 18/08
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*

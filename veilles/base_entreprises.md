@@ -62,17 +62,28 @@
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 18/08/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (~2,1T params, fenêtre début-mi sept., **données SpaceX confirmées par Musk Q2 SpaceX earnings 04/08/2026** — télémétrie + opérations Starship intégrées entraînement supplémentaire — aucune date xAI)
+- Dernière MAJ : 19/08/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (~2,1T params, fenêtre **2-9 septembre 2026** précisée — Musk "3-4 semaines" depuis Grok 4.6 le 12/08 ; **données SpaceX confirmées** par Musk Q2 SpaceX earnings 04/08/2026 — télémétrie + opérations Starship intégrées entraînement supplémentaire — aucune date officielle xAI)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
 - À surveiller : Grok 4.7 release (début-mi sept.) ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
 
 ---
 
+## OpenRouter / Stripe (USA, infrastructure accès APIs IA)
+- Dernière MAJ : 19/08/2026
+- Statut : OpenRouter acquis par Stripe ; deal finalisé 16/08/2026
+- Valorisation acquisition : >$7 Md (5,4× Series B de $1,3 Md — mai 2026, Sequoia, a16z, Menlo Ventures, CapG)
+- Description OpenRouter : plateforme de routage d'APIs IA permettant d'accéder via une API unifiée à l'ensemble des grands modèles du marché (GPT, Claude, Gemini, Mistral, Qwen, Kimi, etc.) ; sélection automatique modèle/coût/latence
+- Rationale Stripe : intégrer le routage IA dans la stack de paiements pour capturer les flux financiers liés au passage en production des applications IA
+- Enjeu EU/FR : concentration infrastructure accès modèles IA sous plateforme US ; implications RGPD / AI Act sur les métadonnées d'usage ; alternatives EU à surveiller (Mistral Compute Regional Endpoints, Scaleway API)
+- À surveiller : closing définitif ; clauses de résidence des données dans le contrat UE ; concurrents EU (Mistral Platform, Scaleway IA) ; réaction régulateurs EU
+
+---
+
 ## Google DeepMind (USA, LLM/IA fondamentale)
-- Dernière MAJ : 17/08/2026
+- Dernière MAJ : 19/08/2026
 - **Leadership (05/08/2026) :** Demis Hassabis quitte le rôle de CEO → Chairman de Google DeepMind + Chief Scientist d'Alphabet (continue Isomorphic Labs). Koray Kavukcuoglu (ex-CTO DeepMind, Alphabet Chief AI Architect) devient SVP Google DeepMind, rapporte à Sundar Pichai. Jeff Dean (27 ans Google, Chief Scientist) cofonde Discovery Loop avec Oriol Vinyals, Quoc Le, Sanjay Ghemawat. Alphabet −5 % sur la journée. Contexte : retards Gemini 3.5 Pro, pression OpenAI/Anthropic.
-- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 13e délai** (18/08, enterprise Vertex AI preview uniquement, base model reconstruction toujours en cours — aucune date officielle Google) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
+- Produits / modèles : Gemini 3.6 Flash (21/07/2026) ; Gemini 3.5 Flash-Lite (21/07/2026) ; Gemini 3.5 Flash Cyber (21/07/2026) ; **Gemini 3.5 Pro : 14e délai** (19/08, enterprise Vertex AI preview uniquement, base model reconstruction toujours en cours — aucune date officielle Google) ; Gemini 4 entraînement en cours ; **Gemini Robotics 2** (30/07/2026) — 3 modèles : VLA corps entier, embodied reasoning ER 2, on-device local (adaptation nouveau robot en quelques heures de données)
 - Partenariats IA physique : Apptronik Apollo 2 (démo marche + manipulation bimanuelle) ; bras Sharpa
 - Orientations stratégiques : pivot vers exécution produit sous Kavukcuoglu (vs recherche fondamentale sous Hassabis) ; IA physique (Gemini Robotics 2) affirmée ; Hassabis vers AGI/stratégie Alphabet ; AI Mode + AI Overviews France (22/07/2026)
 - À surveiller : Gemini 3.5 Pro sortie (aucune date officielle) ; Gemini 4 annonce ; partenariats industriels Gemini Robotics 2 ; impact reorg sur roadmap ; recrutements post-Dean/Vinyals/Le/Ghemawat
