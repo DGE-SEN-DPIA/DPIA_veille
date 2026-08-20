@@ -200,4 +200,13 @@
 
 ---
 
+## 20/08/2026
+
+20/08 | privé/mondial | SpaceXAI × Cursor | closing $60 Md (14/08, rattrapage manqué) + tentative Cognition (Devin) repoussée par CEO Wu (19/08, Bloomberg) — stack verticale AI engineering Musk : Grok + Cursor + Colossus + données SpaceX
+20/08 | privé/FR | Mistral × BMW + Airbus | rattrapage AI Now Summit 28/05 : Industrial Engineering AI, surrogate models crash simul. BMW, conception aéronautique Airbus 5 ans, EDF + CMA CGM clients fondateurs
+20/08 | privé/FR | Dust | rattrapage 18/05/2026 : Série B $40M Sequoia (Abstract) + Snowflake + Datadog ; >3 000 org. clientes, 41 000 MAU, >300 000 agents enterprise FR
+20/08 | privé/mondial | Gemini 3.5 Pro | 15e délai confirmé 20/08 ; reconstruction base model ; aucune date Google
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*

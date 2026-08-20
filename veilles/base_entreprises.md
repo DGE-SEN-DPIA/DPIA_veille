@@ -8,10 +8,11 @@
 - Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; Série D en cours : cible €3 Md / val. €20 Md (non clôturée) — investisseurs confirmés en discussion : EQT (Scaleup Europe Fund €5 Md), Samsung (€1 Md, discussions avancées Axios 22/07), ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
 - ARR : >$400 M (début 2026), trajectoire >$1 Md fin 2026
 - Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS ; **Shieldstral** (04/08/2026, 3B, multimodal texte+images, Apache 2.0, 12 langues, 16 Go VRAM — classificateur sécurité politique-adaptive, SOTA modération multimodale, AI Act Art. 13)
-- Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; coalition computing EU : ASML + CMA CGM + Amadeus (ECUs multi-annuels, 200 MW fin 2027, 1 GW fin 2030 — 11/08/2026) ; Caisse des Dépôts (partenariat stratégique, 19 filiales, mai 2026)
+- Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; coalition computing EU : ASML + CMA CGM + Amadeus (ECUs multi-annuels, 200 MW fin 2027, 1 GW fin 2030 — 11/08/2026) ; Caisse des Dépôts (partenariat stratégique, 19 filiales, mai 2026) ; **Airbus** (partenariat 5 ans IA industrielle, 28/05/2026 — documentation technique, simulation aéronautique, IA edge, cybersécurité défense) ; **BMW** (accord surrogate models crash simulations, 28/05/2026 — archive simulation → modèle → réponse secondes vs heures) ; EDF + CMA CGM (clients fondateurs Industrial Engineering AI, 28/05/2026)
 - Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
-- Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible)
-- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis ; premiers contrats Priority Tier avec administrations ; expansion coalition EU (membership suivant après ASML/CMA CGM/Amadeus)
+- Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible) ; **IA industrielle** (surrogate models simulation physique, partenariats Airbus/BMW/EDF — alternative souveraine aux stacks US dans les grandes filières industrielles FR/EU)
+- Dernière MAJ : 20/08/2026
+- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis (Q3 2026) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus
 
 ---
 
@@ -272,6 +273,29 @@
 - Produits : Plateforme d'observabilité **BYOC** (*bring your own cloud*) pour agents IA en production. Les données de télémétrie (logs, traces, métriques) restent dans le cloud du client (Azure, AWS, GCP, cloud souverain) — aucun transfert vers Tsuga. Cas d'usage : contrôle des coûts, scalabilité, débogage des agents IA. Clients : Le Monde, Camunda, Black Forest Lab.
 - Positionnement souveraineté : BYOC nativement compatible SecNumCloud et résidence des données AI Act. Databricks Ventures = signal de la convergence infra-data-IA agentique.
 - À surveiller : adoption administrations françaises (ARIANE, DINUM) ; expansion EU ; intégration stack souveraine (Mistral + Scaleway + Tsuga) ; levée Série B.
+
+---
+
+## SpaceXAI / Cursor (USA, IA coding / infrastructure engineering)
+- Dernière MAJ : 20/08/2026
+- Entité mère : SpaceX (Elon Musk) — rebrandé « SpaceXAI » après fermeture de l'acquisition Cursor
+- **Cursor (Anysphere) :** IDE IA créé 2022, San Francisco. Acquisition SpaceX annoncée juin 2026, **closing officiel 14/08/2026**, règlement en actions (391 M actions SpaceX Class A), valorisation acquisition **$60 milliards** — plus grande acquisition startup de l'histoire.
+- **Cognition (Devin) :** SpaceX a approché Cognition ($26 Md en mai 2026, discussions $40 Md) le 19/08/2026. CEO Scott Wu a repoussé l'offre (rebuffé, « Cognition n'est pas à vendre »). Discussions compute potentielles en cours.
+- Infrastructure : accès au supercomputer **Colossus** (Memphis, 200 000 GPU Vera Rubin) pour Cursor/SpaceXAI
+- Stack verticale AI engineering : Grok (LLM) + Cursor (IDE IA) + Colossus (compute) + données SpaceX/Starship/Falcon intégrées entraînement Grok 4.7
+- Enjeu EU/FR : organisations utilisant Cursor passent sous extraterritorialité US (CLOUD Act, TRAINS). Alternative EU à surveiller : Continue (open-source), Mistral Code (preview), JetBrains AI
+- À surveiller : déploiement Grok Bot dans Cursor ; potentiel mouvement acquisition Cognition ou autre AI coding tool ; réponse CNIL/RGPD sur Cursor EU ; alternatives souveraines
+
+---
+
+## Dust (France, agents IA enterprise)
+- Dernière MAJ : 20/08/2026
+- Fondation : Paris, 2023. Fondateurs : Gabriel Hubert (ex-Product) + Stanislas Polu (ex-OpenAI Research).
+- Financement : Seed (2024, montant n.d.) ; **Série B $40M** (18/05/2026, Sequoia via Abstract lead, Snowflake, Datadog) — total levé >$60M.
+- Produits : Plateforme agents enterprise « multiplayer AI » — workspace partagé humains/agents IA pour équipes ops, sales, marketing, support. Agents self-learning + gouvernance data enterprise intégrée.
+- Traction : >3 000 organisations clientes, 41 000 MAU (avril 2026), >300 000 agents déployés. Clients cités : Mirakl, Spendesk, Pennylane.
+- Positionnement souveraineté : BYOC possible ; compatible stack souveraine (Mistral + Scaleway + Tsuga). Databricks Ventures notable absence (comparé à Tsuga) mais Snowflake = signal data enterprise.
+- À surveiller : adoption administrations françaises (ARIANE/DINUM) ; integration Mistral Large nativement ; levée Série C ; expansion EU.
 
 ---
 
