@@ -254,4 +254,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 10/08/2026 | PRIVÉE-MONDE | Gemini 3.5 Pro 7e délai | fuite 12/08 (NPowerUser, 1 source) — non confirmé Google | [SUITE de 04/08]
 10/08/2026 | ACADÉMIQUE | Palo Alto NOVA Black Hat | 14090 vulnérabilités autonomes (3915 projets, 99,4% inconnues, 40% H/C) — présenté Black Hat 06/08 | [NOUVEAU]
 10/08/2026 | PUBLIQUE-EU | EuroHPC AI Gigafactories | deadline candidatures 12/11/2026 (pas « fin 2026 ») ; sélection début 2027 ; AION candidature déposée | [SUITE de 22/06]
+21/08/2026 | PRIVÉE-MONDE | Anthropic IPO | Bloomberg 20/08 : S-1 public « avant fin août » ; cible ≥$1T matching SpaceX ; ARR $65 Md (juillet) Bloomberg 17/08 ; Q2 2026 revenue $11,5 Md (+14×) Bloomberg 14/08 ; premier résultat opérationnel ajusté positif | [SUITE de 21/07]
+21/08/2026 | ACADÉMIQUE | NeurIPS 2026 workshops | annoncé 10/08 : 102 workshops (454 soumis, 22,5%) ; Sydney/Paris/Atlanta ; 4 workshops world models / IA physique (Robot Learning WM, World Models in Physical AI, Continual WM, Physical Understanding for DM) | [NOUVEAU]
+21/08/2026 | PRIVÉE-MONDE | Grok 4.7 xAI SpaceXAI | 2,1T params, fenêtre 2–9 septembre ; specs confirmées par Musk ; variable Colossus/SpaceXAI non résolue | [SUITE de 20/08]
+21/08/2026 | PRIVÉE-MONDE | OpenAI Astra | toujours sans date sortie ; Polymarket 18% avant 31/08, 72% avant fin 2026 ; développement ralenti safeguards cybersécurité | [SUITE de 10/08]
+21/08/2026 | ACADÉMIQUE | ToolHazard arXiv sem.18-21/08 | framework adversarial scalable pour évaluation/alignement agents LLM vs prompt injections indirectes ; trending HF Papers | [NOUVEAU]
+21/08/2026 | ACADÉMIQUE | FreeToken arXiv UC Berkeley 17/08 | serving edge-native LLM/MoE open-weight sur hardware hétérogène ; pertinent déploiement souverain on-premise | [NOUVEAU]
 
