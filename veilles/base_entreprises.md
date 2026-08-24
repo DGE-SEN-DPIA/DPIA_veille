@@ -46,7 +46,8 @@
 - Contrats & partenariats : Ode JV ($1,5 Md, Blackstone + H&F + Goldman + GA + Leonard Green, 15/07/2026, 100 ingénieurs forward-deployed) ; DINUM/MEAE via Albert API (indirect Mistral)
 - Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse ; Dario Amodei co-signe la pétition "Pacing the Frontier" (28/07/2026) avec 1100+ employés — Anthropic approuve officiellement la pétition
 - **Watermarking C2PA (11/08/2026) :** Déploiement mondial de filigranes invisibles sur toutes les sorties Claude (texte + fichiers C2PA) depuis le 02/08/2026 — conformité AI Act Art. 50 (Transparency Code). Tous produits concernés (API, plateforme, Claude Code, Cowork, Tag). Filigrane résistant au copier-coller, partiellement résistant à l'édition légère. Premier grand lab frontier à déployer effectivement. Google, Meta, Microsoft, OpenAI s'engagent en parallèle.
-- À surveiller : IPO Nasdaq (S-1 public attendu août-septembre 2026) ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08 ; réponse gouvernementale à la pétition pacing
+- **S-1 public (24/08/2026) :** Délai auto-imposé Bloomberg "avant fin août" — pas de dépôt public EDGAR confirmé au 24/08. J-7 avant fin du mois. ARR run-rate $65 Md (fin juillet 2026 — Bloomberg 17/08), Q2 revenue $11,5 Md (+14,6× YoY), 1er résultat opérationnel ajusté positif confirmé.
+- À surveiller : dépôt S-1 public EDGAR (avant 31/08/2026) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08
 
 ---
 
@@ -151,12 +152,13 @@
 ---
 
 ## NVIDIA (USA, semi-conducteurs IA)
-- Dernière MAJ : 27/07/2026
+- Dernière MAJ : 24/08/2026
 - Produits : GPU Vera Rubin (B300/GB300 NVL72) — principal actionnaire compute IA mondial
 - Partenariats/contrats : FRONTia Japon (16/07/2026, 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/5 ans, Noetra) ; SK Group (24/07/2026, $500 Md+ IA infrastructure, opérationnel 2027) ; NAVER + Brookfield Corée (24/07/2026, AI factory 200 MW, 3× déploiement initial) ; Gradium extension seed €30M (09/07/2026) ; Bull/Foxconn/Atos assemblage Vera Rubin NVL72 à Angers (17/06/2026 VivaTech)
 - Part de marché : ~80 % GPU IA par revenus ; datacenter revenue FY2026 $193,7 Md
 - Jensen Huang : débuts sur X (24-25/07/2026) — plaide pour modèles ouverts comme "essentiels à la sécurité, innovation et souveraineté"
-- À surveiller : Blackwell Ultra → Vera Rubin → Feynman roadmap ; débats open vs. closed models dans contexte sécurité UE
+- **Q2 FY27 (26/08/2026) :** Résultats attendus mercredi 26/08/2026, 17h ET. Consensus analytistes : ~$28,7 Md CA total / $31-33 Md datacenter selon intellectia.ai — ⚠️ contradiction avec $91 Md cité dans les veilles du 14/08 et 20/08 (même source). Guidance officielle NVIDIA pour Q2 FY27 : ~$45 Md ±2 % — fait référence jusqu'au 26/08.
+- À surveiller : résultats Q2 FY27 (26/08/2026) — signal capex datacenter EU ; Blackwell Ultra → Vera Rubin → Feynman roadmap ; débats open vs. closed models dans contexte sécurité UE
 
 ---
 
@@ -192,12 +194,14 @@
 ---
 
 ## Meta AI / Meta Superintelligence Labs (USA, LLM open-weight)
-- Dernière MAJ : 11/08/2026
+- Dernière MAJ : 24/08/2026
 - Direction MSL : Alexandr Wang (Chief AI Officer, ex-Scale AI)
-- Produits / modèles : Muse Glimmer (10/08/2026) — 30B dense multimodal, Apache 2.0, 18-20 Go VRAM avec quantisation 4-bit (depuis 55 Go), entraîné via distillation logit + données long-contexte agentiques + RL ; spécialisé tâches agentiques (coding, function calling, LLM-as-judge) ; exécutable sur GPU consumer 24/32 Go, PC, Mac
-- Licence : Apache 2.0 — sans restriction d'usage, pas de licence commerciale
+- Produits / modèles :
+  - Muse Spark 1.2 (05/08/2026) — modèle phare coding, 1M contexte, closed (API uniquement, $1,25/M tokens input) ; **Zuckerberg annonce open-sourcing "coming soon" le 10/08** via déclaration publique (note : le Chief AI Officer Wang avait exclu l'open-sourcing en mai 2026) — poids ouverts toujours en attente au 24/08/2026, sans date précise
+  - Muse Glimmer (10/08/2026) — 30B dense multimodal, Apache 2.0, 18-20 Go VRAM avec quantisation 4-bit ; agents agentiques coding/function-calling/LLM-as-judge
+- Licence : Apache 2.0 pour Glimmer ; Spark 1.2 propriétaire (open-weight à venir)
 - Positionnement : contre Kimi K3 (open-weight 2,8T MoE) et modèles propriétaires (GPT-5.6, Fable 5, Gemini 3.5 Pro) ; stratégie open-source affirmée par Zuckerberg avec appel au retrait des restrictions gouvernementales US
-- À surveiller : benchmarks tiers Muse Glimmer vs Kimi K3 / Llama ; adoption administrations EU ; suite roadmap MSL
+- À surveiller : release poids ouverts Muse Spark 1.2 (attendus imminents, sans date) ; benchmarks Glimmer vs Kimi K3 ; adoption administrations EU
 
 ---
 

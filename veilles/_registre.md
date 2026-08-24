@@ -209,4 +209,22 @@
 
 ---
 
+## 21/08/2026
+
+21/08 | privé/mondial | Anthropic IPO | S-1 public non déposé au 21/08 ; ARR $65 Md (Bloomberg 17/08), Q2 $11,5 Md (+14×), 1er résultat opérationnel ajusté positif ; dépôt attendu avant fin août
+21/08 | recherche | NeurIPS 2026 workshops | 102 acceptés sur 454 (22,5 %) — Sydney/Paris/Atlanta ; 4 workshops world models / IA physique
+21/08 | privé/mondial | Gemini 3.5 Pro | 15e délai confirmé 21/08 ; reconstruction base model ; Vertex AI enterprise preview uniquement
+21/08 | privé/mondial | Grok 4.7 | 2,1T params ; fenêtre 2-9 sept. inchangée ; données SpaceX confirmées
+
+---
+
+## 24/08/2026
+
+24/08 | réglementation/FR | CNIL AI Act Art. 50 | 3 des 14 établissements financiers ont demandé prorogation — refusée par CNIL [date non confirmée 22-24/08] ; réponses attendues ~03/09
+24/08 | politique/FR | Shadow IA FP | Enquête ARIANE début 2026 (2 000 agents, 9 admin.) : 89 % utilisent l'IA, 55 % hors cadre formel — distinct rapport IGAS/IGF 02/07
+24/08 | privé/mondial | Meta Muse Spark 1.2 | open weights promis "coming soon" 10/08 (Zuckerberg) — toujours en attente 24/08
+24/08 | infra/semi | NVIDIA Q2 FY27 | J-2 (26/08) — consensus $28,7 Md / $31-33 Md datacenter [source intellectia.ai, ⚠️ contradiction $91 Md noté 14/08] ; guidance officielle ~$45 Md fait référence
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
