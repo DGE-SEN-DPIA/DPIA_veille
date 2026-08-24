@@ -20,4 +20,12 @@
 
 ---
 
+## 24/08/2026
+
+| Date | Étape | Description | Statut |
+|------|-------|-------------|--------|
+| 24/08/2026 | Envoi Tchap (étape 4) | `scripts/send_tchap.py` a terminé avec les mêmes avertissements "Megolm/Olm session missing" (2 401 lignes, aucun Python Exception ni confirmation d'envoi). Pattern identique aux 31/07 et 21/08 — problème persistant non résolu. | Non résolu — commit repo `b2eab34` sur `main` est la source de vérité. Note disponible à https://github.com/DGE-SEN-DPIA/DPIA_veille/blob/main/veilles/2026-08-24.md |
+
+---
+
 *Créé le 31/07/2026*
