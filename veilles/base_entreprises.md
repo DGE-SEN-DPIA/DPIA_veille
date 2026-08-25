@@ -46,8 +46,10 @@
 - Contrats & partenariats : Ode JV ($1,5 Md, Blackstone + H&F + Goldman + GA + Leonard Green, 15/07/2026, 100 ingénieurs forward-deployed) ; DINUM/MEAE via Albert API (indirect Mistral)
 - Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse ; Dario Amodei co-signe la pétition "Pacing the Frontier" (28/07/2026) avec 1100+ employés — Anthropic approuve officiellement la pétition
 - **Watermarking C2PA (11/08/2026) :** Déploiement mondial de filigranes invisibles sur toutes les sorties Claude (texte + fichiers C2PA) depuis le 02/08/2026 — conformité AI Act Art. 50 (Transparency Code). Tous produits concernés (API, plateforme, Claude Code, Cowork, Tag). Filigrane résistant au copier-coller, partiellement résistant à l'édition légère. Premier grand lab frontier à déployer effectivement. Google, Meta, Microsoft, OpenAI s'engagent en parallèle.
-- **S-1 public (24/08/2026) :** Délai auto-imposé Bloomberg "avant fin août" — pas de dépôt public EDGAR confirmé au 24/08. J-7 avant fin du mois. ARR run-rate $65 Md (fin juillet 2026 — Bloomberg 17/08), Q2 revenue $11,5 Md (+14,6× YoY), 1er résultat opérationnel ajusté positif confirmé.
-- À surveiller : dépôt S-1 public EDGAR (avant 31/08/2026) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08
+- **S-1 public (25/08/2026) :** Toujours non déposé sur EDGAR au 25/08. J-6 avant 31/08. ARR run-rate $65 Md (fin juillet 2026 — Bloomberg 17/08), Q2 revenue $11,5 Md (+14,6× YoY), 1er résultat opérationnel ajusté positif confirmé.
+- **Chips interne (05/08/2026) :** Équipe interne de conception de semi-conducteurs constituée (profils hybrides hardware/software). Co-design chips + modèles Claude. Cible : −50 % des coûts d'inférence par token. Partenariats maintenus avec AWS, Google, NVIDIA, AMD. Accord long terme Google/Broadcom : ~3,5 GW de capacité TPU à partir de 2027. Vétéran hardware Google recruté. Aucun calendrier de fabrication propriétaire. (Sources : Quartz/Yahoo Finance ; Forbes 06/08 ; TechTimes 05/08)
+- Dernière MAJ : 25/08/2026
+- À surveiller : dépôt S-1 public EDGAR (avant 31/08/2026) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08 ; chip team premières embauches / roadmap silicon
 
 ---
 
@@ -300,6 +302,18 @@
 - Traction : >3 000 organisations clientes, 41 000 MAU (avril 2026), >300 000 agents déployés. Clients cités : Mirakl, Spendesk, Pennylane.
 - Positionnement souveraineté : BYOC possible ; compatible stack souveraine (Mistral + Scaleway + Tsuga). Databricks Ventures notable absence (comparé à Tsuga) mais Snowflake = signal data enterprise.
 - À surveiller : adoption administrations françaises (ARIANE/DINUM) ; integration Mistral Large nativement ; levée Série C ; expansion EU.
+
+---
+
+## UMA (France, robotique humanoïde)
+- Dernière MAJ : 25/08/2026
+- Fondation : Paris, stealth depuis ~mi-2025, sortie stealth décembre 2025, annonce publique 07/07/2026
+- Fondateurs : Rémi Cadène (CEO, ex-Tesla Optimus AI team ~3 ans ; ex-Hugging Face — créateur de LeRobot, bibliothèque robotique open-source 12 000 GitHub stars) ; Simon Alibert (ex-Hugging Face ingénieur) ; Rob Knight (designer robotique)
+- Financement : $40M seed (date et investisseurs non publiés) [1 source Bloomberg]
+- Produits : **Northstar** — robot humanoïde léger, conçu pour environnements non-structurés réels (logistique, manufacturing, santé). Thèse : manipulation et navigation dans des cadres désordonnés vs. démos scénarisées.
+- Pipeline commercial : 50 entreprises en discussion pour des pilotes 2026 (logistique, manufacturing, santé)
+- Orientations stratégiques : pari EU — UMA croit que l'Europe est le premier marché pour les humanoïdes pratiques (avant US) ; ancrage sur un corpus open-source (LeRobot) comme avantage différentiel pour attirer les chercheurs et partenaires EU
+- À surveiller : clôture des pilotes 2026 ; levée Série A ; partenariats industriels FR/EU (liens potentiels AION / Kyutai / HuggingFace) ; recrutements hardware
 
 ---
 

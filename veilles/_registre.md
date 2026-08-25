@@ -227,4 +227,13 @@
 
 ---
 
+## 25/08/2026
+
+25/08 | privé/mondial | OpenAI / ChatGPT Ads EU | Lancement publicité contextuelle 31 pays EU dont FR le 24/08 (comptes Free/Go) — enjeu RGPD/AI Act Art. 13, aucun accord droits voisins FR annoncé
+25/08 | infra/semi | NVIDIA Q2 FY27 | ✅ Résolution contradiction : $91 Md est bien la guidance trimestrielle (pas annuelle) ; consensus analystes $93-95 Md ; résultats 26/08 après clôture US
+25/08 | privé/mondial | Anthropic chips | Rattrapage 05/08 : équipe chips interne constituée, co-design Claude, -50% coûts inférence visés, 3,5 GW TPU Google/Broadcom à partir de 2027
+25/08 | nouveaux entrants/FR | UMA (Paris) | Rattrapage 07/07/2026 : Rémi Cadène (ex-Tesla Optimus, ex-HF LeRobot), Northstar humanoïde EU, $40M seed, 50 clients en discussion
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
