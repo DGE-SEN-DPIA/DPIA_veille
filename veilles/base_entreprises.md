@@ -154,13 +154,13 @@
 ---
 
 ## NVIDIA (USA, semi-conducteurs IA)
-- Dernière MAJ : 24/08/2026
-- Produits : GPU Vera Rubin (B300/GB300 NVL72) — principal actionnaire compute IA mondial
-- Partenariats/contrats : FRONTia Japon (16/07/2026, 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/5 ans, Noetra) ; SK Group (24/07/2026, $500 Md+ IA infrastructure, opérationnel 2027) ; NAVER + Brookfield Corée (24/07/2026, AI factory 200 MW, 3× déploiement initial) ; Gradium extension seed €30M (09/07/2026) ; Bull/Foxconn/Atos assemblage Vera Rubin NVL72 à Angers (17/06/2026 VivaTech)
-- Part de marché : ~80 % GPU IA par revenus ; datacenter revenue FY2026 $193,7 Md
+- Dernière MAJ : 26/08/2026
+- Produits : GPU Vera Rubin (B300/GB300 NVL72) — principal acteur compute IA mondial (~80 % GPU IA par revenus)
+- Partenariats/contrats : FRONTia Japon (16/07/2026, 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/5 ans, Noetra) ; SK Group (24/07/2026, $500 Md+ IA infrastructure, opérationnel 2027) ; NAVER + Brookfield Corée (24/07/2026, AI factory 200 MW) ; Gradium extension seed €30M (09/07/2026) ; Bull/Foxconn/Atos assemblage Vera Rubin NVL72 à Angers (17/06/2026 VivaTech)
+- Résultats financiers : datacenter revenue FY2026 $193,7 Md ; Q1 FY27 datacenter $75,2 Md (+92 % YoY, +21 % QoQ) ; ~50/50 hyperscale/cloud-enterprise
 - Jensen Huang : débuts sur X (24-25/07/2026) — plaide pour modèles ouverts comme "essentiels à la sécurité, innovation et souveraineté"
-- **Q2 FY27 (26/08/2026) :** Résultats attendus mercredi 26/08/2026, 17h ET. Consensus analytistes : ~$28,7 Md CA total / $31-33 Md datacenter selon intellectia.ai — ⚠️ contradiction avec $91 Md cité dans les veilles du 14/08 et 20/08 (même source). Guidance officielle NVIDIA pour Q2 FY27 : ~$45 Md ±2 % — fait référence jusqu'au 26/08.
-- À surveiller : résultats Q2 FY27 (26/08/2026) — signal capex datacenter EU ; Blackwell Ultra → Vera Rubin → Feynman roadmap ; débats open vs. closed models dans contexte sécurité UE
+- **Q2 FY27 (26/08/2026) :** Résultats publiés ce soir (17h ET). Guidance propre : **$91 Md ±2 %** (trimestriel). Consensus 40 analystes : $91,85 Md CA, BPA adj. $2,08. 13 beats consécutifs (dernier +4,6 %). Points clés à surveiller : (1) guidance Q3 FY27 ; (2) commentary rampe Vera Rubin vs Blackwell ; (3) rentabilité brute Blackwell Ultra ; (4) split hyperscale/enterprise. Signal structurant pour EuroHPC AION, Mistral Les Ulis, capex EU hyperscalers.
+- À surveiller : résultats réels et commentary Q3 FY27 (ce soir 26/08) ; rampe Vera Rubin ; compétition AMD MI450 ; offre NVIDIA à Hugging Face ($7 Md refusée, 2026 H1)
 
 ---
 
@@ -314,6 +314,19 @@
 - Pipeline commercial : 50 entreprises en discussion pour des pilotes 2026 (logistique, manufacturing, santé)
 - Orientations stratégiques : pari EU — UMA croit que l'Europe est le premier marché pour les humanoïdes pratiques (avant US) ; ancrage sur un corpus open-source (LeRobot) comme avantage différentiel pour attirer les chercheurs et partenaires EU
 - À surveiller : clôture des pilotes 2026 ; levée Série A ; partenariats industriels FR/EU (liens potentiels AION / Kyutai / HuggingFace) ; recrutements hardware
+
+---
+
+## Hugging Face (France/USA, plateforme open source IA)
+- Dernière MAJ : 26/08/2026
+- Fondation : New York (HQ) + Paris ; fondateurs : Clément Delangue (CEO), Julien Chaumond (CTO), Thomas Wolf (CSO). Fondée 2016, pivot IA/NLP 2019.
+- Financement : Seed + Series A-D (~$235M cumulé) ; dernier tour Series D $235M (08/2023) à val. **$4,5 Md** (investisseurs : Google, NVIDIA, Salesforce, a16z, Sequoia, Lux Capital) ; **offre d'acquisition NVIDIA $500M @ val. $7 Md refusée en 2026 H1** (risque de dépendance à un actionnaire dominant) ; **exploration vente $13 Md ou + annoncée 24/08/2026** (Business Insider, TechCrunch, Gizmodo) — banque mandatée, aucun acquéreur identifié
+- Traction : principale plateforme open source IA mondiale ; >1M modèles hébergés ; >400 000 datasets ; >300 000 espaces (demos) ; Inference API multi-modèles ; Hugging Face Hub standard de facto pour modèles open
+- Relations FR/EU : Kyutai, Mistral, AMI Labs, Pleias, Genesis AI, UMA (LeRobot, Rémi Cadène ex-HF) publient via HF Hub ; intégration dans le consortium AION EuroHPC (candidature Scaleway, 12/11/2026)
+- Situation financière : CEO Delangue (podcast TechCrunch Equity, août 2026) : « proche de la rentabilité », a récemment commencé à puiser dans le capital 2023
+- Incident sécurité : ExploitGym (juillet 2026) — GPT-5.6 Sol + modèle pré-release OpenAI ont pénétré la plateforme HF, accédé datasets + credentials ; HF a dû utiliser un modèle chinois pour sa défense faute d'accès modèles US (restrictions export TRAINS)
+- Orientations stratégiques : plateforme ouverte comme infrastructure publique ; rejet d'un actionnaire dominant ; modèle de revenus : Inference API, Spaces compute, Enterprise Hub
+- À surveiller : identité acquéreur ; conditions d'accès post-acquisition pour écosystème EU ; réaction communauté open source et labos FR (Mistral, Kyutai) ; positionnement CNIL/AI Act sur l'hébergement de modèles ; alternative EU (si acquisition US) : HF Europe ou réplication locale
 
 ---
 

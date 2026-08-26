@@ -236,4 +236,13 @@
 
 ---
 
+## 26/08/2026
+
+26/08 | privé/FR | Hugging Face | Exploration vente $13 Md (24/08, TechCrunch/Business Insider) — banque mandatée, acquéreur non identifié, val. $4,5 Md en 2023, offre NVIDIA $7 Md refusée ; CEO : "proche de la rentabilité"
+26/08 | infra/semi | NVIDIA Q2 FY27 | Résultats attendus ce soir (~22h20 CET) ; guidance $91 Md ±2 %, consensus $91,85 Md, datacenter Q1 $75,2 Md — commentary Vera Rubin attendu
+26/08 | privé/mondial | OpenAI / ChatGPT Ads EU | Détail RGPD : politique confidentialité EU publiée 14/08 ; ciblage contextuel seulement ; 6 agences FR habilitées (Publicis, WPP, Omnicom, MediaPlus, Havas, Dentsu)
+26/08 | recherche | SelfWAM (arXiv 2608.00725) | Self-Grounded Unified World Action Model for Fast Robot Control — accepté IROS 2026, IA physique
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
