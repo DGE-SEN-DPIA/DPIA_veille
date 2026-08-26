@@ -1,0 +1,7 @@
+
+---
+[2026-08-26] Échec envoi Tchap - note du 26/08/2026
+Erreur : ModuleNotFoundError: No module named '_cffi_backend' / PanicException pyo3_runtime
+Pattern identique aux échecs du 21/08, 24/08, 25/08.
+La note est disponible sur le repo : https://github.com/DGE-SEN-DPIA/DPIA_veille/tree/main/veilles/2026-08-26.md
+Le commit repo reste la source de vérité.
