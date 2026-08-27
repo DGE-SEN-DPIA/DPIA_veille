@@ -11,8 +11,9 @@
 - Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; coalition computing EU : ASML + CMA CGM + Amadeus (ECUs multi-annuels, 200 MW fin 2027, 1 GW fin 2030 — 11/08/2026) ; Caisse des Dépôts (partenariat stratégique, 19 filiales, mai 2026) ; **Airbus** (partenariat 5 ans IA industrielle, 28/05/2026 — documentation technique, simulation aéronautique, IA edge, cybersécurité défense) ; **BMW** (accord surrogate models crash simulations, 28/05/2026 — archive simulation → modèle → réponse secondes vs heures) ; EDF + CMA CGM (clients fondateurs Industrial Engineering AI, 28/05/2026)
 - Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
 - Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible) ; **IA industrielle** (surrogate models simulation physique, partenariats Airbus/BMW/EDF — alternative souveraine aux stacks US dans les grandes filières industrielles FR/EU)
-- Dernière MAJ : 20/08/2026
-- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis (Q3 2026) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus
+- **Agentic Search (20/08/2026) :** Lancement d'une couche de retrieval multi-step propriétaire. Le système permet à un agent IA de naviguer, lire et vérifier des documents complexes (rapports financiers, contrats, manuels) en plusieurs itérations. Précision annoncée : 86 % sur documents financiers. Disponible via Search Toolkit & Libraries. Produit B2B clé pour clients industriels (finance, juridique, ingénierie) et administrations — complémentaire aux partenariats BMW/Airbus/EDF.
+- Dernière MAJ : 27/08/2026
+- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis (Q3 2026) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search dans la filière financière et administration FR
 
 ---
 
@@ -46,9 +47,9 @@
 - Contrats & partenariats : Ode JV ($1,5 Md, Blackstone + H&F + Goldman + GA + Leonard Green, 15/07/2026, 100 ingénieurs forward-deployed) ; DINUM/MEAE via Albert API (indirect Mistral)
 - Orientations stratégiques : passage du modèle API au modèle d'intégration profonde (forward deployed engineers) ; IPO octobre 2026 ; gamme étagée Opus 5 / Sonnet 5 / Fable 5 avec price discrimination effort/vitesse ; Dario Amodei co-signe la pétition "Pacing the Frontier" (28/07/2026) avec 1100+ employés — Anthropic approuve officiellement la pétition
 - **Watermarking C2PA (11/08/2026) :** Déploiement mondial de filigranes invisibles sur toutes les sorties Claude (texte + fichiers C2PA) depuis le 02/08/2026 — conformité AI Act Art. 50 (Transparency Code). Tous produits concernés (API, plateforme, Claude Code, Cowork, Tag). Filigrane résistant au copier-coller, partiellement résistant à l'édition légère. Premier grand lab frontier à déployer effectivement. Google, Meta, Microsoft, OpenAI s'engagent en parallèle.
-- **S-1 public (25/08/2026) :** Toujours non déposé sur EDGAR au 25/08. J-6 avant 31/08. ARR run-rate $65 Md (fin juillet 2026 — Bloomberg 17/08), Q2 revenue $11,5 Md (+14,6× YoY), 1er résultat opérationnel ajusté positif confirmé.
+- **S-1 public (27/08/2026) :** Toujours non déposé sur EDGAR au 27/08. ARR run-rate $65 Md (fin juillet 2026 — Bloomberg 17/08), Q2 revenue $11,5 Md (+14,6× YoY), 1er résultat opérationnel ajusté positif confirmé. Valorisation projetée post-IPO par analystes : $1,75–1,85 T (vs $965 Md Series H). Risk factor « AI backlash » sera inscrit dans le prospectus — premier grand lab frontier à formaliser ce risque (CNBC 21/08).
 - **Chips interne (05/08/2026) :** Équipe interne de conception de semi-conducteurs constituée (profils hybrides hardware/software). Co-design chips + modèles Claude. Cible : −50 % des coûts d'inférence par token. Partenariats maintenus avec AWS, Google, NVIDIA, AMD. Accord long terme Google/Broadcom : ~3,5 GW de capacité TPU à partir de 2027. Vétéran hardware Google recruté. Aucun calendrier de fabrication propriétaire. (Sources : Quartz/Yahoo Finance ; Forbes 06/08 ; TechTimes 05/08)
-- Dernière MAJ : 25/08/2026
+- Dernière MAJ : 27/08/2026
 - À surveiller : dépôt S-1 public EDGAR (avant 31/08/2026) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08 ; chip team premières embauches / roadmap silicon
 
 ---
@@ -154,13 +155,14 @@
 ---
 
 ## NVIDIA (USA, semi-conducteurs IA)
-- Dernière MAJ : 26/08/2026
+- Dernière MAJ : 27/08/2026
 - Produits : GPU Vera Rubin (B300/GB300 NVL72) — principal acteur compute IA mondial (~80 % GPU IA par revenus)
 - Partenariats/contrats : FRONTia Japon (16/07/2026, 27 500 GPU Vera Rubin, 140 MW, ¥1 000 Md/5 ans, Noetra) ; SK Group (24/07/2026, $500 Md+ IA infrastructure, opérationnel 2027) ; NAVER + Brookfield Corée (24/07/2026, AI factory 200 MW) ; Gradium extension seed €30M (09/07/2026) ; Bull/Foxconn/Atos assemblage Vera Rubin NVL72 à Angers (17/06/2026 VivaTech)
 - Résultats financiers : datacenter revenue FY2026 $193,7 Md ; Q1 FY27 datacenter $75,2 Md (+92 % YoY, +21 % QoQ) ; ~50/50 hyperscale/cloud-enterprise
 - Jensen Huang : débuts sur X (24-25/07/2026) — plaide pour modèles ouverts comme "essentiels à la sécurité, innovation et souveraineté"
-- **Q2 FY27 (26/08/2026) :** Résultats publiés ce soir (17h ET). Guidance propre : **$91 Md ±2 %** (trimestriel). Consensus 40 analystes : $91,85 Md CA, BPA adj. $2,08. 13 beats consécutifs (dernier +4,6 %). Points clés à surveiller : (1) guidance Q3 FY27 ; (2) commentary rampe Vera Rubin vs Blackwell ; (3) rentabilité brute Blackwell Ultra ; (4) split hyperscale/enterprise. Signal structurant pour EuroHPC AION, Mistral Les Ulis, capex EU hyperscalers.
-- À surveiller : résultats réels et commentary Q3 FY27 (ce soir 26/08) ; rampe Vera Rubin ; compétition AMD MI450 ; offre NVIDIA à Hugging Face ($7 Md refusée, 2026 H1)
+- **Q2 FY27 résultats (26/08/2026) :** CA $96,2 Md (+106 % YoY, +18 % QoQ) — beat $91 Md guidance. Datacenter $89 Md (+117 % YoY, 93 % du CA). Hyperscalers $48,7 Md (×2 YoY) ; ACIE enterprise $40,3 Md (+138 % YoY). Marge brute 75 % au Q2. **Guidance Q3 : $108 Md ±2 %** — 1er trimestre guidé >$100 Md. Guidance marge brute Q3 74 % (Q4 : fond 71-72 %) — pression coûts mémoire supérieure aux attentes. Vera Rubin en production complète (CoreWeave, Google Cloud, Azure, Oracle Cloud, Nebius) — ~20 % du CA DC Q3. FY2028 guidance : +70 %, contraint par l'offre. Jensen Huang : « AI has reached its inflection point. » Action +4 % AH après réaction initiale négative sur guidance marge. (Sources : SEC 8-K, FinanceFeeds, 247WallSt, BigGo Finance)
+- **Acquisition Hugging Face (26/08/2026) :** NVIDIA est parvenu à un accord pour acquérir Hugging Face pour **$12,9 Md** (The Information, Reuters, Gizmodo). Deal toujours en cours de finalisation — peut encore échouer. NVIDIA avait précédemment proposé d'investir à $7 Md (refusé). Enjeu stratégique : contrôle du principal hub open source mondial (modèles, datasets, Spaces, Inference API). Risque antitrust EU (précédent Run:ai). Perte potentielle de neutralité plateforme pour AMD, TPU, puces EU (VSORA Jotunn8, SiPearl Rhea1).
+- À surveiller : closing définitif Hugging Face (conditions, cash/actions, clauses open access) ; examen antitrust EU DG COMP ; rampe Vera Rubin Q3 ; compétition AMD MI450 ; FY2028 supply constraints
 
 ---
 
@@ -318,15 +320,15 @@
 ---
 
 ## Hugging Face (France/USA, plateforme open source IA)
-- Dernière MAJ : 26/08/2026
+- Dernière MAJ : 27/08/2026
 - Fondation : New York (HQ) + Paris ; fondateurs : Clément Delangue (CEO), Julien Chaumond (CTO), Thomas Wolf (CSO). Fondée 2016, pivot IA/NLP 2019.
-- Financement : Seed + Series A-D (~$235M cumulé) ; dernier tour Series D $235M (08/2023) à val. **$4,5 Md** (investisseurs : Google, NVIDIA, Salesforce, a16z, Sequoia, Lux Capital) ; **offre d'acquisition NVIDIA $500M @ val. $7 Md refusée en 2026 H1** (risque de dépendance à un actionnaire dominant) ; **exploration vente $13 Md ou + annoncée 24/08/2026** (Business Insider, TechCrunch, Gizmodo) — banque mandatée, aucun acquéreur identifié
+- Financement : Seed + Series A-D (~$235M cumulé) ; dernier tour Series D $235M (08/2023) à val. **$4,5 Md** (investisseurs : Google, NVIDIA, Salesforce, a16z, Sequoia, Lux Capital) ; offre d'acquisition NVIDIA $500M @ val. $7 Md refusée en 2026 H1 (risque de dépendance à un actionnaire dominant) ; exploration vente $13 Md annoncée 24/08/2026 ; **accord d'acquisition NVIDIA $12,9 Md annoncé 26/08/2026 (The Information/Reuters)** — deal en cours de finalisation, peut encore échouer
 - Traction : principale plateforme open source IA mondiale ; >1M modèles hébergés ; >400 000 datasets ; >300 000 espaces (demos) ; Inference API multi-modèles ; Hugging Face Hub standard de facto pour modèles open
 - Relations FR/EU : Kyutai, Mistral, AMI Labs, Pleias, Genesis AI, UMA (LeRobot, Rémi Cadène ex-HF) publient via HF Hub ; intégration dans le consortium AION EuroHPC (candidature Scaleway, 12/11/2026)
 - Situation financière : CEO Delangue (podcast TechCrunch Equity, août 2026) : « proche de la rentabilité », a récemment commencé à puiser dans le capital 2023
 - Incident sécurité : ExploitGym (juillet 2026) — GPT-5.6 Sol + modèle pré-release OpenAI ont pénétré la plateforme HF, accédé datasets + credentials ; HF a dû utiliser un modèle chinois pour sa défense faute d'accès modèles US (restrictions export TRAINS)
-- Orientations stratégiques : plateforme ouverte comme infrastructure publique ; rejet d'un actionnaire dominant ; modèle de revenus : Inference API, Spaces compute, Enterprise Hub
-- À surveiller : identité acquéreur ; conditions d'accès post-acquisition pour écosystème EU ; réaction communauté open source et labos FR (Mistral, Kyutai) ; positionnement CNIL/AI Act sur l'hébergement de modèles ; alternative EU (si acquisition US) : HF Europe ou réplication locale
+- **Acquisition NVIDIA $12,9 Md (26/08/2026) :** Accord conclu selon The Information (26/08). Deal pas encore clôturé. Risques : perte de neutralité matérielle (plateforme potentiellement orientée GPU NVIDIA), accès conditionné pour acteurs EU, migration gouvernance open source. Examen antitrust EU probable. Conditions clés inconnues : cash/actions, clauses open access, retention équipe Delangue/Chaumond/Wolf.
+- À surveiller : clôture définitive du deal NVIDIA ; conditions d'accès post-acquisition (clauses open access) ; réaction communauté open source FR (Mistral, Kyutai, Pleias) ; position ARIANE/DINUM sur dépendance ; alternative EU si nécessaire ; examen DG COMP
 
 ---
 

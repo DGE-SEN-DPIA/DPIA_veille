@@ -245,4 +245,13 @@
 
 ---
 
+## 27/08/2026
+
+27/08 | infra/semi | NVIDIA Q2 FY27 | $96,2 Md +106% YoY, DC $89 Md +117%, Q3 guidance $108 Md, marge 74%, Vera Rubin full prod CoreWeave/GCloud/Azure/Oracle/Nebius, FY28 +70%
+27/08 | M&A/open source | NVIDIA × Hugging Face | accord acquisition $12,9 Md (The Information 26/08) — deal non clôturé ; enjeu neutralité plateforme open source EU/FR
+27/08 | privé/mondial | Anthropic IPO | S-1 non public au 27/08 ; valeur projetée $1,75-1,85 T analystes ; risk factor "AI backlash" CNBC 21/08
+27/08 | privé/FR | Mistral Agentic Search | rattrapage 20/08 : couche retrieval multi-step, 86% précision docs financiers, Search Toolkit & Libraries
+
+---
+
 *Créé le 24/07/2026 — à compléter à chaque exécution*
