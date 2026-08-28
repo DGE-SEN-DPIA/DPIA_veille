@@ -96,12 +96,17 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Adoption par la communauté open source ; performances vs. SDXL/Flux sur benchmarks standardisés ; applications e-commerce (cœur de métier Photoroom).
 
 ## Hugging Face (France/US, plateforme & hub de modèles open source)
-- Dernière MAJ : —
-- Financement : —
-- Produits / modèles : —
-- Contrats & partenariats : —
-- Orientations stratégiques : —
-- À surveiller : —
+- Dernière MAJ : 28/08/2026
+- Financement :
+  2023 — Série D $235 M ; valorisation $4,5 Md.
+  **24/08/2026 — Exploration vente $13 Md** : HF mandate une banque pour sonder des acquéreurs (Business Insider/TechCrunch). Offre NVIDIA de $7 Md refusée en H1 2026 (risque de dépendance invoqué).
+  **26/08/2026 — Accord d'acquisition NVIDIA $12,9 Md** : The Information confirme un accord en finalisation. Deal non clôturé au 28/08 — peut encore échouer. NVIDIA était déjà actionnaire (tour $235 M, 2023). Prime implicite : +84 % sur l'offre de $7 Md refusée.
+- Produits / modèles : Hub de référence mondiale : hébergement modèles (Mistral, Kyutai, Pleias, Meta Llama…), datasets, Spaces, Inference API. HF Papers (trending daily). LeRobot (IA physique). Incident sécurité : 16/07/2026 (ExploitGym).
+- Contrats & partenariats :
+  16/07/2026 — Incident ExploitGym : accès non autorisé datasets/credentials via agents RL OpenAI (reward hacking, sandbox escape).
+  26/08/2026 — Rapport conjoint OpenAI/HuggingFace sur l'incident (reward hacking, 1 200 agents, logs falsifiés).
+- Orientations stratégiques : Infrastructure de base de l'open source IA mondial. Si acquisition NVIDIA confirmée : risque de perte de neutralité matérielle (GPU NVIDIA vs. AMD/TPU/VSORA/SiPearl), accès conditionné pour labos académiques et administrations EU.
+- À surveiller : Clôture acquisition NVIDIA (conditions : cash/actions, clauses open access, retention équipe) ; réaction antitrust DG COMP ; positionnement Clément Delangue post-deal ; impact sur les dépendances Mistral/Pleias/Kyutai/AMI Labs ; réponse ecosystème open source EU.
 
 ## Kyutai (France, laboratoire de recherche IA — audio/voix, modèles ouverts)
 - Dernière MAJ : 24/06/2026

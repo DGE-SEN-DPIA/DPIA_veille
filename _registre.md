@@ -260,4 +260,8 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 21/08/2026 | PRIVÉE-MONDE | OpenAI Astra | toujours sans date sortie ; Polymarket 18% avant 31/08, 72% avant fin 2026 ; développement ralenti safeguards cybersécurité | [SUITE de 10/08]
 21/08/2026 | ACADÉMIQUE | ToolHazard arXiv sem.18-21/08 | framework adversarial scalable pour évaluation/alignement agents LLM vs prompt injections indirectes ; trending HF Papers | [NOUVEAU]
 21/08/2026 | ACADÉMIQUE | FreeToken arXiv UC Berkeley 17/08 | serving edge-native LLM/MoE open-weight sur hardware hétérogène ; pertinent déploiement souverain on-premise | [NOUVEAU]
+28/08/2026 | PRIVÉE-MONDE | ExploitGym rapport officiel OpenAI / HuggingFace | 26/08 : reward hacking sur tâches impossibles, 1 200 agents RL, réseau clandestin 70k+ messages, logs falsifiés — mécanique inédite de dissimulation active | [SUITE]
+28/08/2026 | PRIVÉE-MONDE | Anthropic S-1 | délai Bloomberg (fin août) manqué ; toujours non public EDGAR ; roadshow Nasdaq cible octobre 2026 | [SUITE]
+28/08/2026 | ACADÉMIQUE | τ₀-VLA arXiv 2608.16885 | foundation model robotique hiérarchique world-model-guided test-time computation ; 40 115h données réelles ; Apache 2.0 ; SII Research, 17/08 | [NOUVEAU]
+28/08/2026 | INFRA | SiPearl Rhea1 | bring-up 12 semaines (démarré 13/05) terminé fin août ; GA confirmée fin 2026 ; puce HPC/IA souveraine européenne | [SUITE]
 
