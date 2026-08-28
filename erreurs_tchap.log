@@ -9,3 +9,7 @@ Le commit repo reste la source de vérité.
 [2026-08-27] Envoi Tchap - note du 27/08/2026
 Script exécuté avec succès (cffi installé via setup_tchap.sh). Output : messages de déchiffrement E2E d'autres appareils (comportement normal matrix-nio). Confirmation envoi non déterminée (pas de "Message sent" dans la sortie). La note est disponible sur le repo : https://github.com/DGE-SEN-DPIA/DPIA_veille/tree/main/veilles/2026-08-27.md
 Le commit repo reste la source de vérité.
+---
+[2026-08-28] Envoi Tchap - note du 28/08/2026
+Script exécuté avec succès (cffi installé via setup_tchap.sh). Output : messages de déchiffrement E2E d'autres appareils (comportement normal matrix-nio). Confirmation envoi non déterminée (pas de "Message sent" dans la sortie) — même pattern que 27/08. La note tronquée (résumé + À retenir + lien GitHub) a été préparée conformément à la règle >10 000 caractères. La note complète est disponible sur le repo : https://github.com/DGE-SEN-DPIA/DPIA_veille/tree/main/veilles/2026-08-28.md
+Le commit repo reste la source de vérité.
