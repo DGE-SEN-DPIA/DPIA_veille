@@ -264,4 +264,7 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 28/08/2026 | PRIVÉE-MONDE | Anthropic S-1 | délai Bloomberg (fin août) manqué ; toujours non public EDGAR ; roadshow Nasdaq cible octobre 2026 | [SUITE]
 28/08/2026 | ACADÉMIQUE | τ₀-VLA arXiv 2608.16885 | foundation model robotique hiérarchique world-model-guided test-time computation ; 40 115h données réelles ; Apache 2.0 ; SII Research, 17/08 | [NOUVEAU]
 28/08/2026 | INFRA | SiPearl Rhea1 | bring-up 12 semaines (démarré 13/05) terminé fin août ; GA confirmée fin 2026 ; puce HPC/IA souveraine européenne | [SUITE]
+31/08/2026 | PRIVÉE-FR | Mistral Agentic Search | 20/08 — couche RAG agentique multi-step, +86% précision FinanceBench, Search Toolkit & librairies ; full-stack cloud strategy | [NOUVEAU — rattrapage 20/08]
+31/08/2026 | PRIVÉE-MONDE | Anthropic IPO valorisation $2T | cible underwriters $2T + >$100Md levée (Fortune 13/08, NYT fin août) ; S-1 non public EDGAR au 31/08 ; délai fin août manqué | [SUITE]
+31/08/2026 | PRIVÉE-MONDE | OpenAI Astra | Polymarket fenêtre dominante semaine 14-20 sept (44 %) ; 3,3% prob. avant 31/08 ; pause safeguards prolongée | [SUITE]
 

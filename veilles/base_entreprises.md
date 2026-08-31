@@ -12,8 +12,8 @@
 - Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
 - Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible) ; **IA industrielle** (surrogate models simulation physique, partenariats Airbus/BMW/EDF — alternative souveraine aux stacks US dans les grandes filières industrielles FR/EU)
 - **Agentic Search (20/08/2026) :** Lancement d'une couche de retrieval multi-step propriétaire. Le système permet à un agent IA de naviguer, lire et vérifier des documents complexes (rapports financiers, contrats, manuels) en plusieurs itérations. Précision annoncée : 86 % sur documents financiers. Disponible via Search Toolkit & Libraries. Produit B2B clé pour clients industriels (finance, juridique, ingénierie) et administrations — complémentaire aux partenariats BMW/Airbus/EDF.
-- Dernière MAJ : 27/08/2026
-- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis (Q3 2026) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search dans la filière financière et administration FR
+- Dernière MAJ : 31/08/2026
+- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis (Q3 2026, fenêtre se ferme 30/09) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search dans la filière financière et administration FR
 
 ---
 
@@ -49,8 +49,9 @@
 - **Watermarking C2PA (11/08/2026) :** Déploiement mondial de filigranes invisibles sur toutes les sorties Claude (texte + fichiers C2PA) depuis le 02/08/2026 — conformité AI Act Art. 50 (Transparency Code). Tous produits concernés (API, plateforme, Claude Code, Cowork, Tag). Filigrane résistant au copier-coller, partiellement résistant à l'édition légère. Premier grand lab frontier à déployer effectivement. Google, Meta, Microsoft, OpenAI s'engagent en parallèle.
 - **S-1 public (27/08/2026) :** Toujours non déposé sur EDGAR au 27/08. ARR run-rate $65 Md (fin juillet 2026 — Bloomberg 17/08), Q2 revenue $11,5 Md (+14,6× YoY), 1er résultat opérationnel ajusté positif confirmé. Valorisation projetée post-IPO par analystes : $1,75–1,85 T (vs $965 Md Series H). Risk factor « AI backlash » sera inscrit dans le prospectus — premier grand lab frontier à formaliser ce risque (CNBC 21/08).
 - **Chips interne (05/08/2026) :** Équipe interne de conception de semi-conducteurs constituée (profils hybrides hardware/software). Co-design chips + modèles Claude. Cible : −50 % des coûts d'inférence par token. Partenariats maintenus avec AWS, Google, NVIDIA, AMD. Accord long terme Google/Broadcom : ~3,5 GW de capacité TPU à partir de 2027. Vétéran hardware Google recruté. Aucun calendrier de fabrication propriétaire. (Sources : Quartz/Yahoo Finance ; Forbes 06/08 ; TechTimes 05/08)
-- Dernière MAJ : 27/08/2026
-- À surveiller : dépôt S-1 public EDGAR (avant 31/08/2026) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; expansion Mythos 5 au-delà des US (Project Glasswing) ; Sonnet 5 pricing post-31/08 ; chip team premières embauches / roadmap silicon
+- **IPO valorisation $2 T (31/08/2026) :** NYT fin août + Fortune 13/08 : underwriters (GS/MS/JPM) ciblent $2 T de valorisation et >$100 Md de levée IPO — dépasserait SpaceX ($1,77 T), plus grande IPO de l'histoire si réalisée. S-1 toujours non public EDGAR au 31/08 ; délai fin août définitivement manqué. ARR : $65 Md. Roadshow Nasdaq cible : octobre 2026.
+- Dernière MAJ : 31/08/2026
+- À surveiller : dépôt S-1 public EDGAR (début septembre attendu) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; expansion Mythos 5 (Project Glasswing) ; chip team premières embauches / roadmap silicon
 
 ---
 
