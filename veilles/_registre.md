@@ -255,3 +255,20 @@
 ---
 
 *Créé le 24/07/2026 — à compléter à chaque exécution*
+
+
+## 31/08/2026
+
+31/08 | privé/monde | Anthropic IPO | valorisation cible underwriters $2T + >$100Md levée (Fortune 13/08, NYT fin août, 2 sources) ; S-1 non public EDGAR ; délai fin août manqué ; roadshow Nasdaq oct.
+31/08 | privé/FR | Mistral Agentic Search | rattrapage 20/08 — confirme stratégie full-stack cloud ; ajouté au registre
+
+---
+
+## 01/09/2026
+
+01/09 | public/EU | Bureau IA EU / RFI GPAI | Virkkunen confirme 29/08 : premiers RFI formels OpenAI/Anthropic/Google DeepMind — sécurité modèles, évaluations externes, monitoring ; premier enforcement GPAI AI Act (J+27) | NOUVEAU — rattrapage
+01/09 | privé/monde | Grok 4.7 xAI | non lancé au 01/09 ; fenêtre 2-9 sept. active ; training SpaceX data en cours | SUITE
+01/09 | privé/monde | OpenAI Astra | Polymarket 60%+ avant 15 sept. ; fenêtre dominante 14-20 sept. ; pause safeguards active | SUITE
+01/09 | privé/monde | Anthropic IPO | S-1 non public EDGAR au 01/09 ; $2T + >$100Md cible ; roadshow oct. | SUITE
+01/09 | privé/monde | NVIDIA–HuggingFace | $12,9Md finalisation ; notification antitrust EU/US non déposée | SUITE
+01/09 | recherche | NeurIPS WM in Physical AI | deadline soumissions prolongée au 05/09 (ex-29/08) | SUITE

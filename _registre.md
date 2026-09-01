@@ -267,4 +267,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 31/08/2026 | PRIVÉE-FR | Mistral Agentic Search | 20/08 — couche RAG agentique multi-step, +86% précision FinanceBench, Search Toolkit & librairies ; full-stack cloud strategy | [NOUVEAU — rattrapage 20/08]
 31/08/2026 | PRIVÉE-MONDE | Anthropic IPO valorisation $2T | cible underwriters $2T + >$100Md levée (Fortune 13/08, NYT fin août) ; S-1 non public EDGAR au 31/08 ; délai fin août manqué | [SUITE]
 31/08/2026 | PRIVÉE-MONDE | OpenAI Astra | Polymarket fenêtre dominante semaine 14-20 sept (44 %) ; 3,3% prob. avant 31/08 ; pause safeguards prolongée | [SUITE]
+29/08/2026 | PUBLIQUE-EU | Bureau IA EU / RFI GPAI | Virkkunen confirme 29/08 : premiers RFI formels envoyés OpenAI/Anthropic/Google DeepMind sur sécurité modèles, évaluations externes, monitoring post-déploiement ; premier enforcement GPAI AI Act (J+27) | [NOUVEAU — rattrapage 01/09]
+01/09/2026 | PRIVÉE-MONDE | Grok 4.7 xAI | non lancé au 01/09 ; fenêtre 2-9 sept. active ; training SpaceX data en cours | [SUITE de 21/08]
+01/09/2026 | PRIVÉE-MONDE | OpenAI Astra | Polymarket 60%+ avant 15 sept. ; fenêtre dominante 14-20 sept. ; pause safeguards toujours active | [SUITE de 31/08]
+01/09/2026 | PRIVÉE-MONDE | Anthropic IPO | S-1 toujours non public EDGAR au 01/09 ; $2T + >$100Md confirmés 2 sources ; roadshow Nasdaq oct. inchangé | [SUITE de 31/08]
+01/09/2026 | PRIVÉE-MONDE | NVIDIA–HuggingFace | deal finalisation $12,9Md ; notification antitrust EU/US non déposée au 01/09 | [SUITE de 31/08]
+01/09/2026 | ACADÉMIQUE | NeurIPS WM in Physical AI | deadline soumissions prolongée au 05/09 (ex-29/08) ; workshop world models physical AI | [SUITE de 21/08]
 

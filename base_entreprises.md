@@ -412,8 +412,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **14/08/2026 — Q2 2026 : résultats préliminaires** : revenues $11,5 Md (+14,6× vs $787 M au Q2 2025) ; premier **résultat opérationnel ajusté positif** de l'histoire de l'entreprise. [Bloomberg 14/08/2026]
   **17/08/2026 — ARR $65 Md** : run-rate de revenus annualisé à fin juillet 2026 = $65 Md. Progression : $9 Md fin 2025 → $47 Md mai 2026 → $65 Md juillet 2026 (+×7 en 8 mois). [Bloomberg 17/08/2026 ; TechCrunch ; CNBC ; Yahoo Finance]
   **20/08/2026 — S-1 public imminent** : Bloomberg indique qu'Anthropic prépare le dépôt public de son S-1 « avant fin août ». Ambition explicite : égaler ou dépasser la taille de l'IPO SpaceX — valorisation implicite ≥ $1 000 Md. [Bloomberg 20/08/2026]
-- **Dernière MAJ : 21/08/2026**
-- À surveiller : Dépôt S-1 public (avant 31/08/2026) ; roadshow institutionnel septembre ; cotation Nasdaq cible octobre 2026 ; validation valorisation ≥$1T ; résultats commerciaux Ode with Anthropic ; profil de risque dual-use biologie ; réaction CNIL / autorités DPA UE sur la biométrie.
+  **29/08/2026 — EU AI Office RFI (rattrapage)** : le Bureau IA EU a formellement adressé un RFI à Anthropic (ainsi qu'OpenAI et Google DeepMind) concernant la sécurité des modèles, les évaluations externes indépendantes et le monitoring post-déploiement. Premier enforcement formel GPAI AI Act, confirmé par Virkkunen (EVP Commission). Délai de réponse habituel : ~30 jours → prochaine échéance ~29/09/2026.
+  **Fin août 2026 — valorisation IPO révisée à $2 T** : Fortune (13/08) et New York Times (fin août) indiquent que les underwriters (Goldman Sachs, JPMorgan, Morgan Stanley) ciblent désormais $2 T + levée >$100 Md — dépasserait l'IPO SpaceX ($1,77 T). S-1 public toujours non déposé sur EDGAR au 01/09 ; délai Bloomberg (fin août) manqué. Roadshow Nasdaq : cible **octobre 2026** inchangée.
+- **Dernière MAJ : 01/09/2026**
+- À surveiller : Dépôt S-1 public EDGAR (septembre) ; réponse RFI Bureau IA EU (~29/09) ; roadshow institutionnel Nasdaq ; cotation Nasdaq cible octobre 2026 ; validation valorisation $2T ; résultats commerciaux Ode with Anthropic ; profil de risque dual-use biologie.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 10/08/2026
