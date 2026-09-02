@@ -272,3 +272,10 @@
 01/09 | privé/monde | Anthropic IPO | S-1 non public EDGAR au 01/09 ; $2T + >$100Md cible ; roadshow oct. | SUITE
 01/09 | privé/monde | NVIDIA–HuggingFace | $12,9Md finalisation ; notification antitrust EU/US non déposée | SUITE
 01/09 | recherche | NeurIPS WM in Physical AI | deadline soumissions prolongée au 05/09 (ex-29/08) | SUITE
+
+## 02/09/2026
+
+02/09 | privé/mondial | OpenAI / Astra | seuil "Critical" cyber confirmé blog 01/09 ; dual-track imminent ; Daybreak Blue partenaires (Accenture, IBM, CrowdStrike, Cisco, Sophos, Cloudflare) ; capacités zero-day sans supervision humaine
+02/09 | privé/mondial | NVIDIA × Hugging Face | montant relevé ~$14 Md (vs $12,9 Md) — Bloomberg 02/09 ; accord attendu "cette semaine" ; notification HSR imminente
+02/09 | privé/mondial | Anthropic / Fable 5.1 + Mythos 5.1 | lancés 01/09 : ~-25% coût typique, -45% agentique (cache reads) ; Mythos 5.1 = même modèle + safeguards cyber/sciences de la vie
+02/09 | politique/FR | PIIEC IA France | appel Bpifrance/DGE deadline 09/09/2026 midi — IA industrielle européenne, budget min 100 M€
