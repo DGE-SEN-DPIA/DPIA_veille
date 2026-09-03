@@ -279,3 +279,12 @@
 02/09 | privé/mondial | NVIDIA × Hugging Face | montant relevé ~$14 Md (vs $12,9 Md) — Bloomberg 02/09 ; accord attendu "cette semaine" ; notification HSR imminente
 02/09 | privé/mondial | Anthropic / Fable 5.1 + Mythos 5.1 | lancés 01/09 : ~-25% coût typique, -45% agentique (cache reads) ; Mythos 5.1 = même modèle + safeguards cyber/sciences de la vie
 02/09 | politique/FR | PIIEC IA France | appel Bpifrance/DGE deadline 09/09/2026 midi — IA industrielle européenne, budget min 100 M€
+
+## 03/09/2026
+
+03/09 | privé/mondial | xAI / Grok 4.7 | Musk annonce 02/09 sur X : lancement ~12 sept, 2,1T params (+40% vs 4.6), données SpaceX, revendication SOTA — [1 source X/Musk]
+03/09 | privé/mondial | Anthropic Fable 5.1 | précision cache reads : −75 % ($1,00→$0,25/MTok) ; zero data retention ; Mythos 5.1 = Glasswing vétés uniquement
+03/09 | privé/mondial | OpenAI Astra | toujours pas lancé 03/09 ; « Path to Astra » safeguards renforcés publiés ; pas de date officielle
+03/09 | M&A | NVIDIA × Hugging Face | pas de clôture 03/09 ; HSR non déposé ; fenêtre « cette semaine » Bloomberg toujours ouverte
+03/09 | recherche | REFACTOR-VLA arXiv:2609.01215 | Unsupervised Library Learning of Typed Motor Programs — premier papier cs.RO sept 2026
+03/09 | public/FR | CNIL AI Act enforcement | deadline ~03/09 réponses 14 établissements fin. atteinte — aucun résultat public

@@ -51,7 +51,8 @@
 - **Chips interne (05/08/2026) :** Équipe interne de conception de semi-conducteurs constituée (profils hybrides hardware/software). Co-design chips + modèles Claude. Cible : −50 % des coûts d'inférence par token. Partenariats maintenus avec AWS, Google, NVIDIA, AMD. Accord long terme Google/Broadcom : ~3,5 GW de capacité TPU à partir de 2027. Vétéran hardware Google recruté. Aucun calendrier de fabrication propriétaire. (Sources : Quartz/Yahoo Finance ; Forbes 06/08 ; TechTimes 05/08)
 - **IPO valorisation $2 T (31/08/2026) :** NYT fin août + Fortune 13/08 : underwriters (GS/MS/JPM) ciblent $2 T de valorisation et >$100 Md de levée IPO — dépasserait SpaceX ($1,77 T), plus grande IPO de l'histoire si réalisée. S-1 toujours non public EDGAR au 31/08 ; délai fin août définitivement manqué. ARR : $65 Md. Roadshow Nasdaq cible : octobre 2026. S-1 confidentiel SEC déposé 01/06/2026 (confirmé Anthropic officiel).
 - **Fable 5.1 + Mythos 5.1 (01/09/2026) :** Lancement simultané deux modèles. Claude Fable 5.1 : résultats similaires ou supérieurs à Fable 5 à coût réduit — ~-25% charges typiques, jusqu'à -45% tâches agentiques (cache reads). Claude Mythos 5.1 : même modèle de base + safeguards renforcés cybersécurité et sciences de la vie. Timing synchrone avec l'annonce Astra d'OpenAI (01/09).
-- Dernière MAJ : 02/09/2026
+- **Fable 5.1 précisions (03/09/2026) :** Cache reads −75 % ($1,00 → $0,25/MTok) — plus précis que l'économie agentique globale −45 % citée le 01/09. Zero data retention : exécution sur infra client, aucun transfert vers Anthropic. Enterprise Frontier Safeguards développés avec >100 clients (finance, santé, industrie, droit, gouvernement). Mythos 5.1 : accès restreint aux participants Project Glasswing vétés (API fermée grand public). 1M ctx / 128K output. (Sources : VentureBeat 01/09, Dataconomy 02/09)
+- Dernière MAJ : 03/09/2026
 - À surveiller : dépôt S-1 public EDGAR (septembre attendu) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; Fable 5.1 adoption enterprise ; chip team roadmap silicon
 
 ---
@@ -71,10 +72,10 @@
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 19/08/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (~2,1T params, fenêtre **2-9 septembre 2026** précisée — Musk "3-4 semaines" depuis Grok 4.6 le 12/08 ; **données SpaceX confirmées** par Musk Q2 SpaceX earnings 04/08/2026 — télémétrie + opérations Starship intégrées entraînement supplémentaire — aucune date officielle xAI)
+- Dernière MAJ : 03/09/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (2,1T params, +40 % vs 4.6 — Musk annonce le **02/09/2026** sur X : lancement « dans 10 jours » → **~12 septembre 2026** ; données SpaceX intégrées ; revendication SOTA toutes catégories ; aucune documentation API xAI au 03/09)
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
-- À surveiller : Grok 4.7 release (début-mi sept.) ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
+- À surveiller : Grok 4.7 release (~12 sept.) ; benchmarks tiers Grok 4.7 ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
 
 ---
 
