@@ -288,3 +288,9 @@
 03/09 | M&A | NVIDIA × Hugging Face | pas de clôture 03/09 ; HSR non déposé ; fenêtre « cette semaine » Bloomberg toujours ouverte
 03/09 | recherche | REFACTOR-VLA arXiv:2609.01215 | Unsupervised Library Learning of Typed Motor Programs — premier papier cs.RO sept 2026
 03/09 | public/FR | CNIL AI Act enforcement | deadline ~03/09 réponses 14 établissements fin. atteinte — aucun résultat public
+
+## 04/09/2026
+
+04/09 | privé/mondial | OpenAI / GPT-6 Astra | lancé 03/09 : $10/$50 MTok, 1,1M ctx, ARC-AGI-3 99,9 %, ExploitBench 100 %, FrontierMath 97,6 % ; opaque recurrence (chaîne de pensée masquée) ; Brockman proclame « ère AGI » ; Daybreak Blue en premier, Pro/Plus/Enterprise API dans la semaine
+04/09 | M&A | NVIDIA × Hugging Face | accord signé 03/09 : $12,93 Md ($11,9 Md + $1 Md equity) ; Jensen Huang engagement neutralité open source ; closing H1 2027 ; antitrust EU + US ; enjeu souveraineté FR/EU (Mistral, AION, VSORA)
+04/09 | public/FR | PIIEC IA France | J-5 deadline 09/09 midi — aucun résultat public avant clôture
