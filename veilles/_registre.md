@@ -288,3 +288,15 @@
 03/09 | M&A | NVIDIA × Hugging Face | pas de clôture 03/09 ; HSR non déposé ; fenêtre « cette semaine » Bloomberg toujours ouverte
 03/09 | recherche | REFACTOR-VLA arXiv:2609.01215 | Unsupervised Library Learning of Typed Motor Programs — premier papier cs.RO sept 2026
 03/09 | public/FR | CNIL AI Act enforcement | deadline ~03/09 réponses 14 établissements fin. atteinte — aucun résultat public
+
+## 07/09/2026
+
+07/09 | privé/mondial | OpenAI / Astra (GPT-6) | LANCÉ 03/09 : déploiement ChatGPT Plus/Pro/Business 04-07/09 ; 1,05M ctx ; $10/$50 MTok ; dual-track Daybreak Blue (cyber offensif, accès EU non précisé)
+07/09 | M&A | NVIDIA × Hugging Face | accord définitif signé 03/09 à ~$12,93 Md (dont $1 Md rétention) — HSR non déposé ; closing H1 2027
+07/09 | privé/FR | Mistral Série D | CLÔTURÉE ~€3 Md / val. €20 Md — Samsung + NVIDIA + ASML + EQT (BEI) [1 source, date ~02-05/09]
+07/09 | privé/mondal | xAI / Grok 4.7 | cible ~12/09 confirmée (Big Hat 06/09) — 2,1T params, pas de bêta ni API publiée
+07/09 | privé/mondial | Anthropic IPO | S-1 public attendu dès 08/09 (post-Labor Day) — toujours pas sur EDGAR au 07/09
+07/09 | privé/mondial | Meta / Muse Spark 1.3 | lancé 02/09 — améliorations coding/agentique ; open weights toujours promis sans date
+07/09 | infra/semi | Soitec / Photonics-SOI | guidance Q2'27 révisée +50% YoY (vs +30%) ; FY27 : 2,5×-3× niveau FY26 ~100 M$ [02/09]
+07/09 | public/EU | AI Office RFI GPAI | scope précisé : 30+ fournisseurs GPAI (vs 3 cités le 01/09) — délai réponse ~29/09
+07/09 | recherche | NeurIPS WM Physical AI workshop | deadline soumissions 05/09 passée — notifications auteurs 29/09

@@ -12,8 +12,9 @@
 - Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
 - Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible) ; **IA industrielle** (surrogate models simulation physique, partenariats Airbus/BMW/EDF — alternative souveraine aux stacks US dans les grandes filières industrielles FR/EU)
 - **Agentic Search (20/08/2026) :** Lancement d'une couche de retrieval multi-step propriétaire. Le système permet à un agent IA de naviguer, lire et vérifier des documents complexes (rapports financiers, contrats, manuels) en plusieurs itérations. Précision annoncée : 86 % sur documents financiers. Disponible via Search Toolkit & Libraries. Produit B2B clé pour clients industriels (finance, juridique, ingénierie) et administrations — complémentaire aux partenariats BMW/Airbus/EDF.
-- Dernière MAJ : 31/08/2026
-- À surveiller : closing Série D (Samsung + EQT décisifs) ; ouverture Les Ulis (Q3 2026, fenêtre se ferme 30/09) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search dans la filière financière et administration FR
+- **Série D clôturée ~€3 Md / val. €20 Md (02-05/09/2026) :** La Série D est désormais clôturée. Investisseurs confirmés : Samsung (~€1 Md, co-lead), NVIDIA, ASML, EQT Scaleup Europe Fund (soutenu par la BEI). Financement total Mistral >€5 Md depuis création. NVIDIA + ASML = validation industrielle et semi-conducteur. BEI via EQT = ancrage institutionnel européen. [1 source directe — à confirmer par annonce officielle Mistral ; date signing estimée ~02-05/09/2026]
+- Dernière MAJ : 07/09/2026
+- À surveiller : annonce officielle Série D (Mistral) ; ouverture Les Ulis (Q3 2026, fenêtre se ferme 30/09) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search filière financière et administration FR
 
 ---
 
@@ -66,8 +67,9 @@
 - **Astra — seuil cyber « Critical » (07/08/2026) :** OpenAI publie « Responding to the next frontier of critical cyber capabilities » ; « cannot rule out » que Astra dépasse le seuil Critical du Preparedness Framework (zero-days systèmes critiques sans intervention humaine, cyberattaque bout-en-bout). Premier modèle frontier au seuil Critical jamais documenté. Mesures : testing isolé, monitoring universel, pause activités internes non conformes. Coopération avec agences gouvernementales. Sortie indéterminée.
 - **Astra — seuil "Critical" CONFIRMÉ + Daybreak Blue (01/09/2026) :** Blog officiel OpenAI : Astra est CONFIRMÉ premier modèle à franchir le seuil Critical cybersécurité (zero-days sans supervision humaine, cyberattaque bout-en-bout). Lancement imminent en dual-track : (1) raisonnement/code grand public ; (2) capacités cyber offensives réservées Daybreak Blue — Accenture, IBM, CrowdStrike, Cisco, Sophos, Cloudflare. Question ouverte : accès entités EU (ANSSI, BSI, OIV). Lancement attendu avant fin semaine du 1er sept.
 - Orientations stratégiques : deux rails en parallèle — Astra (research, cyber critical, imminent) et Doug (production, pré-entraînement massif, nov. 2026) ; Presence = intégration profonde enterprise ; TRAINS (30 jours pre-release, framework WH classifié 01/08) ; pétition Pacing the Frontier approuvée officiellement.
-- Dernière MAJ : 02/09/2026
-- À surveiller : Astra date de sortie finale (imminent) ; Daybreak Blue accès EU ; Doug lancement (avant nov. 2026) ; rapport technique ExploitGym ; IPO 2027 ; AI Kill Switch Act.
+- **Astra (GPT-6) lancé 03/09/2026 :** OpenAI a lancé Astra en accès limité partenaires le 03/09, avec déploiement élargi ChatGPT Plus/Pro/Business effectif 04-07/09. Contexte 1,05 M tokens, "computer use" intégré. Tarification API : $10/M input, $50/M output. Architecture dual-track : raisonnement/code grand public (bridé) + capacités cyber offensives réservées au programme Daybreak Blue (Accenture, IBM, CrowdStrike, Cisco, Sophos, Cloudflare). Premier modèle frontier confirmé au seuil Critical Preparedness Framework. Benchmarks tiers non encore publiés. Accès Daybreak Blue pour entités EU (ANSSI, BSI, OIV) toujours non précisé. (TechCrunch, Fortune, CNBC — 3 sources, confiance élevée)
+- Dernière MAJ : 07/09/2026
+- À surveiller : Daybreak Blue accès EU (ANSSI, BSI, OIV) ; Doug lancement (avant nov. 2026) ; rapport technique ExploitGym ; IPO 2027 ; benchmarks Astra tiers indépendants.
 
 ---
 
@@ -168,8 +170,9 @@
 - **Q2 FY27 résultats (26/08/2026) :** CA $96,2 Md (+106 % YoY, +18 % QoQ) — beat $91 Md guidance. Datacenter $89 Md (+117 % YoY, 93 % du CA). Hyperscalers $48,7 Md (×2 YoY) ; ACIE enterprise $40,3 Md (+138 % YoY). Marge brute 75 % au Q2. **Guidance Q3 : $108 Md ±2 %** — 1er trimestre guidé >$100 Md. Guidance marge brute Q3 74 % (Q4 : fond 71-72 %) — pression coûts mémoire supérieure aux attentes. Vera Rubin en production complète (CoreWeave, Google Cloud, Azure, Oracle Cloud, Nebius) — ~20 % du CA DC Q3. FY2028 guidance : +70 %, contraint par l'offre. Jensen Huang : « AI has reached its inflection point. » Action +4 % AH après réaction initiale négative sur guidance marge. (Sources : SEC 8-K, FinanceFeeds, 247WallSt, BigGo Finance)
 - **Acquisition Hugging Face (26/08/2026) :** NVIDIA est parvenu à un accord pour acquérir Hugging Face pour **$12,9 Md** (The Information, Reuters, Gizmodo). Deal toujours en cours de finalisation — peut encore échouer. NVIDIA avait précédemment proposé d'investir à $7 Md (refusé). Enjeu stratégique : contrôle du principal hub open source mondial (modèles, datasets, Spaces, Inference API). Risque antitrust EU (précédent Run:ai). Perte potentielle de neutralité plateforme pour AMD, TPU, puces EU (VSORA Jotunn8, SiPearl Rhea1).
 - **Acquisition Hugging Face — montant relevé à ~$14 Md, closing imminent (02/09/2026) :** Bloomberg 02/09 indique que l'accord pourrait être conclu "cette semaine" (semaine du 1er sept.) avec un montant relevé à **~$14 Md** (dont ~$1 Md rétention employés). Notification formelle HSR (FTC + DoJ) imminente dès closing côté US ; DG COMP EU : aucune notification au 02/09.
-- Dernière MAJ : 02/09/2026
-- À surveiller : closing Hugging Face "cette semaine" (Bloomberg 02/09) ; notification antitrust HSR + DG COMP ; conditions open access post-acquisition ; rampe Vera Rubin Q3 ; compétition AMD MI450 ; FY2028 supply constraints
+- **Accord définitif Hugging Face signé 03/09/2026 :** NVIDIA a signé l'accord définitif d'acquisition de Hugging Face pour ~**$12,93 Md** (dont ~$1 Md en rétention salariés) — montant légèrement révisé à la baisse vs les ~$14 Md Bloomberg 02/09. Notification antitrust HSR (FTC/DoJ US) et DG COMP EU non encore déposées au 07/09. Clôture attendue S1 2027 sous réserve approbation réglementaire. Hugging Face conserve une marque séparée et un mode de gouvernance communautaire (engagements inclus dans l'accord). Enjeu FR : HF emploie ~200 personnes à Paris, héberge poids ouverts Mistral, Kyutai, AMI Labs. (Bloomberg, NVIDIA Blog, Yahoo Finance, SEC EDGAR — 4 sources, confiance élevée)
+- Dernière MAJ : 07/09/2026
+- À surveiller : notification antitrust HSR + DG COMP (imminente) ; conditions open access post-acquisition ; neutralité données d'usage modèles tiers ; décision DG COMP Q4 2026 ; rampe Vera Rubin Q3 ; compétition AMD MI450 ; FY2028 supply constraints
 
 ---
 
@@ -186,10 +189,12 @@
 ## Soitec (France, substrats semi-conducteurs)
 - Dernière MAJ : 30/07/2026
 - Partenariats : ZenSemi (Chine) — partenariat BCD-on-SOI 300mm (annoncé ~29/06/2026) : substrats Power-SOI 300mm pour puces BCD, ciblant datacenters IA, véhicules électriques, robotique. Action Soitec +8 % le 30/06 à l'annonce.
-- Résultats Q1 FY2027 (annoncé 22/07/2026) : CA €113M +23% YoY (guidance : +15%), **Photonics-SOI ×2 YoY** ; Edge & Cloud AI +47% ; Mobile -10%. Action +23% à l'annonce. Guidance Q2 FY2027 : Photonics-SOI >+30% YoY. Soitec prévoit que ses revenus Photonics-SOI dépasseront $200M en FY2027 (vs ~$100M en FY2026). Demande portée par les interconnexions optiques (transceivers) dans les clusters GPU hyperscale.
+- Résultats Q1 FY2027 (annoncé 22/07/2026) : CA €113M +23% YoY (guidance : +15%), **Photonics-SOI ×2 YoY** ; Edge & Cloud AI +47% ; Mobile -10%. Action +23% à l'annonce.
+- **Révision guidance Q2 FY2027 à la hausse (02/09/2026) :** Guidance Photonics-SOI Q2 FY27 portée à **+50 % YoY** (vs +30 % précédemment annoncé en Q1). FY27 total Photonics-SOI : **2,5×–3× le niveau FY26** (~100 M$) — représenterait $250–300 M. Moteur : explosion de la demande pour interconnexions optiques dans les clusters GPU hyperscale (datacenters IA). (GlobeNewswire 02/09/2026 ; Taiwan News 03/09/2026)
 - Marchés cibles : photonique pour datacenters IA (interconnexions optiques), électronique de puissance (EV, robotique), mobile
 - Lien stratégique : Scintil Photonics (startup FR photonique) — R&D Soitec observateur au board
-- À surveiller : montée en puissance Photonics-SOI ; confirmation Q2 FY2027 ; positionnement CADA (cloud souverain EU) ; concurrence sur substrats IA
+- Dernière MAJ : 07/09/2026
+- À surveiller : confirmation guidances sur résultats Q2 FY27 ; positionnement CADA (cloud souverain EU) ; concurrence substrats IA ; Scintil Photonics actualité CanopAI
 
 ---
 
@@ -212,7 +217,9 @@
   - Muse Glimmer (10/08/2026) — 30B dense multimodal, Apache 2.0, 18-20 Go VRAM avec quantisation 4-bit ; agents agentiques coding/function-calling/LLM-as-judge
 - Licence : Apache 2.0 pour Glimmer ; Spark 1.2 propriétaire (open-weight à venir)
 - Positionnement : contre Kimi K3 (open-weight 2,8T MoE) et modèles propriétaires (GPT-5.6, Fable 5, Gemini 3.5 Pro) ; stratégie open-source affirmée par Zuckerberg avec appel au retrait des restrictions gouvernementales US
-- À surveiller : release poids ouverts Muse Spark 1.2 (attendus imminents, sans date) ; benchmarks Glimmer vs Kimi K3 ; adoption administrations EU
+- **Muse Spark 1.3 lancé 02/09/2026 :** Muse Spark 1.3 décrit par Meta comme le "plus grand saut en coding et travail agentique" de la gamme. Zuckerberg réitère pour la 3e fois la promesse open weights "bientôt" — sans date ni licence précisées. Poids toujours fermés au 07/09/2026. Muse Glimmer (30B, Apache 2.0) reste le seul modèle Meta réellement open-weight récent. (The Register 02/09/2026 ; Trending Topics EU)
+- Dernière MAJ : 07/09/2026
+- À surveiller : release poids ouverts Muse Spark 1.3 (promis 3× sans date) ; benchmarks Spark 1.3 vs Fable 5.1 ; adoption administrations EU
 
 ---
 
