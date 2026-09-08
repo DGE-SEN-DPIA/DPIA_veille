@@ -300,3 +300,12 @@
 07/09 | infra/semi | Soitec / Photonics-SOI | guidance Q2'27 révisée +50% YoY (vs +30%) ; FY27 : 2,5×-3× niveau FY26 ~100 M$ [02/09]
 07/09 | public/EU | AI Office RFI GPAI | scope précisé : 30+ fournisseurs GPAI (vs 3 cités le 01/09) — délai réponse ~29/09
 07/09 | recherche | NeurIPS WM Physical AI workshop | deadline soumissions 05/09 passée — notifications auteurs 29/09
+
+## 08/09/2026
+
+08/09 | privé/FR | Mistral Série D | CONFIRMÉE 4 sources (Sifted, aiexpert, Servola, TFN) — €3 Md / val. €20 Md ; Samsung ~€1 Md, NVIDIA, ASML, EQT(BEI) ; clôture 02/09 ; cumul ~€6,5 Md
+08/09 | gouvernance/US | Anthropic–Maison Blanche | Amodei absent dîner Trump/CEOs tech début sept. (MSoft/Google/OpenAI présents) ; tensions WH : Sacks vs Clark, refus surveillance domestique, One Big Beautiful Bill
+08/09 | réglementation/FR+EU | CNIL + 24 autorités EU | Première vague systématique inspections AI Act démarrée sept. 2026 — scoring crédit, recrutement, santé ; 3 prorogations refusées ; CNIL examen instrumenté
+08/09 | privé/mondial | OpenAI / Astra | Déploiement finalisé 06/09 : tous Plus/Pro/Business/Enterprise + API live ; Daybreak Blue EU accès non précisé
+08/09 | réglementation/FR | PIIEC IA France | J-1 (deadline 09/09 midi) — aucun candidat n'a communiqué publiquement
+08/09 | M&A | NVIDIA × Hugging Face | Position antitrust "deconcentration platform" publiée — HSR toujours non déposé ; closing H1 2027
