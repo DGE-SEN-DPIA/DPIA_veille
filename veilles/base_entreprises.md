@@ -7,14 +7,14 @@
 - Dernière MAJ : 13/08/2026
 - Financement : Series A €105M (06/2023) ; Series B €385M (06/2024) ; Series C €600M (06/2025, val. €11,7 Md) ; Série D en cours : cible €3 Md / val. €20 Md (non clôturée) — investisseurs confirmés en discussion : EQT (Scaleup Europe Fund €5 Md), Samsung (€1 Md, discussions avancées Axios 22/07), ASML, General Catalyst, Lightspeed, DST Global, a16z, Index, NVIDIA, Bpifrance, Xavier Niel ; série infra $830M (03/2026, 13 800 GPU B300 pour Bruyères-le-Châtel/Les Ulis) ; cible compute 1 GW 2030, 200 MW 2027
 - ARR : >$400 M (début 2026), trajectoire >$1 Md fin 2026
-- Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 ; Voxtral TTS ; **Shieldstral** (04/08/2026, 3B, multimodal texte+images, Apache 2.0, 12 langues, 16 Go VRAM — classificateur sécurité politique-adaptive, SOTA modération multimodale, AI Act Art. 13)
+- Produits / modèles : Mistral Large (série) ; Leanstral 1.5 (119B MoE, Lean 4, Apache 2.0, 02/07/2026) ; Robostral Navigate (8B, navigation robotique monoculaire SOTA, 08/07/2026) ; MoE open-weight "fat but sparse" (early access partenaires juillet 2026, release publique été 2026 non datée) ; OCR 4 (23/06/2026) ; **OCR 4.1** (GA 13/08/2026 — blocs structurels + scores confiance, €3,50/1000 pages, OlmOCRBench 85,20 SOTA, auto-hébergement possible) ; Voxtral TTS ; **Shieldstral** (04/08/2026, 3B, multimodal texte+images, Apache 2.0, 12 langues, 16 Go VRAM — classificateur sécurité politique-adaptive, SOTA modération multimodale, AI Act Art. 13)
 - Contrats & partenariats : Microsoft (accord multimilliard 21/07/2026 — GPU Vera Rubin EU, Foundry + Copilot Studio, air-gap Azure Local) ; DINUM "L'Assistant" (Albert API + Mistral, 1M agents FP, 700K€, 16/06/2026) ; Emmi AI (acquisition Linz/Autriche, simulateurs physiques, ~30 personnes, 19/05/2026) ; coalition computing EU : ASML + CMA CGM + Amadeus (ECUs multi-annuels, 200 MW fin 2027, 1 GW fin 2030 — 11/08/2026) ; Caisse des Dépôts (partenariat stratégique, 19 filiales, mai 2026) ; **Airbus** (partenariat 5 ans IA industrielle, 28/05/2026 — documentation technique, simulation aéronautique, IA edge, cybersécurité défense) ; **BMW** (accord surrogate models crash simulations, 28/05/2026 — archive simulation → modèle → réponse secondes vs heures) ; EDF + CMA CGM (clients fondateurs Industrial Engineering AI, 28/05/2026)
 - Infrastructure : Regional Endpoints GA (inférence EU ou US au choix, résidence données garantie) ; Priority Tier avec SLA (preview publique) ; hébergement modèles tiers open source (GLM-5.2 de Z.ai, MIT, 1M ctx — lancé 06/08/2026)
 - Orientations stratégiques : pivot « opérateur d'infrastructure IA souveraine à SLA » — compétition directe avec hyperscalers américains sur le segment enterprise et service public ; marketplace modèles open souverains ; entrée IA physique (Robostral + Emmi AI) ; expansion compute (Les Ulis 10 MW, Q3 2026 cible) ; **IA industrielle** (surrogate models simulation physique, partenariats Airbus/BMW/EDF — alternative souveraine aux stacks US dans les grandes filières industrielles FR/EU)
 - **Agentic Search (20/08/2026) :** Lancement d'une couche de retrieval multi-step propriétaire. Le système permet à un agent IA de naviguer, lire et vérifier des documents complexes (rapports financiers, contrats, manuels) en plusieurs itérations. Précision annoncée : 86 % sur documents financiers. Disponible via Search Toolkit & Libraries. Produit B2B clé pour clients industriels (finance, juridique, ingénierie) et administrations — complémentaire aux partenariats BMW/Airbus/EDF.
 - **Série D CONFIRMÉE €3 Md / val. €20 Md — clôture 02/09/2026 :** Confirmée par 4 sources indépendantes (Sifted 02/09, aiexpert.news, Servola, TechFundingNews). Clôture 02/09/2026. Investisseurs : Samsung (~€1 Md — plus grand ticket déclaré dans un lab IA EU), NVIDIA, ASML (premier equity dans un lab IA FR), EQT Scaleup Europe Fund (BEI). Financement cumulé total ~**€6,5 Md** (incluant €830 M dette mars 2026). Valuation : €20 Md (+71 % vs Série C €11,7 Md en <1 an). ARR en trajectoire >$1 Md fin 2026. Annonce officielle Mistral non encore publiée sur mistral.ai au 08/09 matin.
-- Dernière MAJ : 08/09/2026
-- À surveiller : annonce officielle Série D sur mistral.ai ; ouverture Les Ulis (Q3 2026, fenêtre se ferme 30/09) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search filière financière et administration FR
+- Dernière MAJ : 09/09/2026
+- À surveiller : annonce officielle Série D sur mistral.ai ; ouverture Les Ulis (Q3 2026, fenêtre se ferme 30/09) ; premiers contrats Priority Tier avec administrations ; expansion coalition EU ; premiers résultats industriels surrogate models BMW/Airbus ; déploiement Agentic Search filière financière et administration FR ; adoption OCR 4.1 par administrations françaises (ARIANE/DINUM)
 
 ---
 
@@ -345,6 +345,21 @@
 - Incident sécurité : ExploitGym (juillet 2026) — GPT-5.6 Sol + modèle pré-release OpenAI ont pénétré la plateforme HF, accédé datasets + credentials ; HF a dû utiliser un modèle chinois pour sa défense faute d'accès modèles US (restrictions export TRAINS)
 - **Acquisition NVIDIA $12,9 Md (26/08/2026) :** Accord conclu selon The Information (26/08). Deal pas encore clôturé. Risques : perte de neutralité matérielle (plateforme potentiellement orientée GPU NVIDIA), accès conditionné pour acteurs EU, migration gouvernance open source. Examen antitrust EU probable. Conditions clés inconnues : cash/actions, clauses open access, retention équipe Delangue/Chaumond/Wolf.
 - À surveiller : clôture définitive du deal NVIDIA ; conditions d'accès post-acquisition (clauses open access) ; réaction communauté open source FR (Mistral, Kyutai, Pleias) ; position ARIANE/DINUM sur dépendance ; alternative EU si nécessaire ; examen DG COMP
+
+---
+
+## Wandercraft (France, robotique humanoïde & exosquelettes)
+- Dernière MAJ : 09/09/2026
+- Fondation : Paris, 2012. CEO : Nicolas Simon.
+- Financement : $75M levée 2024 (The Robot Report) — investisseurs : Renault Group (stratégique), BpiFrance, autres.
+- Produits :
+  - **Eve** : exosquelette auto-équilibrant à usage personnel — FDA clearance obtenue août 2026 pour usage hors rééducation (adultes avec lésions médullaires, commande via télécommande). Lancement commercial US prévu 17/09/2026 (New York, Cure Health Innovation Campus + United Spinal Association).
+  - **Calvin-40** : humanoïde industriel — manutention cartons, pneus, panneaux, chariots ; secteurs : automotive, logistique, retail, santé, défense, construction & agriculture (pipeline).
+- Contrats & partenariats :
+  - **12 clients blue-chip** signés pour Calvin-40 (04/09/2026) — grands groupes automotive (incl. Renault Group), logistique, retail, santé, défense (noms exacts non tous confirmés).
+  - **Renault Group** : partenariat stratégique — Renault apporte fabrication, engineering, procurement, design-to-cost ; **350 humanoïdes Calvin-40** annoncés en déploiement sur 18 mois.
+- Orientations stratégiques : bi-track médical (Eve) + industriel (Calvin-40) ; premier acteur français de l'humanoïde industriel avec base clients confirmée ; convergence IA physique + exosquelette ; cible Europe en premier marché.
+- À surveiller : détail clients Calvin-40 ; premiers déploiements Eve US post-17/09 ; levée de fonds Série suivante ; intégration VLA ou world model dans Calvin-40 (roadmap) ; positionnement PIIEC IA / EuroHPC AION
 
 ---
 

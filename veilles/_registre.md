@@ -309,3 +309,12 @@
 08/09 | privé/mondial | OpenAI / Astra | Déploiement finalisé 06/09 : tous Plus/Pro/Business/Enterprise + API live ; Daybreak Blue EU accès non précisé
 08/09 | réglementation/FR | PIIEC IA France | J-1 (deadline 09/09 midi) — aucun candidat n'a communiqué publiquement
 08/09 | M&A | NVIDIA × Hugging Face | Position antitrust "deconcentration platform" publiée — HSR toujours non déposé ; closing H1 2027
+
+## 09/09/2026
+
+09/09 | IA physique/FR | Wandercraft Calvin-40 | 12 clients blue-chip signés 04/09 (automotive, logistique, retail, santé, défense) ; Renault Group 350 humanoïdes/18 mois — signal commercial fort humanoïde industriel FR [NOUVEAU watchlist]
+09/09 | réglementation/FR | PIIEC IA France | Deadline clôturée 09/09 midi — aucun candidat public ; instruction automne 2026 ; conditionne EuroHPC AION (deadline 12/11)
+09/09 | privé/FR | Mistral OCR 4.1 | Rattrapage GA 13/08 : blocs structurels + confidence scores ; €3,50/1000 pages ; OlmOCRBench 85,20 SOTA [non capturé note 13/08]
+09/09 | privé/mondial | xAI / Grok 4.7 | J-3 cible 12/09 — aucune bêta/API/fiche modèle ; historique glissements répétés
+09/09 | privé/mondial | Anthropic IPO | S-1 toujours absent EDGAR J+2 post-Labor Day — fenêtre mi-septembre
+09/09 | privé/mondial | Gemini 3.5 Pro | 16e+ délai confirmé — partner testing Vertex AI ; Gemini 4 Flash-Lite [rumeur, non confirmée] septembre 2026
