@@ -256,6 +256,14 @@
 
 *Créé le 24/07/2026 — à compléter à chaque exécution*
 
+## 10/09/2026
+
+10/09 | privé/FR | Mistral Série D | annonce officielle 08/09 : val. €21 Md (vs €20 Md sources initiales) ; Samsung lead, EQT+PSG co-lead, Advent+BlackRock+Luxembourg nouveaux entrants ; NVIDIA+ASML+a16z+Bpifrance existants ; plus grande levée equity tech Europe
+10/09 | privé/mondial | Anthropic Fable 5.1 | Terminal-Bench-Science 0.1 : 52,6 % (vs 24,7 % Fable 5 / 29,0 % Opus 5) — benchmark sciences autonomes
+10/09 | réglementation/EU | EU AI Office | recrutement 40 agents enforcement pour Q4 2026 ; staffing actuel ~165 — crackdown GPAI
+10/09 | public/FR | PIIEC IA France | deadline passée 09/09 midi — instruction automne 2026 ; aucun candidat public
+10/09 | privé/mondial | OpenAI "Bel" | leak 10T params pré-entraînement terminé — non confirmé [rumeur]
+
 
 ## 31/08/2026
 
