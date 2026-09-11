@@ -264,6 +264,19 @@
 10/09 | public/FR | PIIEC IA France | deadline passée 09/09 midi — instruction automne 2026 ; aucun candidat public
 10/09 | privé/mondial | OpenAI "Bel" | leak 10T params pré-entraînement terminé — non confirmé [rumeur]
 
+## 11/09/2026
+
+11/09 | privé/FR | Wandercraft | ~€100 M en levée — Goldman Sachs mandaté 02/09 ; 350 robots humanoïdes Renault (FR+ES) d'ici fin 2027 — [NOUVEAU, Bloomberg élevée]
+11/09 | privé/mondial | xAI / Grok 4.7 | J-0 de la cible 12/09 — aucun modèle ID / benchmark / API publié par xAI au 11/09
+11/09 | sécurité/gouvernance | Anthropic | rapport threat-intel sept. 2026 (Dec 2025–août 2026 : cyber/bio/influence/distillation) + démission Jacob Coxon (avertissement existentiel)
+11/09 | social/FR | DGAFP / accord-cadre IA FP | V3 présentée 03/09 — gains productivité + responsabilité admins ; CGT dénonce insuffisance ; signature automne fragilisée
+11/09 | privé/FR | Mistral | OCR 4.1 GA depuis 31/08 : bounding boxes para, scores confiance, $4/1k pages — rattrapage
+11/09 | infra | Microsoft + Oracle | Microsoft DC : 12→38+ GW 2032 ; Oracle Q1 FY27 : $7,4 Md cloud IA +121% YoY, >$30 Md nouveaux contrats
+11/09 | recherche | arXiv:2608.12564 | "Scaling Automatic Research Agents via World Models" (UIUC) — #1 HF Papers 09/09, 429 likes
+11/09 | recherche | arXiv:2609.10522 | "Show-Harness: VLM Agent Can Play Robots" (Show Lab) — VLM-as-controller pour robotique, IA physique
+11/09 | recherche | arXiv:2609.10540 | "Programmable World Model" (Alaya Lab) — world models programmables par règles symboliques, zéro-shot manufacturing
+11/09 | recherche | arXiv:2609.11042 | "T1: Terminal Agent RL for Long-Horizon Tasks" (Tencent Hunyuan) — SOTA SWE-bench Pro
+
 
 ## 31/08/2026
 
