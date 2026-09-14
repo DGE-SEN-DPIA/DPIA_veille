@@ -278,6 +278,17 @@
 11/09 | recherche | arXiv:2609.11042 | "T1: Terminal Agent RL for Long-Horizon Tasks" (Tencent Hunyuan) — SOTA SWE-bench Pro
 
 
+## 14/09/2026
+
+14/09 | gouvernance/US | Anthropic / Amodei | essai "We Must Pace the Frontier" (12/09, ~3800 mots) : triggers RSI + attaque HF agents OpenAI ; Altman + Musk cosignent accord pacing dans les 24h — convergence inédite des 3 PDG
+14/09 | sécurité/gouvernance | Anthropic + DeepMind | Joe Benton (Scalable Oversight, Anthropic) + Josh Engels (AGI safety, DeepMind) démissionnent le 12/09 → rejoignent METR ; 3e départ consécutif après Coxon (11/09)
+14/09 | privé/mondial | xAI / Grok | Cible 12/09 Grok 4.7 manquée (5e) ; Musk skip 4.7 (2.1T) → annonce Grok 4.8 (2.5T, C++ stack, RL démarrage cette semaine) le 13/09
+14/09 | privé/FR | Station F F/ai | Saison 2 lancée sept. 2026 : +6 partenaires (ElevenLabs, Nebius, Rippling, OpenRouter, Hubspot, GitHub), expansion EU+SF ; 20 startups non publiées
+14/09 | privé/mondial | Anthropic IPO | 2e profit opérationnel ajusté positif consécutif communiqué aux investisseurs (14/09, Bloomberg Korea via SBS) ; S-1 non public EDGAR
+14/09 | conf | IROS 2026 | CORRECTION : Pittsburgh 27 sept-1 oct (≠ Abu Dhabi 15/09 indiqué note 11/09)
+
+---
+
 ## 31/08/2026
 
 31/08 | privé/monde | Anthropic IPO | valorisation cible underwriters $2T + >$100Md levée (Fortune 13/08, NYT fin août, 2 sources) ; S-1 non public EDGAR ; délai fin août manqué ; roadshow Nasdaq oct.

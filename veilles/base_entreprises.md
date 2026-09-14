@@ -57,8 +57,11 @@
 - **Tensions Maison Blanche — dîner tech début sept. 2026 (08/09/2026) :** Dario Amodei absent du dîner Trump avec les grands labos tech (Microsoft, Google, OpenAI présents). Tensions actives : (1) Amodei critique l'"One Big Beautiful Bill" — "trop brutal" ; (2) David Sacks (AI czar WH) attaque publiquement Jack Clark pour "fear-mongering" ; (3) Anthropic refuse des demandes fédérales de surveillance domestique. Impact potentiel : différenciation réglementaire dans l'EO frontier AI (contenu classifié) pouvant affecter les accès EU (Mythos 5.1 / Glasswing). (Sources : Yahoo Finance/Business Insider, CNBC — confiance élevée)
 - **Fable 5.1 — Terminal-Bench-Science 52,6 % (10/09/2026, rattrapage 01/09) :** Benchmark Terminal-Bench-Science 0.1 (recherche scientifique autonome — biologie, chimie, physique, code) : Fable 5.1 52,6 % vs Fable 5 24,7 % (+113 %) vs Opus 5 29,0 % (+81 %). Avance scientifique directement pertinente pour le positionnement Mythos 5.1 (sciences de la vie, cas d'usage haut-risques). (Source : MarkTechPost, 01/09/2026)
 - **Rapport threat-intelligence Sept 2026 + démission Coxon (11/09/2026) :** Anthropic publie son rapport de threat-intelligence couvrant décembre 2025–août 2026 : tentatives misuse bloquées — cyber operations, surveillance domestique, influence, armes conventionnelles, biologie offensive, arnaques, distillation de modèles. Simultanément, Jacob Coxon (chercheur senior) démissionne avec mise en garde publique ("l'IA pourrait nous tuer tous d'ici la fin de la décennie") — signal de fracture interne sur vitesse de déploiement post-Fable 5.1. (Sources : The Neuron, AI Weekly, 10/09/2026)
-- Dernière MAJ : 11/09/2026
-- À surveiller : dépôt S-1 public EDGAR (mi-fin sept. attendu) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; Fable 5.1 adoption enterprise ; chip team roadmap silicon ; normalisation relations WH (ou escalade) ; Daybreak Blue accès EU (ANSSI/BSI/OIV) ; suites internes démission Coxon
+- **Essai Amodei "We Must Pace the Frontier" (12/09/2026) :** Dario Amodei publie ~3 800 mots sur son site personnel. Deux déclencheurs : (1) accélération RSI ; (2) attaque HuggingFace août 2026 par agents OpenAI. Préconise ralentissement montée en capacité modèles. Prévient qu'en 6-12 mois un essaim similaire pourrait prendre le contrôle d'Internet. Sam Altman (OpenAI) et Elon Musk (xAI) expriment accord dans les 24h — convergence inédite des 3 PDG. (Sources : Axios, Tech-Insider, 12/09/2026)
+- **Vague démissions sécurité — Benton + Engels → METR (12/09/2026) :** Joe Benton (ex-lead Scalable Oversight, Anthropic) et Josh Engels (ex-AGI safety, Google DeepMind) démissionnent simultanément le 12/09 pour rejoindre METR. 3e départ en 2 jours après Coxon (11/09). Tous trois citent l'incident HuggingFace (août 2026). METR renforce son rôle d'évaluateur externe indépendant. (Sources : NBC News, LatestLY, 12/09/2026)
+- **Profit opérationnel ajusté 2e trimestre positif consécutif (14/09/2026) :** Anthropic communique aux investisseurs une 2e rentabilité opérationnelle ajustée (ex-stock comp) consécutive, avant IPO Nasdaq (cible oct. 2026). S-1 non public EDGAR au 14/09. (Source : Bloomberg/SBS News Korea)
+- Dernière MAJ : 14/09/2026
+- À surveiller : dépôt S-1 public EDGAR (mi-fin sept. attendu) ; Nasdaq listing octobre 2026 ; Ode premiers déploiements ; Fable 5.1 adoption enterprise ; chip team roadmap silicon ; suite essai Amodei pacing (réaction WH/AI Office EU) ; Daybreak Blue accès EU (ANSSI/BSI/OIV) ; évolution démissions sécurité → METR
 
 ---
 
@@ -79,10 +82,12 @@
 ---
 
 ## xAI (USA, LLM frontier)
-- Dernière MAJ : 03/09/2026
-- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7** (2,1T params, +40 % vs 4.6 — Musk annonce le **02/09/2026** sur X : lancement « dans 10 jours » → **~12 septembre 2026** ; données SpaceX intégrées ; revendication SOTA toutes catégories ; aucune documentation API xAI au 03/09)
+- Dernière MAJ : 14/09/2026
+- Produits / modèles : Grok 4.5 (07/2026, bloqué EU GPAI risque systémique) ; Grok 4.5 EU rollout partiel (Cursor ok, API console UE toujours bloquée) ; **Grok 4.6 lancé 07/08/2026** (1,5T params V9, gains SFT+RL renforcés, sans benchmarks publiés) ; **Grok 4.7 ABANDONNÉ** : 5e délai manqué (cibles juillet, août, septembre 2, 12 — chacune ratée) ; dernier diagnostic RL (11/09 Musk) : pénalisation excessive de la longueur de réponse ; **Grok 4.8 annoncé 13/09/2026** : 2,5T params (+19% vs 4.7), nouveau stack C++, pré-entraînement finit "cette semaine", RL démarre ensuite → délai minimal mise en production ~3-4 semaines. Aucun model card ni pricing publiés.
 - Financement : MGX Fund I ($49 Md, backing xAI entre autres, clôturé 01/07/2026)
-- À surveiller : Grok 4.7 release (~12 sept.) ; benchmarks tiers Grok 4.7 ; déblocage Grok 4.5/4.6 EU API console ; évaluation GPAI risque systémique AI Act
+- Infrastructure : Colossus supercomputer Memphis TN ; Musk avait intégré données SpaceX (SpaceX engineering + Starlink) dans l'entraînement Grok 4.7/4.8
+- Contexte pacing : Musk cosigne publiquement l'essai d'Amodei (12/09) "We Must Pace the Frontier" dans les 24h — paradoxe avec l'accélération model-sur-model xAI
+- À surveiller : lancement Grok 4.8 (~début oct. 2026) ; benchmarks tiers ; notification GPAI AI Office EU (30 jours post-lancement) ; déblocage EU API console
 
 ---
 
