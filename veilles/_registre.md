@@ -287,6 +287,12 @@
 14/09 | privé/mondial | Anthropic IPO | 2e profit opérationnel ajusté positif consécutif communiqué aux investisseurs (14/09, Bloomberg Korea via SBS) ; S-1 non public EDGAR
 14/09 | conf | IROS 2026 | CORRECTION : Pittsburgh 27 sept-1 oct (≠ Abu Dhabi 15/09 indiqué note 11/09)
 
+## 15/09/2026
+
+15/09 | privé/mondial | OpenAI IPO | Altman confirme officiellement "not 2026" — 2027 cible ; "ill-advised" ; ~10% chance existentielle citée ; pauses training runs envisagées (Fortune 12/09)
+15/09 | géopolitique/US-CN | Trump-Xi summit IA | Xi à Washington 24/09 — IA + PI en tête d'agenda ; Trump rejette pacing "conspiracy helps China" ; Chine : 28 nations Global South (WAIC) ; fracture US labos vs WH
+15/09 | gouvernance/US | Hassabis Google DeepMind | endosse pacing Amodei 12/09 : "direction is correct" — 4e grand acteur (Anthropic+OpenAI+xAI+Google) ; relie à proposition organisme standards frontier
+
 ---
 
 ## 31/08/2026
