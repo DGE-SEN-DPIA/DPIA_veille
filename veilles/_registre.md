@@ -293,6 +293,12 @@
 15/09 | géopolitique/US-CN | Trump-Xi summit IA | Xi à Washington 24/09 — IA + PI en tête d'agenda ; Trump rejette pacing "conspiracy helps China" ; Chine : 28 nations Global South (WAIC) ; fracture US labos vs WH
 15/09 | gouvernance/US | Hassabis Google DeepMind | endosse pacing Amodei 12/09 : "direction is correct" — 4e grand acteur (Anthropic+OpenAI+xAI+Google) ; relie à proposition organisme standards frontier
 
+## 16/09/2026
+
+16/09 | public/FR | Pacte numérique et IA | signé 10/09 Amiel+Le Hénanff — cadre 3 ans BITD numérique — priorités cloud/IA/cybersécurité — Hexatrust/Station F [rattrapage 10/09]
+16/09 | infra/US | Cornelis Networks | $205M levée 14/09 — Active Compute Fabric 400 Gbps GPU-agnostique UALink+UE — Peter Wennink (ex-ASML) chairman [rattrapage 14/09]
+16/09 | géopolitique/US-CN | Dialogue bilatéral IA mi-sept | non tenu — WH nie — Trésor US : "peut-être octobre" — Trump-Xi 24/09 seule enceinte proche
+
 ---
 
 ## 31/08/2026

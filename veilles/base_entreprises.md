@@ -358,14 +358,27 @@
 ---
 
 ## Wandercraft (France, robotique humanoïde industrielle)
-- Dernière MAJ : 11/09/2026
+- Dernière MAJ : 16/09/2026
 - Fondation : Paris, 2011. Fondateurs : Nicolas Simon, Jean-Louis Constanza. Historique : exosquelettes médicaux → pivot robots humanoïdes industriels (2024-2025).
-- Financement : $75 M Série D (juin 2025, Renault lead) ; **tour en cours ~€100 M** (Goldman Sachs mandaté, annoncé Bloomberg 02/09/2026)
+- Financement : $75 M Série D (juin 2025, Renault lead) ; **tour en cours ~€100 M** (Goldman Sachs mandaté, annoncé Bloomberg 02/09/2026) ; **valorisation cible ~€750 M pré-money** (Bloomberg 02/09)
 - Produits : robots humanoïdes industriels — déploiement en cours en usines.
 - Contrats & partenariats : **Renault** (investisseur + client) — ~10 robots opérationnels fin 2026, **350 robots humanoïdes dans les usines Renault France + Espagne d'ici fin 2027**
 - Orientations stratégiques : passage de la scale expérimentale (10 unités) à la scale industrielle (350 unités) ; focus manufacturing automobile. Lien potentiel avec PIIEC IA (instruction automne 2026) et EuroHPC Gigafactories (AION, deadline 12/11/2026).
 - À surveiller : closing du tour ~€100 M (investisseurs finaux) ; premier résultat des 10 robots fin 2026 ; benchmarks de performance en production Renault ; extension au-delà de Renault
 
 ---
+
+---
+
+## Cornelis Networks (USA, réseaux IA / infrastructure datacenter)
+- Dernière MAJ : 16/09/2026
+- Fondation : San Jose, 2020 (spinoff Intel). Spécialité : tissu réseau IA GPU-agnostique.
+- Financement : **$205M levé 14/09/2026** (lead IAG Capital Partners) — montant total non précisé ; round précédents non publics
+- Produits : **Active Compute Fabric** — réseau IA permettant calcul + transmission simultanés pour réduire idle GPU. Switch CN5000 (400 Gbps, disponible) ; CN6000 (800 Gbps, en développement). Standards ouverts UALink + ESUN (scale-up) + Ultra Ethernet (scale-out).
+- Partenariats : Qualcomm (rack-scale AI infrastructure)
+- Leadership : **Peter Wennink** (ex-CEO ASML 2013-2024) rejoint comme chairman — signal légitimité institutionnelle EU
+- Positionnement : alternative ouverte à InfiniBand/NVLink NVIDIA dans les clusters GPU ; compatible AMD, NVIDIA, Qualcomm, architectures EU (VSORA Jotunn8, SiPearl Rhea1)
+- Enjeu EU/FR : architecture ouverte vecteur pour intégration candidature AION EuroHPC (Scaleway, deadline 12/11/2026) ; CADA cloud souverain
+- À surveiller : adoption en Europe ; contrats datacenters EU ; CN6000 launch ; intégration candidatures EuroHPC
 
 *Créé le 24/07/2026 — à compléter et enrichir à chaque exécution*
