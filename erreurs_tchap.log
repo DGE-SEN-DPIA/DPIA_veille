@@ -58,3 +58,4 @@ Le commit repo reste la source de vérité.
 **Statut envoi :** Indéterminé — aucun "Message sent" confirmé dans la sortie.
 **Note commit GitHub :** ✅ Commis et poussé sur main (e528281) — source de vérité disponible.
 **URL note complète :** https://github.com/DGE-SEN-DPIA/DPIA_veille/tree/main/veilles/2026-09-16.md
+[2026-09-17] Envoi Tchap note 2026-09-17 : échec — script terminé sans confirmation d'envoi, uniquement erreurs de décryptage Megolm (sessions OLM manquantes dans l'environnement éphémère). Commit repo effectué (aaf9fb3). Source de vérité : veilles/2026-09-17.md sur main.
