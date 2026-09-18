@@ -353,3 +353,15 @@
 08/09 | privé/mondial | OpenAI / Astra | Déploiement finalisé 06/09 : tous Plus/Pro/Business/Enterprise + API live ; Daybreak Blue EU accès non précisé
 08/09 | réglementation/FR | PIIEC IA France | J-1 (deadline 09/09 midi) — aucun candidat n'a communiqué publiquement
 08/09 | M&A | NVIDIA × Hugging Face | Position antitrust "deconcentration platform" publiée — HSR toujours non déposé ; closing H1 2027
+
+## 17/09/2026
+
+17/09 | géopolitique/US-CN | Trump-Xi AI summit 24/09 | J-7 — consensus "no deal" AI safety (Fortune/FP/AZFamily 15-17/09) ; Trump rejette pacing "conspiracy helps China"
+17/09 | réglementation/EU | EU AI Office Art. 50 RH | CV-screening dans périmètre enforcement instrumenté — confirmé 10/09 — rattrapage
+17/09 | privé/mondial | OpenAI Sponsored Agents | agents conversationnels sponsorisés ChatGPT Ads (16/09) — Wayfair, Angi, HubSpot, Shopify — premier modèle pub natif agents IA — rattrapage
+
+## 18/09/2026
+
+18/09 | privé/mondial | Anthropic R&D Automation Index | Claude « leads » 26 % R&D Anthropic (vs <1 % fév. 2026) — >90 % tâches assistées — AL3-4 Epoch AI — RSI quantifié (17/09)
+18/09 | privé/mondial | Google DeepMind Institute | think tank AGI lancé 16/09 — Hassabis+Legg+Manyika — 4 essais inauguraux (politique éco AGI, transparence modèles, accès global) — rattrapage 16/09
+18/09 | géopolitique/US-CN | Trump-Xi J-6 | Heritage Foundation + France24 : "hotline" bilatérale risques IA = outcome réaliste ; définition comportements inacceptables (armes, nucléaire)
