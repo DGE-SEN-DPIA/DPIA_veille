@@ -1,0 +1,4 @@
+[2026-09-18] ERREUR envoi Tchap note 18/09/2026
+Cause : simplematrixbotlib introuvable sur PyPI (timeout réseau — même cause que 15/09, 16/09, 17/09)
+Commande : pip install -r scripts/requirements_tchap.txt → ERROR: No matching distribution found for simplematrixbotlib>=2.11.0
+Note publiée sur GitHub : https://github.com/DGE-SEN-DPIA/DPIA_veille/tree/main/veilles/2026-09-18.md
