@@ -43,7 +43,7 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **20/08/2026 — Agentic Search** : couche RAG agentique multi-step (+86% précision FinanceBench), Search Toolkit & librairies, full-stack cloud strategy. [Mistral, 20/08/2026]
   **02/09/2026 — Série D CLÔTURÉE** : €3 Md, val. post-money >€21 Md. Samsung Electronics lead (~€1 Md, plus grand ticket annoncé dans un lab IA européen). Co-leads : EQT Scaleup Europe Fund (soutenu BEI), PSG Equity. Nouveaux entrants : BlackRock, Advent, Grand-Duché de Luxembourg. Existants participants : a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, NVIDIA, Phoenix Court/Solar, Salesforce Ventures. 20 pays, 125+ clients entreprise (Airbus, ASML, HSBC cités). "Plus grande levée equity tech Europe" (Mistral). Financement cumulé : ~€6,5 Md. [Mistral newsroom + TechCrunch + Sifted, 08/09/2026]
 - Dernière MAJ : 17/09/2026
-- À surveiller : Ouverture Les Ulis Q3 2026 (J-13 — silence total au 17/09) ; confirmation GPU Bruyères-le-Châtel ; premiers déploiements Robostral Navigate ; adoption Leanstral 1.5 ; déploiements air-gap Azure Local ; ARR $1 Md fin 2026.
+- À surveiller : Ouverture Les Ulis Q3 2026 (**J-10 — silence total au 20/09, risque report Q4**) ; confirmation GPU Bruyères-le-Châtel ; premiers déploiements Robostral Navigate ; adoption Leanstral 1.5 ; déploiements air-gap Azure Local ; ARR $1 Md fin 2026.
 
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
@@ -419,8 +419,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **20/08/2026 — S-1 public imminent** : Bloomberg indique qu'Anthropic prépare le dépôt public de son S-1 « avant fin août ». Ambition explicite : égaler ou dépasser la taille de l'IPO SpaceX — valorisation implicite ≥ $1 000 Md. [Bloomberg 20/08/2026]
   **29/08/2026 — EU AI Office RFI (rattrapage)** : le Bureau IA EU a formellement adressé un RFI à Anthropic (ainsi qu'OpenAI et Google DeepMind) concernant la sécurité des modèles, les évaluations externes indépendantes et le monitoring post-déploiement. Premier enforcement formel GPAI AI Act, confirmé par Virkkunen (EVP Commission). Délai de réponse habituel : ~30 jours → prochaine échéance ~29/09/2026.
   **Fin août 2026 — valorisation IPO révisée à $2 T** : Fortune (13/08) et New York Times (fin août) indiquent que les underwriters (Goldman Sachs, JPMorgan, Morgan Stanley) ciblent désormais $2 T + levée >$100 Md — dépasserait l'IPO SpaceX ($1,77 T). S-1 public toujours non déposé sur EDGAR au 01/09 ; délai Bloomberg (fin août) manqué. Roadshow Nasdaq : cible **octobre 2026** inchangée.
-- **Dernière MAJ : 01/09/2026**
-- À surveiller : Dépôt S-1 public EDGAR (septembre) ; réponse RFI Bureau IA EU (~29/09) ; roadshow institutionnel Nasdaq ; cotation Nasdaq cible octobre 2026 ; validation valorisation $2T ; résultats commerciaux Ode with Anthropic ; profil de risque dual-use biologie.
+  **17/09/2026 — R&D Automation Index** : Claude « leads » **26 %** des travaux de R&D d'Anthropic (vs <1 % en février 2026) ; >90 % des tâches assistées. Échelle AL0-AL5 (Epoch AI) : Claude opère entre AL3 et AL4, jamais AL5. Première quantification publique du RSI endogène par un grand lab — parallèle direct avec l'essai Amodei du 12/09. [Bloomberg + WaPo + Engadget, 17/09/2026]
+  **18/09/2026 — Accenture Faculty — premier évaluateur intégré ($2 Md cumulé)** : Anthropic nomme l'unité **Faculty d'Accenture** comme premier évaluateur indépendant intégré dans le lab. Chaque partie investit **≥$1 Md sur 5 ans**. Accès comparable à un employé pour red-teaming, assessments d'alignement et tests de safeguards. Accord non-exclusif : discussions en parallèle avec METR et évaluateurs non lucratifs. Extension du partenariat stratégique Accenture-Anthropic (Accenture Anthropic Business Group, décembre 2025). Première implémentation institutionnelle de l'essai Amodei « We Must Pace the Frontier » (12/09). [Anthropic.com + TechCrunch + CNBC + Yahoo Finance/Accenture Newsroom, 18/09/2026]
+- **Dernière MAJ : 20/09/2026**
+- À surveiller : Dépôt S-1 public EDGAR (fenêtre critique semaine 22/09) ; réponse RFI Bureau IA EU (~29/09) ; roadshow institutionnel Nasdaq ; cotation Nasdaq cible octobre 2026 ; validation valorisation $2T ; résultats commerciaux Ode with Anthropic ; profil de risque dual-use biologie ; autres évaluateurs intégrés (METR et non-lucratifs).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 10/08/2026
@@ -716,6 +718,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : Anthropic apporte les modèles Claude. Blackstone apporte les capitaux et l'accès à son réseau de 600+ entreprises en portefeuille (finance, santé, infrastructure).
 - Orientations stratégiques : **100 ingénieurs « forward-deployed »** intégrés directement chez les clients pour réduire l'écart entre performance du modèle et usage business réel. Concurrent direct des ESN sur l'intégration IA. Pour les acheteurs publics et industriels français : hors périmètre souverain (modèles US, pas SecNumCloud). Signal structurant pour les futurs marchés IA en France. [BusinessWire + TechCrunch + Technology.org, 15-16/07/2026]
 - À surveiller : Premiers clients annoncés ; extension hors portefeuille Blackstone ; positionnement sur les marchés publics EU.
+
+## CXMT (Chine, DRAM / mémoire pour IA)
+- Dernière MAJ : 20/09/2026
+- Financement : entreprise d'État (soutien fonds nationaux semi-conducteurs chinois)
+- Produits / modèles : G1–G5 DRAM (générations successives de puces mémoire). **G5 (sept. 2026) : 11,95 nm** (quadruple patterning, sans EUV ASML) — 24 Gb LPDDR5X en production de masse. +50% densité vs G4. Configuration : 496-ball et 245-ball.
+- Capacité de production : ~300 000 wafers/mois sur fabs 12 pouces à Hefei et Beijing ; cible 350 000–375 000 fin 2026.
+- Orientations stratégiques : 20/09/2026 — annonce à la World Manufacturing Convention (Hefei) que G5 est en production de masse. CXMT devient le **4e producteur mondial de DRAM** par parts de marché (Samsung, SK Hynix, Micron précèdent). Montée en puissance autonome contournant les restrictions ASML/EUV. Deux produits LPDDR5X smartphones milieu-haut de gamme déjà intégrés dans des appareils chinois. [Eastern Herald + Seoul Economic Daily + Crypto Briefing, 20/09/2026]
+- À surveiller : Adoption CXMT G5 dans les datacenters IA chinois (HBM équivalent possible G6 ?) ; réponse Samsung/SK Hynix/Micron ; implications pour les contrôles à l'export US/UE sur la mémoire haute performance ; compétitivité datacenters IA EU si sourcing DRAM chinois devient viable.
 
 ## Six Robotics (Norvège, drones militaires autonomes) — NOUVEAU ENTRANT
 - Dernière MAJ : 21/07/2026

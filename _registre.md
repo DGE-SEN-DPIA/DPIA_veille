@@ -297,4 +297,9 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 15/09/2026 | PUBLIQUE-INT | OpenAI IPO delay Altman confirmé | "not 2026" Fortune 12/09 ; décl. officielle Altman alignée pacing ; 2027 cible | [SUITE de 12/09]
 16/09/2026 | PRIVÉE-MONDE | OpenAI Sponsored Agents ChatGPT | agents conversationnels sponsorisés 16/09 ; Wayfair/Angi/HubSpot/Shopify ; premier modèle pub natif agents IA ; US seulement | [NOUVEAU]
 17/09/2026 | PUBLIQUE-INT | Trump-Xi AI summit J-7 | consensus experts "no big AI safety deal" (Fortune/FP/AZFamily 15-17/09) ; AI Act EU seule enceinte contraignante ; sommet 24/09 Washington | [SUITE de 15/09]
+20/09/2026 | PRIVÉE-MONDE | Anthropic × Accenture Faculty | évaluateur intégré $2 Md cumulé (1 Md chacun/5 ans), red-teaming, alignement, safeguards — premier acte institutionnel pacing Amodei | [NOUVEAU]
+20/09/2026 | PUBLIQUE-INT | Trump-Xi White House 24/09 | 8 PDG tech confirmés dîner d'État (Altman, Huang, Cook, Musk, Bezos, Pichai, Dell, Dimon) ; agenda IA safety + export controls | [SUITE de 17/09]
+20/09/2026 | PUBLIQUE-FR | Infopro Digital tribunal Créteil | justice suspend 15/09 remplacement 8 secrétaires rédaction (L'Usine Nouvelle/LSA) par IA Digi — pénalité 8 000 €/jour, test conditions réelles requis | [NOUVEAU]
+20/09/2026 | PUBLIQUE-FR | Accord-cadre IA FP | CGT déclaration GT3 15/09 — V3 « insuffisante », signature automne fragilisée | [SUITE de 21/07]
+20/09/2026 | INFRA | CXMT G5 DRAM | 20/09 production de masse 11,95 nm, 4e mondial DRAM, 300 k wafers/mois sans ASML EUV | [NOUVEAU]
 
