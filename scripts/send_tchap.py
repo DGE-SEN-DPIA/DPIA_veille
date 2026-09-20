@@ -1,94 +1,215 @@
 #!/usr/bin/env python3
 """
-Envoie un message dans un salon Tchap chiffré via l'API Matrix.
-Usage : python scripts/send_tchap.py "Message à envoyer"
-Credentials lus depuis les variables d'environnement :
-  TCHAP_HOMESERVER, TCHAP_USERNAME, TCHAP_PASSWORD, TCHAP_ROOM_ID
-Le dossier crypto_store/ doit exister dans le repo (persistance des clés E2E).
+send_tchap.py — Envoie la note de veille du jour dans un salon Tchap.
+
+Garanties :
+  * taille stable   : la troncature est faite ici, jamais par le modèle ;
+  * pas de doublon  : une note déjà envoyée n'est pas renvoyée ;
+  * statut fiable   : la réponse Matrix est vérifiée, l'event_id journalisé ;
+  * sortie silencieuse : sync filtré, donc pas de bruit de déchiffrement E2E.
+
+Dernière ligne de sortie, toujours parsable :
+    TCHAP_RESULT=sent|already_sent|dry_run|failed [event_id=...] chars=N
+
+Sortie : 0 = envoyé ou déjà envoyé · 1 = échec.
+
+Env : TCHAP_HOMESERVER, TCHAP_USERNAME, TCHAP_PASSWORD, TCHAP_ROOM_ID
+      TCHAP_STORE (défaut .tchap_store), REPO_BASE_URL (optionnel)
+
+Usage :
+    python scripts/send_tchap.py --note veilles/2026-09-01.md [--dry-run]
+
+Dépendances : voir scripts/setup_tchap.sh
 """
+from __future__ import annotations
+
+import argparse
 import asyncio
+import hashlib
+import json
+import logging
 import os
 import sys
-import cryptography
-import aiohttp
-import simplematrixbotlib as botlib
-from nio.rooms import MatrixRoom
+from pathlib import Path
 
-# aiohttp ne lit pas HTTPS_PROXY (majuscules) automatiquement.
-# On force trust_env=True sur tous les ClientSession créés (y.c. ceux de matrix-nio).
-_orig_cs_init = aiohttp.ClientSession.__init__
-def _patched_cs_init(self, *args, **kwargs):
-    kwargs.setdefault("trust_env", True)
-    _orig_cs_init(self, *args, **kwargs)
-aiohttp.ClientSession.__init__ = _patched_cs_init
+MAX_CHARS = 3500
+ENV_VARS = ("TCHAP_HOMESERVER", "TCHAP_USERNAME", "TCHAP_PASSWORD", "TCHAP_ROOM_ID")
+STORE = Path(os.environ.get("TCHAP_STORE", ".tchap_store"))
+REPO_BASE = os.environ.get(
+    "REPO_BASE_URL", "https://github.com/DGE-SEN-DPIA/DPIA_veille/blob/main"
+)
 
-# Expose aussi les variantes minuscules au cas où
-if "HTTPS_PROXY" in os.environ:
-    os.environ.setdefault("https_proxy", os.environ["HTTPS_PROXY"])
-if "HTTP_PROXY" in os.environ:
-    os.environ.setdefault("http_proxy", os.environ["HTTP_PROXY"])
+# Sections de la note reprises dans le message (sous-chaînes, en minuscules).
+KEEP_SECTIONS = ("résum", "resum", "retenir")
 
-async def send_once(message: str):
-    homeserver = os.environ["TCHAP_HOMESERVER"]
-    username   = os.environ["TCHAP_USERNAME"]
-    password   = os.environ["TCHAP_PASSWORD"]
-    room_id    = os.environ["TCHAP_ROOM_ID"]
+# Sync minimal : aucun événement de timeline, donc aucun déchiffrement tenté.
+SYNC_FILTER = {
+    "room": {
+        "timeline": {"limit": 0},
+        "state": {"lazy_load_members": True},
+        "ephemeral": {"types": []},
+    },
+    "presence": {"types": []},
+}
 
-    # Chemin relatif au repo — doit être persistant entre les runs
-    store_path = os.path.join(
-        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-        "crypto_store"
-    )
-    os.makedirs(store_path, exist_ok=True)
 
-    # Configuration avec chiffrement activé
-    config = botlib.Config()
-    config.encryption_enabled        = True
-    config.ignore_unverified_devices = True   # accepte tous les appareils du salon
-    config.store_path                = store_path
+def build_message(md_text: str, note_name: str, max_chars: int) -> str:
+    """Titre + résumé + à retenir, tronqué, suivi du lien vers la note."""
+    title, blocks, current = None, [], None
 
-    creds = botlib.Creds(homeserver, username, password)
-    bot   = botlib.Bot(creds, config)
+    for line in md_text.splitlines():
+        if line.startswith("# ") and title is None:
+            title = line[2:].strip()
+        elif line.startswith("## "):
+            heading = line[3:].strip()
+            if any(k in heading.lower() for k in KEEP_SECTIONS):
+                current = [f"**{heading}**"]
+                blocks.append(current)
+            else:
+                current = None
+        elif current is not None:
+            current.append(line)
 
-    # On évite bot.main() : sa boucle sync_forever() ne se termine jamais.
-    # On reproduit juste le strict nécessaire pour envoyer un message chiffré.
+    header = f"📋 {title or f'Veille DPIA — {note_name}'}"
+    footer = f"\n\n→ Note complète : {REPO_BASE}/veilles/{note_name}.html"
+
+    body = "\n\n".join("\n".join(b).strip() for b in blocks).strip()
+    if not body:
+        return header + footer
+
+    budget = max(max_chars - len(header) - len(footer) - 2, 200)
+    if len(body) > budget:
+        body = body[:budget].rsplit("\n", 1)[0].rstrip()
+    return f"{header}\n\n{body}{footer}"
+
+
+def sent_record(note_name: str, fingerprint: str) -> dict | None:
+    """Renvoie l'envoi précédent si la note a déjà été postée à l'identique."""
+    path = STORE / "sent" / f"{note_name}.json"
     try:
-        creds.session_read_file()
-    except cryptography.fernet.InvalidToken:
-        os.remove(creds._session_stored_file)
-        creds.session_read_file()
+        record = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    return record if record.get("fingerprint") == fingerprint else None
 
-    await bot.api.login()
-    client = bot.api.async_client
 
-    # Force l'utilisation du proxy : injecte un ClientSession avec trust_env=True
-    # avant le premier appel réseau (client_session peut être None si login était en cache).
-    if hasattr(client, "client_session") and client.client_session:
-        await client.client_session.close()
-    client.client_session = aiohttp.ClientSession(trust_env=True)
+async def send(message: str, cfg: dict) -> str:
+    """Poste le message et renvoie l'event_id confirmé par le serveur."""
+    from nio import AsyncClient, AsyncClientConfig, LoginResponse, RoomSendResponse
 
-    # Sync minimal pour initialiser l'état olm/device du compte.
-    # timeout=0 : le serveur répond immédiatement sans long-poll (évite le timeout proxy).
-    await client.sync(timeout=0, full_state=False)
-    creds.session_write_file()
+    for name in ("nio", "nio.crypto", "peewee"):
+        logging.getLogger(name).setLevel(logging.CRITICAL)
 
-    # Enregistre le salon si absent du sync (pas d'activité récente).
-    if room_id not in client.rooms:
-        client.rooms[room_id] = MatrixRoom(room_id, client.user_id, encrypted=True)
+    STORE.mkdir(parents=True, exist_ok=True)
+    creds_file = STORE / "credentials.json"
+    client = AsyncClient(
+        cfg["homeserver"],
+        cfg["username"],
+        config=AsyncClientConfig(encryption_enabled=True, store_sync_tokens=True),
+        store_path=str(STORE),
+    )
+    try:
+        # Token réutilisé entre les runs : évite une session Tchap par exécution.
+        if creds_file.exists():
+            client.restore_login(**json.loads(creds_file.read_text(encoding="utf-8")))
+        else:
+            resp = await client.login(cfg["password"], device_name="veille-dpia")
+            if not isinstance(resp, LoginResponse):
+                raise RuntimeError(f"login refusé : {resp}")
+            creds_file.write_text(
+                json.dumps(
+                    {
+                        "user_id": client.user_id,
+                        "device_id": client.device_id,
+                        "access_token": client.access_token,
+                    },
+                    indent=2,
+                ),
+                encoding="utf-8",
+            )
 
-    # Récupère membres ET clés des appareils, requis pour partager la clé de
-    # session Megolm à tous les destinataires (sinon message non déchiffrable).
-    # /!\ joined_members() met members_synced=True, ce qui fait sauter à room_send()
-    # son bloc interne joined_members()+keys_query() : on doit donc appeler
-    # keys_query() nous-mêmes ici, sinon le device_store reste vide et la clé
-    # de session n'est partagée avec personne.
-    await client.joined_members(room_id)
-    if client.should_query_keys:
-        await client.keys_query()
+        if client.store is None:
+            client.load_store()
+        await client.sync(timeout=30000, sync_filter=SYNC_FILTER)
+        if client.should_upload_keys:
+            await client.keys_upload()
 
-    await bot.api.send_text_message(room_id, message)
-    await client.close()
+        resp = await client.room_send(
+            cfg["room_id"],
+            "m.room.message",
+            {"msgtype": "m.text", "body": message},
+            ignore_unverified_devices=True,
+        )
+        if not isinstance(resp, RoomSendResponse):
+            raise RuntimeError(f"envoi non confirmé : {resp}")
+        return resp.event_id
+    finally:
+        await client.close()
+
+
+def fail(reason: str) -> int:
+    print(f"[tchap] {reason}", file=sys.stderr)
+    print("TCHAP_RESULT=failed")
+    return 1
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--note", required=True, help="note .md du jour")
+    ap.add_argument("--max-chars", type=int, default=MAX_CHARS)
+    ap.add_argument("--dry-run", action="store_true", help="affiche sans envoyer")
+    ap.add_argument("--force", action="store_true", help="renvoie (usage manuel)")
+    args = ap.parse_args()
+
+    note = Path(args.note)
+    if not note.exists():
+        return fail(f"note introuvable : {note}")
+
+    message = build_message(
+        note.read_text(encoding="utf-8"), note.stem, args.max_chars
+    )
+
+    if args.dry_run:
+        print(message)
+        print(f"TCHAP_RESULT=dry_run chars={len(message)}")
+        return 0
+
+    missing = [v for v in ENV_VARS if not os.environ.get(v)]
+    if missing:
+        return fail(f"variables manquantes : {', '.join(missing)}")
+    cfg = {key.split("_", 1)[1].lower(): os.environ[key] for key in ENV_VARS}
+
+    fingerprint = hashlib.sha256(
+        f"{cfg['room_id']}|{note.stem}|{message}".encode("utf-8")
+    ).hexdigest()[:16]
+
+    if not args.force:
+        previous = sent_record(note.stem, fingerprint)
+        if previous:
+            event_id = previous.get("event_id")
+            print(f"[tchap] déjà envoyé (event_id={event_id}) — aucun envoi.")
+            print(f"TCHAP_RESULT=already_sent event_id={event_id} chars={len(message)}")
+            return 0
+
+    try:
+        event_id = asyncio.run(send(message, cfg))
+    except Exception as exc:  # noqa: BLE001 — on veut un code de sortie fiable
+        return fail(f"échec : {type(exc).__name__}: {exc}")
+
+    record = STORE / "sent" / f"{note.stem}.json"
+    record.parent.mkdir(parents=True, exist_ok=True)
+    record.write_text(
+        json.dumps(
+            {"fingerprint": fingerprint, "event_id": event_id, "chars": len(message)},
+            ensure_ascii=False,
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
+    print(f"[tchap] envoyé — event_id={event_id} ({len(message)} caractères)")
+    print(f"TCHAP_RESULT=sent event_id={event_id} chars={len(message)}")
+    return 0
+
 
 if __name__ == "__main__":
-    message = sys.argv[1] if len(sys.argv) > 1 else "(message vide)"
-    asyncio.run(send_once(message))
+    sys.exit(main())
