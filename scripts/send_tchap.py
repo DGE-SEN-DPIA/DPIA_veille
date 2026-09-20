@@ -71,7 +71,7 @@ def build_message(md_text: str, note_name: str, max_chars: int) -> str:
             current.append(line)
 
     header = f"📋 {title or f'Veille DPIA — {note_name}'}"
-    footer = f"\n\n→ Note complète : {REPO_BASE}/veilles/{note_name}.html"
+    footer = f"\n\n→ Note complète : {REPO_BASE}/veilles/{note_name}.md"
 
     body = "\n\n".join("\n".join(b).strip() for b in blocks).strip()
     if not body:
