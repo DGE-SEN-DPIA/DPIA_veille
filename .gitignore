@@ -4,3 +4,6 @@ crypto_store/*
 
 # Tchap bot session (contains encrypted access token)
 session.txt
+
+# Tchap runtime store (credentials + Matrix device keys)
+.tchap_store/
