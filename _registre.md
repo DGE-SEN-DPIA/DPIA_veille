@@ -302,4 +302,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 20/09/2026 | PUBLIQUE-FR | Infopro Digital tribunal Créteil | justice suspend 15/09 remplacement 8 secrétaires rédaction (L'Usine Nouvelle/LSA) par IA Digi — pénalité 8 000 €/jour, test conditions réelles requis | [NOUVEAU]
 20/09/2026 | PUBLIQUE-FR | Accord-cadre IA FP | CGT déclaration GT3 15/09 — V3 « insuffisante », signature automne fragilisée | [SUITE de 21/07]
 20/09/2026 | INFRA | CXMT G5 DRAM | 20/09 production de masse 11,95 nm, 4e mondial DRAM, 300 k wafers/mois sans ASML EUV | [NOUVEAU]
+21/09/2026 | PUBLIQUE-INT | US-China AI Dialogue | Bessent + He Lifeng 20/09 JPMorgan NY : accord création « US-China AI Dialogue » bilatéral J-3 avant sommet 24/09 — hotline prédite concrétisée avant le sommet | [SUITE de Trump-Xi 24/09]
+21/09/2026 | PUBLIQUE-INT | Trump AI Force + AI Czar | 19/09 Truth Social : AI Force (modèle Space Force), AI Czar, sondage renommer IA en SI/EI ; rejet pacing + contraintes (WaPo) ; structure sans mandat réglementaire | [NOUVEAU]
+21/09/2026 | PUBLIQUE-INT | AI hallucination militaire US | CNN 18/09 (exclusif) : analyste SOCOM printemps 2026 — chatbot IA hallucine armes nucl. sur navire chinois, avions militaires en l'air, opération annulée in extremis | [NOUVEAU]
+21/09/2026 | PRIVÉE-MONDE | Manus AI $500 M | Bloomberg 17/09 : $500 M cible, $4 Md val. (×2 vs $2 Md), post-blocage Meta/NDRC ; IDG Capital, Boyu, CATL, Tencent, ZhenFund ; IPO HK envisagée | [NOUVEAU]
+21/09/2026 | PRIVÉE-MONDE | Anthropic LSVP | 17/09 bêta Life Sciences Verification Program : accès différencié Mythos/Opus/Sonnet pour sciences de la vie vérifiées (drug discovery, bio recherche, clinique) | [NOUVEAU]
+21/09/2026 | ACADÉMIQUE | Google EnvHarness | 21/09 open-source Apache 2.0 : environnements agents adaptatifs, +9 pts benchmarks held-out (ALFWorld 62,4→68,3%, SWE-bench 52,13→54,79%) | [NOUVEAU]
 
