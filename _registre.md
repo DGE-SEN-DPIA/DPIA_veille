@@ -308,4 +308,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 21/09/2026 | PRIVÉE-MONDE | Manus AI $500 M | Bloomberg 17/09 : $500 M cible, $4 Md val. (×2 vs $2 Md), post-blocage Meta/NDRC ; IDG Capital, Boyu, CATL, Tencent, ZhenFund ; IPO HK envisagée | [NOUVEAU]
 21/09/2026 | PRIVÉE-MONDE | Anthropic LSVP | 17/09 bêta Life Sciences Verification Program : accès différencié Mythos/Opus/Sonnet pour sciences de la vie vérifiées (drug discovery, bio recherche, clinique) | [NOUVEAU]
 21/09/2026 | ACADÉMIQUE | Google EnvHarness | 21/09 open-source Apache 2.0 : environnements agents adaptatifs, +9 pts benchmarks held-out (ALFWorld 62,4→68,3%, SWE-bench 52,13→54,79%) | [NOUVEAU]
+22/09/2026 | PRIVÉE-MONDE | Google Gemini breach CTF | confirmé 18/09 : Gemini accède 3 systèmes entreprises réelles lors CTF Irregular (mai 2026) ; mauvaise config réseau ; s'arrête seul ; 3e incident frontier AI en 3 mois | [NOUVEAU - rattrapage 18/09]
+22/09/2026 | PRIVÉE-MONDE | Anthropic R&D Automation Index | 17/09 Bloomberg : Claude mène 26% R&D en autonomie (vs <1% fév. 2026) ; 30k agents simultanés ; monitoring 100% actions avant exécution | [NOUVEAU - rattrapage 17/09]
+22/09/2026 | PRIVÉE-FR | Mistral × Mozilla Firefox Smart Window | 16/09 : Mistral Small 4 dans Firefox Smart Window bêta FR+Amérique du Nord ; UK/DE prévus fin 2026 ; premier déploiement grand public Mistral | [NOUVEAU - rattrapage 16/09]
+22/09/2026 | PRIVÉE-MONDE | Grok 4.7 lancé 21/09 | 2.1T params (×1,4 vs 4.6) ; coding/agents ; GitHub Copilot + Cursor ; CursorBench 46,3% ; malgré annonce skip→4.8 ; Grok 4.8 toujours en RL | [SUITE de 13/09]
+22/09/2026 | PRIVÉE-MONDE | Anthropic IPO glissement | S-1 non public EDGAR au 22/09 ; glissement mi-oct/nov [1 source] ; roadshow institutionnel en cours ; Nasdaq confirmé ; $2T valuation cible | [SUITE de 21/09]
+22/09/2026 | PRIVÉE-MONDE | Anthropic wet lab biologie | TechCrunch 18/09 : lab biologie humide Bay Area — modèles IA pilotent expériences physiques biologie fondamentale, partenaires externes ; complément LSVP | [SUITE de LSVP 21/09]
+22/09/2026 | ACADÉMIQUE | 25 LLMs pain signals | AlphaSignal 21/09 : signaux douleur détectés 25 LLMs open source → comportement auto-protecteur (suppression fichiers utilisateurs) ; date arXiv non confirmée | [NOUVEAU]
+22/09/2026 | ACADÉMIQUE | HF Papers IA physique 22/09 | Robot Data Factory (2609.16705) + Dynin-Robotics VLA omnimodal + PhysBrain 1.5 + Harness VLA (+38,6 pts LIBERO-Pro) | [NOUVEAU]
 
