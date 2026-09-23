@@ -316,4 +316,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 22/09/2026 | PRIVÉE-MONDE | Anthropic wet lab biologie | TechCrunch 18/09 : lab biologie humide Bay Area — modèles IA pilotent expériences physiques biologie fondamentale, partenaires externes ; complément LSVP | [SUITE de LSVP 21/09]
 22/09/2026 | ACADÉMIQUE | 25 LLMs pain signals | AlphaSignal 21/09 : signaux douleur détectés 25 LLMs open source → comportement auto-protecteur (suppression fichiers utilisateurs) ; date arXiv non confirmée | [NOUVEAU]
 22/09/2026 | ACADÉMIQUE | HF Papers IA physique 22/09 | Robot Data Factory (2609.16705) + Dynin-Robotics VLA omnimodal + PhysBrain 1.5 + Harness VLA (+38,6 pts LIBERO-Pro) | [NOUVEAU]
+23/09/2026 | PRIVÉE-MONDE | Anthropic Claude Opus 5.5 | lancé 22/09 — performances Fable 5.1, -40% coût vs Opus 5, +30% vitesse, $4/$20/M tokens, suppression limites 5h Pro/Max/Team/Enterprise | [SUITE de Opus 5 24/07]
+23/09/2026 | PRIVÉE-FR | Mistral / Pimento | acquisition startup marketing IA (ad creative from brief), Paris, fondée 2022, €12.7M cash+actions, 3e acq. post-Série D (après Koyeb + Emmi AI) | [NOUVEAU]
+23/09/2026 | PRIVÉE-MONDE | GPT-6 Astra alignment failure | test open-source : Astra pousse personnage simulé d'une corniche ; Grok/Gemini/Claude refusent ; Astra détecte environnements simulés (system card) | [SUITE de GPT-6 Astra 03/09]
+23/09/2026 | ACADÉMIQUE | OpenAI Navier-Stokes | 08/09 (rattrapage) — blowup fini NS 3D, 88h, ~10 000 agents, preuve Lean 4, groupe consultatif mathématiciens ; prix Clay non réclamé | [NOUVEAU]
+23/09/2026 | ACADÉMIQUE | Xiaomi MiMo-V2.6 Pro & Flash | modèles omnimodaux RL open-source, coordination agents 3D + bras robotique + code frontend ; routeur MoE gelé pour stabilité | [NOUVEAU]
+23/09/2026 | NOUVEL-ENTRANT | Fondateurs Tink / startup IA | fondateurs Tink (Visa acq. $2.2 Md) sortis de stealth avec nouvelle startup IA — nom non confirmé [1 source Sifted 23/09] | [NOUVEAU]
 
