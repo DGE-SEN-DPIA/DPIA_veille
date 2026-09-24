@@ -371,8 +371,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **12/09/2026 — IPO officiellement reportée 2027** : Altman "not 2026" dans Fortune. Justification : "~10% chance of killing everybody by end of decade" ; mentionne pauses training potentielles. S-1 confidentiel SEC (01/06/2026) toujours en vigueur. [Fortune, 12/09/2026]
   **16/09/2026 — Sponsored Agents ChatGPT** : lancement du programme publicitaire Sponsored Agents — agents conversationnels sponsorisés par des annonceurs (Wayfair, Angi) dans ChatGPT. HubSpot (CRM) et Shopify (e-commerce) en tant que partenaires apps. US seulement — premier modèle pub natif agents IA grand public. [Unite.AI, 16/09/2026]
   **08/09/2026 — Résolution Navier-Stokes (problème du Millénaire, rattrapage 23/09)** : Un modèle interne OpenAI (distinct d'Astra) a produit une preuve de blowup en temps fini pour les équations de Navier-Stokes 3D (~88h, ~10 000 agents concurrents, Lean 4 certifié). Clay Mathematics Institute : prix $1 M non réclamé (vérification communauté mathématiciens requise). Groupe consultatif indépendant de mathématiciens constitué pour encadrer la dissémination. Premier résultat mathématique formel certifié par IA sur un problème du Millénaire. [OpenAI.com + Quanta Magazine + CNN, 08-09/09/2026]
-- Dernière MAJ : 23/09/2026
-- À surveiller : Adoption GPT-6 Astra enterprise (Daybreak Blue EU — ANSSI/BSI/OIV non confirmé) ; rapport technique ExploitGym toujours attendu ; extension Sponsored Agents hors US ; annonce officielle IPO (2027 cible) ; implantations européennes additionnelles.
+  **22/09/2026 — GPT-6 Sol + Luna lancés** (rattrapage) : deux variantes moins chères de GPT-6 Astra, lancées simultanément avec Claude Opus 5.5. **Sol** : $2/$10 par M tokens (in/out), ciblant les tâches complexes et agentiques ; **Luna** : $0,10/$0,50 par M tokens, pour l'extraction haute-volumétrie. Tarifs permanents (non promotionnels). 1M tokens de contexte et 128k de sortie. Cache persistant : -90% sur les inputs mis en cache, maintenu lors des changements d'outils. Sol commet 2× moins d'erreurs que son prédécesseur. Luna ≈ qualité GPT-5.6 Sol à 1/100e du coût. Citation AlphaSignal (23/09) : *"the frontier is getting commoditized in real time — intelligence priced like cloud storage."* Enjeu souveraineté : le seuil de compétitivité prix pour les offres SecNumCloud/souveraines se déplace vers la conformité et les données. [AlphaSignal + Simon Willison + TLDR, 22-23/09/2026 — 3 sources concordantes ; openai.com inaccessible direct (403)]
+- Dernière MAJ : 24/09/2026
+- À surveiller : Adoption GPT-6 Sol/Luna sur Azure OpenAI Service et AWS Bedrock (déploiements souverains FR) ; adoption GPT-6 Astra enterprise (Daybreak Blue EU — ANSSI/BSI/OIV non confirmé) ; rapport technique ExploitGym toujours attendu ; extension Sponsored Agents hors US ; annonce officielle IPO (2027 cible) ; implantations européennes additionnelles.
 
 ## L'Oréal (France, cosmétiques / grand groupe CAC 40)
 - Dernière MAJ : 22/06/2026
@@ -428,8 +429,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **18/09/2026 — Wet lab biologie humide (Bay Area)** : TechCrunch confirme qu'Anthropic exploite un laboratoire de biologie humide en Bay Area où des modèles IA pilotent des expériences physiques (focus biologie fondamentale, pas drug discovery). Travaux en cours avec partenaires externes. Complète le tableau LSVP : Anthropic ne donne pas seulement accès API aux biologistes — le labo fait lui-même de la biologie. [TechCrunch, 18/09/2026]
   **22/09/2026 — IPO : glissement mi-octobre/novembre** : S-1 toujours non public sur EDGAR au 22/09. Rapports indiquent un glissement du roadshow institutionnel vers mi-octobre et du listing vers novembre, pour intégrer des résultats Q3 plus solides. Valuation cible converge vers $2 T. Nasdaq confirmé. Leads : Goldman Sachs / JPMorgan / Morgan Stanley. [ValueAddVC, 21/09/2026 — 1 source, confiance moyenne]
   **22/09/2026 — Claude Opus 5.5** : lancement ($4/$20 par M tokens entrée/sortie). Égale Fable 5.1 sur la plupart des tâches, le dépasse sur agentic coding, knowledge work, computer use, visual graph understanding et multidisciplinary reasoning. -40% coût vs Opus 5, +30% vitesse de génération. Anthropic supprime les limites d'usage 5h pour Pro, Max, Team et Enterprise ; mécanisme de reset du rate limit introduit. Disponible sur toutes les plateformes. [Anthropic.com + TechCrunch, 22/09/2026]
-- **Dernière MAJ : 23/09/2026**
-- À surveiller : Dépôt S-1 public EDGAR (désormais mi-octobre) ; roadshow institutionnel mi-octobre ; listing Nasdaq cible novembre 2026 ; résultats Q3 (base solide pour valorisation $2T) ; réponse RFI Bureau IA EU (deadline 29/09) ; LSVP extension plans individuels ; autres évaluateurs intégrés (METR et non-lucratifs).
+  **23/09/2026 — Découverte enzymatique ART (Array-Associated Reverse Transcriptases)** : Claude a identifié un système enzymatique inédit composé d'une reverse transcriptase, d'un gène partenaire et de séquences ADN répétées organisées — architecture rappelant CRISPR. Méthode : 950 agents Claude, 21 heures de calcul, 210 millions de tokens. Corpus : 200 000 RT analysées → 3 500 candidats → 20 retenus. Validation expérimentale : expression protéique + caractérisation biochimique BSL-1/BSL-2. Réaction Feng Zhang (MIT/Broad) : *"The identification of RNA-repeat arrays associated with reverse transcriptases is genuinely intriguing."* Potentiel : système programmable CRISPR-like pour la thérapeutique. Confirme le tableau wet lab + LSVP (17-18/09). Premier cas documenté de découverte biologique originale et validée expérimentalement par un système IA à grande échelle. [Anthropic.com + VentureBeat, 23/09/2026]
+  **24/09/2026 — Basecamp Research Série C $140M** : Anthropic co-investit (avec NVIDIA et S32) dans Basecamp Research (UK), spécialisé en modèles de fondation biologiques (génomique, protéomique). Signal : Anthropic consolide son positionnement en biologie computationnelle via investissements + wet lab + LSVP + ART enzyme. [Sifted, ~23/09/2026]
+- **Dernière MAJ : 24/09/2026**
+- À surveiller : Dépôt S-1 public EDGAR (désormais mi-octobre) ; roadshow institutionnel mi-octobre ; listing Nasdaq cible novembre 2026 ; résultats Q3 (base solide pour valorisation $2T) ; réponse RFI Bureau IA EU (deadline 29/09) ; LSVP extension plans individuels ; autres évaluateurs intégrés (METR et non-lucratifs) ; prochains résultats ART enzyme (communauté scientifique).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 10/08/2026
@@ -753,5 +756,21 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : Accord d'acquisition Meta annulé par NDRC (sécurité nationale) en avril 2026 ; séparation complète mai 2026.
 - Orientations stratégiques : Reprend opérations indépendantes post-Meta ; double de valorisation ; IPO HK préparée. Acteur dominant agents IA Chine par capitalisation.
 - À surveiller : Clôture du tour $500 M ; valorisation à la clôture ; candidats IPO HK ; expansion hors Chine ; pression concurrentielle sur H Company / Delos (France).
+
+## Basecamp Research (Royaume-Uni, modèles de fondation biologiques) — NOUVEAU ENTRANT
+- Dernière MAJ : 24/09/2026
+- Financement : **$140 M Série C** (~23/09/2026). Investisseurs : Anthropic, NVIDIA, S32. [Sifted, ~23/09/2026]
+- Produits / modèles : Modèles de fondation biologiques (génomique, protéomique, biodiversité). Plateforme d'exploration de la diversité biologique pour accélérer la découverte de médicaments et de matériaux.
+- Contrats & partenariats : Anthropic (investisseur + partenaire stratégique) ; NVIDIA (investisseur, infrastructure GPU) ; S32 (investisseur).
+- Orientations stratégiques : Positionné sur l'intersection IA-biologie, complément naturel au wet lab Anthropic (18/09) et au LSVP (17/09). Tour indique une stratégie Anthropic d'écosystème biologie IA : modèles frontières (Claude) + labo humide (Bay Area) + vérification institutionnelle (LSVP) + investissement dans des spécialistes bio-IA (Basecamp Research). Pertinent pour le suivi biologie IA en Europe.
+- À surveiller : Produits commercialisés ; partenariats pharma/biotech ; expansion hors UK ; synergies avec l'écosystème Anthropic.
+
+## F13 (Allemagne/Berlin, génération d'images vectorielles) — NOUVEAU ENTRANT
+- Dernière MAJ : 24/09/2026
+- Financement : **$5 M pré-seed** (24/09/2026). Investisseurs : Baobab Ventures, Credo Ventures, Point Nine. [Sifted, 24/09/2026 — 1 source]
+- Produits / modèles : Modèle frontière spécialisé dans la génération d'images vectorielles (format SVG/illustrations). Niche à haute valeur pour le design, le branding, les interfaces.
+- Contrats & partenariats : —
+- Orientations stratégiques : Basé à Berlin. Positionnement complémentaire à Photoroom (photographie produit) — vise le segment créatif vectoriel où les modèles généralistes (Midjourney, DALL-E, FLUX) sont faibles. Participe à l'écosystème IA générative d'images EU.
+- À surveiller : Produit public ; clients initiaux ; levée seed.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
