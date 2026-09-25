@@ -330,4 +330,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 24/09/2026 | NOUVEL-ENTRANT | F13 (Allemagne, Berlin) | pré-seed $5M (Baobab Ventures, Credo Ventures, Point Nine) ; modèle frontière génération images vectorielles [1 source Sifted 24/09] | [NOUVEAU]
 24/09/2026 | PUBLIQUE-INT | Trump-Xi dîner d'État 24/09 | résultats non confirmés à rédaction ; WH dîner d'État, 8 PDG tech présents (Altman, Huang, Cook, Musk, Bezos, Pichai, Dell, Dimon) ; dialogue US-China AI opérationnel depuis 20/09 | [SUITE de 21/09]
 24/09/2026 | ACADÉMIQUE | MemBodied arXiv 2609.28256 | mémoire associative récurrente pour VLA (Vision-Langage-Action) ; signal IA physique ; faible traction initiale HF Papers | [NOUVEAU]
+25/09/2026 | PRIVÉE-MONDE | Google Gemini 3.8 Flash TTS / Flash-Lite TTS | clonage vocal 30s, 2 000+ voix 100+ langues, SynthID watermarking, lancé 23/09 Gemini API — rattrapage | [NOUVEAU]
+25/09/2026 | PRIVÉE-MONDE | Google Private AI Compute | mémoire IA chiffrée cross-appareils, clés sur appareil utilisateur, enclave serveur — future capability, annoncé 23/09 | [NOUVEAU]
+25/09/2026 | ACADÉMIQUE | AlphaGenome Atlas (DeepMind) | 9 Md SNV prédits, 30× AlphaFold, accès libre, 08/09/2026 — rattrapage | [NOUVEAU]
+25/09/2026 | ACADÉMIQUE | Horizon benchmark audit | 29 benchmarks IA cassés sur 5 000+ audités, scores gonflés artificiellement, publication 24/09 | [NOUVEAU]
+25/09/2026 | INFRA | DTCP fonds défense €455M | first close fonds défense inaugural allemand (cible €500M) ; défense tech EU 2026 = €6,7 Mrd YTD | [NOUVEAU]
+25/09/2026 | PRIVÉE-MONDE | Qwen Intelligence agents mobiles | 3 agents mobiles (planification/cross-app/création), 90% Mobile-Use, open benchmarks, annoncé 24/09 [1 source] | [NOUVEAU]
+25/09/2026 | PUBLIQUE-INT | Trump-Xi sommet d'État 24/09 | tenu 24/09 avec 8 PDG tech ; résultats non confirmés au 25/09 matin | [SUITE de 24/09]
 
