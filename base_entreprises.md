@@ -431,8 +431,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **22/09/2026 — Claude Opus 5.5** : lancement ($4/$20 par M tokens entrée/sortie). Égale Fable 5.1 sur la plupart des tâches, le dépasse sur agentic coding, knowledge work, computer use, visual graph understanding et multidisciplinary reasoning. -40% coût vs Opus 5, +30% vitesse de génération. Anthropic supprime les limites d'usage 5h pour Pro, Max, Team et Enterprise ; mécanisme de reset du rate limit introduit. Disponible sur toutes les plateformes. [Anthropic.com + TechCrunch, 22/09/2026]
   **23/09/2026 — Découverte enzymatique ART (Array-Associated Reverse Transcriptases)** : Claude a identifié un système enzymatique inédit composé d'une reverse transcriptase, d'un gène partenaire et de séquences ADN répétées organisées — architecture rappelant CRISPR. Méthode : 950 agents Claude, 21 heures de calcul, 210 millions de tokens. Corpus : 200 000 RT analysées → 3 500 candidats → 20 retenus. Validation expérimentale : expression protéique + caractérisation biochimique BSL-1/BSL-2. Réaction Feng Zhang (MIT/Broad) : *"The identification of RNA-repeat arrays associated with reverse transcriptases is genuinely intriguing."* Potentiel : système programmable CRISPR-like pour la thérapeutique. Confirme le tableau wet lab + LSVP (17-18/09). Premier cas documenté de découverte biologique originale et validée expérimentalement par un système IA à grande échelle. [Anthropic.com + VentureBeat, 23/09/2026]
   **24/09/2026 — Basecamp Research Série C $140M** : Anthropic co-investit (avec NVIDIA et S32) dans Basecamp Research (UK), spécialisé en modèles de fondation biologiques (génomique, protéomique). Signal : Anthropic consolide son positionnement en biologie computationnelle via investissements + wet lab + LSVP + ART enzyme. [Sifted, ~23/09/2026]
-- **Dernière MAJ : 24/09/2026**
-- À surveiller : Dépôt S-1 public EDGAR (désormais mi-octobre) ; roadshow institutionnel mi-octobre ; listing Nasdaq cible novembre 2026 ; résultats Q3 (base solide pour valorisation $2T) ; réponse RFI Bureau IA EU (deadline 29/09) ; LSVP extension plans individuels ; autres évaluateurs intégrés (METR et non-lucratifs) ; prochains résultats ART enzyme (communauté scientifique).
+  **23/09/2026 — Claude Marketplace** : lancement de l'app store d'Anthropic pour Claude. Trois niveaux : (1) connecteurs et plugins (2 000+ : Google Drive, Slack, Notion, Salesforce, Microsoft 365, Atlassian…) ; (2) agents et produits partenaires (Cursor, CrowdStrike, Harvey, Hebbia, Legora, Lovable, Snowflake) ; (3) partenaires de services (Accenture, Deloitte). Infrastructure MCP (Model Context Protocol). Facturation unifiée sur le budget Anthropic existant du client. Portail soumission développeurs ouvert le 25/09. [BleepingComputer + gHacks + AlphaSignal, 23-27/09/2026]
+- **Dernière MAJ : 28/09/2026**
+- À surveiller : Dépôt S-1 public EDGAR (désormais mi-octobre) ; roadshow institutionnel mi-octobre ; listing Nasdaq cible novembre 2026 ; résultats Q3 (base solide pour valorisation $2T) ; résultats RFI Bureau IA EU (deadline 29/09, résultats Q4) ; conformité AI Act Art. 28 pour les plugins Claude Marketplace ; LSVP extension plans individuels ; autres évaluateurs intégrés (METR et non-lucratifs) ; prochains résultats ART enzyme (communauté scientifique).
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 10/08/2026
@@ -453,8 +454,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **23/09/2026 — Gemini 3.8 Flash TTS et Flash-Lite TTS** : deux modèles de synthèse vocale. Flash TTS : génère des voix à partir d'une description textuelle, réplique une voix autorisée depuis 30 secondes d'audio, direction ligne par ligne (émotion, cadence, dialecte). Flash-Lite TTS : optimisé volumes élevés (doublage, agents vocaux). 2 000+ voix en production, 100+ langues. Watermarking SynthID intégré. Disponible sur Gemini API, Google AI Studio, Gemini Notebook (Flash) et Google Vids (Flash-Lite) ; Gemini Enterprise à venir. [blog.google/gemini-models, 23/09/2026]
   **23/09/2026 — Private AI Compute / Secure Server-Side Memory** : architecture mémoire IA persistante cross-appareils. Les données restent chiffrées dans le cloud, les clés cryptographiques restent sur les appareils de l'utilisateur, le déchiffrement s'effectue uniquement dans une enclave matérielle isolée. Audit de cybersécurité indépendant effectué ; documentation technique ouverte. Future capability (pas de date de sortie). [deepmind.google/blog, 23/09/2026]
   **08/09/2026 — AlphaGenome Atlas** : carte prédictive de 9 milliards de variants à nucléotide unique (SNV) — toutes les mutations d'une lettre ADN possibles dans le génome humain — sur des milliers de types cellulaires et tissus. 30× plus grand que la base AlphaFold. Accès libre via portail. Applications : maladies rares, variants non-codants, motifs régulateurs. [deepmind.google, 08/09/2026]
-- Dernière MAJ : 25/09/2026
-- À surveiller : GA Gemini 3.5 Pro (aucune date — 19+ délais) ; lancement Gemini Enterprise TTS ; conformité AI Act Art. 50(2) via SynthID (deadline 02/12/2026) ; résultats appel 10 M$ sécurité multi-agents (automne 2026) ; adoption Nano Banana Pro.
+  **25/09/2026 — Gemini 3.8 Live + Live Avatar** : lancement de Gemini 3.8 Live avec fonctionnalité "Live Avatar" — interactions en temps réel plus personnalisées avec un avatar synchronisant expressions et voix. Distinct de Gemini 3.8 Flash TTS (couvert le même jour). Positionnement concurrent des interfaces multimodales en direct — pression sur le segment voix/avatar. [blog.google, 25/09/2026 — 1 source]
+- Dernière MAJ : 28/09/2026
+- À surveiller : GA Gemini 3.5 Pro (aucune date — 19+ délais) ; lancement Gemini Enterprise TTS ; conformité AI Act Art. 50(2) via SynthID (deadline 02/12/2026) ; résultats appel 10 M$ sécurité multi-agents (automne 2026) ; adoption Nano Banana Pro ; déploiement Live Avatar grand public.
 
 ## Meta AI (États-Unis, modèles ouverts / recherche)
 - Dernière MAJ : 16/07/2026
@@ -776,5 +778,26 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Contrats & partenariats : —
 - Orientations stratégiques : Basé à Berlin. Positionnement complémentaire à Photoroom (photographie produit) — vise le segment créatif vectoriel où les modèles généralistes (Midjourney, DALL-E, FLUX) sont faibles. Participe à l'écosystème IA générative d'images EU.
 - À surveiller : Produit public ; clients initiaux ; levée seed.
+
+## DeepSeek (Chine, modèles de fondation)
+- Dernière MAJ : 28/09/2026
+- Financement :
+  **Juin 2026 — 1er tour externe ~16/06 : $7,4 Md (50 Md yuan)**, valorisation $50 Md+. Structure : LP sans equity/vote pour les investisseurs privés, seul le Fonds national IA État reçoit des droits de vote directs. Backers : Liang Wenfeng, Tencent, CATL. [registre 23/06/2026]
+  **Septembre 2026 — 2e tour en cours : ~$7,5 Md (~50 Md yuan)**, cible closing fin octobre 2026. En vue d'une **IPO à la Bourse de Shanghai**. Demande forte malgré la hausse des prix V4. [The Information / Dealroom, ~25/09/2026]
+- Produits / modèles :
+  **DeepSeek V4** — lancé officiellement 15/07/2026. V4-Pro (1,6T/49B actifs), V4-Flash (284B/13B actifs). Pricing peak/off-peak (×2 heures bureau Beijing). Deprecation API deepseek-chat/deepseek-reasoner le 24/07/2026. [16/07/2026]
+- Contrats & partenariats : —
+- Orientations stratégiques :
+  **ARR $1 Md+ (fin septembre 2026)** : doublement en quelques mois, **100% API** (chatbot public gratuit). Les hausses de prix V4 (×2,3 à ×4,5) n'ont pas entamé la demande. CEO Liang Wenfeng : priorité aux modèles, pas au cash. [The Information / PYMNTS, ~25/09/2026]
+  Stratégie : lab frontière chinois commercial, IPO Shanghai en préparation — premier de ce type. Distribution API-first, chatbot gratuit comme vitrine. Compétition frontale avec OpenAI et Anthropic sur le marché des API.
+- À surveiller : Closing 2e tour ($7,5 Md, cible fin oct.) ; dépôt IPO Bourse Shanghai ; ARR évolution ; nouveaux modèles V4.x ; restrictions export US GPU (impact capacité entraînement) ; conformité GPAI AI Act pour déploiement EU.
+
+## Humanos (Portugal/Lisbonne, monitoring agents IA) — NOUVEAU ENTRANT
+- Dernière MAJ : 28/09/2026
+- Financement : **$3,2 M seed** (~27/09/2026). Lead : Anthemis. [Sifted, 28/09/2026]
+- Produits / modèles : Réseau de monitoring et de scoring comportemental continu pour les agents IA. Évalue le comportement des agents en temps réel, produit des scores de confiance.
+- Contrats & partenariats : —
+- Orientations stratégiques : Positionnement "assurance comportementale pour agents IA" — marché directement stimulé par l'AI Act Art. 9 (GPAI risque systémique) et Art. 50 (obligations d'information). Premier acteur EU identifié dans cette niche. Basé à Lisbonne, soutenu par Anthemis (fintech/insurtech spécialist VC). Pertinent pour les discussions AI Act sur la supervision des agents en production.
+- À surveiller : Premiers clients / pilotes ; levée Série A ; adoption dans l'écosystème EU compliance IA ; positionnement face aux futurs GPAI auditing requirements.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->

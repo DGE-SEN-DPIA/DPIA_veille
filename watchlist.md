@@ -20,11 +20,11 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 
 |Entreprise|Dernier check|Source primaire|Domaine|
 |-|-|-|-|
-|Mistral|2026-09-25|https://mistral.ai/news/|Modèles de fondation (France)|
-|OpenAI|2026-09-25|https://openai.com/news/|Modèles de fondation|
-|Anthropic|2026-09-25|https://www.anthropic.com/news|Modèles de fondation|
-|Google DeepMind|2026-09-25|https://deepmind.google/discover/blog/|Recherche \& modèles|
-|NVIDIA|2026-09-25|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
+|Mistral|2026-09-28|https://mistral.ai/news/|Modèles de fondation (France)|
+|OpenAI|2026-09-28|https://openai.com/news/|Modèles de fondation|
+|Anthropic|2026-09-28|https://www.anthropic.com/news|Modèles de fondation|
+|Google DeepMind|2026-09-28|https://deepmind.google/discover/blog/|Recherche \& modèles|
+|NVIDIA|2026-09-28|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
 
 \---
 
@@ -63,7 +63,7 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 
 |Entreprise|Dernier check|Source primaire|Domaine|
 |-|-|-|-|
-|DeepSeek|—|https://www.deepseek.com/en|Modèles de fondation|
+|DeepSeek|2026-09-28|https://www.deepseek.com/en|Modèles de fondation|
 |Alibaba (Qwen)|—|https://qwenlm.github.io/blog/|Modèles de fondation|
 |Moonshot AI|—|https://www.moonshot.cn|Modèles de fondation (Kimi)|
 |Z.ai (Zhipu)|—|https://z.ai|Modèles de fondation (GLM)|
