@@ -379,4 +379,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 30/09/2026 | INFRA | IPercept (Stockholm, SE) $16,5M Série A | IA monitoring machines industrielles ; Isogon Ventures + 2150 | [NOUVEAU]
 30/09/2026 | ACADÉMIQUE | Google ScientistTwo | agent recherche autonome ; dépasse humains sur 86 tâches +25% [1 source AlphaSignal 29/09 — date arXiv non confirmée] | [NOUVEAU - 1 source]
 30/09/2026 | PUBLIQUE-EU | Sifted Summit Londres J1 | 30/09-01/10 Shoreditch ; Sifted 250 EU startups annoncé ; OpenAI/Laura Modiano + Nick Clegg | [SUITE de 28/09]
+01/10/2026 | PRIVÉE-MONDE | Google DeepMind Gemini 4 Argon | lancé 30/09/2026 — dépasse GPT-6 Astra + Opus 5.5 sur 12/18 benchmarks ; 1M tokens sortie ; $2/$10/M tokens intro (double après) ; Fairwind Program accès initial [date confirmée 2 sources tierces] | [NOUVEAU — rattrapage 30/09]
+01/10/2026 | PRIVÉE-MONDE | ElevenLabs $22Md tender offer | $300M lead Wellington/T.Rowe Price + EQT/GS/GIC/OTPP/Sapphire ; ElevenAgents ARR ×3 depuis Série D fév.2026 ; 15M convs/sem ; pression Gradium FR | [NOUVEAU]
+01/10/2026 | NOUVEL-ENTRANT | Blackfuel (Paris/international) | neocloud inference Kantor (H Company) + Fischer + Kilani ; >$250M revenus contractés stealth exit 30/09 ; AI Token Grid mondial ; Digital Realty BCN1 Barcelone | [NOUVEAU]
+01/10/2026 | PRIVÉE-MONDE | OpenAI levée $30Md upgrade multi-sources | confirmé QZ.com / Yahoo Finance / American Bazaar ; $1,4T valorisation ; ARR ~$70Md +70% T3 ; bridge pre-IPO explicite | [SUITE de 30/09]
+01/10/2026 | PRIVÉE-MONDE | GPT-6.1 Sol cached input + Decisions API | cached input $0,10/M tokens (−50% vs Sol initial, −95% vs standard) ; Decisions API Luna 150ms accès limité | [SUITE de 29/09]
+01/10/2026 | PUBLIQUE-EU | EU Scaleup Fund €5Md UK/US | révélé Sifted Summit 30/09 Sebastian Frisk COO ; investissement UK + US possible ; cible €50Md sur 5-10 ans | [NOUVEAU]
+01/10/2026 | INFRA | NVIDIA GTC Berlin 21/10/2026 | Jensen Huang keynote IA agentique/physique/robotique ; signal calendrier | [NOUVEAU]
+01/10/2026 | ACADÉMIQUE | NeurIPS 2026 stats confirmées | 7 900/30 709 acceptés (25,7%) ; 19/62 tutoriaux ; 102 workshops Sydney/Paris/Atlanta | [SUITE de 29/09]
+01/10/2026 | ACADÉMIQUE | IROS 2026 Pittsburgh dernier jour | workshops world models physical AI 01/10 ; première démo publique Daimon-TWM ; synthèse lundi | [SUITE de 28/09]
 
