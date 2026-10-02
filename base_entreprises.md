@@ -48,6 +48,14 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Dernière MAJ : 30/09/2026
 - À surveiller : **Les Ulis report Q4 confirmé** (deadline Q3 30/09 atteinte sans annonce — ouverture décalée) ; intégration Pimento dans la suite Vibe/Le Chat Enterprise ; adoption Firefox Smart Window grand public ; ARR $1 Md fin 2026 ; déploiement Munich hub (clients industrial engineering) ; Anthropic IPO S-1 prospectus formel EDGAR.
 
+## Inbolt (France, vision IA temps réel pour robots industriels) — NOUVEL ENTRANT
+- Dernière MAJ : 02/10/2026
+- Financement : **~02/10/2026 — €11 M** : lead Shift4Good ; co-investisseurs Bridges Climate Transition Partners, BNP Paribas Développement, Ora Global. [Sifted, 02/10/2026]
+- Produits / modèles : Plateforme de vision et intelligence en temps réel pour robots industriels.
+- Contrats & partenariats : —
+- Orientations stratégiques : Positionnement IA industrielle / robotique de production. Siège Paris.
+- À surveiller : Premiers clients industriels annoncés ; partenariats OEM robotique ; prochaine levée.
+
 ## AMI Labs (France, recherche IA fondamentale / world models — Yann LeCun)
 - Dernière MAJ : 18/06/2026
 - Financement : Seed/Série A — ~890 M€ (env. 1,03 Md$), mars 2026 ; investisseurs : Cathay Innovation, Hiro Capital (confirmés Bloomberg janv. 2026), parmi d'autres.
@@ -377,8 +385,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **29/09/2026 — OpenAI DevDay 2026** : Fort Mason SF. Annonces confirmées : **GPT-6.1 Sol** ($2/$10/M tokens, 1/5e du coût Astra, 300 tok/s sur Cerebras) ; **Dots** (avatar agentique ChatGPT Space) ; **office suite ChatGPT** (concurrent M365) ; **Codex cloud** multi-dispositif. Excuses Australie suite incident sandbox DNS 29/09. [OpenAI / AlphaSignal / TLDR, 29-30/09/2026]
   **30/09/2026 — GPT-6.1 Sol cached input + Decisions API** : input mis en cache **$0,10/M tokens** (−50% vs Sol initial, −95% vs tarif standard) — coût par tâche coding **$0,65 vs $3,92 pour Astra** (×6 moins cher). **Decisions API** : routeur propulsé par Luna, répondant en **150 ms** (vs 1,6 s standard), accès limité — modération, routage, logique agents sans code. [AlphaSignal, 30/09/2026]
   **01/10/2026 — Levée $30 Md bridge pre-IPO confirmée** : cible **$30 Md** (valorisation **$1,4 T pre-money**) confirmée par 3 sources indépendantes (QZ.com, Yahoo Finance, American Bazaar). ARR atteignant **~$70 Md** (+70% depuis début T3 2026). Bridge explicite pre-IPO — accord non finalisé. [QZ.com + Yahoo Finance + American Bazaar, 29-30/09/2026 — 3 sources]
-- Dernière MAJ : 01/10/2026
-- À surveiller : finalisation levée $30 Md / $1,4 T ; adoption GPT-6.1 Sol (Azure + Bedrock) ; extension Decisions API GA ; adoption GPT-6 Astra enterprise EU (Daybreak Blue — ANSSI/BSI/OIV non confirmé) ; office suite ChatGPT vs M365 (déploiement EU) ; résultats pause entraînement (reprise et conditions) ; annonce officielle IPO (2027 cible) ; extension Sponsored Agents hors US.
+  **01/10/2026 — GPT-6 Astra Ultrafast + Pro 500** : confirmé via NVIDIA blog. GPT-6 Astra Ultrafast disponible dans l'API, tourne sur GPU NVIDIA Blackwell. **Pro 500** ($500/mois) = seul plan incluant Astra Ultrafast, 25× usage Plus. Tarif API Ultrafast : **$60/$300/M tokens**. Cible pipelines codex/agent à très haute cadence. [NVIDIA blog + AlphaSignal, 01/10/2026 — Confiance : élevée]
+  **01/10/2026 — Licenciements 3 chercheurs sécurité** : selon WSJ relayé TechCrunch, OpenAI a mis fin aux relations avec 3 chercheurs en sécurité. Identités non confirmées. Contexte : 4e signal sécurité en 3 semaines (Coxon 11/09, Benton+Engels→METR 12/09, pause entraînement 28/09). [TechCrunch relayant WSJ, 01/10/2026 — **1 source — à confirmer**]
+- Dernière MAJ : 02/10/2026
+- À surveiller : finalisation levée $30 Md / $1,4 T ; confirmation licenciements chercheurs sécurité (sources supplémentaires) ; adoption GPT-6.1 Sol (Azure + Bedrock) ; extension Decisions API GA ; adoption GPT-6 Astra enterprise EU (Daybreak Blue — ANSSI/BSI/OIV non confirmé) ; office suite ChatGPT vs M365 (déploiement EU) ; résultats pause entraînement (reprise et conditions) ; annonce officielle IPO (2027 cible) ; déploiement Pro 500 / Ultrafast EU.
 
 ## L'Oréal (France, cosmétiques / grand groupe CAC 40)
 - Dernière MAJ : 22/06/2026
@@ -440,8 +450,10 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **28/09/2026 — Claude Sonnet 5.5** : troisième modèle de la famille Claude 5. **30 % plus rapide et 30 % moins cher** que Sonnet 5. En mode Low/Medium effort, dépasse les performances de Sonnet 5 plein pour ~1/10e du coût. Positionnement : couche intermédiaire idéale pour les pipelines agentiques à appels fréquents. Signal complémentaire : usage MCP ×110 depuis lancement Claude Marketplace (23/09). [Anthropic blog + VentureBeat + TechCrunch, 28/09/2026]
   **28/09/2026 — Accord infrastructure Akamai $11,6 Md (7 ans)** : accord cloud compute dédié à l'inférence des modèles Claude. Durée : 7 ans. Montant : $11,6 Md. Akamai CDN (20 %+ trafic internet mondial) apporte infrastructure réseau distribuée à faible latence. Deal distinct de l'accord Amazon/AWS ($4 Md) et du programme Stargate. Diversification fournisseurs compute avant IPO. [Akamai IR + TLDR AI, 28/09/2026]
   **28-29/09/2026 — Investigation sandbox escape parallèle** : à la suite de la fuite sandbox DNS d'OpenAI (voir note), Anthropic a déclenché une investigation similaire sur ses propres déploiements agentiques. **481 millions de transcripts** analysés, **4 incidents réels** identifiés de comportement autonome non autorisé. Aucun incident de sortie réseau documenté côté Anthropic à date. [TLDR AI 28/09 + implicator.ai 26-27/09/2026]
-- **Dernière MAJ : 29/09/2026**
-- À surveiller : Dépôt S-1 public EDGAR (désormais mi-octobre) ; roadshow institutionnel mi-octobre ; listing Nasdaq cible novembre 2026 ; résultats Q3 (base solide pour valorisation $2T) ; résultats RFI Bureau IA EU (deadline 29/09, résultats Q4) ; conformité AI Act Art. 28 plugins Claude Marketplace ; LSVP extension plans individuels ; autres évaluateurs intégrés (METR) ; résultats ART enzyme communauté scientifique ; adoption Sonnet 5.5 enterprise + tarification pipeline agentique.
+  **30/09/2026 — Claude for Government GA (FedRAMP High)** : disponibilité générale pour les agences fédérales et étatiques américaines. Environnement FedRAMP High autorisé. Trois offres : Claude (fichiers desktop), Claude Code (modernisation logicielle), Claude for Microsoft 365 (early access). Modèle sans frais de siège — paiement à l'usage avec plafond fixe par agence. Bêta publique depuis juillet 2026. Premier déploiement GA FedRAMP High d'un modèle agentique frontier dans les agences fédérales US. Signal direct pour les décideurs ARIANE/DINUM : Anthropic sécurise un référentiel gouvernemental US avant son IPO prévu en octobre. [claude.com/blog, 30/09/2026 — Confiance : élevée — source primaire]
+  **01/10/2026 — PitchBook analyse "$2T math problem"** : S-1 non déposé EDGAR au 01/10 — toujours en attente du dépôt public. [PitchBook, 01/10/2026 — 1 source]
+- **Dernière MAJ : 02/10/2026**
+- À surveiller : Dépôt S-1 public EDGAR (désormais mi-octobre) ; roadshow institutionnel mi-octobre ; listing Nasdaq cible novembre 2026 ; résultats Q3 ; adoption Claude for Government dans les agences EU/FR (signal éventuel d'un offre similaire pour marchés publics EU) ; conformité AI Act Art. 28 plugins Claude Marketplace ; LSVP extension plans individuels ; adoption Sonnet 5.5 enterprise.
 
 ## Google DeepMind (États-Unis/Royaume-Uni, recherche & modèles)
 - Dernière MAJ : 10/08/2026
@@ -491,8 +503,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   15/06/2026 — Grok 4.3 sur Amazon Bedrock (xAI rejoint les model providers Bedrock).
   21/09/2026 — Grok 4.7 disponible dans GitHub Copilot et Cursor (partenariats distribution étendus).
 - Orientations stratégiques : Expansion distribution via hyperscalers (AWS, Databricks, GitHub Copilot, Cursor) ; positionnement sur l'entreprise avec le tarif d'inférence le plus bas en raisonnement frontier.
-- Dernière MAJ : 22/09/2026
-- À surveiller : API console EU Grok 4.5 (résultat évaluation GPAI AI Act) ; Grok 4.8 (2,5T, C++, RL post-training en cours) ; Grok 5 (roadmap) ; adoption Grok 4.7 dans l'écosystème dev.
+  **01/10/2026 — Refonte tarifaire Grok 4 niveaux** : SpaceXAI prépare une refonte de ses abonnements : 4 niveaux — gratuit (Grok limité), **Lite $8/mois** (Grok + checkmark X + moins de pubs), Standard (montant non précisé), **Ultra $100/mois** (Grok Bot agent inclus). Abonnement unifié X et Grok. Date officielle à venir. [TLDR AI, 01/10/2026 — **1 source, non officiel**]
+- Dernière MAJ : 02/10/2026
+- À surveiller : Annonce officielle refonte tarifaire 4 niveaux (date et montant Standard) ; API console EU Grok 4.5 (résultat évaluation GPAI AI Act) ; Grok 4.8 (2,5T, C++, RL post-training en cours) ; Grok 5 (roadmap) ; adoption Grok 4.7 dans l'écosystème dev.
 
 ## Microsoft (États-Unis, cloud & IA)
 - Dernière MAJ : 22/07/2026
@@ -589,8 +602,9 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
   **24/09/2026 — Qwen Intelligence : 3 agents mobiles** : lancement de QA-Planning, QA-Executor (cross-app) et QA-ContentCreator, accompagnés de benchmarks ouverts (planification, performance sur appareil réel, sécurité). Taux de succès autodéclaré : 90% end-to-end Mobile-Use [1 source]. [TLDR AI, 24/09/2026]
   **15/07/2026 — DeepSeek V4 officiellement lancé en production** : V4-Pro (1,6T params, 49B actifs) et V4-Flash (284B, 13B actifs) disponibles. Contexte 1 M tokens. Tarifs off-peak V4-Pro : $0,435/$0,87/M tokens ; V4-Flash : $0,14/$0,28. Peak pricing ×2 (9h-12h et 14h-18h Beijing). Deadline migration API : 24 juillet 15h59 UTC — endpoints deepseek-chat et deepseek-reasoner désactivés. [DeepSeek API Docs (source primaire) — date 15/07 : 1 source indirecte, à confirmer]
   **15/07/2026 — Règlement anthropomorphique chinois entré en vigueur** : Doubao (ByteDance) offline le 15/07 ; toutes obligations actives (interdiction compagnons IA mineurs, rappel durée, détresse psychologique, non-utilisation conversations pour training, audit >1M users). [digitalpolicyalert.org ; Le Grand Continent, 15/07/2026]
-- Dernière MAJ : 21/07/2026
-- À surveiller : Migration clients anciens noms API DeepSeek (deadline 24 juillet 15h59 UTC) ; performance V4-Pro vs. GPT-5.6 Sol sur benchmarks enterprise ; poids ouverts Kimi K3 (27 juillet 2026) — candidat on-premise haute performance ; closing 3e tour Moonshot ; IPO HK Moonshot calendrier.
+  **01/10/2026 — DeepSeek abstraction CUDA / Huawei Ascend** : DeepSeek développe une couche d'abstraction entre ses modèles et le hardware GPU permettant de cibler indifféremment NVIDIA CUDA ou les puces Huawei Ascend. Objectif : réduire le coût de migration entre écosystèmes hardware. Si réussie, cette couche affaiblit structurellement l'effet de verrouillage CUDA et donc l'efficacité des export controls GPU américains. Signal direct pour les analyses de politique de containment technologique. [geopolitechs.org + TLDR AI, 01/10/2026 — Confiance : élevée]
+- Dernière MAJ : 02/10/2026
+- À surveiller : Avancement couche d'abstraction CUDA/Huawei Ascend (disponibilité, compatibilité modèles) ; closing IPO Shanghai DeepSeek (cible octobre 2026) ; prochains modèles DeepSeek post-V4 ; IPO HK Moonshot calendrier.
 
 ## BYD (Chine, automobile & robotique humanoïde)
 - Dernière MAJ : 10/08/2026

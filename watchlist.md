@@ -24,7 +24,7 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 |OpenAI|2026-10-01|https://openai.com/news/|Modèles de fondation|
 |Anthropic|2026-10-01|https://www.anthropic.com/news|Modèles de fondation|
 |Google DeepMind|2026-10-01|https://deepmind.google/discover/blog/|Recherche \& modèles|
-|NVIDIA|2026-09-30|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
+|NVIDIA|2026-10-02|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
 
 \---
 
