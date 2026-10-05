@@ -20,11 +20,11 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 
 |Entreprise|Dernier check|Source primaire|Domaine|
 |-|-|-|-|
-|Mistral|2026-10-01|https://mistral.ai/news/|Modèles de fondation (France)|
-|OpenAI|2026-10-01|https://openai.com/news/|Modèles de fondation|
-|Anthropic|2026-10-01|https://www.anthropic.com/news|Modèles de fondation|
-|Google DeepMind|2026-10-01|https://deepmind.google/discover/blog/|Recherche \& modèles|
-|NVIDIA|2026-10-02|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
+|Mistral|2026-10-05|https://mistral.ai/news/|Modèles de fondation (France)|
+|OpenAI|2026-10-05|https://openai.com/news/|Modèles de fondation|
+|Anthropic|2026-10-05|https://www.anthropic.com/news|Modèles de fondation|
+|Google DeepMind|2026-10-05|https://deepmind.google/discover/blog/|Recherche \& modèles|
+|NVIDIA|2026-10-05|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
 
 \---
 
