@@ -849,12 +849,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Confirmation officielle IR AMD ; intégration modèles World Labs dans la feuille de route AMD ; impact sur la roadmap GPU Instinct ; concurrents Qualcomm/Intel sur le même mouvement.
 
 ## Cohere × Aleph Alpha (Canada/Allemagne, enterprise AI souverain) — NOUVEAU ENTRANT (fusion)
-- Dernière MAJ : 29/09/2026
+- Dernière MAJ : 06/10/2026
 - Financement : Valorisation combinée déclarée : **$20 Md** (~28/09/2026). Cohere (Toronto) : dernière levée ~$500 M Série D (NVIDIA, Oracle, Salesforce). Aleph Alpha (Heidelberg) : €500 M (BW Länder, Schwarz Group, Bosch, SAP, Siemens Energy, Vector).
 - Produits / modèles : **Cohere** : Command R+, Rerank, Embed — offres enterprise (RAG, agents, classification). **Aleph Alpha** : PHARIA (modèles souverains EU, hébergement on-premise/cloud EU), offres pour administrations et secteurs réglementés.
+  **05/10/2026 — Kolibri-1** (Aleph Alpha) : premier modèle open-weight issu de la fusion. Architecture MoE **78,1B total / 3,46B actifs par token**, contexte **1M tokens**, tool calling (niveaux low/medium/high), bilingue **anglais+allemand**, licence **Apache 2.0**, hébergé Hugging Face. Matériel minimum : 2× A100 80Go ou 1× H200 ; API OpenAI-compatible (vLLM). Conçu explicitement pour déploiements souverains, critiques et réglementés. [TLDR AI + AlphaSignal 05/10/2026 — 2 sources]
+  **05/10/2026 — Cohere North 2** : nouvelle plateforme agents IA avec mémoire persistante multi-session, quotas et rate limits par utilisateur, harness agents redessiné. Disponible en cloud, **on-premises et air-gapped**. [VentureBeat 05/10/2026 — 1 source]
 - Contrats & partenariats : Clients Aleph Alpha : Bundeswehr, SAP, Bosch, Siemens, administrations allemandes, secteur santé DE. Clients Cohere : Oracle, Salesforce, SAP (Enterprise AI Search).
 - Orientations stratégiques : Fusion signée ~28/09/2026 (annonce initiale avril 2026). **Joëlle Pineau** (ex-VP Research Meta AI) nommée CAO. Citation Pineau : *"Without local AI, we are held by the throat by US and Chinese interests."* Entité combinée = alternative souveraine la mieux capitalisée EU/Canada pour entreprises et administrations. Concurrence directe : OpenAI Enterprise, Anthropic for Business, Microsoft Copilot, Google Workspace IA. Positionnement fort sur contrats publics EU nécessitant hébergement EU et conformité RGPD/AI Act.
-- À surveiller : Intégration opérationnelle des équipes (TO : T1 2027 ?) ; offre commerciale unifiée ; adoption dans les marchés publics EU/FR (France, Allemagne, Belgique) ; positionnement sur l'AI Act Art. 28 (obligations fournisseurs aval) ; concurrence avec Mistral sur le segment souverain FR.
+  Kolibri-1 + North 2 = premier tangible de la stratégie post-fusion : open-weight souverain (concurrence Mistral) + plateforme agents on-prem/air-gapped.
+- À surveiller : Adoption Kolibri-1 par les administrations FR/EU (évaluation SecNumCloud compatible ?) ; intégration opérationnelle des équipes (TO : T1 2027 ?) ; offre commerciale unifiée ; adoption marchés publics EU/FR ; positionnement AI Act Art. 28 ; concurrence avec Mistral sur segment souverain FR.
 
 ## Nscale (Royaume-Uni, cloud GPU / infrastructure IA) — NOUVEAU ENTRANT
 - Dernière MAJ : 29/09/2026
@@ -879,5 +882,21 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Orientations stratégiques : Positionnement neocloud alternatif aux hyperscalers (AWS, Azure, GCP) pour l'inférence IA. Lien direct avec l'écosystème FR (Kantor ex-H Company) — signal que H Company perd un co-fondateur au profit d'une infrastructure concurrente. Vision "token comme matière première" (utility grid pour l'IA), analogue à CoreWeave et Nscale mais à partir d'une base européenne.
 - Contrats & partenariats : Digital Realty (BCN1 Barcelone) — premier partenaire datacenter.
 - À surveiller : premier tour de table public ; expansion hors Barcelone ; positionnement EU AI Act / SecNumCloud ; concurrence avec Nscale (UK), G42, OVHcloud ; devenir de H Company post-départ Kantor.
+
+## Fleuret AI (Paris, France — cybersécurité agentique / pentest IA) — NOUVEAU ENTRANT
+- Dernière MAJ : 06/10/2026
+- Financement : **06/10/2026 — €4M pre-seed** : lead **Raise Ventures** ; co-investisseurs Auriga Cyber Ventures, Wind, Better Angle. [Sifted 06/10/2026]
+- Produits / modèles : Automatisation des tests de pénétration (pentest) par agents IA — offensive cybersecurity agentique.
+- Contrats & partenariats : —
+- Orientations stratégiques : Positionnement sur la menace cyber agentique — agents IA pour identifier des vulnérabilités avant les attaquants. Siège Paris.
+- À surveiller : Premiers clients annoncés ; positionnement ANSSI/certifications ; prochaine levée.
+
+## RobCo (Munich, Allemagne — robotique industrielle) — NOUVEAU ENTRANT
+- Dernière MAJ : 06/10/2026
+- Financement : **~05/10/2026 — licorne ($1Md+)** via cession d'actions secondaire (share sale). Cédants et acquéreurs non précisés. [Sifted 06/10/2026]
+- Produits / modèles : Robots modulaires pour l'automatisation du travail sur le sol d'usine (factory floor automation).
+- Contrats & partenariats : —
+- Orientations stratégiques : Nouvelle licorne de la robotique industrielle européenne. Segment : automatisation manufacturing PME/ETI européennes.
+- À surveiller : Détails du tour secondaire (acquéreurs) ; expansion géographique ; prochaine levée primaire.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
