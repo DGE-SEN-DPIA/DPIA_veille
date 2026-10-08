@@ -901,3 +901,13 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - À surveiller : Détails du tour secondaire (acquéreurs) ; expansion géographique ; prochaine levée primaire.
 
 <!-- Prochains nouveaux entrants détectés : ajouter ici une nouvelle section au format ci-dessus dès la première mention. -->
+
+## Mises à jour du 08/10/2026
+- **Anthropic** — Dernière MAJ : 08/10/2026. Produits : Claude Haiku 5.5 publié 07/10/2026 (détails à vérifier). À surveiller : prix/benchmarks Haiku 5.5.
+- **DeepSeek** — Dernière MAJ : 08/10/2026. Financement : 07/10/2026 levée de $12Md rapportée proche (Tencent, CATL ; IPO STAR, CITIC) [1 source yellow.com via TLDR] — contredit ~$7,5Md suivi. À surveiller : confirmation.
+- **OpenAI** — Dernière MAJ : 08/10/2026. Produits : Decisions API en bêta publique 07/10/2026 ($0,10/M entrée) ; 377 résultats maths d'un modèle interne.
+- **Mistral** — Dernière MAJ : 08/10/2026. Réception Large 4 (Sifted 08/10) : « Mistral n'est plus seul en Europe » (Kolibri).
+- **Nous Research** (États-Unis, agents open source Hermes) — Dernière MAJ : 08/10/2026. Financement : valo. $1,5Md confirmée 07/10/2026 ; $75M rapporté (Robot Ventures, USV). Produits : agents pour utilisateurs professionnels.
+- **Rivercell** (France, IA biologie cellulaire) — Dernière MAJ : 08/10/2026. Financement : seed $25M (08/10/2026).
+- **Netsec** (France, cybersécurité managée IA) — Dernière MAJ : 08/10/2026. Financement : €8,93M, lead Partech (08/10/2026).
+- **Anduril** (États-Unis, défense) — Dernière MAJ : 08/10/2026. Contrats : jusqu'à $1,8Md/5 ans Army NGC2 ; usine Arsenal-2 Baltimore.
