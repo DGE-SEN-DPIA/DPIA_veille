@@ -29,3 +29,4 @@
 ---
 
 *Créé le 31/07/2026*
+| 08/10/2026 | Envoi Tchap (étape 4) | `send_tchap.py` : ModuleNotFoundError: No module named 'nio' (setup_tchap.sh sans effet). Pas de relance (règle). | Non résolu — note sur main : veilles/2026-10-08.md |
