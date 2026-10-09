@@ -911,3 +911,27 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - **Rivercell** (France, IA biologie cellulaire) — Dernière MAJ : 08/10/2026. Financement : seed $25M (08/10/2026).
 - **Netsec** (France, cybersécurité managée IA) — Dernière MAJ : 08/10/2026. Financement : €8,93M, lead Partech (08/10/2026).
 - **Anduril** (États-Unis, défense) — Dernière MAJ : 08/10/2026. Contrats : jusqu'à $1,8Md/5 ans Army NGC2 ; usine Arsenal-2 Baltimore.
+
+## Anthropic (US, modèles de fondation) — MAJ 09/10/2026
+- Dernière MAJ : 09/10/2026
+- Produits / modèles : Claude Haiku 5.5 (07/10/2026) : $0,10/$0,50 par M tokens ≤100k, $0,50/$2,50 au-delà ; AWS/GCP/Azure.
+- Contrats & partenariats : Cyber Mission (08/10/2026) — CIDP avec 11 partenaires (Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi, Palo Alto, PwC, Rockwell) ; OSS Scanner ; engagement Genesis Mission (08/10, détails à vérifier) ; Grok Bot (xAI) intégrerait Opus 5.5 [à vérifier].
+- Orientations stratégiques : cyber défensif ; politique d'usage 2026 (08/10) : abus de modèles et ingérence électorale.
+
+## OpenAI (US, modèles de fondation) — MAJ 09/10/2026
+- Dernière MAJ : 09/10/2026
+- Financement : Broadcom cherche >$50Md de dette pour la puce sur mesure (08/10) ; revenu inférieur de $20Md aux projections selon TechCrunch (08/10, 1 source).
+- Produits / modèles : GPT-6 Intelligent UI (Sol payant, Luna Free/Go), 07-08/10/2026.
+
+## Manus (CN, agents) — MAJ 09/10/2026
+- Dernière MAJ : 09/10/2026
+- Financement : tour >$500M rapporté (TechCrunch 08/10), valo visée ~$4Md (Bloomberg mi-sept), Tencent possible premier actionnaire ; Dealroom : $323,5M. Scission de Meta effective en mai 2026.
+- À surveiller : clôture, IPO Hong Kong.
+
+## Verso (FR, IA analyse comportement consommateur) — MAJ 09/10/2026
+- Dernière MAJ : 09/10/2026
+- Financement : $6M seed, 09/10/2026 ; Angular Ventures (lead), 100in, Kima, Olympe Capital, Sharpstone.
+
+## Arena (US, classement IA) — MAJ 09/10/2026
+- Dernière MAJ : 09/10/2026
+- Financement : valorisation $3,1Md, presque doublée en 10 mois (TechCrunch 08/10/2026).
