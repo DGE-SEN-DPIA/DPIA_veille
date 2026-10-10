@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """
-send_tchap.py — Envoie la note de veille du jour dans un salon Tchap.
+send_tchap.py — Envoie le résumé de la note de veille du jour dans un salon Tchap.
+
+Changements par rapport à la version précédente (10/10/2026) :
+  * mise en forme : le message est écrit en Markdown (# titre, ## section,
+    puces) et part accompagné de sa version HTML (formatted_body). C'est elle
+    que Tchap affiche : il n'interprète pas le Markdown d'un message reçu ;
+  * contenu : seule la section « Résumé » est reprise. « À retenir » ne l'est plus.
 
 Garanties :
   * taille stable   : la troncature est faite ici, jamais par le modèle ;
@@ -29,7 +35,9 @@ import hashlib
 import json
 import logging
 import os
+import re
 import sys
+from html import escape
 from pathlib import Path
 
 MAX_CHARS = 3500
@@ -40,7 +48,7 @@ REPO_BASE = os.environ.get(
 )
 
 # Sections de la note reprises dans le message (sous-chaînes, en minuscules).
-KEEP_SECTIONS = ("résum", "resum", "retenir")
+KEEP_SECTIONS = ("résum", "resum")
 
 # Sync minimal : aucun événement de timeline, donc aucun déchiffrement tenté.
 SYNC_FILTER = {
@@ -54,7 +62,7 @@ SYNC_FILTER = {
 
 
 def build_message(md_text: str, note_name: str, max_chars: int) -> str:
-    """Titre + résumé + à retenir, tronqué, suivi du lien vers la note."""
+    """Titre + résumé en Markdown, tronqué, suivi du lien vers la note."""
     title, blocks, current = None, [], None
 
     for line in md_text.splitlines():
@@ -63,17 +71,17 @@ def build_message(md_text: str, note_name: str, max_chars: int) -> str:
         elif line.startswith("## "):
             heading = line[3:].strip()
             if any(k in heading.lower() for k in KEEP_SECTIONS):
-                current = [f"**{heading}**"]
+                current = [heading]
                 blocks.append(current)
             else:
                 current = None
-        elif current is not None:
+        elif current is not None and line.strip() != "---":
             current.append(line)
 
-    header = f"📋 {title or f'Veille DPIA — {note_name}'}"
+    header = f"# 📋 {title or f'Veille DPIA — {note_name}'}"
     footer = f"\n\n→ Note complète : {REPO_BASE}/veilles/{note_name}.md"
 
-    body = "\n\n".join("\n".join(b).strip() for b in blocks).strip()
+    body = "\n\n".join("## " + "\n".join(b).strip() for b in blocks).strip()
     if not body:
         return header + footer
 
@@ -81,6 +89,36 @@ def build_message(md_text: str, note_name: str, max_chars: int) -> str:
     if len(body) > budget:
         body = body[:budget].rsplit("\n", 1)[0].rstrip()
     return f"{header}\n\n{body}{footer}"
+
+
+def to_html(md: str) -> str:
+    """Markdown → HTML, pour ce que contiennent les notes : titres, puces, gras, code."""
+    out, in_list = [], False
+    for line in md.splitlines():
+        text = escape(line.strip(), quote=False)
+        if not text:
+            continue
+        text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
+        text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
+        text = re.sub(r"(https?://[^\s<]*[^\s<.,;:!?)])", r'<a href="\1">\1</a>', text)
+        item = re.match(r"[-*] +(.*)", text)
+        if in_list and not item:
+            out.append("</ul>")
+            in_list = False
+        if item:
+            if not in_list:
+                out.append("<ul>")
+                in_list = True
+            out.append(f"<li>{item.group(1)}</li>")
+        elif text.startswith("#"):
+            # Titres décalés de deux niveaux : le # de la note devient <h3>.
+            level = min(len(text) - len(text.lstrip("#")) + 2, 6)
+            out.append(f"<h{level}>{text.lstrip('# ')}</h{level}>")
+        else:
+            out.append(f"<p>{text}</p>")
+    if in_list:
+        out.append("</ul>")
+    return "".join(out)
 
 
 def sent_record(note_name: str, fingerprint: str) -> dict | None:
@@ -137,7 +175,12 @@ async def send(message: str, cfg: dict) -> str:
         resp = await client.room_send(
             cfg["room_id"],
             "m.room.message",
-            {"msgtype": "m.text", "body": message},
+            {
+                "msgtype": "m.text",
+                "body": message,
+                "format": "org.matrix.custom.html",
+                "formatted_body": to_html(message),
+            },
             ignore_unverified_devices=True,
         )
         if not isinstance(resp, RoomSendResponse):
