@@ -935,3 +935,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Arena (US, classement IA) — MAJ 09/10/2026
 - Dernière MAJ : 09/10/2026
 - Financement : valorisation $3,1Md, presque doublée en 10 mois (TechCrunch 08/10/2026).
+
+## Hone (US, agents d'entreprise) — MAJ 12/10/2026
+- Dernière MAJ : 12/10/2026
+- Financement : seed $60M, valo $285M, Benchmark + Index Ventures (~08-09/10/2026).
+- Produits / modèles : « Engines », agents longue durée ; clients Cognition, Modal. Fondateur Moritz Stephan (ex-Cognition).
+
+## Daedalus (DE, automatisation d'usine) — MAJ 12/10/2026
+- Dernière MAJ : 12/10/2026
+- Orientations stratégiques : fondée par Jonas Schneider (ex-OpenAI robotique) ; insolvabilité rapportée par Sifted le 12/10/2026 [1 source].
+- À surveiller : montants levés, repreneur éventuel.
+
+## Black Forest Labs (DE, génération image/vidéo → robotique) — MAJ 12/10/2026
+- Dernière MAJ : 12/10/2026
+- Produits / modèles : FLUX 3 Action (7B, world-action model), 1er RoboLab-120 à 42,9 % ; poids ouverts (licence limitée <$5M revenu) ; partenariat NVIDIA (Isaac Lab, GB200, Jetson).
+
+## OpenAI — MAJ 12/10/2026
+- Financement : revenu annualisé ~$50Md selon investisseurs (−$20Md vs chiffre rapporté ; méthode différente d'Anthropic), TLDR 09/10.
+
+## Medical Microinstruments (IT, robotique chirurgicale) — MAJ 12/10/2026
+- Dernière MAJ : 12/10/2026
+- Financement : $125M Série D, BioStar Capital (lead), S3 Ventures, Angelini Ventures (Sifted 12/10).
