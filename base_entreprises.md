@@ -956,3 +956,29 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Medical Microinstruments (IT, robotique chirurgicale) — MAJ 12/10/2026
 - Dernière MAJ : 12/10/2026
 - Financement : $125M Série D, BioStar Capital (lead), S3 Ventures, Angelini Ventures (Sifted 12/10).
+
+## Decart (US/Israël, logiciel multi-puces pour IA) — MAJ 13/10/2026
+- Dernière MAJ : 13/10/2026
+- Financement : $300M en mai 2026 à $4Md de valorisation ; discussions de rachat par Amazon ~$7Md (WSJ 11/10/2026, non confirmé).
+- À surveiller : signature ; intérêt antérieur d'Anthropic (~$6Md, abandonné) et de NVIDIA (non confirmé).
+
+## Reflection AI (US, modèles open-weight) — MAJ 13/10/2026
+- Dernière MAJ : 13/10/2026
+- Produits / modèles : Beam, premier modèle open-weight (début 10/2026), orienté entreprises, code et agents.
+- Contrats & partenariats : NVIDIA en discussions précoces pour renforcer son investissement ou fournir du calcul, possible offre de rachat (TLDR 12/10/2026, 1 source).
+
+## Anthropic — MAJ 13/10/2026
+- Dernière MAJ : 13/10/2026
+- Produits / modèles : agents gérés multi-agents (jusqu'à 1 000 agents par exécution, configuration multiagent_20261001) ; politique d'usage mise à jour 08/10/2026 (applicable 12/11/2026).
+
+## NVIDIA — MAJ 13/10/2026
+- Dernière MAJ : 13/10/2026
+- Orientations stratégiques : ouverture de l'architecture Vera Rubin à l'OCP (12/10/2026) ; discussions avec Reflection AI.
+
+## HyLight (France, dirigeables autonomes d'inspection) — MAJ 13/10/2026
+- Dernière MAJ : 13/10/2026
+- Financement : €13M (Rubio Impact Ventures, DRW, Teampact ; Y Combinator, Ring Capital), Sifted 13/10/2026.
+
+## Scarlet (Royaume-Uni, IA certification dispositifs médicaux) — MAJ 13/10/2026
+- Dernière MAJ : 13/10/2026
+- Financement : $50M Série B, Headline (lead), Notion, Atomico, Creandum, Kindred, Entrepreneurs First.

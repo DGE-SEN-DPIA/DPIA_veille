@@ -469,3 +469,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 12/10/2026 | ACADÉMIQUE | NVIDIA KV cache cross-modèle ×25 ; Cache-to-Cache | AlphaSignal 12/10 | [NOUVEAU — 1 source]
 12/10/2026 | ACADÉMIQUE | arXiv limite 2 soumissions/mois ; record 40 363 en sept. | TTY 10/10 | [NOUVEAU — 1 source]
 12/10/2026 | ACADÉMIQUE | HF Papers : Reflex 2610.12772 ; EmbodiedCLBench 2610.13021 ; RSI-Anything 2610.13912 | 12/10 | [NOUVEAU]
+
+13/10/2026 | PRIVÉE-MONDE | Amazon × Decart discussions rachat ~$7Md | WSJ 11/10 via Reuters ; Decart $4Md valo mai 2026 | [NOUVEAU — non confirmé]
+13/10/2026 | PRIVÉE-MONDE | Anthropic agents gérés 1 000 agents/exécution (66/70 bugs) ; étude Vals AI équipes ×1,8–5,1 coût | AlphaSignal/TLDR 12/10 | [NOUVEAU]
+13/10/2026 | PUBLIQUE-INTL | Royaume-Uni déclaration obligatoire sécurité IA frontière (projet) | Sifted 13/10 | [NOUVEAU — 1 source]
+13/10/2026 | PUBLIQUE-INTL | Anthropic usage policy (abus envers modèles, applicable 12/11) ; OpenAI licencie 3 chercheurs sécurité ; CNBC évaluateurs indép. | 08-12/10 | [NOUVEAU — 1 source]
+13/10/2026 | PRIVÉE-MONDE | NVIDIA Vera Rubin ouvert à l'OCP ; NVIDIA×Reflection AI discussions (Beam open-weight) | 12/10 | [NOUVEAU]
+13/10/2026 | PRIVÉE-MONDE | Meta Muse agent lancé ; modèles de décision (Microsoft-Decision-1, Clef-omni, pplx-decider) ; Gemini 4 Argon [rumeur] | TLDR 12/10 | [NOUVEAU — 1 source]
+13/10/2026 | PRIVÉE-FR | HyLight (Paris) €13M | Sifted 13/10 ; Rubio Impact, DRW ; YC | [NOUVEAU — 1 source]
+13/10/2026 | PRIVÉE-MONDE | Scarlet $50M B ; Matter Machine £4M ; UniSieve $9M A ; Stryker ~$400M CMR Surgical ; 1Komma5 €70M | Sifted 13/10 | [NOUVEAU — 1 source]
+13/10/2026 | ACADÉMIQUE | HF Papers 13/10 : 2610.13630, 2610.13166, 2609.39601, 2609.35965 ; Anthropic rapport actions non intentionnelles | 12-13/10 | [NOUVEAU]
