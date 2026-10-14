@@ -479,3 +479,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 13/10/2026 | PRIVÉE-FR | HyLight (Paris) €13M | Sifted 13/10 ; Rubio Impact, DRW ; YC | [NOUVEAU — 1 source]
 13/10/2026 | PRIVÉE-MONDE | Scarlet $50M B ; Matter Machine £4M ; UniSieve $9M A ; Stryker ~$400M CMR Surgical ; 1Komma5 €70M | Sifted 13/10 | [NOUVEAU — 1 source]
 13/10/2026 | ACADÉMIQUE | HF Papers 13/10 : 2610.13630, 2610.13166, 2609.39601, 2609.35965 ; Anthropic rapport actions non intentionnelles | 12-13/10 | [NOUVEAU]
+
+14/10/2026 | PRIVÉE-MONDE | Meta Muse Wonder / Wonder Full | 12/10/2026 TestingCatalog ; Active Memory/Focus ; AA Index 52/56 (2 pts sous Opus 5.5) ; API + Muse Code | [NOUVEAU — 1 source]
+14/10/2026 | PUBLIQUE-INTL | Anthropic étude auto-réplication IoT | 12/10/2026 primaire ; 9B sur 8/9 matériels ; seuil petits modèles fin 2026 estimé | [NOUVEAU]
+14/10/2026 | PUBLIQUE-EU | NVIDIA investissements multi-milliards tech européenne | Sifted 14/10 titre seul ; GTC Berlin 21/10 | [SUITE de 01/10 — 1 source]
+14/10/2026 | PRIVÉE-MONDE | Microsoft Maia 300 | +40 % perf/MW ; déploiement 2027 ; pas de location directe | [NOUVEAU — date à vérifier]
+14/10/2026 | PRIVÉE-MONDE | Z.ai GLM-Legal ; NVIDIA PersonaPlex-7B | 19,2 % Harvey LAB, $0,15/tâche ; voix full-duplex MIT | 13/10 AlphaSignal/TLDR | [NOUVEAU]
+14/10/2026 | PRIVÉE-FR | Mistral Large 4 ancrage visuel 42 % | AlphaSignal 13/10 | [SUITE de 07/10 — 1 source]
+14/10/2026 | PRIVÉE-MONDE | DeepMind Gemini 4 Argon for Robotics ; EmbeddingGemma 2 | blog « octobre 2026 » | [NOUVEAU — date non confirmée]
+14/10/2026 | PRIVÉE-MONDE | Causa Prima $20M seed (Base10) ; Ubitium $14M seed (Ibex) ; Epyr €15M A | Sifted 14/10 | [NOUVEAU — 1 source]
+14/10/2026 | ACADÉMIQUE | LeWAM 2610.12818 ; Vela 2610.14709 ; DoSA 2610.13990 ; Priming Amazon | 13-14/10 | [NOUVEAU]

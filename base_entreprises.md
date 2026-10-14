@@ -982,3 +982,34 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Scarlet (Royaume-Uni, IA certification dispositifs médicaux) — MAJ 13/10/2026
 - Dernière MAJ : 13/10/2026
 - Financement : $50M Série B, Headline (lead), Notion, Atomico, Creandum, Kindred, Entrepreneurs First.
+
+## Meta (États-Unis, modèles de fondation / agents)
+- Dernière MAJ : 14/10/2026
+- Produits / modèles : Muse Wonder et Muse Wonder Full (12/10/2026) — Active Memory, Active Focus ; AA Index v4.3 : 52 / 56 ; Muse Wonder via Meta Model API et Muse Code, Full réservé aux abonnés Muse Code. Agent Muse lancé 08/09/2026.
+- Orientations stratégiques : capex > $100Md évoqué (interview Zuckerberg/Wang, TLDR 13/10/2026).
+- À surveiller : prix API, benchmark indépendant.
+
+## Microsoft (États-Unis, cloud & puces)
+- Dernière MAJ : 14/10/2026
+- Produits / modèles : Maia 300 (inférence, +40 % perf/MW, déploiement multi-GW dès 2027, pas de location directe) [date à vérifier].
+- À surveiller : spécifications, partenariat TSMC (négociations > 300 000 unités, The Information via AI Weekly).
+
+## Z.ai / Zhipu (Chine, modèles de fondation)
+- Dernière MAJ : 14/10/2026
+- Produits / modèles : GLM-Legal (13/10/2026) sur GLM-5.3-Flash ; 19,2 % Harvey LAB ; $0,15/tâche. GLM-5.3-HighSpeed en gray release (~490 tokens/s, Pandaily).
+
+## Causa Prima (Espagne, IA juridique)
+- Dernière MAJ : 14/10/2026
+- Financement : $20M seed, lead Base10 ; QED, FJ Labs, Creandum (Sifted 14/10/2026).
+
+## Ubitium (Allemagne, calcul universel pour l'IA)
+- Dernière MAJ : 14/10/2026
+- Financement : $14M seed, lead Ibex Investors ; OpenOcean, KBC Focus Fund, Runa Capital (Sifted 14/10/2026).
+
+## Anthropic (États-Unis) — ajout 14/10/2026
+- Dernière MAJ : 14/10/2026
+- Recherche : étude auto-réplication sur IoT (12/10/2026) ; rumeur routage Opus 5.5 vers nouveau checkpoint (non confirmée).
+
+## NVIDIA (États-Unis) — ajout 14/10/2026
+- Dernière MAJ : 14/10/2026
+- Produits : PersonaPlex-7B open source (voix full-duplex, MIT). Sifted 14/10 : investissements multi-milliards dans la tech européenne annoncés [1 source]. GTC Berlin 21/10/2026.
