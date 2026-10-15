@@ -489,3 +489,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 14/10/2026 | PRIVÉE-MONDE | DeepMind Gemini 4 Argon for Robotics ; EmbeddingGemma 2 | blog « octobre 2026 » | [NOUVEAU — date non confirmée]
 14/10/2026 | PRIVÉE-MONDE | Causa Prima $20M seed (Base10) ; Ubitium $14M seed (Ibex) ; Epyr €15M A | Sifted 14/10 | [NOUVEAU — 1 source]
 14/10/2026 | ACADÉMIQUE | LeWAM 2610.12818 ; Vela 2610.14709 ; DoSA 2610.13990 ; Priming Amazon | 13-14/10 | [NOUVEAU]
+
+15/10/2026 | PRIVÉE-MONDE | Google Gemini 4 Argon GA 13/10 ; $2/$10 jusqu'au 30/11 ; AA 53 vs Opus 5.5 58 ; Vals 68,9 % | VentureBeat 13/10 | [SUITE de 14/10]
+15/10/2026 | PRIVÉE-MONDE | NVIDIA participations minoritaires Boltz, Foresight, Hiverge, Riverlane, Prima Mente (Londres 14/10) | Sifted 15/10 | [NOUVEAU — 1 source]
+15/10/2026 | PRIVÉE-MONDE | Anthropic Scion remplace git (30 000 merges/j) ; bureau Singapour + MOU gouvernement 14/10 | anthropic.com 13-14/10 | [NOUVEAU — MOU 1 source]
+15/10/2026 | PRIVÉE-MONDE | OpenAI ingénieur arrêté (dispositif d'enregistrement) ; GPT 6.1 Sol contexte 500K | TLDR AI 14/10 | [NOUVEAU — 1 source]
+15/10/2026 | PRIVÉE-MONDE | Character.AI Chapter 11 ; NVIDIA Run:ai open source ; Pi API bêta ; LFM2.5-24B-A2B ; Fish Audio Drama 3 ; Moondream→Prime Intellect | TLDR AI/AlphaSignal 14/10 | [NOUVEAU — 1 source]
+15/10/2026 | PUBLIQUE-INTL | British Business Bank £180M dans six fonds IA ; EU Inc statut paneuropéen contesté | Sifted 15/10 | [NOUVEAU — 1 source]
+15/10/2026 | PRIVÉE-MONDE | Qilimanjaro €19,6M A (Indra) ; Matters $5M pré-seed ; Sifted AI 100 (Tandem Health 1er) | Sifted 15/10 | [NOUVEAU — 1 source]
+15/10/2026 | ACADÉMIQUE | HF Papers 15/10 : 2610.20571 ; 2610.20584 ; 2610.19975 ; 2610.20572 ; 2610.14448 | 15/10 | [NOUVEAU]

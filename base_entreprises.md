@@ -1013,3 +1013,30 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## NVIDIA (États-Unis) — ajout 14/10/2026
 - Dernière MAJ : 14/10/2026
 - Produits : PersonaPlex-7B open source (voix full-duplex, MIT). Sifted 14/10 : investissements multi-milliards dans la tech européenne annoncés [1 source]. GTC Berlin 21/10/2026.
+
+## Google / DeepMind (États-Unis, modèles & cloud) — ajout 15/10/2026
+- Dernière MAJ : 15/10/2026
+- Produits / modèles : Gemini 4 Argon dévoilé 30/09/2026, GA 13/10/2026 ; $2/$10 par M tokens jusqu'au 30/11/2026 puis $4/$20 (VentureBeat 13/10) ; AA Index 53 vs Opus 5.5 58 ; Gemini 4 Argon for Robotics (ERQA 87 %).
+- Contrats & partenariats : collaboration DeepMind–gouvernement de Singapour (détection d'escroqueries, octobre 2026, jour non confirmé).
+
+## NVIDIA (États-Unis, semi-conducteurs) — ajout 15/10/2026
+- Dernière MAJ : 15/10/2026
+- Financement : participations minoritaires (montants n.d.) dans Boltz, Foresight, Hiverge, Riverlane, Prima Mente — Londres 14/10/2026 (Sifted, 1 source).
+- Produits : Run:ai entièrement open source (DSX AI Factory), 14/10/2026.
+- À surveiller : GTC Berlin 21/10/2026 (investissements européens).
+
+## Anthropic (États-Unis, modèles de fondation) — ajout 15/10/2026
+- Dernière MAJ : 15/10/2026
+- Orientations stratégiques : Scion remplace git (13/10/2026), 30 000 merges/j ; bureau Singapour (annoncé 16/09/2026) + MOU gouvernement (14/10/2026, 1 source primaire).
+
+## OpenAI (États-Unis) — ajout 15/10/2026
+- Dernière MAJ : 15/10/2026
+- Produits : GPT 6.1 Sol, contexte par défaut 500K (14/10/2026).
+- À surveiller : affaire de l'ingénieur arrêté (dispositif d'enregistrement), aucune compromission déclarée des poids/code/données.
+
+## Character.AI (États-Unis) — ajout 15/10/2026
+- Dernière MAJ : 15/10/2026
+- Orientations stratégiques : Chapter 11 volontaire, vente judiciaire (14/10/2026).
+
+## Qilimanjaro Quantum Tech (Espagne, quantique) — ajout 15/10/2026
+- Financement : €19,6M Série A, Indra (lead) + SETT (Sifted 15/10/2026).

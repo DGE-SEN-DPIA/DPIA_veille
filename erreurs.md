@@ -34,3 +34,5 @@
 | 13/10/2026 | Sources directes | openai.com/news : HTTP 403 ; presscorner Commission : page vide au fetch. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 14/10/2026 | Sources directes | openai.com/news et sifted.eu/articles/nvidia-european-investments : HTTP 403 ; PitchBook (2 emails) : corps illisible ; Tier B/C (watchlist) non balayés ce jour. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 15/10/2026 | Sources directes | openai.com/news : HTTP 403 ; PitchBook (2 emails) sans fait exploitable ; Tier B/C non balayés. | Non résolu — Dernier check OpenAI laissé au 12/10 |
