@@ -1040,3 +1040,19 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Qilimanjaro Quantum Tech (Espagne, quantique) — ajout 15/10/2026
 - Financement : €19,6M Série A, Indra (lead) + SETT (Sifted 15/10/2026).
+
+## Mise à jour 16/10/2026
+### Anthropic (US, modèles de fondation)
+- Dernière MAJ : 16/10/2026
+- Financement : 16/10/2026 — T3 2026 revenu rapporté 16,8 Md$ (+45 % vs T2 11,5 Md$) ; IPO visée dès novembre, valo envisagée 2 000 Md$ (dernière valo privée 965 Md$, Série H 05/2026) [TLDR 15/10, WSJ via Digg 19/09 — 1 source, non confirmé].
+- Produits : 15/10/2026 — traces OpenTelemetry (Managed Agents, API, SDK) ; Claude Code desktop sessions parallèles.
+- Contrats & partenariats : 15/10/2026 — METR (6 pers., accès employé), SecureBio, Accenture, Faculty ; discussions Hugging Face [anthropic.com].
+### Mistral (France)
+- Dernière MAJ : 16/10/2026
+- Produits : 15/10/2026 — Timestral (5M/28M/123M/209M, séries temporelles, MIT modifiée, Mistral Forge) [mistral.ai].
+### Revolution Labs (UK, modèles de diffusion)
+- Dernière MAJ : 16/10/2026
+- Financement : Accel pressenti lead d'un tour de 60 M$ (Sifted 16/10) ; Bloomberg ≥100 M$ [contradiction]. Fondateur Nando de Freitas (ex-DeepMind, Microsoft AI).
+### NVIDIA
+- Dernière MAJ : 16/10/2026
+- Produits : 15/10/2026 — Nemotron Super VL et Bolt (titre blog seul). À surveiller : GTC Berlin 21/10/2026.

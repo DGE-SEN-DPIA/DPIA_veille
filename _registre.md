@@ -498,3 +498,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 15/10/2026 | PUBLIQUE-INTL | British Business Bank £180M dans six fonds IA ; EU Inc statut paneuropéen contesté | Sifted 15/10 | [NOUVEAU — 1 source]
 15/10/2026 | PRIVÉE-MONDE | Qilimanjaro €19,6M A (Indra) ; Matters $5M pré-seed ; Sifted AI 100 (Tandem Health 1er) | Sifted 15/10 | [NOUVEAU — 1 source]
 15/10/2026 | ACADÉMIQUE | HF Papers 15/10 : 2610.20571 ; 2610.20584 ; 2610.19975 ; 2610.20572 ; 2610.14448 | 15/10 | [NOUVEAU]
+
+16/10/2026 | PRIVÉE-MONDE | Anthropic revenu T3 16,8 Md$ (+45 %) ; IPO visée novembre | TLDR 15/10 ; T2 11,5 Md$ Bloomberg ; valo IPO 2 000 Md$ envisagée | [NOUVEAU — 1 source]
+16/10/2026 | PUBLIQUE-INTL | Anthropic évaluateurs indépendants (METR accès employé, SecureBio, Accenture, Faculty, HF en discussion) | anthropic.com 15/10 ; Accord Maison-Blanche superintelligence [à vérifier] | [SUITE de 13/10]
+16/10/2026 | PRIVÉE-FR | Mistral Timestral (5M–209M, séries temporelles, 1er GIFT-Eval) | mistral.ai 15/10 ; MIT modifiée | [NOUVEAU]
+16/10/2026 | PRIVÉE-MONDE | Revolution Labs (N. de Freitas) 60 M$ Accel vs ≥100 M$ Bloomberg | Sifted 16/10 | [NOUVEAU — contradiction, non clos]
+16/10/2026 | PRIVÉE-MONDE | NVIDIA Nemotron Super VL / Bolt ; xAI Grok Voice 3.0 ; Ling-3.1-flash 560B ; Claude OTel + Claude Code parallèle | 15/10 | [NOUVEAU — 1 source]
+16/10/2026 | PRIVÉE-MONDE | Gemini 4 Argon sortie 1 M tokens, −30 % bugs en interne | AlphaSignal 15/10 | [SUITE de 15/10]
+16/10/2026 | ACADÉMIQUE | HF Papers 16/10 : 2610.18829 ; 2610.22347 ; 2610.20693 ; 2610.22341 ; 2610.22192 | 16/10 | [NOUVEAU]
