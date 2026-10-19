@@ -20,11 +20,11 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 
 |Entreprise|Dernier check|Source primaire|Domaine|
 |-|-|-|-|
-|Mistral|2026-10-16|https://mistral.ai/news/|Modèles de fondation (France)|
+|Mistral|2026-10-19|https://mistral.ai/news/|Modèles de fondation (France)|
 |OpenAI|2026-10-12|https://openai.com/news/|Modèles de fondation|
-|Anthropic|2026-10-16|https://www.anthropic.com/news|Modèles de fondation|
-|Google DeepMind|2026-10-16|https://deepmind.google/discover/blog/|Recherche \& modèles|
-|NVIDIA|2026-10-16|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
+|Anthropic|2026-10-19|https://www.anthropic.com/news|Modèles de fondation|
+|Google DeepMind|2026-10-19|https://deepmind.google/discover/blog/|Recherche \& modèles|
+|NVIDIA|2026-10-19|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
 
 \---
 
@@ -53,7 +53,7 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 
 |Entreprise|Dernier check|Source primaire|Domaine|
 |-|-|-|-|
-|Meta AI|—|https://ai.meta.com/blog/|Modèles ouverts / recherche|
+|Meta AI|2026-10-19|https://ai.meta.com/blog/|Modèles ouverts / recherche|
 |xAI|2026-09-30|https://x.ai/news|Modèles de fondation|
 |Microsoft|—|https://blogs.microsoft.com/ai/|Cloud \& IA|
 |Amazon / AWS|—|https://aws.amazon.com/blogs/machine-learning/|Cloud \& IA|

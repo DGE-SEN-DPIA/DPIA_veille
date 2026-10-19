@@ -506,3 +506,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 16/10/2026 | PRIVÉE-MONDE | NVIDIA Nemotron Super VL / Bolt ; xAI Grok Voice 3.0 ; Ling-3.1-flash 560B ; Claude OTel + Claude Code parallèle | 15/10 | [NOUVEAU — 1 source]
 16/10/2026 | PRIVÉE-MONDE | Gemini 4 Argon sortie 1 M tokens, −30 % bugs en interne | AlphaSignal 15/10 | [SUITE de 15/10]
 16/10/2026 | ACADÉMIQUE | HF Papers 16/10 : 2610.18829 ; 2610.22347 ; 2610.20693 ; 2610.22341 ; 2610.22192 | 16/10 | [NOUVEAU]
+
+19/10/2026 | PRIVÉE-MONDE | Anthropic Public Benefit Fund | 5 % des actions (+2 % par +50 % de valo), LLC, sous réserve actionnaires, pas de lobbying ; annonce 18/10 | TechCrunch/CNBC/AP 18/10 | [SUITE de 16/10]
+19/10/2026 | PRIVÉE-MONDE | Meta Muse Spark Open | 816B/42B actifs, 1M ctx, Muse Model License ; 15/10 | research.meta.ai 15/10 | [NOUVEAU]
+19/10/2026 | PRIVÉE-MONDE | Microsoft MAI-Base-2 | 2,8T/80B actifs, pré-entraînement terminé, licence poids via Foundry ; 15/10 | microsoft.ai 15/10 | [NOUVEAU — chiffres GPU tiers]
+19/10/2026 | PRIVÉE-FR | Mistral Large 4 −50 % API ; retours utilisateurs | AlphaSignal 16/10 ; TTY 17/10 | [SUITE de 14/10 — 1 source]
+19/10/2026 | PRIVÉE-FR | Goodweek 10,69 M€ seed (Adara) ; Munito inférence UE | Sifted 19/10 ; TTY 17/10 | [NOUVEAU]
+19/10/2026 | PRIVÉE-MONDE | DeepSeek V4.1 Flash MAJ (Terminal-Bench 31,2→42,3) ; OpenAI GPT-Live-1.1 ; NVIDIA Nemotron 3.5 Super VL/Bolt ; Liquid d1-ultra | TTY 17/10 ; AlphaSignal/TLDR 16/10 | [SUITE — 1 source]
+19/10/2026 | PRIVÉE-MONDE | Holyvolt 45 M$ (Stockholm) ; Faber AI (Paris) nouvel entrant | Sifted 19/10 ; TTY 17/10 | [NOUVEAU — 1 source]
+19/10/2026 | ACADÉMIQUE | Stanford NCM 10-31× ; HF Papers 19/10 : 2610.18784 ; 2610.22471 ; 2610.23479 ; 2610.20424 ; 2610.23542 | AlphaSignal 18/10 ; HF 19/10 | [NOUVEAU]
+19/10/2026 | DONNÉES | Vercel AI Gateway sept. 2026 : open-weight 71,5 % tokens / 23 % dépenses | TLDR 16/10 | [NOUVEAU — 1 source]

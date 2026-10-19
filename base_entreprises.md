@@ -1056,3 +1056,33 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ### NVIDIA
 - Dernière MAJ : 16/10/2026
 - Produits : 15/10/2026 — Nemotron Super VL et Bolt (titre blog seul). À surveiller : GTC Berlin 21/10/2026.
+
+## Anthropic (États-Unis) — ajout 19/10/2026
+- Dernière MAJ : 19/10/2026
+- Orientations stratégiques : 18/10/2026 — Public Benefit Fund : 5 % des actions (sous réserve des actionnaires), +2 % par +50 % de valorisation au-dessus d'un seuil ; LLC détenue à 100 %, interdiction lobbying/politique ; détails de gouvernance « dans les prochains mois » (TechCrunch, CNBC, AP 18/10).
+- À surveiller : approbation actionnaires, IPO (novembre visé, [1 source]).
+
+## Meta (États-Unis) — ajout 19/10/2026
+- Dernière MAJ : 19/10/2026
+- Produits / modèles : 15/10/2026 Muse Spark Open — 816B MoE, 42B actifs, 1M tokens, multimodal natif, Muse Model License (conditions commerciales limitées) ; API Groq/Together/OpenRouter ; tourne sur 2 Mac Studio M5 Ultra (research.meta.ai).
+
+## Microsoft (États-Unis) — ajout 19/10/2026
+- Dernière MAJ : 19/10/2026
+- Produits / modèles : 15/10/2026 MAI-Base-2 — MoE 2,8T/80B actifs, pré-entraînement terminé, post-entraînement en cours ; licence de poids à partenaires via Foundry envisagée ; entraîné sur NVIDIA (presse) ; Maia 300 en 2027.
+
+## Mistral (France) — ajout 19/10/2026
+- Dernière MAJ : 19/10/2026
+- Produits / modèles : Large 4 à −50 % sur l'API (promo, 16/10) ; retours précoces : proche de Kimi K3/GLM 5.3 sur benchmark ops interne, défaut de sortie structurée (TTY 17/10, 1 source).
+
+## DeepSeek (Chine) — ajout 19/10/2026
+- Dernière MAJ : 19/10/2026
+- Produits / modèles : MAJ non annoncée V4.1 Flash — Terminal-Bench 4.0 31,2→42,3 ; effort de raisonnement 1–100 ; MIT (TTY 17/10, 1 source, date non confirmée).
+
+## Goodweek (France, gouvernance IA pour PME) — NOUVEAU ENTRANT
+- Dernière MAJ : 19/10/2026
+- Financement : seed 10,69 M€ (Dealroom : 10,8 M€) mené par Adara ; Anamcara, BGV, BY Venture Partners, CentraleSupélec Venture, FJ Labs, Interlace, True Ventures, Bpifrance (19/10/2026). ~150 clients, 50 personnes (Dealroom).
+- À surveiller : expansion Amérique latine/Asie.
+
+## Faber AI (France, agents conception/fabrication) — NOUVEAU ENTRANT
+- Dernière MAJ : 19/10/2026
+- Produits / modèles : agents scans/plans → CAO éditable et inspection ; fondateurs R. Reibel, J. Damidaux (TTY 17/10, 1 source).
