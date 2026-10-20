@@ -1086,3 +1086,21 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Faber AI (France, agents conception/fabrication) — NOUVEAU ENTRANT
 - Dernière MAJ : 19/10/2026
 - Produits / modèles : agents scans/plans → CAO éditable et inspection ; fondateurs R. Reibel, J. Damidaux (TTY 17/10, 1 source).
+
+## DeepSeek (Chine, modèles de fondation) — ajout 20/10/2026
+- Dernière MAJ : 20/10/2026
+- Produits / modèles : V4.1-Flash-1017 (poids MIT, 1M ctx, 256K sortie, DeepSWE 77,0 % annoncé par DeepSeek, KV 890 octets/token) ; API Search/Fetch à 0,75 $/1000 appels (AlphaSignal/TLDR 19/10/2026)
+- À surveiller : vérification indépendante des benchmarks
+
+## Metis Reasoning (Royaume-Uni/US, IA de raisonnement) — créée 20/10/2026
+- Dernière MAJ : 20/10/2026
+- Financement : levée initiale « dizaines de millions » recherchée (Bloomberg 24/09/2026), non confirmée
+- Orientations stratégiques : fondateur Thore Graepel (ex-DeepMind, AlphaGo) ; raisonnement par recherche/planification ; robotique, science, ingénierie
+- À surveiller : annonce de tour, produit
+
+## Vessla (Suède, agents IA immobilier) — créée 20/10/2026
+- Dernière MAJ : 20/10/2026
+- Financement : 3,3 M$ pré-seed, Seedcamp (lead), Inception Fund, Tiny VC (Sifted 20/10/2026)
+
+## Anthropic — ajout 20/10/2026
+- Orientations stratégiques : juniors 9 % des embauches techniques contre 27 % début 2025 (rapport Anthropic via TLDR 19/10/2026) ; Replit passe à OpenAI comme fournisseur par défaut (TechCrunch 17/10/2026)

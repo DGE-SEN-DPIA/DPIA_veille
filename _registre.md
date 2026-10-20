@@ -516,3 +516,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 19/10/2026 | PRIVÉE-MONDE | Holyvolt 45 M$ (Stockholm) ; Faber AI (Paris) nouvel entrant | Sifted 19/10 ; TTY 17/10 | [NOUVEAU — 1 source]
 19/10/2026 | ACADÉMIQUE | Stanford NCM 10-31× ; HF Papers 19/10 : 2610.18784 ; 2610.22471 ; 2610.23479 ; 2610.20424 ; 2610.23542 | AlphaSignal 18/10 ; HF 19/10 | [NOUVEAU]
 19/10/2026 | DONNÉES | Vercel AI Gateway sept. 2026 : open-weight 71,5 % tokens / 23 % dépenses | TLDR 16/10 | [NOUVEAU — 1 source]
+
+20/10/2026 | PRIVÉE-MONDE | DeepSeek V4.1-Flash-1017 | DeepSWE 77,0 % ; 1M ctx ; API Search/Fetch 0,75 $/1000 ; MIT | AlphaSignal/TLDR 19/10 | [SUITE de 19/10]
+20/10/2026 | PRIVÉE-MONDE | Anthropic emploi interne | juniors 27 %→9 % embauches techniques | TLDR 19/10 | [NOUVEAU — 1 source]
+20/10/2026 | PRIVÉE-MONDE | Replit → OpenAI par défaut ; Claude circuits quantiques (39× vs 10×) ; ECDSA ; Grok Bot ; aurora (rumeur) | TLDR/AlphaSignal 19/10 | [NOUVEAU — 1 source]
+20/10/2026 | PUBLIQUE-EUR | Mois innovation IA 14/10–17/11 ; AI Act report haut risque déc. 2027 | cadeproject.org | [NOUVEAU — à vérifier]
+20/10/2026 | PUBLIQUE-FR | Violences Paris, Qonto incendié, incertitude fondateurs | Sifted 20/10 | [NOUVEAU — 1 source]
+20/10/2026 | PRIVÉE-MONDE | Metis Reasoning (T. Graepel) lancement ; Vessla 3,3 M$ pré-seed | Sifted 20/10 ; Bloomberg 24/09 | [NOUVEAU]
+20/10/2026 | ACADÉMIQUE | HF Papers 20/10 : 2610.25296 ; 2610.26860 ; 2610.25690 ; 2610.26844 ; 2610.25666 ; Mercor Benchmark Map 90 % | 19-20/10 | [NOUVEAU]
