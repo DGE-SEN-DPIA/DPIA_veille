@@ -524,3 +524,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 20/10/2026 | PUBLIQUE-FR | Violences Paris, Qonto incendié, incertitude fondateurs | Sifted 20/10 | [NOUVEAU — 1 source]
 20/10/2026 | PRIVÉE-MONDE | Metis Reasoning (T. Graepel) lancement ; Vessla 3,3 M$ pré-seed | Sifted 20/10 ; Bloomberg 24/09 | [NOUVEAU]
 20/10/2026 | ACADÉMIQUE | HF Papers 20/10 : 2610.25296 ; 2610.26860 ; 2610.25690 ; 2610.26844 ; 2610.25666 ; Mercor Benchmark Map 90 % | 19-20/10 | [NOUVEAU]
+
+21/10/2026 | PRIVÉE-FR | Mistral Voxtral 3 | STT 50+ langues <500 ms ; TTS 35+ langues ; SDK agent vocal ; 20/10 | mistral.ai 20/10 | [NOUVEAU]
+21/10/2026 | PRIVÉE-MONDE | NVIDIA Allemagne : 4 start-up + partenariat d'État ; GTC Berlin 21/10 | Sifted 21/10 ; roic.ai 15/10 | [NOUVEAU — noms non obtenus]
+21/10/2026 | PRIVÉE-MONDE | Anthropic OSS Scanner 77 critiques/803 high ; Nscale 2e deal 45 Md$ (rumeur) | AlphaSignal/TLDR 20/10 | [NOUVEAU — 1 source]
+21/10/2026 | PRIVÉE-MONDE | OpenAI 722 manuscrits maths, quasi-Riemann (non vérifié) ; COBOL | Quanta 19/10 ; AlphaSignal | [NOUVEAU]
+21/10/2026 | PUBLIQUE-INTL | US interdiction DeepSeek agences civiles (BBC via TLDR) | non confirmé | [NOUVEAU — à vérifier]
+21/10/2026 | PRIVÉE-MONDE | MiniMax M3.1 Flash ; Mercury 3 ; Clairic ; Exa 3 ; Meta Prometheus ; Waymo 20 000 ; HUMXN | TLDR 20/10 | [NOUVEAU — 1 source]
+21/10/2026 | LEVÉES | Photon Bridge 10 M€ ; XRlabs 7,5 M€ ; Plinto 2,9 M€ ; Coherence Quantum 2,8 M€ ; Blackwall 100 M$ | Sifted 21/10 | [NOUVEAU — 1 source]
+21/10/2026 | ACADÉMIQUE | HF Papers 21/10 : 2610.26855 ; 2610.28594 ; 2610.25043 ; 2610.26203 ; 2610.28578 ; NVIDIA 99 % / 80 tâches ; DeepMind hint agents | 20-21/10 | [NOUVEAU]

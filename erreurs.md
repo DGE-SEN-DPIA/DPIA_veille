@@ -42,3 +42,5 @@
 | 19/10/2026 | Sources directes | openai.com non balayé (403 récurrent) ; Sifted web/Commission non balayés ; PitchBook (4 emails) sans fait exploitable ; Tier B/C hors Meta non balayés. Git : push sur branche désignée claude/gracious-thompson-oqmayb (consigne session) et non main. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 20/10/2026 | Sources directes | openai.com/news et sifted.eu : HTTP 403 ; PitchBook sans fait exploitable ; Tier B/C non balayés (hors Meta). Git : push sur branche désignée claude/gracious-thompson-4tovzc (consigne session) et non main. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 21/10/2026 | Sources directes | openai.com/news et sifted.eu (articles) : HTTP 403 ; DeepMind blog non balayé ; PitchBook sans fait exploitable ; Tier B/C non balayés. Git : push sur branche désignée claude/gracious-thompson-xo38p1 (consigne session) et non main. | Non résolu — Dernier check OpenAI laissé au 12/10 |

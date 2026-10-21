@@ -1104,3 +1104,30 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Anthropic — ajout 20/10/2026
 - Orientations stratégiques : juniors 9 % des embauches techniques contre 27 % début 2025 (rapport Anthropic via TLDR 19/10/2026) ; Replit passe à OpenAI comme fournisseur par défaut (TechCrunch 17/10/2026)
+
+## Mistral AI (France, modèles de fondation) — ajout 21/10/2026
+- Dernière MAJ : 21/10/2026
+- Produits / modèles : Voxtral 3 (20/10/2026) — transcription 50+ langues, synthèse vocale 35+ langues/50 dialectes, SDK d'agent vocal LiveKit ; tarifs dès 0,0035 $/min ; endpoints UE/US/global.
+- À surveiller : licence Voxtral 3 non précisée.
+
+## NVIDIA (États-Unis, semi-conducteurs) — ajout 21/10/2026
+- Dernière MAJ : 21/10/2026
+- Financement : investissement annoncé dans quatre start-up allemandes (Sifted 21/10/2026, noms non obtenus) ; 2 Md$ d'investissements européens dont quatre start-up françaises (roic.ai 13/10/2026) [1 source].
+- Contrats & partenariats : partenariat IA avec l'Allemagne (Handelsblatt via roic.ai 15/10/2026) [1 source].
+- À surveiller : keynote GTC Berlin 21/10/2026.
+
+## Anthropic (États-Unis, modèles de fondation) — ajout 21/10/2026
+- Dernière MAJ : 21/10/2026
+- Produits / modèles : OSS Scanner (20/10/2026) — 77 failles critiques, 803 high signalées en une semaine.
+- Contrats & partenariats : discussions pour un second contrat de calcul de 45 Md$ avec Nscale (TechCrunch 19/10/2026) [rumeur, 1 source].
+- À surveiller : IPO attendue cette année ; Nscale valorisation 30 Md$ contestée.
+
+## OpenAI (États-Unis, modèles de fondation) — ajout 21/10/2026
+- Dernière MAJ : 21/10/2026
+- Produits / modèles : ~722 manuscrits mathématiques générés par IA début 10/2026, dont quasi-hypothèse de Riemann (non vérifié extérieurement) ; modernisation COBOL/Fortran/VB.
+- À surveiller : vérification par des mathématiciens ; affaire de l'ingénieur inculpé.
+
+## Photon Bridge (Pays-Bas, photonique datacenter) — créé 21/10/2026
+- Dernière MAJ : 21/10/2026
+- Financement : seed 10 M€, Amadeus Apex Technology Fund et 360 Capital (Sifted 21/10/2026).
+- Produits / modèles : liaison laser entre puces d'IA en datacenter.
