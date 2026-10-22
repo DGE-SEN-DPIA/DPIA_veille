@@ -533,3 +533,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 21/10/2026 | PRIVÉE-MONDE | MiniMax M3.1 Flash ; Mercury 3 ; Clairic ; Exa 3 ; Meta Prometheus ; Waymo 20 000 ; HUMXN | TLDR 20/10 | [NOUVEAU — 1 source]
 21/10/2026 | LEVÉES | Photon Bridge 10 M€ ; XRlabs 7,5 M€ ; Plinto 2,9 M€ ; Coherence Quantum 2,8 M€ ; Blackwall 100 M$ | Sifted 21/10 | [NOUVEAU — 1 source]
 21/10/2026 | ACADÉMIQUE | HF Papers 21/10 : 2610.26855 ; 2610.28594 ; 2610.25043 ; 2610.26203 ; 2610.28578 ; NVIDIA 99 % / 80 tâches ; DeepMind hint agents | 20-21/10 | [NOUVEAU]
+
+22/10/2026 | PRIVÉE-FR | Mistral Large 4 préversion publique (1T/49B actifs, poids ouverts fin 10) ; partenariat NVIDIA ingénierie ; 21/10 | mistral.ai 21/10 | [SUITE de 19/10]
+22/10/2026 | PRIVÉE-MONDE | Anthropic S-1 perte nette >80 Md$ S1 2026 (contradiction avec Reuters 2025 : 41,97 Md$) ; METR revue risque | TLDR 21/10 ; METR 20/10 | [SUITE de 19/10 — à vérifier]
+22/10/2026 | PRIVÉE-MONDE | DeepSeek DeepInfer open source Apache 2.0 | GitHub via TLDR/AlphaSignal 21/10 | [SUITE de 20/10]
+22/10/2026 | PRIVÉE-MONDE | Anthropic binders scorpion 17/211 ; 400+ agents/skills ; Stubbs LTBT ; OpenAI–Orchestra Bio ; TorchTPU ; Tesla/SpaceX comités | AlphaSignal/TLDR 21/10 | [NOUVEAU — 1 source]
+22/10/2026 | LEVÉES | Legora 550 M$ (8,8 Md$) ; Pigment 250 M$ Série E ; Enact Intelligence 30 M$ ; H Company alumni cherchent 30 M$ | Sifted 22/10 | [NOUVEAU — 1 source]
+22/10/2026 | PRIVÉE-MONDE | Nouveaux entrants Onstage : Mile Robotics, Ohm Lab, CircuitNinja, IONA, Coffee AI, SteffiCare ; Tau Robotics | Sifted 22/10 ; TLDR 21/10 | [NOUVEAU]
+22/10/2026 | ACADÉMIQUE | HF Papers 22/10 : 2610.26828 ; 2610.28577 ; 2610.17860 ; 2610.29989 ; 2610.28589 ; 2610.29357 | 22/10 | [NOUVEAU]

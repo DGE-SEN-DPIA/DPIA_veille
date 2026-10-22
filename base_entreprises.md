@@ -1131,3 +1131,33 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Dernière MAJ : 21/10/2026
 - Financement : seed 10 M€, Amadeus Apex Technology Fund et 360 Capital (Sifted 21/10/2026).
 - Produits / modèles : liaison laser entre puces d'IA en datacenter.
+
+## Mistral AI (France, modèles de fondation) — ajout 22/10/2026
+- Dernière MAJ : 22/10/2026
+- Produits / modèles : Large 4 en préversion publique (~1 000 Md paramètres, 49 Md actifs, multimodal), entraîné sur 3 800 GPU Grace Blackwell en Europe ; poids ouverts annoncés fin 10/2026 (mistral.ai 21/10/2026).
+- Contrats & partenariats : collaboration NVIDIA ingénierie/IA physique (CAE, EDA, Omniverse, Nemotron Coalition) ; aucun client nommé.
+- Orientations stratégiques : feuille de route 1 GW de calcul d'ici 2030.
+- À surveiller : publication effective des poids Large 4.
+
+## Anthropic — ajout 22/10/2026
+- Dernière MAJ : 22/10/2026
+- Financement : prospectus d'IPO, perte nette > 80 Md$ S1 2026 (TLDR 21/10, non confirmé) vs 2025 : 41,97 Md$ (Reuters 28/09 via tiers) ; dépôt confidentiel 01/06/2026.
+- Produits / modèles : binders contre toxines de scorpion (318 484 candidats, 17/211 validés) ; 400+ agents/skills libres.
+- Orientations stratégiques : dépenses de calcul potentielles jusqu'à 750 Md$ ; Christopher Stubbs rejoint le LTBT (21/10/2026).
+- À surveiller : publication du S-1 ; réponse à la revue METR.
+
+## DeepSeek (Chine, modèles de fondation) — ajout 22/10/2026
+- Dernière MAJ : 22/10/2026
+- Produits / modèles : DeepInfer open source (Apache 2.0), V4.1-Flash sur NVIDIA SM100 et Huawei Ascend 950 (21/10/2026).
+
+## Legora (Suède, IA juridique) — créé 22/10/2026
+- Dernière MAJ : 22/10/2026
+- Financement : 550 M$ à 8,8 Md$ de valorisation (Sifted 22/10/2026) ; Série D mars 2026 550 M$ à 5,55 Md$ (Accel) [à vérifier].
+
+## Pigment (France, planification d'entreprise) — créé 22/10/2026
+- Dernière MAJ : 22/10/2026
+- Financement : Série E 250 M$ menée par le Scaleup Europe Fund (Sifted 22/10/2026) [1 source].
+
+## Enact Intelligence (Suisse) — créé 22/10/2026
+- Dernière MAJ : 22/10/2026
+- Financement : pré-seed 30 M$, plus important de Suisse ; soutiens Yann LeCun et Arthur Mensch (Sifted 22/10/2026).
