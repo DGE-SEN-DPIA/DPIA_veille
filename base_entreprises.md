@@ -1161,3 +1161,23 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Enact Intelligence (Suisse) — créé 22/10/2026
 - Dernière MAJ : 22/10/2026
 - Financement : pré-seed 30 M$, plus important de Suisse ; soutiens Yann LeCun et Arthur Mensch (Sifted 22/10/2026).
+
+## Anthropic (États-Unis, modèles de fondation) — ajout 23/10/2026
+- Dernière MAJ : 23/10/2026
+- Produits / modèles : Claude Duet (22/10/2026), agent proactif sur Opus 5.5, 6 000+ outils, achats via Link/Shop Pay, liste d'attente Pro/Max US, sans surcoût. API Claude version 2026-10-21 (première depuis 2023).
+- Contrats & partenariats : don d'Agent Skills à l'Agentic AI Foundation (Linux Foundation) le 22/10/2026 : 70+ plateformes, ~1 M skills, ~280 M installs. [anthropic.com 22/10/2026]
+- À surveiller : ouverture de Duet hors US ; calendrier IPO.
+
+## NVIDIA (États-Unis, semi-conducteurs) — ajout 23/10/2026
+- Dernière MAJ : 23/10/2026
+- Financement : tournée d'investissements dans des start-up européennes (Paris, Londres, Stockholm, Berlin) ; Sifted 23/10 : principalement acheteurs de compute et clouds IA. Noms/montants non obtenus.
+- À surveiller : contenu de la keynote GTC Berlin (21/10/2026).
+
+## Tesla (États-Unis, robotique humanoïde) — ajout 23/10/2026
+- Dernière MAJ : 23/10/2026
+- Produits : production d'Optimus lancée à Fremont ; objectif 20 000 unités/semaine fin 2027 ; bénéfice T3 2026 −43 % (TechCrunch 21/10 via TLDR). Contradiction avec calendrier de juillet 2026 à vérifier.
+
+## Recursive / Unitree / Long Lake — créé 23/10/2026
+- Recursive : Flint, MoE 40 Md/2,5 Md actifs, >125 tok/s sur M4 Pro (22/10/2026).
+- Unitree : H2-X Kung Fu Legend Guardian, 8 h d'autonomie, 2 070 TOPS ; prix non annoncé (22/10/2026).
+- Long Lake : fonds de 7,5 Md$, rachat de sociétés de services pour y déployer l'IA ; 40 partenaires (22/10/2026).
