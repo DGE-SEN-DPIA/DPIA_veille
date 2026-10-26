@@ -1181,3 +1181,29 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Recursive : Flint, MoE 40 Md/2,5 Md actifs, >125 tok/s sur M4 Pro (22/10/2026).
 - Unitree : H2-X Kung Fu Legend Guardian, 8 h d'autonomie, 2 070 TOPS ; prix non annoncé (22/10/2026).
 - Long Lake : fonds de 7,5 Md$, rachat de sociétés de services pour y déployer l'IA ; 40 partenaires (22/10/2026).
+
+## OpenAI (États-Unis, modèles de fondation) — MAJ 26/10/2026
+- Dernière MAJ : 26/10/2026
+- Financement : 26/10/2026 — tour jusqu'à 30 Md$ en cours, mené par fonds émiriens (MGX cité), valorisation 1,25 T$ (CNBC 22/10) vs ~1,4 T$ pré-money (Bloomberg 06/10) ; tour précédent 122 Md$ à 852 Md$ (mars 2026).
+- Orientations stratégiques : tour-relais avant IPO possible ; entraînement frontier sans internet depuis le 01/10/2026.
+- À surveiller : clôture du tour (signatures visées semaine du 26/10) ; licenciement de 3 chercheurs en sécurité (23/10) ; audit METR/Redwood.
+
+## Reflection AI (États-Unis, modèles ouverts)
+- Dernière MAJ : 26/10/2026
+- Financement : valo. 25 Md$ (mars 2026) ; NVIDIA 800 M$ investis, discussions (FT/Reuters 10/10/2026) pour investir plus, licencier ou acquérir.
+- Produits / modèles : Beam (501 Md, 23 Md actifs, Apache 2.0, 0,70/2,10 $/M tokens), poids annoncés fin octobre.
+
+## Meta (États-Unis) — MAJ 26/10/2026
+- Produits / modèles : Muse Wonder Full (50 $/mois), Muse Wonder (API), Muse Spark Open (816 Md/42 Md actifs, poids, licence limitée à 20 M$ de revenus) ; Intelligence Index 56/52/39 (Artificial Analysis).
+
+## Moonshot AI (Chine) — MAJ 26/10/2026
+- Produits / modèles : Kimi K3.1 Pro (104 Md actifs/2,8 T, 1 M contexte, Terminal-Bench 4.0 65,7 %) ; poids avant le 04/11/2026.
+
+## NVIDIA — MAJ 26/10/2026
+- Contrats & partenariats : GTC Berlin 20–22/10 : Sferical One (Nordique), Siemens Erlangen 500 M€, Google Cloud A5X Rubin (960 000 GPU visés), Revolut PRAGMA ; ~10 Md$ d'engagements Europe.
+
+## Anthropic — MAJ 26/10/2026
+- Produits : Claude Security (bêta publique Enterprise, 23/10) ; Claude Platform sur Google Cloud.
+
+## Gradium (France, voix) — MAJ 26/10/2026
+- Produits : Phonon, TTS embarqué 31–40 M paramètres, Apache 2.0 (TTY 24/10/2026).

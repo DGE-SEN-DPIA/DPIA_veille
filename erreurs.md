@@ -48,3 +48,5 @@
 | 22/10/2026 | Sources directes | openai.com/news et sifted.eu (articles) non balayés (403 récurrent) ; blog NVIDIA sans billets du 21-22/10 (keynote GTC Berlin non couverte) ; PitchBook sans fait exploitable ; Tier B/C non balayés. Git : push sur branche désignée claude/gracious-thompson-zmg6by (consigne session) et non main. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 23/10/2026 | Sources directes | openai.com/news et sifted.eu (articles) non balayés (403 récurrent) ; keynote GTC Berlin non documentée (blog NVIDIA sans billet) ; PitchBook sans fait exploitable ; Tier B/C non balayés. Git : push sur branche désignée claude/gracious-thompson-8u3orb (consigne session) et non main. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 26/10/2026 | Sources directes | openai.com/news, sifted.eu, cnbc.com : HTTP 403 ; page Commission sans contenu ; PitchBook sans fait exploitable ; Tier B/C non balayés. Git : session sur branche claude/nifty-faraday-w4e7zb, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
