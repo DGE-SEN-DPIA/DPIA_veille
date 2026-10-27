@@ -1207,3 +1207,42 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Gradium (France, voix) — MAJ 26/10/2026
 - Produits : Phonon, TTS embarqué 31–40 M paramètres, Apache 2.0 (TTY 24/10/2026).
+
+---
+## Mises à jour du 27/10/2026
+
+## Anthropic (US, modèles de fondation)
+- Dernière MAJ : 27/10/2026
+- Financement : page news affiche « files S-1 with the SEC » (26/10/2026) — non confirmé ; dépôt confidentiel connu de juin 2026 ; valorisation 965 Md$ post-money citée.
+- Produits : Claude Cowork + Chat unifié pour Enterprise (26/10/2026).
+- À surveiller : S-1 public ; contradiction chiffres de pertes (22/10).
+
+## OpenAI (US, modèles de fondation)
+- Dernière MAJ : 27/10/2026
+- Financement : tour jusqu'à 30 Md$, 1,25 T$ pré-money, leads UAE + Coatue, non clos (22/10) ; 1,4 T$ présenté début octobre.
+- Orientations : durcissement sécurité entraînement frontier ; nomination Laureline Serieys DG France & Europe du Sud (Sifted 26/10).
+- À surveiller : signature du tour ; accord calcul UAE.
+
+## Moonshot AI (Chine, modèles de fondation)
+- Dernière MAJ : 27/10/2026
+- Produits : Kimi K3.1 Pro API (104 Md actifs / 2,8 T, 1 M contexte), poids avant 04/11/2026.
+
+## Google DeepMind (UK/US)
+- Dernière MAJ : 27/10/2026
+- Produits : Gemini 4 Argon, Gemini 4 Argon for Robotics, EmbeddingGemma 2 (oct. 2026, jours non confirmés) ; partenariat Singapour (détection d'arnaques).
+
+## Mistral (France, modèles de fondation)
+- Dernière MAJ : 27/10/2026
+- Financement : Série D 3 Md€, >21 Md€ post-money, Samsung lead, Scaleup Europe Fund/EQT, PSG (08/09/2026, tech.eu/Orrick).
+
+## Strawberry Browser (Suède, agents)
+- Dernière MAJ : 27/10/2026
+- Financement : General Catalyst, EQT Ventures. Produit : Strawberry 1.0 (26/10/2026).
+
+## Nous (agents IA)
+- Dernière MAJ : 27/10/2026
+- Financement : 17 M$, Heartcore Capital (Sifted) ; Tom Blomfield cité.
+
+## NVIDIA (US, semi-conducteurs)
+- Dernière MAJ : 27/10/2026
+- Orientations : 20 investissements en Europe en 2026 (15 en 2025, 7 en 2024) ; startups DE : Agile Robots, Avelios Medical, Mirelo, Reflex Aerospace.
