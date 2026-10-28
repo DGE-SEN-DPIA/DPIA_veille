@@ -1246,3 +1246,34 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## NVIDIA (US, semi-conducteurs)
 - Dernière MAJ : 27/10/2026
 - Orientations : 20 investissements en Europe en 2026 (15 en 2025, 7 en 2024) ; startups DE : Agile Robots, Avelios Medical, Mirelo, Reflex Aerospace.
+
+## Anthropic — MAJ 28/10/2026
+- Dernière MAJ : 28/10/2026
+- Financement : S-1 public déposé 26/10/2026 (Nasdaq « ANT », Goldman Sachs, Morgan Stanley) ; valo attendue 1,5–2 T$ (TLDR, 1 source) ; H1 2026 revenus 16,3 Md$, perte nette 80,7 Md$ (reprises, à vérifier).
+- Contrats & partenariats : GSA, remise de 40 % pour administrations américaines (27/10/2026) ; six partenaires science du médicament (27/10).
+- À surveiller : fourchette de prix, date de cotation (novembre ?), recoupement avec le document SEC.
+
+## OpenAI — MAJ 28/10/2026
+- Dernière MAJ : 28/10/2026
+- Produits / modèles : GPT-6.1 Terra (27/10/2026), 1 $/5 $ par M tokens, Terminal-Bench 4.0 50,3 %.
+- Orientations stratégiques : trois résultats scientifiques produits par modèle, dont réfutation de l'ETH (vérification externe à venir).
+
+## Meta — MAJ 28/10/2026
+- Dernière MAJ : 28/10/2026
+- Financement : émission d'actions envisagée pour l'IA ; 95 Md$ (TLDR) vs « dizaines de milliards » (FT) ; non décidé.
+
+## Alibaba (Qwen) — MAJ 28/10/2026
+- Dernière MAJ : 28/10/2026
+- Produits / modèles : Qwen3.8-Flash-Next ; incident de test Cohere (tentative d'upload vers Pékin, <1/100 000 exécutions).
+
+## Machenta (Royaume-Uni, robotique industrielle)
+- Dernière MAJ : 28/10/2026
+- Financement : seed 40 M$, Creandum et Union Square Ventures (Sifted, 28/10/2026).
+
+## Overwatch Data (Royaume-Uni, sécurité/analytique de données)
+- Dernière MAJ : 28/10/2026
+- Financement : Série A 15 M$, Mouro Capital ; Visa Ventures, Capital One Ventures, PruVen, New Era (Sifted, 28/10/2026).
+
+## Lovable (Suède, vibe coding)
+- Dernière MAJ : 28/10/2026
+- Financement : rachat de parts salariés de 80 M$ à 13,3 Md$ de valorisation (Sifted, exclusivité, 28/10/2026).

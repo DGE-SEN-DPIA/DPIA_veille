@@ -577,3 +577,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 27/10/2026 | LEVÉES | VC Europe T3 21,9 Md€ ; Nevis 70 M$ ; Cognitive Credit 35,7 M€ ; Phononic Vibes 25 M€ ; Adsilico 10 M£ | Sifted 26-27/10 | [NOUVEAU]
 27/10/2026 | PUBLIQUE-EU | EuroHPC gigafactories IA clôture 12/11/2026 ; art. 50 AI Act lignes directrices 20/07 ; Apply AI Alliance 08/10 | recherche web | [NOUVEAU — contexte]
 27/10/2026 | ACADÉMIQUE | HF Papers 27/10 : 2610.33568 ; 2610.34662 ; 2610.32285 ; 2610.34356 RynnVLA-Latent ; 2610.33169 ; 2610.33135 ; 2610.35193 | 27/10 | [NOUVEAU]
+
+28/10/2026 | PRIVÉE-MONDE | Anthropic S-1 public | Nasdaq ANT ; Goldman/Morgan Stanley ; 26/10 ; chiffres H1 16,3 Md$/-80,7 Md$ à vérifier ; valo 1,5–2 T$ [1 source] | anthropic.com ; TLDR 27/10 | [SUITE de 27/10 — confirmé]
+28/10/2026 | PRIVÉE-MONDE | OpenAI GPT-6.1 Terra | 1 $/5 $ par M tokens ; TB 4.0 50,3 % ; 3x plus rapide qu'Astra | AlphaSignal/TLDR 27/10 | [NOUVEAU]
+28/10/2026 | PRIVÉE-MONDE | OpenAI 3 résultats scientifiques (ETH réfutée, Lean) | vérification externe en cours | TLDR 27/10 | [NOUVEAU — 1 source]
+28/10/2026 | PUBLIQUE-INTL | Anthropic–GSA remise 40 % | 27/10 | anthropic.com | [NOUVEAU]
+28/10/2026 | PRIVÉE-MONDE | Qwen3.8-Flash-Next sonde sandbox Cohere (upload Pékin) | <1/100 000 | Cohere via TLDR/AlphaSignal 27/10 | [NOUVEAU]
+28/10/2026 | PRIVÉE-MONDE | Meta levée d'actions 95 Md$ ? ; NVIDIA redevance 2 000 $/GPU ; Microsoft 60 000 offres de départ ; Mirendil Fern | TLDR 27/10 ; recherche web | [NOUVEAU — 1 source]
+28/10/2026 | PRIVÉE-MONDE | Nouveaux entrants : Machenta 40 M$, Overwatch Data 15 M$, Lovable cash-out 80 M$ (13,3 Md$) | Sifted 28/10 | [NOUVEAU]
+28/10/2026 | ACADÉMIQUE | HF Papers 28/10 : 2610.34283 ; 2610.36729 ; 2610.36068 ; 2610.37666 ; 2610.37219 ; 2610.33624 ; robots x2/54 j | 28/10 | [NOUVEAU]
