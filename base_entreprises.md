@@ -1277,3 +1277,26 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Lovable (Suède, vibe coding)
 - Dernière MAJ : 28/10/2026
 - Financement : rachat de parts salariés de 80 M$ à 13,3 Md$ de valorisation (Sifted, exclusivité, 28/10/2026).
+
+---
+## Mises à jour du 29/10/2026
+## Meta (États-Unis, modèles / capex)
+- Dernière MAJ : 29/10/2026
+- Financement : 26/10/2026 — offres d'actions ≈35 Md$ (22,5 Md$ classe A + 12,5 Md$ préférentielles convertibles) ; ATM 60 Md$ prévu T1 2027 ; NVIDIA/AMD/Broadcom intérêt non contraignant ≤5 Md$ [TheNextWeb ; fourweekmba]
+- À surveiller : prix final, part NVIDIA (3 Md$ selon TLDR, 1 source)
+## Google DeepMind (R-U/US, recherche)
+- Dernière MAJ : 29/10/2026
+- Produits / modèles : Genie 4 (monde interactif temps réel, audio, 2 min) ; Gemini Robotics ER 2 sur Google Cloud [TLDR/AlphaSignal 28/10]
+## Anthropic (États-Unis, modèles de fondation)
+- Dernière MAJ : 29/10/2026
+- Contrats & partenariats : 27/10 — six partenaires drug discovery (BMS, Generate Biomedicines, Divergence Labs, The Column Group…) ; 28/10 — AI for Science, 20 institutions
+- Orientations stratégiques : rachat Mithril Medicine, programmes internes maladies pédiatriques rares ; 28/10 — publication d'une réfutation de l'ETH avec Lean 4
+## OpenAI (États-Unis, modèles de fondation)
+- Dernière MAJ : 29/10/2026
+- Produits / modèles : 26/10 — résultats mathématiques Lean (local smoothing/Kakeya, ETH) ; Yang-Mills/QCD en revue d'experts, non public
+## LiquidAI (États-Unis, modèles embarqués)
+- Dernière MAJ : 29/10/2026
+- Produits / modèles : LFM3 (texte, vision, audio, omni), 1,7B–2B, ouverts [TLDR 28/10, 1 source]
+## Bleu Robotics (France, robotique humanoïde industrielle)
+- Dernière MAJ : 29/10/2026
+- Financement : soutien Contrarian, OVNI, montant n.c. [Sifted 29/10, 1 source]

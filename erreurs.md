@@ -54,3 +54,5 @@
 | 27/10/2026 | Sources directes | openai.com/news : HTTP 403 ; DeepMind blog sans jours affichés ; blog NVIDIA sans billet postérieur au 22/10 ; PitchBook sans corps lisible ; S-1 Anthropic non confirmé par recherche web ; Tier B/C non balayés. Git : session sur branche claude/nifty-faraday-qos0er, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 28/10/2026 | Sources directes | openai.com/news non balayé (403 récurrent) ; PitchBook sans corps lisible ; S-1 SEC non consulté directement (chiffres via reprises) ; Tier B/C non balayés. Git : push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 29/10/2026 | Sources directes | openai.com/news et sifted.eu : HTTP 403 ; page Mistral/NVIDIA/DeepMind sans nouveauté datée ; PitchBook sans corps ; Genie 4 non retrouvé en recherche web ; Tier B/C non balayés. Git : branche session claude/nifty-faraday-45ghvl, push main selon consigne. | Non résolu — Dernier check OpenAI laissé au 12/10 |

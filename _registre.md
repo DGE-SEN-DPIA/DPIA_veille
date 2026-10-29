@@ -586,3 +586,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 28/10/2026 | PRIVÉE-MONDE | Meta levée d'actions 95 Md$ ? ; NVIDIA redevance 2 000 $/GPU ; Microsoft 60 000 offres de départ ; Mirendil Fern | TLDR 27/10 ; recherche web | [NOUVEAU — 1 source]
 28/10/2026 | PRIVÉE-MONDE | Nouveaux entrants : Machenta 40 M$, Overwatch Data 15 M$, Lovable cash-out 80 M$ (13,3 Md$) | Sifted 28/10 | [NOUVEAU]
 28/10/2026 | ACADÉMIQUE | HF Papers 28/10 : 2610.34283 ; 2610.36729 ; 2610.36068 ; 2610.37666 ; 2610.37219 ; 2610.33624 ; robots x2/54 j | 28/10 | [NOUVEAU]
+
+29/10/2026 | PRIVÉE-MONDE | Meta levée d'actions | ≈35 Md$ lancés 26/10 + 60 Md$ ATM T1 2027 ; NVIDIA/AMD/Broadcom ≤5 Md$ non contraignant ; NVIDIA 3 Md$ [1 source] | TheNextWeb ; TLDR 28/10 | [SUITE de 28/10]
+29/10/2026 | PRIVÉE-MONDE | Réfutations ETH OpenAI (26/10) / Anthropic (28/10) ; Axiom CFSG Lean | Lean ; Yang-Mills non public, panel d'experts | TLDR/AlphaSignal 28/10 | [SUITE de 28/10]
+29/10/2026 | PRIVÉE-MONDE | DeepMind Genie 4 | monde interactif temps réel, audio, 2 min ; accès Ultra/API | TLDR/AlphaSignal 28/10 ; deepmind.google | [NOUVEAU — date 28/10 non primaire]
+29/10/2026 | PRIVÉE-MONDE | Anthropic biotech : 6 partenaires, Claude Science, Mithril Medicine, AI for Science 20 institutions | préclinique | anthropic.com 27-28/10 | [NOUVEAU]
+29/10/2026 | PRIVÉE-MONDE | LiquidAI LFM3 ; Gemini Robotics ER 2 Cloud ; IBM RAG ; Maya-2 | TLDR/AlphaSignal 28/10 | [NOUVEAU — 1 source]
+29/10/2026 | PRIVÉE-FR | Bleu Robotics (Contrarian, OVNI) humanoïdes industriels | Sifted 29/10 | [NOUVEAU — 1 source]
+29/10/2026 | PUBLIQUE-INTL | Budget UK 28/10 : allocation jeunes entrepreneurs, CGT fondateurs, visa | Sifted 29/10 | [NOUVEAU]
+29/10/2026 | LEVÉES | MuRay 7,1 M€ ; Artiso 3 M€ ; Samplix 25 M€ ; Spiko 90 M$ | Sifted 29/10 | [NOUVEAU]
+29/10/2026 | ACADÉMIQUE | HF Papers 29/10 : 2610.35201 ; 2610.32749 ; 2610.31670 ; Sleep framework ; FrontierCode 2.0 | 28-29/10 | [NOUVEAU]
