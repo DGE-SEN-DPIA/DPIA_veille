@@ -1300,3 +1300,28 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Bleu Robotics (France, robotique humanoïde industrielle)
 - Dernière MAJ : 29/10/2026
 - Financement : soutien Contrarian, OVNI, montant n.c. [Sifted 29/10, 1 source]
+
+## Google DeepMind — Gemini 4 Carbon (US, modèles de fondation)
+- Dernière MAJ : 30/10/2026
+- Produits / modèles : Gemini 4 Carbon (28/10/2026), no 1 AA Index v5 (59) ; accès restreint défenseurs cyber puis Fairwind Program ; prix 2 $/10 $ par M tokens (4 $/20 $ ensuite).
+- À surveiller : ouverture générale (sans date) ; Alphabet T3 2026 : cloud 30,7 Md$ / 127,6 Md$.
+
+## Mistral (France, modèles de fondation)
+- Dernière MAJ : 30/10/2026
+- Produits / modèles : Le Chonk, poids ouverts (29/10/2026), codage agentique + cybersécurité ; lien avec Large 4 (06/10/2026) à vérifier.
+- À surveiller : licence et benchmarks de Le Chonk.
+
+## Fractile (Royaume-Uni, puces d'inférence IA)
+- Dernière MAJ : 30/10/2026
+- Financement : Série B 220 M$ (05/2026, Accel co-lead, Founders Fund) ; Série C 540 M£ d'après filings (Sifted, 30/10/2026) [1 source, non confirmé].
+- À surveiller : confirmation du montant, investisseurs.
+
+## Machenta (Royaume-Uni, IA physique)
+- Dernière MAJ : 30/10/2026
+- Financement : seed 40 M$ (Creandum, USV), sortie de stealth 28/10/2026.
+- Produits / modèles : modèle « vision demo action » (VDA), apprentissage robot à partir d'une démonstration, sans entraînement ultérieur ; spin-off Imperial College (Edward Johns).
+- À surveiller : produit, modèle économique.
+
+## Anthropic (US, modèles de fondation)
+- Dernière MAJ : 30/10/2026
+- Produits / modèles : Claude for Legal, 6 workflows, 60+ connecteurs (AlphaSignal, 29/10/2026) [1 source] ; outils de suivi des dépenses IA (TechCrunch 28/10).

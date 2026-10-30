@@ -596,3 +596,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 29/10/2026 | PUBLIQUE-INTL | Budget UK 28/10 : allocation jeunes entrepreneurs, CGT fondateurs, visa | Sifted 29/10 | [NOUVEAU]
 29/10/2026 | LEVÉES | MuRay 7,1 M€ ; Artiso 3 M€ ; Samplix 25 M€ ; Spiko 90 M$ | Sifted 29/10 | [NOUVEAU]
 29/10/2026 | ACADÉMIQUE | HF Papers 29/10 : 2610.35201 ; 2610.32749 ; 2610.31670 ; Sleep framework ; FrontierCode 2.0 | 28-29/10 | [NOUVEAU]
+
+30/10/2026 | PRIVÉE-MONDE | Google Gemini 4 Carbon | 28/10 ; AA Index v5 = 59 (no 1) ; accès restreint cyber (Fairwind) ; 2 $/10 $ par M tokens | blog.google ; TLDR/AlphaSignal 29/10 | [NOUVEAU]
+30/10/2026 | PRIVÉE-FR | Mistral Le Chonk | poids ouverts 29/10, codage agentique + cyber ; lien Large 4 à vérifier | mistral.ai | [NOUVEAU]
+30/10/2026 | PRIVÉE-MONDE | Artificial Analysis Index v5 | 60 % test privés ; écart open-weight 12 pts ; FrontierCode 2.0, Terminal-Bench-Science | AlphaSignal/TLDR 29/10 | [NOUVEAU — SUITE FrontierCode 29/10]
+30/10/2026 | PRIVÉE-MONDE | Anthropic Claude for Legal ; LFM3 (détails) ; Nemotron 3.5 Transcribe ; Copilot harness/Fusion ; OpenAI Dot | AlphaSignal/TLDR 29/10 | [NOUVEAU — 1 source]
+30/10/2026 | LEVÉES | Fractile 540 M£ Série C [1 source] ; Machenta détail VDA ; Ravical 17 M$ ; Allox 10,5 M$ ; Argotec 50 M€ ; Braid 38 M$ | Sifted 30/10 | [NOUVEAU] / [SUITE de 28/10]
+30/10/2026 | EUROPE | Sifted AI 100 : talent 78 %, GTM 67 % | Sifted 30/10 | [NOUVEAU]
+30/10/2026 | ACADÉMIQUE | HF Papers 29-30/10 : 2610.29927 ; 2610.33106 ; 2610.35138 ; 2610.38678 ; 2610.36420 | huggingface.co/papers | [NOUVEAU]

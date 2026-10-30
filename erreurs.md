@@ -56,3 +56,5 @@
 | 28/10/2026 | Sources directes | openai.com/news non balayé (403 récurrent) ; PitchBook sans corps lisible ; S-1 SEC non consulté directement (chiffres via reprises) ; Tier B/C non balayés. Git : push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 29/10/2026 | Sources directes | openai.com/news et sifted.eu : HTTP 403 ; page Mistral/NVIDIA/DeepMind sans nouveauté datée ; PitchBook sans corps ; Genie 4 non retrouvé en recherche web ; Tier B/C non balayés. Git : branche session claude/nifty-faraday-45ghvl, push main selon consigne. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 30/10/2026 | Sources directes | openai.com/news, sifted.eu (articles), PitchBook non balayés ; « Le Chonk » : page tronquée (licence/benchmarks non lus) ; Fractile 540 M£ non confirmé en recherche web ; Tier B/C non balayés. Git : push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
