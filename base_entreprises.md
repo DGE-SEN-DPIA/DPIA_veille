@@ -1325,3 +1325,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Anthropic (US, modèles de fondation)
 - Dernière MAJ : 30/10/2026
 - Produits / modèles : Claude for Legal, 6 workflows, 60+ connecteurs (AlphaSignal, 29/10/2026) [1 source] ; outils de suivi des dépenses IA (TechCrunch 28/10).
+
+## DeepSeek (Chine, modèles de fondation)
+- Dernière MAJ : 02/11/2026
+- Produits / modèles : V4.1-Flash — MoE 552 Md/8 Md actifs, contexte 1 M tokens, KV cache global 890 o/token (model card relayée ; AlphaSignal 30/10/2026) [date de publication à vérifier]
+- À surveiller : fiche Hugging Face primaire ; adoption en inférence longue
+
+## Anthropic (US, modèles de fondation) — ajout 02/11/2026
+- Orientations stratégiques : biotech — acquisition rapportée de Mithril Medicine (anticorps LAMA2-CMD) autour du 30-31/10/2026 [1 source TTY] ; scepticisme du secteur sur le caractère « solo ».
+- À surveiller : confirmation sur anthropic.com ; S-1 (Nasdaq ANT)
+
+## Mistral (France) — ajout 02/11/2026
+- Produits / modèles : Timestral (15/10/2026), 4 tailles 5M-209M, prévision zéro-shot, poids HF sous licence MIT modifiée ; revendication de 1re place GIFT-Eval/TIME/fev-bench non confirmée par les mainteneurs.
+
+## Ares Intelligence / Pixel Systems / Talky Labs / YK-Robotics (nouveaux entrants, 02/11/2026)
+- Financement : Ares (UK) 2,9 M€ Creandum+Lakestar ; Pixel Systems (SE) 2,7 M€ seed Unconventional ; Talky Labs (ES) 1,5 M€ pré-seed ; YK-Robotics (IT, robots industriels) 1 M€ seed Draper B1/First Drop (Sifted, 02/11/2026).

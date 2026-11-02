@@ -604,3 +604,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 30/10/2026 | LEVÉES | Fractile 540 M£ Série C [1 source] ; Machenta détail VDA ; Ravical 17 M$ ; Allox 10,5 M$ ; Argotec 50 M€ ; Braid 38 M$ | Sifted 30/10 | [NOUVEAU] / [SUITE de 28/10]
 30/10/2026 | EUROPE | Sifted AI 100 : talent 78 %, GTM 67 % | Sifted 30/10 | [NOUVEAU]
 30/10/2026 | ACADÉMIQUE | HF Papers 29-30/10 : 2610.29927 ; 2610.33106 ; 2610.35138 ; 2610.38678 ; 2610.36420 | huggingface.co/papers | [NOUVEAU]
+
+02/11/2026 | PRIVÉE-MONDE | DeepSeek V4.1-Flash | 552B MoE/8B actifs, 1M ctx, KV cache 890 o/token ; date publication à vérifier | AlphaSignal 30/10 ; AIWeekly | [NOUVEAU — sources secondaires]
+02/11/2026 | PRIVÉE-MONDE | Anthropic–Mithril Medicine acquisition ; Citrini 49 % | TTY 31/10 | [SUITE de 29/10 — 1 source]
+02/11/2026 | PRIVÉE-MONDE | Cyber Cairn agents ≈1 200 sites, ≈50 $/intrusion | TTY 31/10 | [NOUVEAU — 1 source]
+02/11/2026 | PRIVÉE-MONDE | NVIDIA MotionBricks navigateur, SimReady 2 677 ; Google Suncatcher TPU orbite ; SpAItial Echo-3 ; UniAction | TTY/AI Search 31/10-01/11 | [NOUVEAU — 1 source]
+02/11/2026 | PRIVÉE-FR | Mistral Timestral (15/10, hors fenêtre) | AlphaSignal 01/11 ; mistral.ai | écarté — hors fenêtre
+02/11/2026 | PUBLIQUE-EU | Mois européen innovation IA 14/10-17/11 | cadeproject.org | [NOUVEAU — contexte, source secondaire]
+02/11/2026 | LEVÉES | Ares Intelligence 2,9 M€ ; Pixel Systems 2,7 M€ ; Talky Labs 1,5 M€ ; YK-Robotics 1 M€ ; Easol 20 M$ ; Sifted 250 : 56 AI-native ; photonique Luminetic/Aluvia | Sifted 02/11 | [NOUVEAU]
+02/11/2026 | ACADÉMIQUE | HF Papers 02/11 : 2610.22740 ; 2610.39497 ; 2610.40373 HiFOR ; 2610.40799 ; 2610.40748 ; 2610.42141 ; 2610.42096 | huggingface.co/papers | [NOUVEAU]
