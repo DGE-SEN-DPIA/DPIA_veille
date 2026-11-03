@@ -1340,3 +1340,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Ares Intelligence / Pixel Systems / Talky Labs / YK-Robotics (nouveaux entrants, 02/11/2026)
 - Financement : Ares (UK) 2,9 M€ Creandum+Lakestar ; Pixel Systems (SE) 2,7 M€ seed Unconventional ; Talky Labs (ES) 1,5 M€ pré-seed ; YK-Robotics (IT, robots industriels) 1 M€ seed Draper B1/First Drop (Sifted, 02/11/2026).
+
+## Anthropic (US, modèles de fondation) — ajout 03/11/2026
+- Dernière MAJ : 03/11/2026
+- Financement : S-1 public déposé le 26/10/2026 selon sources secondaires (Nasdaq, ANT) ; revenus ≈ 16,3 Md$ au S1 2026 ; pertes 80,7 Md$ (Guru3d) vs 109,7 Md$ sur 12 mois (IPO Scoop) — contradiction.
+- Orientations stratégiques : alerte sur proximité d'une capacité d'auto-amélioration récursive (TechCrunch 02/11, 1 source).
+- À surveiller : date de l'IPO (semaine du 09/11 ou 16/11 selon sources), EDGAR.
+
+## OpenAI (US) — ajout 03/11/2026
+- Financement : tour à 1 250 Md$ de valorisation vs 1 400 Md$ visés, intérêt tiède (TLDR 02/11, 1 source).
+
+## Hypersonica / Creandum / 42AI / Trajectory / Gallium Defense / Marble Cognition / Roleo — 03/11/2026
+- Financement : Hypersonica (UK/DE, missiles hypersoniques) 100 M€ Série B Lightspeed + General Catalyst ; Creandum fonds VIII 750 M$ ; 42AI 62,5 M$ (modèle du monde comportement humain) ; Trajectory 45 M$ ; Gallium Defense (FR) 7,1 M€ seed ; Marble Cognition (DE) 3,75 M$ pré-seed ; Roleo (EE) 2,9 M€.

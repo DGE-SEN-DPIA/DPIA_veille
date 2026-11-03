@@ -60,3 +60,5 @@
 | 30/10/2026 | Sources directes | openai.com/news, sifted.eu (articles), PitchBook non balayés ; « Le Chonk » : page tronquée (licence/benchmarks non lus) ; Fractile 540 M£ non confirmé en recherche web ; Tier B/C non balayés. Git : push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 02/11/2026 | Sources directes | openai.com/news non balayé (403 récurrent) ; DeepSeek model card primaire non consultée ; Mithril non confirmé sur anthropic.com ; DeepMind blog sans jours affichés ; Tier B/C non balayés. Git : session sur branche claude/nifty-faraday-zxm6lg, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 03/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; article TechCrunch RSI non lu ; EDGAR non consulté. Branche session claude/nifty-faraday-dwrhic, push main selon consigne. | Non résolu — Dernier check OpenAI laissé au 12/10 |

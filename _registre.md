@@ -613,3 +613,9 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 02/11/2026 | PUBLIQUE-EU | Mois européen innovation IA 14/10-17/11 | cadeproject.org | [NOUVEAU — contexte, source secondaire]
 02/11/2026 | LEVÉES | Ares Intelligence 2,9 M€ ; Pixel Systems 2,7 M€ ; Talky Labs 1,5 M€ ; YK-Robotics 1 M€ ; Easol 20 M$ ; Sifted 250 : 56 AI-native ; photonique Luminetic/Aluvia | Sifted 02/11 | [NOUVEAU]
 02/11/2026 | ACADÉMIQUE | HF Papers 02/11 : 2610.22740 ; 2610.39497 ; 2610.40373 HiFOR ; 2610.40799 ; 2610.40748 ; 2610.42141 ; 2610.42096 | huggingface.co/papers | [NOUVEAU]
+
+03/11/2026 | PRIVÉE-MONDE | Anthropic IPO (S-1 26/10) + alerte RSI | pertes 80,7 vs 109,7 Md$ contradictoires ; calendrier 09/11 ou 16/11 ; TechCrunch 02/11 | Guru3d ; IPO Scoop ; TechCrunch | [NOUVEAU — sources secondaires]
+03/11/2026 | PRIVÉE-MONDE | OpenAI tour 1 250 Md$ vs 1 400 visés ; 42AI 62,5 M$ ; Trajectory 45 M$ | TLDR 02/11 ; TechCrunch 02/11 | [NOUVEAU — 1 source]
+03/11/2026 | LEVÉES | Creandum 750 M$ ; Hypersonica 100 M€ ; LO:TECH 12 M$ ; Gallium Defense 7,1 M€ ; Marble Cognition 3,75 M$ ; Roleo 2,9 M€ | Sifted 03/11 | [NOUVEAU]
+03/11/2026 | DONNÉES | Photonique européenne 1,1 Md€ en 2026 (2,1 Md€ depuis 2024) ; 74 startups | Sifted 03/11 | [NOUVEAU]
+03/11/2026 | ACADÉMIQUE | HF Papers 03/11 : 2611.00859 ; 2610.40191 ; 2611.01560 ; 2611.02102 ; 2610.41216 | huggingface.co/papers | [NOUVEAU]
