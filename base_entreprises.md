@@ -1352,3 +1352,20 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Hypersonica / Creandum / 42AI / Trajectory / Gallium Defense / Marble Cognition / Roleo — 03/11/2026
 - Financement : Hypersonica (UK/DE, missiles hypersoniques) 100 M€ Série B Lightspeed + General Catalyst ; Creandum fonds VIII 750 M$ ; 42AI 62,5 M$ (modèle du monde comportement humain) ; Trajectory 45 M$ ; Gallium Defense (FR) 7,1 M€ seed ; Marble Cognition (DE) 3,75 M$ pré-seed ; Roleo (EE) 2,9 M€.
+
+## Anthropic — MAJ 04/11/2026
+- Dernière MAJ : 04/11/2026
+- Financement : S-1 amendé (CNBC 02/11/2026 via TLDR AI) : revenu 33,24 Md$ sur 9 mois 2026, perte nette 104 Md$, engagements de calcul ≈ 895,4 Md$ [1 source].
+- Produits / modèles : Message Threads en bêta publique (03/11/2026), −35 % temps au premier token sur 500 k–1 M tokens.
+- Orientations stratégiques : prospectus indique une possible atteinte de l'auto-amélioration récursive (RSI) ; résidence sécurité rémunérée (candidature avant le 22/11/2026).
+- À surveiller : date de cotation ; périmètres des pertes publiées.
+
+## Marvell / Lumentum (États-Unis, semi-conducteurs / optique) — NOUVEAU
+- Dernière MAJ : 04/11/2026
+- Financement : acquisition de Lumentum par Marvell, 80 Md$ en actions (WSJ via TLDR, 03/11/2026) [1 source, date non confirmée].
+- À surveiller : communiqué officiel, calendrier réglementaire.
+
+## OpenAI — MAJ 04/11/2026
+- Dernière MAJ : 04/11/2026
+- Produits / modèles : GPT-6.2 Astra repéré dans les usages Codex (testingcatalog via TLDR AI, 03/11/2026) [rumeur] ; LifeVal ; Pando (backend Git).
+- À surveiller : lancement public de GPT-6.2.

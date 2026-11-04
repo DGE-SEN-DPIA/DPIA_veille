@@ -62,3 +62,5 @@
 | 02/11/2026 | Sources directes | openai.com/news non balayé (403 récurrent) ; DeepSeek model card primaire non consultée ; Mithril non confirmé sur anthropic.com ; DeepMind blog sans jours affichés ; Tier B/C non balayés. Git : session sur branche claude/nifty-faraday-zxm6lg, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 03/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; article TechCrunch RSI non lu ; EDGAR non consulté. Branche session claude/nifty-faraday-dwrhic, push main selon consigne. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 04/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; articles CNBC/TechCrunch/WSJ non lus directement ; aucune requête web ; EDGAR non consulté. | Non résolu — Dernier check OpenAI laissé au 12/10 |

@@ -619,3 +619,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 03/11/2026 | LEVÉES | Creandum 750 M$ ; Hypersonica 100 M€ ; LO:TECH 12 M$ ; Gallium Defense 7,1 M€ ; Marble Cognition 3,75 M$ ; Roleo 2,9 M€ | Sifted 03/11 | [NOUVEAU]
 03/11/2026 | DONNÉES | Photonique européenne 1,1 Md€ en 2026 (2,1 Md€ depuis 2024) ; 74 startups | Sifted 03/11 | [NOUVEAU]
 03/11/2026 | ACADÉMIQUE | HF Papers 03/11 : 2611.00859 ; 2610.40191 ; 2611.01560 ; 2611.02102 ; 2610.41216 | huggingface.co/papers | [NOUVEAU]
+
+04/11/2026 | PRIVÉE-MONDE | Anthropic S-1 amendé T3 | 33,24 Md$ revenu 9 mois ; perte 104 Md$ ; engagements 895 Md$ ; RSI | CNBC/TechCrunch via TLDR 03/11 | [SUITE de 03/11 — 1 source]
+04/11/2026 | PRIVÉE-MONDE | Marvell–Lumentum 80 Md$ | rachat en actions, optique data center ; date non confirmée | WSJ via TLDR 03/11 | [NOUVEAU — 1 source]
+04/11/2026 | PRIVÉE-MONDE | Anthropic Message Threads ; résidence sécurité 350-500 k$ | −35 % TTFT ; candidature 22/11 | claude.com via TLDR/AlphaSignal 03/11 | [NOUVEAU]
+04/11/2026 | PRIVÉE-MONDE | OpenAI GPT-6.2 Astra (test Codex) ; LifeVal ; Pando | testingcatalog via TLDR 03/11 | [rumeur — 1 source]
+04/11/2026 | PRIVÉE-MONDE | Google ScientistTwo ; NVIDIA Cosmos Framework ; Apple robot 2027 | AlphaSignal/TLDR 03/11 | [NOUVEAU — 1 source]
+04/11/2026 | LEVÉES | Quint 9,1 M€ ; Tumbleweed 6,9 M€ ; Conlio 6,4 M€ ; Vitroscope 5 M$ ; CyberKord 2,7 M€ ; Evertrue 17 M$ | Sifted 04/11 | [NOUVEAU]
+04/11/2026 | ACADÉMIQUE | HF Papers 04/11 : 2611.02497 ; 2611.03233 ; 2611.04916 ; 2611.04035 ; 2611.02501 ; 2611.02079 | huggingface.co/papers | [NOUVEAU]
