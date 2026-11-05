@@ -1369,3 +1369,20 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Dernière MAJ : 04/11/2026
 - Produits / modèles : GPT-6.2 Astra repéré dans les usages Codex (testingcatalog via TLDR AI, 03/11/2026) [rumeur] ; LifeVal ; Pando (backend Git).
 - À surveiller : lancement public de GPT-6.2.
+
+## DeepSeek (Chine, modèles de fondation) — ajout 05/11/2026
+- Dernière MAJ : 05/11/2026
+- Orientations stratégiques : 05/11/2026 — pré-entraînement envisagé sur Huawei Ascend 950DT d'ici fin 2026 (The Information via AI Weekly ; [1 source]) ; post-training V4-Pro 1,6T sur ≥1 000 Ascend 910C par équipe menée par Huawei (sans benchmark indépendant).
+- À surveiller : confirmation primaire ; fiabilité à grande échelle.
+
+## Deep Principle (Chine, IA scientifique) — création 05/11/2026
+- Dernière MAJ : 05/11/2026
+- Produits / modèles : Hydrogen-1.0, 753B, poids ouverts MIT, base GLM-5.3, 1M ctx ; 38,3 % FrontierScience-Research (AlphaSignal 04/11, [1 source]).
+
+## Revolut (UK, fintech) — ajout 05/11/2026
+- Dernière MAJ : 05/11/2026
+- Financement : valorisation 115 Md$ confirmée après vente secondaire (Sifted 05/11).
+- Orientations stratégiques : codage IA auto-hébergé (GLM sur 56 B200), −90 % de coûts déclarés, ≈2 000 ingénieurs ; version GLM contradictoire (5.3 vs 4.5).
+
+## Pliant / bit.bio / Supa / Biograil / Crediflow AI — 05/11/2026
+- Financement : Pliant 80 M$ Série C (Seaya, Speedinvest) ; bit.bio 25 M$ Série D ; Supa 21 M£ seed ; Biograil 20 M€ ; Crediflow AI 1,8 M€ (Sifted 05/11).

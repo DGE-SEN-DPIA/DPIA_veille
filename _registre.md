@@ -627,3 +627,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 04/11/2026 | PRIVÉE-MONDE | Google ScientistTwo ; NVIDIA Cosmos Framework ; Apple robot 2027 | AlphaSignal/TLDR 03/11 | [NOUVEAU — 1 source]
 04/11/2026 | LEVÉES | Quint 9,1 M€ ; Tumbleweed 6,9 M€ ; Conlio 6,4 M€ ; Vitroscope 5 M$ ; CyberKord 2,7 M€ ; Evertrue 17 M$ | Sifted 04/11 | [NOUVEAU]
 04/11/2026 | ACADÉMIQUE | HF Papers 04/11 : 2611.02497 ; 2611.03233 ; 2611.04916 ; 2611.04035 ; 2611.02501 ; 2611.02079 | huggingface.co/papers | [NOUVEAU]
+
+05/11/2026 | PRIVÉE-MONDE | DeepSeek pré-entraînement Huawei Ascend 950DT fin 2026 | objectif rapporté, V4-Pro post-training 910C ; pas de "V5" retrouvé | Geopolitechs 04/11 ; AI Weekly | [SUITE de 02/11 — 1 source]
+05/11/2026 | PRIVÉE-MONDE | Hydrogen-1.0 (Deep Principle) | 753B open MIT, 38,3 % vs 33,3 % FrontierScience-Research | AlphaSignal 04/11 | [NOUVEAU — 1 source]
+05/11/2026 | PRIVÉE-MONDE | Revolut GLM auto-hébergé 56 B200, −90 % coûts ; 115 Md$ | version GLM contradictoire | The Register 03/11 ; Sifted 05/11 | [NOUVEAU]
+05/11/2026 | PRIVÉE-MONDE | OpenAI usage ChatGPT 1,2 Md hebdo ; bug bounty 172 k$ ; MIT Astra weight edits contesté | Big Technology 03/11 ; AlphaSignal | [SUITE de 03/11 — 1 source]
+05/11/2026 | PUBLIQUE-EU | Siri AI ouvert développeurs, indisponible UE | Apple 04/11 | [NOUVEAU]
+05/11/2026 | PUBLIQUE-INTL | Midterms US : démocrates reprennent Chambre+Sénat | Sifted 05/11 | [NOUVEAU — contexte]
+05/11/2026 | LEVÉES | Pliant 80 M$ ; bit.bio 25 M$ ; Supa 21 M£ ; Biograil 20 M€ ; Crediflow 1,8 M€ ; Sequoia ferme Londres | Sifted 05/11 | [NOUVEAU]
+05/11/2026 | ACADÉMIQUE | HF Papers 05/11 : 2611.05320 ; 2611.06918 ; 2611.04391 ; 2610.37257 ; 2611.02857 | huggingface.co/papers | [NOUVEAU]

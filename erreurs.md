@@ -64,3 +64,5 @@
 | 03/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; article TechCrunch RSI non lu ; EDGAR non consulté. Branche session claude/nifty-faraday-dwrhic, push main selon consigne. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 04/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; articles CNBC/TechCrunch/WSJ non lus directement ; aucune requête web ; EDGAR non consulté. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 05/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; EDGAR non consulté ; DeepMind sans jours affichés ; DeepSeek/Huawei et Revolut : sources secondaires seulement. Git : session sur branche claude/nifty-faraday-9lkkyd, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
