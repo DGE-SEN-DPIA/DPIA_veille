@@ -1386,3 +1386,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Pliant / bit.bio / Supa / Biograil / Crediflow AI — 05/11/2026
 - Financement : Pliant 80 M$ Série C (Seaya, Speedinvest) ; bit.bio 25 M$ Série D ; Supa 21 M£ seed ; Biograil 20 M€ ; Crediflow AI 1,8 M€ (Sifted 05/11).
+
+## Mistral AI (France, modèles de fondation) — complément 06/11/2026
+- Dernière MAJ : 06/11/2026
+- Produits / modèles : 05/11/2026 lancement de « Studio », plateforme de construction/déploiement d'agents, workflows et apps d'entreprise avec contrôle des modèles, données et infrastructure (détails non lus). Fait suite à Le Chonk (29/10/2026).
+- À surveiller : fonctionnalités, tarifs, disponibilité de Studio.
+
+## Moonshot AI (Chine, modèles de fondation) — complément 06/11/2026
+- Dernière MAJ : 06/11/2026
+- Produits / modèles : Kimi K3.1 Pro (API 23/10/2026) ; poids ouverts annoncés pour le 04/11/2026, publication rapportée par AlphaSignal le 05/11 (2,8 T paramètres MoE, contexte 1 M) [1 source].
+- À surveiller : confirmation du dépôt Hugging Face, licence.
+
+## Tencent (Chine, modèles de fondation) — complément 06/11/2026
+- Dernière MAJ : 06/11/2026
+- Produits / modèles : Hy4 preview open source le 28/08/2026 (770 B, 49 B actifs, Apache 2.0) ; version finale Hy4 annoncée le 05/11/2026, poids « dans les prochains jours ».
+- À surveiller : publication des poids et system cards.
+
+## OpenAI (États-Unis) — complément 06/11/2026
+- Dernière MAJ : 06/11/2026
+- Produits / modèles : Images 2.6 (05/11/2026), API gpt-image-2.6 Flare/Sunburst.
+- Contrats & partenariats : rachat annoncé de Pierre Computer Company (outils Codex) ; Cat Wu rejoint OpenAI.
+- À surveiller : pipeline cyber autonome (948 patchs Linux, ≈ 1,2 M$).

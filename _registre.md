@@ -636,3 +636,12 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 05/11/2026 | PUBLIQUE-INTL | Midterms US : démocrates reprennent Chambre+Sénat | Sifted 05/11 | [NOUVEAU — contexte]
 05/11/2026 | LEVÉES | Pliant 80 M$ ; bit.bio 25 M$ ; Supa 21 M£ ; Biograil 20 M€ ; Crediflow 1,8 M€ ; Sequoia ferme Londres | Sifted 05/11 | [NOUVEAU]
 05/11/2026 | ACADÉMIQUE | HF Papers 05/11 : 2611.05320 ; 2611.06918 ; 2611.04391 ; 2610.37257 ; 2611.02857 | huggingface.co/papers | [NOUVEAU]
+
+06/11/2026 | PRIVÉE-FR | Mistral Studio (agents/workflows/apps entreprise) | lancé 05/11, détails non lus | mistral.ai/news/build-with-studio | [NOUVEAU — SUITE de Le Chonk 29/10]
+06/11/2026 | PRIVÉE-MONDE | Kimi K3.1 Pro poids ouverts (2,8T, 1M ctx) | promesse 04/11, dépôt HF non confirmé | AlphaSignal 05/11 ; TLDR AI | [SUITE — 1 source]
+06/11/2026 | PUBLIQUE-INTL | Tencent Hy4 version finale annoncée, poids à venir | preview 28/08 (770B, Apache 2.0) | Tencent via TLDR AI 05/11 | [SUITE]
+06/11/2026 | PRIVÉE-MONDE | OpenAI Images 2.6 ; rachat Pierre Computer ; 948 patchs Linux ; Cat Wu | AlphaSignal/TLDR AI 05/11 | [NOUVEAU]
+06/11/2026 | PRIVÉE-MONDE | Meta rachète Conductor ; Ripple-65B ; Cognition SWE-2 Flash ; Claude Code −99 % sous-agents ; Google A5X 80k GPU | TLDR AI/AlphaSignal 05/11 | [NOUVEAU — 1 source]
+06/11/2026 | PUBLIQUE-FR | Startups hardware européennes sans Chine (drone FR turbine kérosène) ; Haido | Sifted 06/11 | [NOUVEAU — 1 source]
+06/11/2026 | LEVÉES | EOS-X Space 110 M€ ; Vaeridion 30 M€ ; FluoRok 30 M$ ; Green Voltis 13,5 M€ ; Kabilio 10 M€ | Sifted 06/11 | [NOUVEAU]
+06/11/2026 | ACADÉMIQUE | HF Papers 06/11 : 2611.06817 ; 2611.07854 ; 2611.00883 ; 2611.04894 | huggingface.co/papers | [NOUVEAU]
