@@ -68,3 +68,5 @@
 | 05/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; EDGAR non consulté ; DeepMind sans jours affichés ; DeepSeek/Huawei et Revolut : sources secondaires seulement. Git : session sur branche claude/nifty-faraday-9lkkyd, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 06/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; PitchBook sans corps lisible ; page Mistral Studio : résumé seulement ; poids Kimi K3.1 Pro non confirmés sur HF. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 09/11/2026 | Sources directes | openai.com/news HTTP 403 ; Tier B/C non balayés ; NVIDIA AI Day Seoul page détail HTTP 500 ; PitchBook/TTY non exploités. | Non résolu — Dernier check OpenAI laissé au 12/10 |

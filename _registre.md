@@ -645,3 +645,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 06/11/2026 | PUBLIQUE-FR | Startups hardware européennes sans Chine (drone FR turbine kérosène) ; Haido | Sifted 06/11 | [NOUVEAU — 1 source]
 06/11/2026 | LEVÉES | EOS-X Space 110 M€ ; Vaeridion 30 M€ ; FluoRok 30 M$ ; Green Voltis 13,5 M€ ; Kabilio 10 M€ | Sifted 06/11 | [NOUVEAU]
 06/11/2026 | ACADÉMIQUE | HF Papers 06/11 : 2611.06817 ; 2611.07854 ; 2611.00883 ; 2611.04894 | huggingface.co/papers | [NOUVEAU]
+
+09/11/2026 | PRIVÉE-MONDE | Anthropic IPO valorisation ≈1 000 Md$ (vs 1 500), levée ≈80 Md$ ; roadshow contradictoire | WSJ 06/11 via TLDR ; Reuters | [SUITE de 04/11 — 1 source]
+09/11/2026 | PUBLIQUE-INTL | Midterms US et risque datacenters ; PitchBook "AI sell-off" | WSJ 06/11 via TLDR | [NOUVEAU — 1 source]
+09/11/2026 | PRIVÉE-MONDE | Thinking Machines Inkling 2 Small 594B/17B actifs, poids Apache 2.0 "semaine prochaine" | thinkingmachines.ai 06/11 | [NOUVEAU]
+09/11/2026 | PRIVÉE-MONDE | OpenAI GPT-6 Cyber 81 vulns Firefox, ExploitGym 48,5 % ; Gemini Omni 1.2 Flash ; Anthropic Personal Finance ; METR R&D x2 | AlphaSignal/TLDR AI 06/11 | [SUITE/NOUVEAU — 1 source]
+09/11/2026 | PRIVÉE-MONDE | Chine : LongCat 2.5, ERNIE 5.5 Flash Base, Ling 3.2 Flash, SenseNova 6.8, Hyra 2, DeepSeek Harness ; NVIDIA Cosmos 3, STRATA ; LSA Prefrontal/ETH | AI Search 08/11 ; AlphaSignal 08/11 | [NOUVEAU — 1 source]
+09/11/2026 | PUBLIQUE-EU | Sequoia ferme Londres ; robotique EU 4,5 Md€ 2026 | Sifted 09/11 | [NOUVEAU]
+09/11/2026 | PUBLIQUE-INTL | NVIDIA AI Day Seoul 08/11 (contenu non lu) | blogs.nvidia.com | [NOUVEAU — à vérifier]
+09/11/2026 | LEVÉES | Vensum Power 9 M€ ; Claimlane 5,6 M€ ; Biom 2 M€ | Sifted 09/11 | [NOUVEAU]
+09/11/2026 | ACADÉMIQUE | HF Papers 09/11 : 2611.06748 ; 2611.07624 ; 2611.09894 ; 2611.09382 | huggingface.co/papers | [NOUVEAU]

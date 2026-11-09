@@ -1407,3 +1407,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Produits / modèles : Images 2.6 (05/11/2026), API gpt-image-2.6 Flare/Sunburst.
 - Contrats & partenariats : rachat annoncé de Pierre Computer Company (outils Codex) ; Cat Wu rejoint OpenAI.
 - À surveiller : pipeline cyber autonome (948 patchs Linux, ≈ 1,2 M$).
+
+## Anthropic (US, modèles de fondation) — complément 09/11/2026
+- Dernière MAJ : 09/11/2026
+- Financement : IPO — valorisation visée ≈ 1 000 Md$ (vs 1 500), levée ≈ 80 Md$ (vs 100) selon WSJ 06/11/2026 [1 source]
+- Produits : Personal Finance in Claude (06/11/2026, lecture seule)
+- À surveiller : calendrier roadshow/pricing ; METR (05/11) sur accélération R&D
+
+## Thinking Machines Lab (US, modèles de fondation) — 09/11/2026
+- Dernière MAJ : 09/11/2026
+- Produits / modèles : Inkling 2 Small (06/11/2026), MoE 594 B/17 B actifs, via Tinker ; poids Apache 2.0 annoncés semaine du 09/11
+- À surveiller : publication effective des poids
+
+## OpenAI (US) — complément 09/11/2026
+- Dernière MAJ : 09/11/2026
+- Produits : GPT-6 Cyber (06/11/2026), 81 vulnérabilités Firefox, programme Daybreak [1 source]
