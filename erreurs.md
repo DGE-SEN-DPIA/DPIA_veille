@@ -70,3 +70,5 @@
 | 06/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; PitchBook sans corps lisible ; page Mistral Studio : résumé seulement ; poids Kimi K3.1 Pro non confirmés sur HF. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 09/11/2026 | Sources directes | openai.com/news HTTP 403 ; Tier B/C non balayés ; NVIDIA AI Day Seoul page détail HTTP 500 ; PitchBook/TTY non exploités. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 10/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; TechCrunch/NYT/WSJ lus par titres ; page Anthropic 5.2 lue par résumé automatique ; PitchBook sans corps lisible. | Non résolu — Dernier check OpenAI laissé au 12/10 |

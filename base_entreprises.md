@@ -1422,3 +1422,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## OpenAI (US) — complément 09/11/2026
 - Dernière MAJ : 09/11/2026
 - Produits : GPT-6 Cyber (06/11/2026), 81 vulnérabilités Firefox, programme Daybreak [1 source]
+
+## Anthropic (États-Unis, modèles de fondation) — complément 10/11/2026
+- Dernière MAJ : 10/11/2026
+- Financement : S-1 déposé 26/10/2026 ; IPO sans date officielle au 10/11/2026 (TechCrunch 09/11 : « avance »).
+- Produits / modèles : 09/11/2026 — Claude Fable 5.2 (public, 8/40 $ par M tokens) et Mythos 5.2 (organisations vérifiées) ; FrontierCode 2.0 49,1 % vs 32,4 % (Fable 5.1) [anthropic.com]. Capacités de R&D IA volontairement plafonnées au niveau d'Opus 5.5.
+- Contrats & partenariats : 27/10/2026 GSA (Claude pour tous les niveaux de gouvernement US). Turbines à gaz 3,4 Md$ (TechCrunch 09/11, titre seul).
+- À surveiller : calendrier roadshow/cotation ; accès Mythos et programmes de vérification.
+
+## NVIDIA (États-Unis, semi-conducteurs) — complément 10/11/2026
+- Dernière MAJ : 10/11/2026
+- Orientations stratégiques : enquête du conseil sur Jensen Huang (NYT 08/11/2026) ; retrait de l'ElevenLabs Summit (TechCrunch 09/11) ; AI Day Seoul 08/11 ; CoRL 09/11 (robots en simulation).
+- À surveiller : actions en justice, exposition Chine/licences d'export.
+
+## OpenAI (États-Unis) — complément 10/11/2026
+- Dernière MAJ : 10/11/2026
+- Financement : 11 Md$ à 1 250 Md$ rapportés (TechCrunch 06/11/2026), jusqu'à 20 Md$, cible initiale 30 Md$ [1 source].
+- Produits : BioBasicsBench avec Ligo (09/11/2026).
+
+## Onodrim (Pays-Bas, rollup défense/espace/industrie)
+- Dernière MAJ : 10/11/2026
+- Financement : 300 M$ série A (Sifted 10/11/2026).

@@ -655,3 +655,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 09/11/2026 | PUBLIQUE-INTL | NVIDIA AI Day Seoul 08/11 (contenu non lu) | blogs.nvidia.com | [NOUVEAU — à vérifier]
 09/11/2026 | LEVÉES | Vensum Power 9 M€ ; Claimlane 5,6 M€ ; Biom 2 M€ | Sifted 09/11 | [NOUVEAU]
 09/11/2026 | ACADÉMIQUE | HF Papers 09/11 : 2611.06748 ; 2611.07624 ; 2611.09894 ; 2611.09382 | huggingface.co/papers | [NOUVEAU]
+
+10/11/2026 | PRIVÉE-MONDE | Anthropic Claude Fable 5.2 / Mythos 5.2 (09/11) | prix 8/40 $, FrontierCode 49,1 %, RoboDojo 64,9 %, Mythos vérifié uniquement | anthropic.com/claude-fable-and-mythos-5-2 | [NOUVEAU]
+10/11/2026 | PRIVÉE-MONDE | Anthropic IPO : S-1 26/10, pas de date officielle ; turbines gaz 3,4 Md$ | TechCrunch 09/11 ; Reuters | [SUITE de 09/11 — 1 source]
+10/11/2026 | PRIVÉE-MONDE | NVIDIA enquête conseil sur Jensen Huang (liens avec une espionne présumée) | NYT 08/11 via TLDR ; TechCrunch 09/11 | [NOUVEAU — 1 source]
+10/11/2026 | PRIVÉE-MONDE | OpenAI 11 Md$ à 1 250 Md$ (cible 30 Md$) ; BioBasicsBench | TechCrunch 06/11 via TLDR AI | [SUITE — 1 source]
+10/11/2026 | PRIVÉE-MONDE | Nous Arete-27B ; Meta Muse Ember ; Amazon robot domestique ; PSI Aaronson-Ambainis | AlphaSignal/TLDR 09/11 | [NOUVEAU — 1 source]
+10/11/2026 | PUBLIQUE-FR | Attal courtise la tech, "AI shock", visite Mistral | Sifted 10/11 | [NOUVEAU — 1 source]
+10/11/2026 | LEVÉES | Onodrim 300 M$ ; Warp Sciences 215 M$ ; Hypersonica 100 M€ ; SRTD 31,5 M€ ; Marble 6 M€ ; Creandum 750 M$ ; Monzo (discussions) | Sifted 09-10/11 ; TLDR AI | [NOUVEAU]
