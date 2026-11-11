@@ -663,3 +663,13 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 10/11/2026 | PRIVÉE-MONDE | Nous Arete-27B ; Meta Muse Ember ; Amazon robot domestique ; PSI Aaronson-Ambainis | AlphaSignal/TLDR 09/11 | [NOUVEAU — 1 source]
 10/11/2026 | PUBLIQUE-FR | Attal courtise la tech, "AI shock", visite Mistral | Sifted 10/11 | [NOUVEAU — 1 source]
 10/11/2026 | LEVÉES | Onodrim 300 M$ ; Warp Sciences 215 M$ ; Hypersonica 100 M€ ; SRTD 31,5 M€ ; Marble 6 M€ ; Creandum 750 M$ ; Monzo (discussions) | Sifted 09-10/11 ; TLDR AI | [NOUVEAU]
+
+11/11/2026 | PRIVÉE-MONDE | Anthropic roadshow IPO : 825 M actions Class A, 70–78 $, Nasdaq, ticker ANT | anthropic.com/news/roadshow-launch 10/11 | [SUITE de 10/11]
+11/11/2026 | PRIVÉE-MONDE | Anthropic turbines gaz Caterpillar 1,7 GW 3,4 Md$ ; engagements calcul 895 Md$ (estimation tierce) | TechCrunch 09/11 ; TLDR AI 10/11 | [SUITE de 10/11]
+11/11/2026 | PUBLIQUE-INTL | UK : remplacement Palantir au NHS d'ici 2029 (330 M£) | Sifted 11/11 | [NOUVEAU — 1 source]
+11/11/2026 | PUBLIQUE-EU | Mistral contre propositions copyright IA | Sifted 11/11 | [NOUVEAU — à vérifier]
+11/11/2026 | PRIVÉE-MONDE | OpenAI Codex multi-machines, Control Room (kill switch 35 s), ChatGPT Enterprise sur AWS Marketplace ; Google TPU 8i Max/8tx ; Fireworks incident 06/10 | AlphaSignal/TLDR AI 10/11 | [NOUVEAU — 1 source]
+11/11/2026 | PRIVÉE-MONDE | Meta Muse Ember (claims vs Haiku 5.5) ; Fable 5.2 Fermat 1000 agents, capsides 28/34 | TLDR AI/AlphaSignal 10/11 | [SUITE de 10/11 — résultats éditeur]
+11/11/2026 | NVIDIA | Huang se retire du sommet ElevenLabs (11/11) | Sifted 11/11 | [SUITE de 10/11]
+11/11/2026 | ACADÉMIQUE | GR00T 2 ; AutoCompress (2611.08290) ; Suno Bark ; Tencent 27B 125 tok/s | TLDR AI/AlphaSignal 10/11 | [NOUVEAU]
+11/11/2026 | LEVÉES | Sumary 25 M$ ; Hiverge 19,4 M$ ; Port 14,5 M€ ; triPica 12,4 M€ ; Ancep 8,5 M$ ; Planky 6,9 M€ ; Mistt 5 M£ ; Neobe 5 M£ ; Europe chips map 113 | Sifted 11/11 | [NOUVEAU]

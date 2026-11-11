@@ -72,3 +72,5 @@
 | 09/11/2026 | Sources directes | openai.com/news HTTP 403 ; Tier B/C non balayés ; NVIDIA AI Day Seoul page détail HTTP 500 ; PitchBook/TTY non exploités. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 10/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; TechCrunch/NYT/WSJ lus par titres ; page Anthropic 5.2 lue par résumé automatique ; PitchBook sans corps lisible. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 11/11/2026 | Sources directes | sifted.eu HTTP 403 ; openai.com/news non balayé ; DeepMind non balayé ; Tier B/C non balayés ; page roadshow Anthropic lue par résumé automatique ; PitchBook sans corps lisible ; aucune requête web. | Non résolu — Dernier check OpenAI laissé au 12/10 |

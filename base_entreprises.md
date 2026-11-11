@@ -1443,3 +1443,18 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Onodrim (Pays-Bas, rollup défense/espace/industrie)
 - Dernière MAJ : 10/11/2026
 - Financement : 300 M$ série A (Sifted 10/11/2026).
+
+## Anthropic — MAJ 11/11/2026
+- Dernière MAJ : 11/11/2026
+- Financement : roadshow IPO lancé le 10/11/2026 ; 825 M d'actions Class A (801 351 354 primaires, 23 648 646 secondaires), 70–78 $/action, option 123 750 000 actions, Nasdaq GS, ticker ANT (anthropic.com).
+- Contrats & partenariats : 1,7 GW de générateurs gaz Caterpillar, 3,4 Md$ (TechCrunch 09/11/2026).
+- À surveiller : prix final et date de cotation ; engagements de calcul ~895 Md$ (estimation tierce) vs S-1.
+
+## Hiverge (Royaume-Uni, IA)
+- Dernière MAJ : 11/11/2026
+- Financement : 19,4 M$ (dépôts), Plural ; série A plus large à annoncer (Sifted 11/11/2026) ; soutenu par NVIDIA selon Sifted [1 source].
+- À surveiller : annonce de la série A.
+
+## Sumary (Europe, comptabilité IA-native)
+- Dernière MAJ : 11/11/2026
+- Financement : seed 25 M$, Singular (Sifted 11/11/2026).
