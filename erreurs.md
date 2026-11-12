@@ -74,3 +74,5 @@
 | 10/11/2026 | Sources directes | openai.com/news non balayé ; Tier B/C non balayés ; TechCrunch/NYT/WSJ lus par titres ; page Anthropic 5.2 lue par résumé automatique ; PitchBook sans corps lisible. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 11/11/2026 | Sources directes | sifted.eu HTTP 403 ; openai.com/news non balayé ; DeepMind non balayé ; Tier B/C non balayés ; page roadshow Anthropic lue par résumé automatique ; PitchBook sans corps lisible ; aucune requête web. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 12/11/2026 | Sources directes | openai.com/news, DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans corps lisible ; entrée Anthropic du 12/11 sans titre ; Fractile : montant 540 M£ non confirmé par source primaire ; page Claude Sheets non lue. Git : branche session claude/nifty-faraday-5s6n6l, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |

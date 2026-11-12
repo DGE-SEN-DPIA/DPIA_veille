@@ -1458,3 +1458,25 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Sumary (Europe, comptabilité IA-native)
 - Dernière MAJ : 11/11/2026
 - Financement : seed 25 M$, Singular (Sifted 11/11/2026).
+
+## Fractile (UK, puces d'inférence IA) — MAJ 12/11/2026
+- Dernière MAJ : 12/11/2026
+- Financement : 11/11/2026 annonce 540 M£ (Sovereign AI Venture Fund, British Business Bank) selon Sifted ; reprises antérieures : ~700 M$ à ~6,5 Md$ de valorisation (Lightspeed/Redpoint évoqués) — non confirmé.
+- À surveiller : confirmation du montant et de la valorisation.
+
+## Google (US, modèles & cloud) — MAJ 12/11/2026
+- Dernière MAJ : 12/11/2026
+- Produits / modèles : Gemini 4 Carbon en API le 10/11/2026 (2/10 $ par M tokens jusqu'au 30/11/2026, puis 4/20 $) ; /swarm Antigravity ; TPU 8tx, 8i Max ; Gemini for Healthcare (préversion).
+- À surveiller : bascule tarifaire du 30/11.
+
+## Emulate (UK, offshoot DeepMind) — MAJ 12/11/2026
+- Dernière MAJ : 12/11/2026
+- Financement : tour de 700 M$ ; NVentures (NVIDIA) et Unity y participent (Sifted, 12/11/2026, exclusif).
+
+## Anthropic — MAJ 12/11/2026
+- Dernière MAJ : 12/11/2026
+- Produits / modèles : 11/11/2026 Claude Sheets, Whiteboards, Data, connecteurs interactifs, plugins Salesforce/NetSuite/Workday (bêta) ; Claude Meetings annoncé.
+- À surveiller : entrée anthropic.com/news du 12/11 sans titre ; issue du roadshow IPO.
+
+## Tendrils Compute (UK, architectures CPU) — MAJ 12/11/2026
+- Financement : 30 M$ (Benchmark, Visionaries, UK Sovereign AI Fund, Embassy Ventures) — Sifted 12/11/2026.

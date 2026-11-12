@@ -673,3 +673,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 11/11/2026 | NVIDIA | Huang se retire du sommet ElevenLabs (11/11) | Sifted 11/11 | [SUITE de 10/11]
 11/11/2026 | ACADÉMIQUE | GR00T 2 ; AutoCompress (2611.08290) ; Suno Bark ; Tencent 27B 125 tok/s | TLDR AI/AlphaSignal 10/11 | [NOUVEAU]
 11/11/2026 | LEVÉES | Sumary 25 M$ ; Hiverge 19,4 M$ ; Port 14,5 M€ ; triPica 12,4 M€ ; Ancep 8,5 M$ ; Planky 6,9 M€ ; Mistt 5 M£ ; Neobe 5 M£ ; Europe chips map 113 | Sifted 11/11 | [NOUVEAU]
+
+12/11/2026 | PRIVÉE-MONDE | Google Gemini 4 Carbon API 10/11, 2/10 $ puis 4/20 $ après 30/11 | blog.google 10/11 ; TLDR AI | [NOUVEAU]
+12/11/2026 | LEVÉES | Fractile 540 M£ (vs ~700 M$ rapportés), Sovereign AI Fund ; Emulate 700 M$ NVentures/Unity ; Sennder ; Orakl 34 M$ ; Tendrils 30 M$ ; Kardi 5,3 M€ ; Switchpoint 5,3 M$ | Sifted 12/11 | [NOUVEAU — Fractile à vérifier]
+12/11/2026 | PRIVÉE-MONDE | Anthropic Claude Sheets/Whiteboards/Data/connecteurs interactifs 11/11 | TLDR AI ; AlphaSignal 11/11 | [NOUVEAU]
+12/11/2026 | PUBLIQUE-EU | Equity puces européennes 3,25 Md€ 2026 vs 827 M€ 2025 | Sifted 12/11 | [NOUVEAU — 1 source]
+12/11/2026 | PRIVÉE-MONDE | OpenAI Businesses in ChatGPT, Odessia ; MAI-Transcribe-2 ; Qwen4-Max ; AlphaProof Code/Signal ; Grok apps exposées | TLDR AI/AlphaSignal 11/11 | [NOUVEAU — 1 source]
+12/11/2026 | SUIVI | Nscale IPO 35 Md$ possiblement reportée à 2027 | Sifted 12/11 | [NOUVEAU — 1 source]
