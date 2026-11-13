@@ -1480,3 +1480,22 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Tendrils Compute (UK, architectures CPU) — MAJ 12/11/2026
 - Financement : 30 M$ (Benchmark, Visionaries, UK Sovereign AI Fund, Embassy Ventures) — Sifted 12/11/2026.
+
+## NVIDIA (US, semi-conducteurs) — MAJ 13/11/2026
+- Dernière MAJ : 13/11/2026
+- Orientations stratégiques : 12/11/2026 (8-K, événement à vérifier à 1 jour près) démission de Jensen Huang ; Colette Kress CEO par intérim (garde la fonction de CFO) ; Harvey C. Jones premier président du conseil ; recherche d'un successeur par cabinet externe.
+- Financement : 13 tours menés en Europe sur 12 mois, dont Mistral et Revolut (Sifted 13/11) ; NVentures dans Emulate (700 M$, 12/11) et Agile Robots (500 M$, 13/11).
+- À surveiller : nom du CEO permanent ; impact sur investissements européens.
+
+## Agile Robots (DE, robotique)
+- Dernière MAJ : 13/11/2026
+- Financement : 500 M$, SoftBank (lead), NVIDIA, Hitachi (Sifted 13/11/2026, 1 source ; tour/valorisation n.c.).
+- À surveiller : confirmation primaire.
+
+## Runway (US, IA générative/robotique)
+- Dernière MAJ : 13/11/2026
+- Produits / modèles : Praxis-1, 27B, Apache 2.0, RoboLab-120 46,2 % (12/11/2026, TLDR AI, 1 source).
+
+## Uforce (défense)
+- Dernière MAJ : 13/11/2026
+- Financement : 700 M$, UK National Wealth Fund, Valor Equity Partners (Sifted 13/11/2026).

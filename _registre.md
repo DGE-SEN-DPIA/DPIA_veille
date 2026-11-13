@@ -680,3 +680,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 12/11/2026 | PUBLIQUE-EU | Equity puces européennes 3,25 Md€ 2026 vs 827 M€ 2025 | Sifted 12/11 | [NOUVEAU — 1 source]
 12/11/2026 | PRIVÉE-MONDE | OpenAI Businesses in ChatGPT, Odessia ; MAI-Transcribe-2 ; Qwen4-Max ; AlphaProof Code/Signal ; Grok apps exposées | TLDR AI/AlphaSignal 11/11 | [NOUVEAU — 1 source]
 12/11/2026 | SUIVI | Nscale IPO 35 Md$ possiblement reportée à 2027 | Sifted 12/11 | [NOUVEAU — 1 source]
+
+13/11/2026 | NVIDIA | Huang démissionne (8-K), Kress CEO par intérim, Harvey C. Jones président du conseil | SEC 8-K ; Sifted 13/11 ; TLDR 12/11 | [SUITE de 11/11]
+13/11/2026 | LEVÉES | Agile Robots 500 M$ (SoftBank, NVIDIA, Hitachi) ; Uforce 700 M$ ; Nebuly 21 M$ ; SE3 30 M$ | Sifted 13/11 | [NOUVEAU — Agile Robots 1 source]
+13/11/2026 | PRIVÉE-MONDE | Runway Praxis-1 27B Apache 2.0 (RoboLab-120 46,2 %) | TLDR AI 12/11 | [NOUVEAU — 1 source]
+13/11/2026 | PRIVÉE-MONDE | OpenAI Yang-Mills "shepherds" ; Gemini Decisions API/AlphaGenome 2/Robotics 2.5/A2UI ; Grok Bot 1.0 ; Claude Data GA ; Perplexity SPACE | TLDR/AlphaSignal 12/11 | [NOUVEAU — 1 source]
+13/11/2026 | PUBLIQUE-INTL | United restreint les agents IA ; Northzone Northstars/Sequoia ferme scouts | TLDR AI 12/11 ; Sifted 13/11 | [NOUVEAU — 1 source]
+13/11/2026 | ACADÉMIQUE | NYU 0,05 % poids ; filler tokens Qwen3.6/gpt-oss | AlphaSignal/TLDR AI 12/11 | [NOUVEAU — 1 source]
