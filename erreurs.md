@@ -78,3 +78,5 @@
 | 12/11/2026 | Sources directes | openai.com/news, DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans corps lisible ; entrée Anthropic du 12/11 sans titre ; Fractile : montant 540 M£ non confirmé par source primaire ; page Claude Sheets non lue. Git : branche session claude/nifty-faraday-5s6n6l, push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 13/11/2026 | Sources directes | openai.com/news, DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans corps lisible ; Agile Robots/Uforce : newsletter Sifted seule ; date exacte de la démission NVIDIA (8-K non lu en entier). Git : push main selon consigne du prompt. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+
+| 16/11/2026 | Sources directes | openai.com/news HTTP 403 ; DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans corps lisible ; pricing IPO Anthropic via médias secondaires ; statut omnibus IA non confirmé. | Non résolu — Dernier check OpenAI laissé au 12/10 |

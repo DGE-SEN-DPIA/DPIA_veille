@@ -1499,3 +1499,22 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Uforce (défense)
 - Dernière MAJ : 13/11/2026
 - Financement : 700 M$, UK National Wealth Fund, Valor Equity Partners (Sifted 13/11/2026).
+
+## Anthropic — MAJ 16/11/2026
+- Dernière MAJ : 16/11/2026
+- Financement : IPO Nasdaq (ANT), 825 M actions à 70–78 $ ; pricing attendu 18/11/2026, cotation 19/11/2026 (sources secondaires) ; valorisation 1 300–1 450 Md$ et CA 33,2 Md$ sur 9 mois 2026 selon AlphaSignal [1 source].
+- Produits / modèles : Claude Meetings (bêta, Google Meet, 13/11/2026) ; Claude Managed Agents auto-hébergé (bêta privée, 13/11/2026).
+- À surveiller : prix d'IPO 18/11 ; recherche sur données propres/empoisonnées (désalignement ×3).
+
+## NVIDIA — MAJ 16/11/2026
+- Dernière MAJ : 16/11/2026
+- Orientations stratégiques : démission de Huang confirmée par communiqué du 12/11/2026 ; Kress PDG par intérim ; Harvey C. Jones président du conseil.
+- À surveiller : résultats T3 FY2027 le 17/11/2026 ; recherche interne sur compaction du contexte des agents ; empreinte Blackwell dans des modèles chinois (analyse tierce, 1 source).
+
+## Google (US, modèles & cloud) — MAJ 16/11/2026
+- Dernière MAJ : 16/11/2026
+- Produits / modèles : Gemini 4 Hydrogen (13/11/2026), 51 à l'indice AA, 1,50/7,50 $ par M tokens.
+
+## Samsung (Corée du Sud, investisseur) — MAJ 16/11/2026
+- Dernière MAJ : 16/11/2026
+- Financement : 9 start-up européennes soutenues en 2026 (4,5 Md€ levés) vs 6 en 2025 (532 M€) ; a mené la série D de Mistral (3 Md€, 08/09/2026) ; quatre véhicules d'investissement (Sifted 16/11/2026).

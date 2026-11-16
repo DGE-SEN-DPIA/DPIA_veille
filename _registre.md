@@ -687,3 +687,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 13/11/2026 | PRIVÉE-MONDE | OpenAI Yang-Mills "shepherds" ; Gemini Decisions API/AlphaGenome 2/Robotics 2.5/A2UI ; Grok Bot 1.0 ; Claude Data GA ; Perplexity SPACE | TLDR/AlphaSignal 12/11 | [NOUVEAU — 1 source]
 13/11/2026 | PUBLIQUE-INTL | United restreint les agents IA ; Northzone Northstars/Sequoia ferme scouts | TLDR AI 12/11 ; Sifted 13/11 | [NOUVEAU — 1 source]
 13/11/2026 | ACADÉMIQUE | NYU 0,05 % poids ; filler tokens Qwen3.6/gpt-oss | AlphaSignal/TLDR AI 12/11 | [NOUVEAU — 1 source]
+
+16/11/2026 | PRIVÉE-MONDE | Anthropic IPO : pricing attendu 18/11, cotation 19/11 (ANT, 825 M actions, 70–78 $) | FourWeekMBA ; LetsDataScience ; AlphaSignal 15/11 | [SUITE de 11/11 — sources secondaires]
+16/11/2026 | NVIDIA | Résultats T3 FY2027 le 17/11 ; PitchBook sur effet capital-risque ; Huang démission 12/11 confirmée par communiqué | nvidianews 12/11 ; PitchBook 13-14/11 | [SUITE de 13/11]
+16/11/2026 | PRIVÉE-MONDE | Anthropic Claude Meetings (Google Meet) ; Managed Agents auto-hébergés (bêta privée) | AlphaSignal 13/11, 15/11 ; TLDR AI 13/11 | [NOUVEAU — éditeur]
+16/11/2026 | PUBLIQUE-INTL | Modèles chinois (DeepSeek, Moonshot, MiniMax, Ant) : empreinte Blackwell | TLDR AI 13/11 | [NOUVEAU — 1 source]
+16/11/2026 | PRIVÉE-MONDE | Samsung 9 start-up européennes 2026 (4,5 Md€) ; Gemini 4 Hydrogen ; Meta Muse appels ; Replit agent achats | Sifted 16/11 ; TLDR AI 13/11 | [NOUVEAU]
+16/11/2026 | ACADÉMIQUE | NVIDIA compaction contexte agents ; Anthropic données propres ×3 désalignement ; World Labs Atlas | AlphaSignal 13/11, 15/11 ; TLDR 13/11 | [NOUVEAU — 1 source]
+16/11/2026 | LEVÉES | Well 4 M$ ; Mosaico 7,5 M€ | Sifted 16/11 | [NOUVEAU — 1 source]
