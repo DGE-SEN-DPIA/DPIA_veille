@@ -695,3 +695,9 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 16/11/2026 | PRIVÉE-MONDE | Samsung 9 start-up européennes 2026 (4,5 Md€) ; Gemini 4 Hydrogen ; Meta Muse appels ; Replit agent achats | Sifted 16/11 ; TLDR AI 13/11 | [NOUVEAU]
 16/11/2026 | ACADÉMIQUE | NVIDIA compaction contexte agents ; Anthropic données propres ×3 désalignement ; World Labs Atlas | AlphaSignal 13/11, 15/11 ; TLDR 13/11 | [NOUVEAU — 1 source]
 16/11/2026 | LEVÉES | Well 4 M$ ; Mosaico 7,5 M€ | Sifted 16/11 | [NOUVEAU — 1 source]
+
+17/11/2026 | NVIDIA | MLPerf Training/Endpoints, Vera Rubin (16/11) ; pétition >160 000 signatures pour Huang | blogs.nvidia.com 16/11 ; TLDR 16/11 | [SUITE de 16/11]
+17/11/2026 | PRIVÉE-MONDE | Anthropic : annonce non titrée 17/11 ; CA T3 17 Md$ / perte 567 M$ ; rumeur export non confirmée | anthropic.com/news ; AI Business | [SUITE de 16/11 — à vérifier]
+17/11/2026 | PRIVÉE-MONDE | OpenAI ChatGPT Wallet ; Devin Apps ; Embla 1 ; Qwen4-Max 1M ctx ; DeepSeek API web/voix ; Apple lunettes 2027 | TLDR AI/AlphaSignal 16/11 | [NOUVEAU — 1 source]
+17/11/2026 | ACADÉMIQUE | CRAM Hopfield 42 ms ; BirdDreams ; Thinking Machines 4-bit ; Quark 165 M ; Meta encodeurs vision | AlphaSignal/TLDR 16/11 | [NOUVEAU — 1 source]
+17/11/2026 | LEVÉES | Plural 1 Md€ (fonds) ; Intergrid 23,5 M€ ; Daisytuner 6 M€ ; Valeria 5,5 M€ | Sifted 17/11 | [NOUVEAU]

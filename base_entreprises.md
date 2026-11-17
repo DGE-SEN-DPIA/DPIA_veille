@@ -1518,3 +1518,21 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Samsung (Corée du Sud, investisseur) — MAJ 16/11/2026
 - Dernière MAJ : 16/11/2026
 - Financement : 9 start-up européennes soutenues en 2026 (4,5 Md€ levés) vs 6 en 2025 (532 M€) ; a mené la série D de Mistral (3 Md€, 08/09/2026) ; quatre véhicules d'investissement (Sifted 16/11/2026).
+
+## NVIDIA — MAJ 17/11/2026
+- Dernière MAJ : 17/11/2026
+- Produits / modèles : Vera Rubin en tête de MLPerf Training (16/11/2026, blogs.nvidia.com) ; BirdDreams, modèle du monde conduite (TLDR AI 16/11/2026).
+- Orientations stratégiques : pétition >160 000 signatures pour le retour de Huang (TLDR 16/11/2026, 1 source).
+- À surveiller : résultats T3 FY2027 (17/11).
+
+## Anthropic — MAJ 17/11/2026
+- Dernière MAJ : 17/11/2026
+- Financement : CA T3 2026 17 Md$, perte d'exploitation 567 M$ (agrégateur, 1 source) ; annonce du 17/11 non lue.
+
+## Daisytuner (Allemagne, compilateur IA open source)
+- Dernière MAJ : 17/11/2026
+- Financement : seed 6 M€, Elaia, LEA Ventures, Amadeus APEX, Seedcamp (Sifted 17/11/2026).
+
+## Intergrid (Finlande, IA énergie industrielle)
+- Dernière MAJ : 17/11/2026
+- Financement : 23,5 M€, Kvanted, Tesi (Sifted 17/11/2026).
