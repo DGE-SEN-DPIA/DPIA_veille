@@ -701,3 +701,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 17/11/2026 | PRIVÉE-MONDE | OpenAI ChatGPT Wallet ; Devin Apps ; Embla 1 ; Qwen4-Max 1M ctx ; DeepSeek API web/voix ; Apple lunettes 2027 | TLDR AI/AlphaSignal 16/11 | [NOUVEAU — 1 source]
 17/11/2026 | ACADÉMIQUE | CRAM Hopfield 42 ms ; BirdDreams ; Thinking Machines 4-bit ; Quark 165 M ; Meta encodeurs vision | AlphaSignal/TLDR 16/11 | [NOUVEAU — 1 source]
 17/11/2026 | LEVÉES | Plural 1 Md€ (fonds) ; Intergrid 23,5 M€ ; Daisytuner 6 M€ ; Valeria 5,5 M€ | Sifted 17/11 | [NOUVEAU]
+
+18/11/2026 | PRIVÉE-MONDE | Anthropic IPO jour du pricing ; placement privé 26 Md$ (NVIDIA ~10 Md$) ; valo 1,0 vs 1,4 Md$ contradictoire | Sifted 18/11 ; FourWeekMBA ; TNW ; Renaissance | [SUITE de 17/11]
+18/11/2026 | NVIDIA | Trump favorable retour Huang ; conseil cherche CEO ; Rubin HPC 2028 | TLDR 17/11 ; TLDR AI 17/11 | [SUITE de 17/11 — 1 source]
+18/11/2026 | PRIVÉE-FR | Remanence seed 30 M$ (EQT Ventures, FirstMark) | Sifted 18/11 | [NOUVEAU — 1 source]
+18/11/2026 | PRIVÉE-MONDE | Tencent Hy4 flash ; HF×OpenRouter ; Liquid d1.2 ; Perplexity Frontier Research ; Google Cloud 80 000 Rubin | TLDR AI/AlphaSignal 17/11 | [NOUVEAU — 1 source]
+18/11/2026 | LEVÉES | Isomorphic ~5 Md$ (à vérifier) ; Model ML 250 M$ ; Tiberius 85 M$ ; Remanence 30 M$ ; Traitomic 20 M€ | Sifted 18/11 | [NOUVEAU]
+18/11/2026 | ACADÉMIQUE | Claude protéines ; World 2030 ; alignment eval tells ; bogues gradients | TLDR AI/AlphaSignal 17/11 | [NOUVEAU — 1 source]

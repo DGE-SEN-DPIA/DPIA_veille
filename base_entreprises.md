@@ -1536,3 +1536,27 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Intergrid (Finlande, IA énergie industrielle)
 - Dernière MAJ : 17/11/2026
 - Financement : 23,5 M€, Kvanted, Tesi (Sifted 17/11/2026).
+
+## Anthropic — MAJ 18/11/2026
+- Dernière MAJ : 18/11/2026
+- Financement : IPO — 825 M actions A, 70–78 $, Nasdaq « ANT », pricing attendu 18/11, cotation 19/11 (S-1 amendé 10/11). Placement privé 26 Md$ au prix de l'IPO, NVIDIA ~10 Md$ (sources secondaires). Valorisation : ~1 000 Md$ (Renaissance) vs 1 400 Md$ (TNW, Sifted 18/11) — contradiction.
+- À surveiller : prix définitif et premier jour de cotation.
+
+## NVIDIA — MAJ 18/11/2026
+- Dernière MAJ : 18/11/2026
+- Produits / modèles : Rubin HPC (>50 000 cœurs, disponibilité 2028) [TLDR AI 17/11, 1 source].
+- Orientations stratégiques : 17/11 Trump favorable à un retour de Huang ; conseil en recherche d'un CEO [1 source]. Engagement ~10 Md$ dans le placement privé Anthropic (secondaire).
+- À surveiller : résultats T3 FY2027 (non retrouvés), nomination du CEO.
+
+## Remanence (France, agents IA / modèles spécialisés) — NOUVEAU ENTRANT
+- Dernière MAJ : 18/11/2026
+- Financement : seed 30 M$, EQT Ventures et FirstMark (Sifted 18/11/2026) [1 source].
+- Produits : transforme les traces d'exécution d'agents en modèles spécialisés dont le client possède les poids.
+- À surveiller : confirmation par source primaire.
+
+## Isomorphic Labs (Royaume-Uni, IA découverte de médicaments)
+- Dernière MAJ : 18/11/2026
+- Financement : Série B 2,1 Md$ (12/05/2026, Thrive). 04/11/2026 Bloomberg : discussions pour ~5 Md$ à ~50 Md$ de valo ; 18/11 titre Sifted « nabs $5bn » [à vérifier : conclu ?].
+
+## Tencent / Liquid AI / Perplexity / Model ML / Tiberius — 18/11/2026
+- Tencent : Hy4 flash (17/11). Liquid AI : d1.2 / d1.2-ultra (17/11). Perplexity : Frontier Research (17/11). Model ML (UK) : Série B 250 M$ (General Atlantic, QED, 18/11). Tiberius Aerospace (UK) : Série A 85 M$ (Lakestar, 18/11).
