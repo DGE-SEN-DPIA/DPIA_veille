@@ -708,3 +708,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 18/11/2026 | PRIVÉE-MONDE | Tencent Hy4 flash ; HF×OpenRouter ; Liquid d1.2 ; Perplexity Frontier Research ; Google Cloud 80 000 Rubin | TLDR AI/AlphaSignal 17/11 | [NOUVEAU — 1 source]
 18/11/2026 | LEVÉES | Isomorphic ~5 Md$ (à vérifier) ; Model ML 250 M$ ; Tiberius 85 M$ ; Remanence 30 M$ ; Traitomic 20 M€ | Sifted 18/11 | [NOUVEAU]
 18/11/2026 | ACADÉMIQUE | Claude protéines ; World 2030 ; alignment eval tells ; bogues gradients | TLDR AI/AlphaSignal 17/11 | [NOUVEAU — 1 source]
+
+19/11/2026 | PRIVÉE-MONDE | Anthropic IPO fixée 83 $, 980 M actions, ~81,3 Md$, cotation 19/11 | anthropic.com 18/11 | [SUITE de 18/11]
+19/11/2026 | PRIVÉE-MONDE | OpenAI GPT-6.2 Astra/Sol ; embedded assessment 4 équipes ; TensorWave 457 MW AMD | TLDR AI/AlphaSignal 18/11 | [NOUVEAU — 1 source]
+19/11/2026 | NVIDIA | T3 FY2027 115,8 Md$, guidance 130 Md$, zéro Chine | NVIDIA IR 17/11 | [SUITE de 18/11]
+19/11/2026 | PRIVÉE-MONDE | Microsoft AI 7 modèles (MAI Code 2) ; Gemini appels/paiements ; Replit Missions ; Vercel eve 1.0 ; Cerebras désagrégé ; Sarvam | TLDR AI/AlphaSignal 18/11 | [NOUVEAU — 1 source]
+19/11/2026 | PUBLIQUE-EU | CEO start-up (ElevenLabs, Lovable) appellent l'UE à investir et alléger la régulation | Sifted 19/11 | [NOUVEAU — 1 source]
+19/11/2026 | LEVÉES | Isomorphic ~5 Md$ (2e source) ; Payhawk 280 M$ ; Staniszewski 4,7 M$ | PitchBook 18/11 ; Sifted 19/11 | [SUITE/NOUVEAU]
+19/11/2026 | ACADÉMIQUE | Sparse attention NVIDIA ; weight-space programming ; FrontierHarness 1.1 | TLDR AI 18/11 | [NOUVEAU — 1 source]

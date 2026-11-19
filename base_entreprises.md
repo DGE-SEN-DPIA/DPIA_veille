@@ -1560,3 +1560,25 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Tencent / Liquid AI / Perplexity / Model ML / Tiberius — 18/11/2026
 - Tencent : Hy4 flash (17/11). Liquid AI : d1.2 / d1.2-ultra (17/11). Perplexity : Frontier Research (17/11). Model ML (UK) : Série B 250 M$ (General Atlantic, QED, 18/11). Tiberius Aerospace (UK) : Série A 85 M$ (Lakestar, 18/11).
+
+## Anthropic — MAJ 19/11/2026
+- Dernière MAJ : 19/11/2026
+- Financement : IPO fixée le 18/11/2026 à 83,00 $/action de classe A ; 980 M d'actions (956,35 M Anthropic, 23,65 M cédants), ~81,3 Md$ bruts (calcul) ; surallocation 147 M ; cotation Nasdaq « ANT » 19/11, clôture 20/11 (anthropic.com).
+- Produits : Claude Code « Code Mode » expérimental (AlphaSignal 18/11).
+- À surveiller : valorisation finale, premier cours.
+
+## OpenAI — MAJ 19/11/2026
+- Dernière MAJ : 19/11/2026
+- Produits / modèles : GPT-6.2 Astra (8/40 $ par M tokens) et Sol (2/10 $), 18/11/2026 ; Astra classé « High » auto-amélioration. Embedded assessment avec Apollo, METR, Transluce, Goodfire.
+- Contrats : TensorWave, 457 MW AMD MI455X, 6 ans, 1H 2027 (sponsorisé, 1 source).
+
+## NVIDIA — MAJ 19/11/2026
+- Dernière MAJ : 19/11/2026
+- Résultats T3 FY2027 (17/11) : CA 115,8 Md$ (+103 %), Data Center 107,6 Md$, guidance T4 130 Md$ ±3 %, zéro Chine supposé. Kress CEO par intérim.
+
+## Microsoft — MAJ 19/11/2026
+- Dernière MAJ : 19/11/2026
+- Produits : MAI Code 2 et six autres modèles (18/11/2026) ; MAI Code 2 dans GitHub Copilot, 98 % de GPT-6.1 Sol pour ~40 % du prix (éditeur).
+
+## Isomorphic Labs — MAJ 19/11/2026
+- Levée ~5 Md$ relayée par PitchBook Europe Pitch (18/11) en plus de Sifted ; investisseurs n.c.

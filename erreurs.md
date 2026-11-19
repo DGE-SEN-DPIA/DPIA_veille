@@ -82,3 +82,4 @@
 | 16/11/2026 | Sources directes | openai.com/news HTTP 403 ; DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans corps lisible ; pricing IPO Anthropic via médias secondaires ; statut omnibus IA non confirmé. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 
 | 18/11/2026 | Sources directes | openai.com/news, DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans exploitation ; résultats NVIDIA T3 FY2027 non retrouvés ; Remanence non confirmé ; Isomorphic : conclu ou en discussion à vérifier ; valo IPO Anthropic contradictoire. | Non résolu — Dernier check OpenAI laissé au 12/10 |
+19/11/2026 | SOURCES | openai.com/news : HTTP 403 au web_fetch ; OpenAI couvert via newsletters | non résolu
