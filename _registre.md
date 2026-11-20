@@ -716,3 +716,11 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 19/11/2026 | PUBLIQUE-EU | CEO start-up (ElevenLabs, Lovable) appellent l'UE à investir et alléger la régulation | Sifted 19/11 | [NOUVEAU — 1 source]
 19/11/2026 | LEVÉES | Isomorphic ~5 Md$ (2e source) ; Payhawk 280 M$ ; Staniszewski 4,7 M$ | PitchBook 18/11 ; Sifted 19/11 | [SUITE/NOUVEAU]
 19/11/2026 | ACADÉMIQUE | Sparse attention NVIDIA ; weight-space programming ; FrontierHarness 1.1 | TLDR AI 18/11 | [NOUVEAU — 1 source]
+
+20/11/2026 | PRIVÉE-MONDE | Anthropic cotation ANT 19/11 ; capitalisation 1,4 vs 1,5 Tn$ ; clôture opération 20/11 | TLDR 19/11 ; Sifted 20/11 | [SUITE de 19/11]
+20/11/2026 | PRIVÉE-MONDE | Google Gemini 4 Neon (3/15 $, indice 61) ; Genie 4 Ultra | TLDR AI/AlphaSignal 19/11 | [NOUVEAU — 1 source]
+20/11/2026 | PRIVÉE-MONDE | OpenAI×AMD conception de puces −14 % PPA ; GPT-Synopsys ; agents recherche ~50 % tâches 2-4 h | TLDR AI/AlphaSignal 19/11 | [NOUVEAU — 1 source]
+20/11/2026 | PRIVÉE-MONDE | Cognition Devin Bots ; Gemini 4 Carbon lent ; MiniMax image 66 Go | AlphaSignal/TLDR AI 19/11 | [NOUVEAU — 1 source]
+20/11/2026 | PUBLIQUE-EU | EU Inc demande de recommencer ; Slush robotique ; Espoo | Sifted 20/11 | [NOUVEAU — 1 source]
+20/11/2026 | PUBLIQUE-INTL | UK : ministre Narayan « snub » modèles souverains (titre seul) | Sifted 20/11 | [NOUVEAU — à vérifier]
+20/11/2026 | LEVÉES | Boltz 110 M$ A ; Stryx AI 7,7 M€ ; Vetaion 5,7 M€ ; Elysian 12 M€ | Sifted 20/11 | [NOUVEAU — 1 source]

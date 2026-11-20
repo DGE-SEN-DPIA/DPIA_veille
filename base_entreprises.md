@@ -1582,3 +1582,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 
 ## Isomorphic Labs — MAJ 19/11/2026
 - Levée ~5 Md$ relayée par PitchBook Europe Pitch (18/11) en plus de Sifted ; investisseurs n.c.
+
+## Anthropic (US, modèles de fondation)
+- Dernière MAJ : 20/11/2026
+- Financement : cotation Nasdaq « ANT » le 19/11/2026 (prix 83 $, 980 M actions, 81,3 Md$) ; capitalisation diluée ~1,5 Tn$ (TLDR 19/11) vs 1,4 Tn$ (Sifted 20/11) — contradiction.
+- À surveiller : cours post-cotation ; clôture de l'opération 20/11 ; IPO OpenAI évoquée pour 2027.
+
+## Google DeepMind (US/UK, modèles)
+- Dernière MAJ : 20/11/2026
+- Produits / modèles : Gemini 4 Neon (19/11/2026), 1 M tokens, 3 $/15 $ par M tokens, indice AA 61 ; Genie 4 ouvert aux abonnés Ultra.
+
+## OpenAI (US, modèles de fondation)
+- Dernière MAJ : 20/11/2026
+- Contrats & partenariats : collaboration AMD sur conception de puces (jusqu'à −14 % PPA) ; puce Jalapeño (−10 à 13 % de surface) ; GPT-Synopsys (19/11/2026, via newsletters).
+
+## Boltz (UK, IA biopharma)
+- Dernière MAJ : 20/11/2026
+- Financement : seed 28 M$ (01/2026, a16z, Amplify, Zetta) ; série A 110 M$ menée par Bessemer, avec NVIDIA, a16z et al. (Sifted 20/11/2026, 1 source).
+
+## Stryx AI (France, défense anti-drones)
+- Dernière MAJ : 20/11/2026
+- Financement : seed 7,7 M€ (Armand Thiberge, Impala) — Sifted 20/11/2026.
