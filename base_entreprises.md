@@ -1603,3 +1603,20 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Stryx AI (France, défense anti-drones)
 - Dernière MAJ : 20/11/2026
 - Financement : seed 7,7 M€ (Armand Thiberge, Impala) — Sifted 20/11/2026.
+
+---
+## Mises à jour du 23/11/2026
+## Anthropic (USA, modèles de fondation)
+- Dernière MAJ : 23/11/2026
+- Financement : 20/11/2026 — clôture de l'IPO (Nasdaq « ANT », cotation 19/11, prix 83 $), option de surallocation exercée ; ~93,5 Md$ avant frais dont ~91,6 Md$ pour Anthropic ; placement privé 26 Md$ (AMD, Google, Microsoft, NVIDIA, TSMC Partners). [anthropic.com 20/11 ; AI Search 22/11 — chiffres 1 source]
+- À surveiller : cours post-cotation ; capitalisation 1,4–1,7 Tn$ selon sources.
+## NVIDIA (USA, semi-conducteurs)
+- Dernière MAJ : 23/11/2026
+- Orientations stratégiques : 17/11/2026 — conseil exclut le retour de J. Huang ; Kress CEO par intérim ; H. Jones président ; comité sécurité nationale/exports ; investissements annoncés plus « disciplinés ». [The Batch 20/11 ; AI Search 22/11]
+- À surveiller : nomination d'un CEO permanent ; enquête indépendante.
+## World Labs (USA, world models)
+- Dernière MAJ : 23/11/2026
+- Financement : rachat par AMD, tout en actions, ~8,2 Md$, conclu 16/11/2026 ; F.-F. Li chief scientist d'AMD. [The Batch 20/11 — 1 source]
+- Produits : Atlas ouvert en API le 12/11/2026 (3D/vidéo exportables).
+## Hoplite (essaims d'agents)
+- Dernière MAJ : 23/11/2026 — 5,5 M$ (P. Graham, fondateurs de Stripe) [Sifted 23/11 — 1 source]

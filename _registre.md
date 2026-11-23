@@ -724,3 +724,9 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 20/11/2026 | PUBLIQUE-EU | EU Inc demande de recommencer ; Slush robotique ; Espoo | Sifted 20/11 | [NOUVEAU — 1 source]
 20/11/2026 | PUBLIQUE-INTL | UK : ministre Narayan « snub » modèles souverains (titre seul) | Sifted 20/11 | [NOUVEAU — à vérifier]
 20/11/2026 | LEVÉES | Boltz 110 M$ A ; Stryx AI 7,7 M€ ; Vetaion 5,7 M€ ; Elysian 12 M€ | Sifted 20/11 | [NOUVEAU — 1 source]
+
+23/11/2026 | PRIVÉE-MONDE | Anthropic clôture IPO 20/11 (surallocation exercée) ; ~93,5 Md$ ; placement privé 26 Md$ ; angels européens | anthropic.com 20/11 ; AI Search 22/11 ; Sifted 23/11 | [SUITE de 20/11]
+23/11/2026 | NVIDIA | Conseil exclut retour Huang ; comité sécurité nationale/exports ; Kress intérim | The Batch 20/11 ; AI Search 22/11 | [SUITE de 18/11]
+23/11/2026 | PRIVÉE-MONDE | AMD rachat World Labs clos 16/11 (~8,2 Md$) ; Atlas ouvert 12/11 ; GPT-Live-1.1 ; Hermes Enterprise Teams ; Gemini Tool Retrieval/Mac ; Cloudflare Clairic | The Batch 20/11 ; AlphaSignal/TLDR AI 20/11 | [NOUVEAU — 1 source]
+23/11/2026 | ACADÉMIQUE | Riemann/Navier-Stokes avec Claude (non vérifiés) ; revue ETH ; Physical Agent VLA ; FastFrames ; e-means ; poids auto-réécrits | AI Search 22/11 ; TLDR AI 20/11 ; AlphaSignal 20-22/11 | [NOUVEAU — 1 source]
+23/11/2026 | LEVÉES | Hoplite 5,5 M$ ; Gradyent 20 M€ ; Archer 10 M$ ; IdentifAI 2,5 M€ ; Acorda 1,8 M£ ; Aikido 4 Md€ (rumeur) | Sifted 23/11 | [NOUVEAU — 1 source]
