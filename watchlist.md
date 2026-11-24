@@ -20,11 +20,11 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 
 |Entreprise|Dernier check|Source primaire|Domaine|
 |-|-|-|-|
-|Mistral|2026-11-23|https://mistral.ai/news/|Modèles de fondation (France)|
+|Mistral|2026-11-24|https://mistral.ai/news/|Modèles de fondation (France)|
 |OpenAI|2026-11-19|https://openai.com/news/|Modèles de fondation|
-|Anthropic|2026-11-23|https://www.anthropic.com/news|Modèles de fondation|
+|Anthropic|2026-11-24|https://www.anthropic.com/news|Modèles de fondation|
 |Google DeepMind|2026-11-05|https://deepmind.google/discover/blog/|Recherche \& modèles|
-|NVIDIA|2026-11-23|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
+|NVIDIA|2026-11-24|https://blogs.nvidia.com/|Semi-conducteurs / GPU|
 
 \---
 
@@ -84,7 +84,7 @@ qui peuvent faire remonter n'importe quelle entreprise hors planning.
 |Prisme.ai|—|https://www.prisme.ai|Plateforme IA générative en entreprise|
 |Delos|—|https://www.delos.so|Suite bureautique IA (agents en entreprise)|
 |Gradium|—|https://gradium.ai/blog|Voix IA temps réel (issu de Kyutai)|
-|Genesis|—|https://www.genesis.ai/press|Robotique (IA physique)|
+|Genesis|2026-11-24|https://www.genesis.ai/press|Robotique (IA physique)|
 
 ### Golfe
 

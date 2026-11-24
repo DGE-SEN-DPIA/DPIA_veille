@@ -1620,3 +1620,24 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Produits : Atlas ouvert en API le 12/11/2026 (3D/vidéo exportables).
 ## Hoplite (essaims d'agents)
 - Dernière MAJ : 23/11/2026 — 5,5 M$ (P. Graham, fondateurs de Stripe) [Sifted 23/11 — 1 source]
+
+## Genesis AI (France/États-Unis, robotique – IA physique) — ajout 24/11/2026
+- Dernière MAJ : 24/11/2026
+- Financement : série A 500 M$ à 3,5 Md$ post-money annoncée le 17/11/2026 (Premji Invest, Khosla Ventures, Eclipse co-leads selon Value Add VC) ; seed 105 M$ en 07/2025.
+- Produits / modèles : robot généraliste « Eno » ; production en montée avant déploiement 2027.
+- À surveiller : clients, déploiements, benchmarks indépendants (aucun publié).
+
+## Anthropic — ajout 24/11/2026
+- Dernière MAJ : 24/11/2026
+- Financement : valorisation 1,76 Tn$ à la clôture du 1er jour de cotation (19/11/2026, Sifted 23/11) ; ×16 à ×24 pour des angels européens (déclaratif).
+- À surveiller : volatilité post-IPO, lock-up.
+
+## NVIDIA — ajout 24/11/2026
+- Dernière MAJ : 24/11/2026
+- Orientations stratégiques : Sifted (24/11) annonce un retour de J. Huang, non confirmé par source primaire ; le conseil écartait ce retour le 17/11.
+- À surveiller : 8-K / communiqué NVIDIA IR.
+
+## Thinking Machines / Remanence / Agon / Alecto — ajout 24/11/2026
+- Thinking Machines : Inkling 2 Mini, 26,4 Md paramètres open-weight (23/11).
+- Remanence (Paris) : seed 30 M$ confirmé par Sifted 23/11.
+- Agon (défense) 70 M$ ; Alecto 20 M$ seed (Insight) ; nouveaux entrants, 1 source.

@@ -730,3 +730,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 23/11/2026 | PRIVÉE-MONDE | AMD rachat World Labs clos 16/11 (~8,2 Md$) ; Atlas ouvert 12/11 ; GPT-Live-1.1 ; Hermes Enterprise Teams ; Gemini Tool Retrieval/Mac ; Cloudflare Clairic | The Batch 20/11 ; AlphaSignal/TLDR AI 20/11 | [NOUVEAU — 1 source]
 23/11/2026 | ACADÉMIQUE | Riemann/Navier-Stokes avec Claude (non vérifiés) ; revue ETH ; Physical Agent VLA ; FastFrames ; e-means ; poids auto-réécrits | AI Search 22/11 ; TLDR AI 20/11 ; AlphaSignal 20-22/11 | [NOUVEAU — 1 source]
 23/11/2026 | LEVÉES | Hoplite 5,5 M$ ; Gradyent 20 M€ ; Archer 10 M$ ; IdentifAI 2,5 M€ ; Acorda 1,8 M£ ; Aikido 4 Md€ (rumeur) | Sifted 23/11 | [NOUVEAU — 1 source]
+
+24/11/2026 | NVIDIA | Sifted : Huang « de retour aux commandes » (contredit conseil 17/11) | Sifted 24/11 ; SCMP | [SUITE de 23/11 — à vérifier, 1 source]
+24/11/2026 | PRIVÉE-MONDE | Anthropic valo 1,76 Tn$ 1re séance ; sell-off 20/11 ; Atomico compute UE 20 Md$ vs US 284 Md$ | Sifted 23/11 | [SUITE de 23/11 — 1 source]
+24/11/2026 | PRIVÉE-FR | Genesis AI série A 500 M$ à 3,5 Md$ (17/11) ; Remanence 30 M$ confirmé | TechCrunch 17/11 ; Sifted 23/11 | [NOUVEAU]
+24/11/2026 | PRIVÉE-MONDE | Amazon/Decart 7,5 Md$ (rumeur) ; Thinking Machines Inkling 2 Mini ; OpenAI MedChemBench & distillation adversariale ; Tencent Hy4 ; NVIDIA Sigma/CPU-ARC ; METR | TLDR AI/AlphaSignal 23/11 ; METR 20/11 | [NOUVEAU — 1 source]
+24/11/2026 | ACADÉMIQUE | Riemann/Alpöge certifié Lean FRO/Mathlib (21/11) ; HF harness adapters | Lean blog 21/11 ; TLDR AI 23/11 | [SUITE de 23/11]
+24/11/2026 | LEVÉES | Agon 70 M$ ; Alecto 20 M$ ; Disseqt 8 M$ ; Coprod 6 M$ ; Stimuli 4 M€ ; UForce 700 M$ | Sifted 23-24/11 | [NOUVEAU — 1 source]

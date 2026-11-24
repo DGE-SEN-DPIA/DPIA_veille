@@ -84,3 +84,4 @@
 | 18/11/2026 | Sources directes | openai.com/news, DeepMind, sifted.eu non balayés ; Tier B/C non balayés ; PitchBook sans exploitation ; résultats NVIDIA T3 FY2027 non retrouvés ; Remanence non confirmé ; Isomorphic : conclu ou en discussion à vérifier ; valo IPO Anthropic contradictoire. | Non résolu — Dernier check OpenAI laissé au 12/10 |
 19/11/2026 | SOURCES | openai.com/news : HTTP 403 au web_fetch ; OpenAI couvert via newsletters | non résolu
 23/11/2026 | SOURCES | openai.com, DeepMind, Commission, sifted.eu, tiers B/C non balayés ; PitchBook corps illisible ; IPO Anthropic chiffres 1 source | non résolu
+24/11/2026 | SOURCES | openai.com, DeepMind, Commission, sifted.eu, tiers B/C non balayés ; PitchBook corps non exploité ; Huang retour non confirmé | non résolu
