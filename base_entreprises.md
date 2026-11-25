@@ -1641,3 +1641,26 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 - Thinking Machines : Inkling 2 Mini, 26,4 Md paramètres open-weight (23/11).
 - Remanence (Paris) : seed 30 M$ confirmé par Sifted 23/11.
 - Agon (défense) 70 M$ ; Alecto 20 M$ seed (Insight) ; nouveaux entrants, 1 source.
+
+## NVIDIA — ajout 25/11/2026
+- Dernière MAJ : 25/11/2026
+- Orientations stratégiques : 23/11/2026 — conseil réintègre J. Huang PDG et administrateur (unanimité, avis de responsables du gouvernement américain : pas de risque sécurité nationale) ; Kress redevient directrice financière ; H. Jones reste président ; comité indépendant d'enquête (opération de renseignement étranger présumée) ; comité exports/sécurité nationale ; recrutement d'un Chief Compliance Officer. [NVIDIA Newsroom 23/11]
+- À surveiller : conclusions de l'enquête ; nomination du CCO ; abandon de la recherche de PDG (Heidrick & Struggles).
+
+## Decart / Amazon (Israël/USA, modèles vidéo temps réel, optimisation) — ajout 25/11/2026
+- Dernière MAJ : 25/11/2026
+- Financement : Amazon acquiert la technologie DOS, l'équipe fondatrice et les chercheurs pour ~7,5 Md$ (Bloomberg via TechCrunch 23/11 ; montant non confirmé par les parties).
+- Orientations stratégiques : faciliter l'exécution de charges sur Trainium, vendu à des tiers face à NVIDIA.
+- À surveiller : périmètre exact (« bonne partie » de Decart), produits Decart restants.
+
+## Anthropic — ajout 25/11/2026
+- Dernière MAJ : 25/11/2026
+- Produits / modèles : Claude Ship (24/11) — Code Review, PR Steward (bêta), Claude Approvals (bêta), commande /ship ; plugins 10 000+ outils (AlphaSignal, 1 source).
+
+## Z.ai (Chine, modèles de fondation) — ajout 25/11/2026
+- Dernière MAJ : 25/11/2026
+- Produits / modèles : GLM-5.4 (24/11) — Loop Transformer, 750 Md paramètres, contexte 1 M, vision ; poids ouverts annoncés après revue de sécurité. [TLDR AI/AlphaSignal — chiffres éditeur]
+
+## Google DeepMind — ajout 25/11/2026
+- Dernière MAJ : 25/11/2026
+- Recherche : 23/11 — agents Gemini 4 + Lean, algorithmes quantiques moins coûteux (×11,8 fusion ; ×290 arcsin), code Lean publié.

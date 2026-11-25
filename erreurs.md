@@ -85,3 +85,4 @@
 19/11/2026 | SOURCES | openai.com/news : HTTP 403 au web_fetch ; OpenAI couvert via newsletters | non résolu
 23/11/2026 | SOURCES | openai.com, DeepMind, Commission, sifted.eu, tiers B/C non balayés ; PitchBook corps illisible ; IPO Anthropic chiffres 1 source | non résolu
 24/11/2026 | SOURCES | openai.com, DeepMind, Commission, sifted.eu, tiers B/C non balayés ; PitchBook corps non exploité ; Huang retour non confirmé | non résolu
+25/11/2026 | SOURCES | openai.com, DeepMind index, presscorner Commission (contenu non rendu), sifted.eu, tiers B/C non balayés ; PitchBook corps illisible ; page z.ai/blog/glm-5.4 non exploitable ; sphère publique sans fait daté | non résolu

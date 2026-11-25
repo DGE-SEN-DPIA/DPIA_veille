@@ -737,3 +737,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 24/11/2026 | PRIVÉE-MONDE | Amazon/Decart 7,5 Md$ (rumeur) ; Thinking Machines Inkling 2 Mini ; OpenAI MedChemBench & distillation adversariale ; Tencent Hy4 ; NVIDIA Sigma/CPU-ARC ; METR | TLDR AI/AlphaSignal 23/11 ; METR 20/11 | [NOUVEAU — 1 source]
 24/11/2026 | ACADÉMIQUE | Riemann/Alpöge certifié Lean FRO/Mathlib (21/11) ; HF harness adapters | Lean blog 21/11 ; TLDR AI 23/11 | [SUITE de 23/11]
 24/11/2026 | LEVÉES | Agon 70 M$ ; Alecto 20 M$ ; Disseqt 8 M$ ; Coprod 6 M$ ; Stimuli 4 M€ ; UForce 700 M$ | Sifted 23-24/11 | [NOUVEAU — 1 source]
+
+25/11/2026 | NVIDIA | Conseil réintègre Huang PDG 23/11 (unanime) ; comités enquête/exports ; CCO recherché | NVIDIA Newsroom 23/11 ; CNBC/WSJ via TLDR 24/11 | [SUITE de 24/11 — confirmé source primaire]
+25/11/2026 | PRIVÉE-MONDE | Amazon acquiert techno+équipe Decart ~7,5 Md$ (DOS, Trainium) | TechCrunch 23/11 ; Amazon ; Bloomberg | [SUITE de 24/11 — rumeur confirmée, montant 1 source]
+25/11/2026 | PRIVÉE-MONDE | Anthropic Claude Ship (Code Review, PR Steward, Approvals) ; plugins 10 000+ outils | claude.com 24/11 ; AlphaSignal 24/11 | [NOUVEAU]
+25/11/2026 | PRIVÉE-MONDE | Z.ai GLM-5.4 Loop Transformer 750 Md ; OpenAI×Cisco Shirudo ; OpenWorks ; Microsoft Rocket/MAI Base 2 3 T | TLDR AI/AlphaSignal 24/11 | [NOUVEAU — 1 source]
+25/11/2026 | ACADÉMIQUE | DeepMind quantique Gemini 4 + Lean (×11,8 ; ×290) ; DeepCrossAttention ; SELFWRITE | DeepMind 23/11 ; TLDR AI 24/11 | [NOUVEAU]
+25/11/2026 | LEVÉES | Pliant 200 M€ dette ; ILS 11 M$ A ; Tagomics 13 M$ ; Bcomp 20 M€ BEI | Sifted 25/11 | [NOUVEAU — 1 source]
