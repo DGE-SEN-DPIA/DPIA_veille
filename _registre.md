@@ -744,3 +744,10 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 25/11/2026 | PRIVÉE-MONDE | Z.ai GLM-5.4 Loop Transformer 750 Md ; OpenAI×Cisco Shirudo ; OpenWorks ; Microsoft Rocket/MAI Base 2 3 T | TLDR AI/AlphaSignal 24/11 | [NOUVEAU — 1 source]
 25/11/2026 | ACADÉMIQUE | DeepMind quantique Gemini 4 + Lean (×11,8 ; ×290) ; DeepCrossAttention ; SELFWRITE | DeepMind 23/11 ; TLDR AI 24/11 | [NOUVEAU]
 25/11/2026 | LEVÉES | Pliant 200 M€ dette ; ILS 11 M$ A ; Tagomics 13 M$ ; Bcomp 20 M€ BEI | Sifted 25/11 | [NOUVEAU — 1 source]
+
+26/11/2026 | PUBLIQUE-EU | Quantum Act proposé 25/11 ; Sovereign Tech Equity Fund (FT : jusqu'à 50 Md€, non chiffré dans le texte) | Sifted 26/11 ; PitchBook 25/11 | [NOUVEAU — 1 source]
+26/11/2026 | NVIDIA | Huang s'excuse, thérapie quotidienne, conseil le tiendra responsable (24/11) | Bloomberg via TLDR 25/11 | [SUITE de 25/11 — 1 source]
+26/11/2026 | PRIVÉE-MONDE | Anthropic Install as app (bêta) + MCP Skills/Tasks/Elicitation ; Blomfield quitte Anthropic (non confirmé) | AlphaSignal/TLDR AI 25/11 ; Sifted 26/11 | [NOUVEAU — 1 source]
+26/11/2026 | PRIVÉE-MONDE | OpenAI GPT-6.2 protéines (35/322) ; Cognition SWE-2.1 ; Amazon/Cairn 0-day ; Epochal ; Meta Muse Instagram | AlphaSignal/TLDR AI 25/11 | [NOUVEAU — 1 source]
+26/11/2026 | ACADÉMIQUE | OpenAI exposant matriciel 9/4 ; VP≠VNP ; swarms vs agent unique ; IBM GIST | TLDR AI/AlphaSignal 25/11 | [NOUVEAU — 1 source, non vérifié]
+26/11/2026 | LEVÉES | Lute Robotics 20 M$ ; Starforge 6,6 M€ ; Elbic 2,7 M€ ; Salvia 25 M€ dette ; Aqura 2,1 M£ | Sifted 26/11 | [NOUVEAU — 1 source]

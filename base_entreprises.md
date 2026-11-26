@@ -1664,3 +1664,16 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## Google DeepMind — ajout 25/11/2026
 - Dernière MAJ : 25/11/2026
 - Recherche : 23/11 — agents Gemini 4 + Lean, algorithmes quantiques moins coûteux (×11,8 fusion ; ×290 arcsin), code Lean publié.
+
+## NVIDIA (États-Unis, semi-conducteurs) — ajout 26/11/2026
+- Dernière MAJ : 26/11/2026
+- Orientations stratégiques : 24/11/2026 — Huang s'excuse devant les salariés, reconnaît une violation du code de conduite, dit suivre une thérapie quotidienne (Bloomberg via TLDR, 1 source).
+
+## Anthropic (États-Unis, modèles de fondation) — ajout 26/11/2026
+- Dernière MAJ : 26/11/2026
+- Produits / modèles : 25/11/2026 — Claude Artifacts « Install as app » (bêta, applications Mac/Windows) ; MCP Skills, Tasks, Elicitation, File Uploads (AlphaSignal, 1 source).
+- À surveiller : départ annoncé de Tom Blomfield (Sifted 26/11, non confirmé).
+
+## OpenAI (États-Unis, modèles de fondation) — ajout 26/11/2026
+- Dernière MAJ : 26/11/2026
+- Produits / modèles : GPT-6.2 — conception de protéines validée en laboratoire (35/322 liants ; 14/107 de novo), revue indépendante en attente (AlphaSignal/TLDR AI 25/11/2026).
