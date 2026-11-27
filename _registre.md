@@ -751,3 +751,9 @@ le même sujet d'un jour à l'autre (ex. « levée série B 30 M€ », « publi
 26/11/2026 | PRIVÉE-MONDE | OpenAI GPT-6.2 protéines (35/322) ; Cognition SWE-2.1 ; Amazon/Cairn 0-day ; Epochal ; Meta Muse Instagram | AlphaSignal/TLDR AI 25/11 | [NOUVEAU — 1 source]
 26/11/2026 | ACADÉMIQUE | OpenAI exposant matriciel 9/4 ; VP≠VNP ; swarms vs agent unique ; IBM GIST | TLDR AI/AlphaSignal 25/11 | [NOUVEAU — 1 source, non vérifié]
 26/11/2026 | LEVÉES | Lute Robotics 20 M$ ; Starforge 6,6 M€ ; Elbic 2,7 M€ ; Salvia 25 M€ dette ; Aqura 2,1 M£ | Sifted 26/11 | [NOUVEAU — 1 source]
+
+27/11/2026 | PRIVÉE-MONDE | FCC autorise SpaceX 1 M satellites-datacenters ; Anthropic/Google locataires | WSJ via TLDR 26/11 | [NOUVEAU — 1 source]
+27/11/2026 | PRIVÉE-MONDE | Anthropic Opus 5.6 test A/B présumé (rumeur) | TestingCatalog via TLDR AI 26/11 | [NOUVEAU — rumeur]
+27/11/2026 | PRIVÉE-MONDE | OpenAI Private Inference ; GPT-6.2 Astra optimisation ; NVIDIA Nemotron Parse 2.0 ; MAGI-2 ; Siren | TLDR AI/AlphaSignal 26/11 | [NOUVEAU — 1 source]
+27/11/2026 | ACADÉMIQUE | ω=9/4 (Aaronson) ; speculative encoding ; FrontierPhysics ; KET-RAG | TLDR/AlphaSignal 26/11 | [SUITE/NOUVEAU — 1 source]
+27/11/2026 | LEVÉES | ElevenLabs 33 Md$ (rumeur) ; Korben 10,2 M€ ; Synature 5,5 M€ ; WaterSense 5,75 M€ | Sifted 27/11 | [NOUVEAU — 1 source]

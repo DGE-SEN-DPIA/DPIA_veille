@@ -1677,3 +1677,15 @@ Les sections ci-dessous sont pré-créées à partir de la watchlist. Domaines m
 ## OpenAI (États-Unis, modèles de fondation) — ajout 26/11/2026
 - Dernière MAJ : 26/11/2026
 - Produits / modèles : GPT-6.2 — conception de protéines validée en laboratoire (35/322 liants ; 14/107 de novo), revue indépendante en attente (AlphaSignal/TLDR AI 25/11/2026).
+
+## ElevenLabs (UK/US, voix IA) — ajout 27/11/2026
+- Dernière MAJ : 27/11/2026
+- Financement : discussions pour un nouveau tour à 33 Md$ (Sifted 27/11/2026, rumeur 1 source) ; antérieurs : 11 Md$ (02/2026), ~22 Md$ (secondaire, 07/2026).
+- À surveiller : confirmation du tour.
+
+## Korben (France, logiciels d'IA pour robots de service) — ajout 27/11/2026
+- Dernière MAJ : 27/11/2026
+- Financement : seed 10,2 M€, Tiresias Angels, Bpifrance (Sifted 27/11/2026).
+
+## Anthropic — ajout 27/11/2026
+- Orientations : Opus 5.6 en test A/B présumé (26/11/2026, non confirmé) ; client de capacité orbitale SpaceX (WSJ via TLDR 26/11/2026, 1 source).

@@ -87,3 +87,4 @@
 24/11/2026 | SOURCES | openai.com, DeepMind, Commission, sifted.eu, tiers B/C non balayés ; PitchBook corps non exploité ; Huang retour non confirmé | non résolu
 25/11/2026 | SOURCES | openai.com, DeepMind index, presscorner Commission (contenu non rendu), sifted.eu, tiers B/C non balayés ; PitchBook corps illisible ; page z.ai/blog/glm-5.4 non exploitable ; sphère publique sans fait daté | non résolu
 26/11/2026 | SOURCES | openai.com, DeepMind, Commission (Quantum Act texte primaire), sifted.eu, tiers B/C non balayés ; PitchBook corps illisible ; page Anthropic news entrée 26/11 sans titre | non résolu
+27/11/2026 | SOURCES | openai.com, DeepMind, Commission, sifted.eu, tiers B/C non balayés ; PitchBook corps non exploité ; recherches publique sans fait daté ; ElevenLabs 33 Md$ 1 source | non résolu
